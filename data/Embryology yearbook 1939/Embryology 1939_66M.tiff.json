@@ -1,0 +1,431 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=BB4kJvVEQkG9Pdoa4O9KXQ",
+  "input_url": null,
+  "file": "Embryology 1939_66M.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.099649177,
+    "resolve_names_duration": 2.072692515,
+    "total_duration": 24.367120159
+  },
+  "agent": "",
+  "created": "2013-06-19T15:31:23-04:00",
+  "total": 12,
+  "names": [
+    {
+      "verbatim": "Mollusca",
+      "scientificName": "Mollusca",
+      "offsetStart": 41,
+      "offsetEnd": 48,
+      "identifiedName": "Mollusca"
+    },
+    {
+      "verbatim": "A. 3.\nssnieip",
+      "scientificName": "A. 3ssnieip",
+      "offsetStart": 117,
+      "offsetEnd": 129,
+      "identifiedName": "A. 3. ssnieip"
+    },
+    {
+      "verbatim": "Crepidula.",
+      "scientificName": "Crepidula",
+      "offsetStart": 305,
+      "offsetEnd": 314,
+      "identifiedName": "Crepidula"
+    },
+    {
+      "verbatim": "Crepidula plana",
+      "scientificName": "Crepidula plana",
+      "offsetStart": 375,
+      "offsetEnd": 389,
+      "identifiedName": "Crepidula plana"
+    },
+    {
+      "verbatim": "Chaetopterus.",
+      "scientificName": "Chaetopterus",
+      "offsetStart": 575,
+      "offsetEnd": 587,
+      "identifiedName": "Chaetopterus"
+    },
+    {
+      "verbatim": "Chaetopterus.",
+      "scientificName": "Chaetopterus",
+      "offsetStart": 708,
+      "offsetEnd": 720,
+      "identifiedName": "Chaetopterus"
+    },
+    {
+      "verbatim": "Sabellaria vulgaris",
+      "scientificName": "Sabellaria vulgaris",
+      "offsetStart": 837,
+      "offsetEnd": 855,
+      "identifiedName": "Sabellaria vulgaris"
+    },
+    {
+      "verbatim": "Chaetopterus.",
+      "scientificName": "Chaetopterus",
+      "offsetStart": 1132,
+      "offsetEnd": 1144,
+      "identifiedName": "Chaetopterus"
+    },
+    {
+      "verbatim": "Podarke obscura",
+      "scientificName": "Podarke obscura",
+      "offsetStart": 1244,
+      "offsetEnd": 1258,
+      "identifiedName": "Podarke obscura"
+    },
+    {
+      "verbatim": "Dentalium.",
+      "scientificName": "Dentalium",
+      "offsetStart": 1362,
+      "offsetEnd": 1371,
+      "identifiedName": "Dentalium"
+    },
+    {
+      "verbatim": "Cerebratulus.",
+      "scientificName": "Cerebratulus",
+      "offsetStart": 1593,
+      "offsetEnd": 1605,
+      "identifiedName": "Cerebratulus"
+    },
+    {
+      "verbatim": "Cerebratulus.",
+      "scientificName": "Cerebratulus",
+      "offsetStart": 1679,
+      "offsetEnd": 1691,
+      "identifiedName": "Cerebratulus"
+    }
+  ],
+  "content": "1959\nExperimental Embryology of Bnnelida Mollusca\nConklin, E. G.\nHuxley DeBeer\nLillie, F. R,\nMorgan, T. H.\nEovikoff, A. 3.\nssnieip, W.\nTitlebaum, A.\nTreadwell, A. \nWilson, E. B,\n-.4- . \nIatsu, N.\n\ngoleny, Ch.\nBibliography\nl9l7 Effects of centrifugal force on the structure\nand development of the eggs of Crepidula. J. Exp.\nZool., 22. 9\nl938 Disorientation of development in Crepidula\nplana produced by low temperatures. Proc. Am.\nPhilos. Som., 79.\nl954 Elements of experimental Embryology. Macmillan\nr~\nCo., N..Y.\nl902 Differentiation without cleavage in the\nof the Annelid Chaetopterus. Roux' Archiv le.\n62%\nl906 Observations and experiments concerning the\nelementary phenomena of embryonic development in\nChaetopterus. J. Exp. Zool., 5.\nl927 Experimental Embryology, Columbia Univ. Press.\nl958 Embryonic determination in the Annelid,\nSabellaria vulgaris. l. The differentiation of ecto-\nderm when separated through induced exogastrulation.\n2. Transplantation of polar lobes and blastomeres.\nBiol. Bull., 74.\n1929 Die Determination der trimitiventwicklung.\nLeipzig. Akad. Verl. Ges.\n1928 Artificial production of Janus embryos of\nChaetopterus. Proc. Nat. Acad. Sci., le.\nl902 Notes on the nature of artificial partheno-\ngenesis in the egg of Podarke obscura. Biol. Eull., 5\nl904 Experimental studies in germinal localization.\nl. The germ regions in the egg of Dentalium. 2. Ex~\nperiments on the cleavage mosaic in Petella and Den~\ntalium. J. Exp. Zool., l.\n1929 The development of egg fragments in Annelids.\nRoux' Arch. f. Entw., ll7.\n1904 Experiments on the development of egg fragments\nof Cerebratulus. Biol. Bull., 6.\nl9lO Experiments on germinal localization in the egg\nof Cerebratulus. J. Coll. Sci. Tokyo, 27.\nl904 Experiments on thellmmimmtimm.of developmental\nfactors in the Nemertine egg. J. Exp. Zool., l. \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Mollusca",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "85d45ea9-bfb0-523a-9717-94de71abbb08",
+          "name_string": "Mollusca",
+          "canonical_form": "Mollusca",
+          "classification_path": "Animalia|Mollusca",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2362382",
+          "taxon_id": "2362382",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "85d45ea9-bfb0-523a-9717-94de71abbb08",
+          "name_string": "Mollusca",
+          "canonical_form": "Mollusca",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "36496225",
+          "local_id": "2195",
+          "url": "http://eol.org/pages/2195",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 22,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "A. 3ssnieip"
+    },
+    {
+      "supplied_name_string": "Crepidula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Calyptraeidae|Crepidula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370194|2370205|2410985",
+          "taxon_id": "2410985",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44534464",
+          "local_id": "404808",
+          "url": "http://eol.org/pages/404808",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Crepidula plana",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "84fcb364-268a-5d8b-a7b4-82c3859d4eeb",
+          "name_string": "Crepidula plana",
+          "canonical_form": "Crepidula plana",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Lophotrochozoa|Mollusca|Gastropoda|Caenogastropoda|Hypsogastropoda|Littorinimorpha|Calyptraeoidea|Calyptraeidae|Crepidula|Crepidula plana",
+          "classification_path_ranks": "|superkingdom||kingdom||||||phylum|class|||infraorder|superfamily|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206795|6447|6448|69555|216293|216294|52626|52627|52628|136493",
+          "taxon_id": "136493",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "84fcb364-268a-5d8b-a7b4-82c3859d4eeb",
+          "name_string": "Crepidula plana",
+          "canonical_form": "Crepidula plana",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29011387",
+          "local_id": "404808",
+          "url": "http://eol.org/pages/404808",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Chaetopterus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "731a221e-25f7-551b-8b46-b377bd15d759",
+          "name_string": "Chaetopterus",
+          "canonical_form": "Chaetopterus",
+          "classification_path": "Animalia|Annelida|Polychaeta|Spionida|Chaetopteridae|Chaetopterus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369624|2369631|2525102",
+          "taxon_id": "2525102",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "731a221e-25f7-551b-8b46-b377bd15d759",
+          "name_string": "Chaetopterus",
+          "canonical_form": "Chaetopterus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40913590",
+          "local_id": "489401",
+          "url": "http://eol.org/pages/489401",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Sabellaria vulgaris",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "84a9f440-67da-5ac7-b83a-265d35388092",
+          "name_string": "Sabellaria vulgaris",
+          "canonical_form": "Sabellaria vulgaris",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35350526",
+          "local_id": "614115",
+          "url": "http://eol.org/pages/614115",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "84a9f440-67da-5ac7-b83a-265d35388092",
+          "name_string": "Sabellaria vulgaris",
+          "canonical_form": "Sabellaria vulgaris",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35350526",
+          "local_id": "614115",
+          "url": "http://eol.org/pages/614115",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Podarke obscura",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "59f3df8e-122c-5fe4-9f6d-e684ca4b1f77",
+          "name_string": "Podarke obscura",
+          "canonical_form": "Podarke obscura",
+          "classification_path": "Animalia|Annelida|Polychaeta|Palpata|Aciculata|Phyllodocida|Hesionidae|Podarke|Podarke obscura",
+          "classification_path_ranks": "Kingdom|Division|Class|Subclass|Order|Suborder|Family|Genus|Species",
+          "classification_path_ids": "202423|64357|64358|555667|555670|555674|65467|65514|65517",
+          "taxon_id": "65517",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "59f3df8e-122c-5fe4-9f6d-e684ca4b1f77",
+          "name_string": "Podarke obscura",
+          "canonical_form": "Podarke obscura",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34397194",
+          "local_id": "454057",
+          "url": "http://eol.org/pages/454057",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Dentalium",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b5f48676-9e3b-559f-b3dc-6fba275e85f2",
+          "name_string": "Dentalium",
+          "canonical_form": "Dentalium",
+          "classification_path": "Animalia|Mollusca|Scaphopoda|Dentaliida|Dentaliidae|Dentalium",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2368735|2368736|2368739|2508442",
+          "taxon_id": "2508442",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b5f48676-9e3b-559f-b3dc-6fba275e85f2",
+          "name_string": "Dentalium",
+          "canonical_form": "Dentalium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20691997",
+          "local_id": "50290",
+          "url": "http://eol.org/pages/50290",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cerebratulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "90a44ae5-050e-567e-b275-18a9f90498d4",
+          "name_string": "Cerebratulus",
+          "canonical_form": "Cerebratulus",
+          "classification_path": "Animalia|Nemertea|Anopla|Not assigned|Cerebratulidae|Cerebratulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2370535|2370546|2370547|2371800|2433649",
+          "taxon_id": "2433649",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "90a44ae5-050e-567e-b275-18a9f90498d4",
+          "name_string": "Cerebratulus",
+          "canonical_form": "Cerebratulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29005543",
+          "local_id": "59079",
+          "url": "http://eol.org/pages/59079",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

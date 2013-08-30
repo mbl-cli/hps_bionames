@@ -1,0 +1,207 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=53SgJCFsQFqXZS2sx7xUvA",
+  "input_url": null,
+  "file": "144_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.114567587,
+    "resolve_names_duration": 3.145427873,
+    "total_duration": 29.217137698
+  },
+  "agent": "",
+  "created": "2013-06-18T12:12:44-04:00",
+  "total": 7,
+  "names": [
+    {
+      "verbatim": "T. wiss",
+      "scientificName": "T. wiss",
+      "offsetStart": 708,
+      "offsetEnd": 714,
+      "identifiedName": "T. wiss"
+    },
+    {
+      "verbatim": "Polychoerus",
+      "scientificName": "Polychoerus",
+      "offsetStart": 857,
+      "offsetEnd": 867,
+      "identifiedName": "Polychoerus"
+    },
+    {
+      "verbatim": "Sipunculusgnudus",
+      "scientificName": "Sipunculusgnudus",
+      "offsetStart": 1193,
+      "offsetEnd": 1208,
+      "identifiedName": "Sipunculusgnudus"
+    },
+    {
+      "verbatim": "Sipunculoidea",
+      "scientificName": "Sipunculoidea",
+      "offsetStart": 1288,
+      "offsetEnd": 1300,
+      "identifiedName": "Sipunculoidea"
+    },
+    {
+      "verbatim": "Phoronis:",
+      "scientificName": "Phoronis",
+      "offsetStart": 1345,
+      "offsetEnd": 1353,
+      "identifiedName": "Phoronis"
+    },
+    {
+      "verbatim": "Phoronis.",
+      "scientificName": "Phoronis",
+      "offsetStart": 1491,
+      "offsetEnd": 1499,
+      "identifiedName": "Phoronis"
+    },
+    {
+      "verbatim": "Bryozoarios marinhos brasileiros",
+      "scientificName": "Bryozoarios marinhos brasileiros",
+      "offsetStart": 1657,
+      "offsetEnd": 1688,
+      "identifiedName": "Bryozoarios marinhos brasileiros"
+    }
+  ],
+  "content": "\nTOW\nThe lasT morning of The descripTive parT of The course will be devoTed To\na plankTon Tow. The primary idea is To idenTiTy as many larval forms as possible\nln mosT cases consider yourself in fine shape if you can puT whaT you see inTo\nclasses. Make This a class cooperaTive efforT and don'T hesiTaTe To call on any\navailable source, human or oTherwise. A lisT of minor phyla noT covered in The\ncourse is appended as a guide To liTeraTure on some forms which you may encounTer.\n\n(Many addiTional references may be found in Hyman: The lnverTebraTes volumes \n\nDriesch Morgan, l895. Zur analyse der ersTen des\nCTenophoreneies. Roux' Archiv Q.\nE. l885. GasTrulaTion und Mesodermbildung der CTenophoren.\nZeiT. T. wiss. \nPLATYHELMINTHS\nKaTo, K., l94O. On The developmenT of some Japanese polyclads. Jap. Jour. Zool. \nGardiner, E. G. l895. Early developmenT of Polychoerus caudaTus. J. Morph. ll,\nBresslau, E. l900. Die EnTwicklung der Acoelen. Verhandl. DeuTsch. Zool. Gesell,?i\nLang, l889. Die Polycladen des Golfes von Neapel. Fauna und Flora des Golfes von\nNeapel LL.\nSurface, l907. The early developmenT of a polyclad Proc.\nAcad. Sci. Philadelphia.\nA\nHaTschek, l993. Uber die EnTwicklung von Sipunculusgnudus, Arb. Zool. lnsT. Wien \nGerould, J. H. l907. STudies on The embryology of The Sipunculoidea ll. Zool.\nJahrb. QQ,\n\naldwell, W. H. l885. Phoronis: blasTopore, mesoderm, and meTameric segmenTaTion.\nQu@rT. J. Micr. Sci. QQ,\nde Selys-Longchamps l902. Recherches sur le developpemenT de Phoronis. Arch. de\nBiol. \nGoodrich, E. l905. On The body caviTies and nephridia of The AcTinoTrocha larva.\nQuarT. J. Micr. Sci. QQ,\nENDOPROCTA \nMarcus, L. |937-l959. Bryozoarios marinhos brasileiros Zoologia, U. Sao\nPaulo, No. l, 2, 3.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "T. wiss"
+    },
+    {
+      "supplied_name_string": "Polychoerus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "93733933-5ec9-59a9-a46d-2ce25545331e",
+          "name_string": "Polychoerus",
+          "canonical_form": "Polychoerus",
+          "classification_path": "Animalia|Platyhelminthes|Acoela|Not assigned|Convolutidae|Polychoerus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364008|2369203|2369204|2369210|2417207",
+          "taxon_id": "2417207",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "93733933-5ec9-59a9-a46d-2ce25545331e",
+          "name_string": "Polychoerus",
+          "canonical_form": "Polychoerus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34417024",
+          "local_id": "71127",
+          "url": "http://eol.org/pages/71127",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Sipunculusgnudus"
+    },
+    {
+      "supplied_name_string": "Sipunculoidea",
+      "results": [
+        {
+          "data_source_id": 8,
+          "data_source_title": "Interim Register of Marine and Nonmarine Genera",
+          "gni_uuid": "2e32257e-d6de-56c8-9d39-54dcc9d606b8",
+          "name_string": "Sipunculoidea",
+          "canonical_form": "Sipunculoidea",
+          "classification_path": "Animalia|Sipuncula|Sipunculidea|Sipunculoidea",
+          "classification_path_ranks": "kingdom|phylum|class|order",
+          "classification_path_ids": "11|200|1455|12492",
+          "taxon_id": "12492",
+          "local_id": "12492",
+          "url": "http://www.marine.csiro.au/mirrorsearch/ir_search.taxon_info?id=12492",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "03a1e009-958b-5487-ad69-4f4e53d7e796",
+          "name_string": "Sipunculoidea Sedgwick 1898",
+          "canonical_form": "Sipunculoidea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_12021944",
+          "local_id": "8871",
+          "url": "http://eol.org/pages/8871/names/synonyms",
+          "match_type": 2,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 7,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Phoronis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7322e212-aba1-582e-bac1-2d4382255895",
+          "name_string": "Phoronis",
+          "canonical_form": "Phoronis",
+          "classification_path": "Animalia|Phoronida|Not assigned|Not assigned|Not assigned|Phoronis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2368596|2368597|2368598|2368599|2445071",
+          "taxon_id": "2445071",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7322e212-aba1-582e-bac1-2d4382255895",
+          "name_string": "Phoronis",
+          "canonical_form": "Phoronis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26328705",
+          "local_id": "64944",
+          "url": "http://eol.org/pages/64944",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Bryozoarios marinhos brasileiros"
+    }
+  ]
+}

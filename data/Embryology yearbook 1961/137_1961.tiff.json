@@ -1,0 +1,198 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ngzXXHWxTSq4lWkCjvWdxw",
+  "input_url": null,
+  "file": "137_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.099878359,
+    "resolve_names_duration": 1.555993133,
+    "total_duration": 25.400523831
+  },
+  "agent": "",
+  "created": "2013-06-18T12:10:15-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Clavelina",
+      "scientificName": "Clavelina",
+      "offsetStart": 325,
+      "offsetEnd": 333,
+      "identifiedName": "Clavelina"
+    },
+    {
+      "verbatim": "Amaroucium",
+      "scientificName": "Amaroucium",
+      "offsetStart": 521,
+      "offsetEnd": 530,
+      "identifiedName": "Amaroucium"
+    },
+    {
+      "verbatim": "Ameroucium psllucidum",
+      "scientificName": "Ameroucium psllucidum",
+      "offsetStart": 549,
+      "offsetEnd": 569,
+      "identifiedName": "Ameroucium psllucidum"
+    },
+    {
+      "verbatim": "Amaroecium",
+      "scientificName": "Amaroecium",
+      "offsetStart": 667,
+      "offsetEnd": 676,
+      "identifiedName": "Amaroecium"
+    },
+    {
+      "verbatim": "Mechenismus\nder",
+      "scientificName": "Mechenismus der",
+      "offsetStart": 914,
+      "offsetEnd": 928,
+      "identifiedName": "Mechenismus der"
+    }
+  ],
+  "content": "drove, C. and\nWoodbridge, H.\nHolmgren, E.\nw.F.\nMast, 5.0.\nScott, Sr. F.M.\nWeiss, P.\nBerrill, N.J.\nBrien, P.\n1924\n1935\n1961\n1921\n1952\n1928\n1928\n1935s\n1935b\n1940\n1941s\nl94lb\nl9b1c\n1945\n1951\n1930\nvon.\nschlosseri: the behavior and morphology\nof the free~swimming larva. J. Morph. 39: \nEin Beitrag zum experimentellen Studien der\nClavelina metamorphose. Arch. Entw. Mech.\n\nExtrinsic factors influencing metamorphosis in\nbryozogn and ascidien larvae. Am. Eoologist\n1:   6s\nReactions to light in the larvae of the ascidiens\nAmaroucium constellstum and Ameroucium psllucidum.\nwith reference to photic orientation.\nJ. Exp. Zool. jim 149-=lB8.\nThe developmental history of Amaroecium constellstum\nMetamorphosis. Biol. Bull. 103: 226-241.\nExperimentelle Untersuchungen Qber die Metamorphoee\nder Ascidien. Biol. Zentralb.>>48: 69-79.\nExperimentelle Untersuchungen hber die Metemorphoee\nder Ascidien. II. Versuche dber den Mechenismus\nder Schwanzinvolution. Biol. Zentralb. 48: \nREPRODUCTION\nStudies in Tunlcate development. IV. Asexual\nreproduction. Phil Trans. Roy. Soc. Lond.\n225 B: 327-379.\nCell division and differentiation in asexual end\nsexual Qevelopment. J. Morph. 57: 555=427.\nThe development of the colonial organism \nvivide. Ibid. 79: 272>>2&1.\nThe development of the bud in Biol.\nH1110    \nSize and norphogenesis in the bud of \nIbid. 80: l85~193.\nSpatial andtemporel growth patterns in colonial\norganisms. Growth, 3rd Growth Symposium, \nSize and organization in the development of\nascldians. pp. 23l>>263. Essays on Growth and Form\npresented to D'Arcy W. Thompson. Ed. by Le Gros\nClark and Medawar. Oxford University Press.\nRegeneration and budding in tunicates. Biol. Rev.\n26: 456=475.\nContribution a 1?etude de ls regeneration naturelle\net experlmentelle chez les Clavelinldae. An. Soc.\nRoy. Zool. Belg. 61: 19~1l2.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Clavelina",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "2a1d350e-c405-5332-b60f-49dc69aa9cae",
+          "name_string": "Clavelina",
+          "canonical_form": "Clavelina",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Clavelinidae|Clavelina",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363373|2445110",
+          "taxon_id": "2445110",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "2a1d350e-c405-5332-b60f-49dc69aa9cae",
+          "name_string": "Clavelina",
+          "canonical_form": "Clavelina",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29104029",
+          "local_id": "64986",
+          "url": "http://eol.org/pages/64986",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Amaroucium",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata|Ascidiacea|Enterogona|Aplousobranchia|Synoicidae|Amaroucium",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum|class|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712|7713|183770|32436|107396|107397",
+          "taxon_id": "107397",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29104026",
+          "local_id": "2994850",
+          "url": "http://eol.org/pages/2994850",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ameroucium psllucidum",
+      "results": [
+        {
+          "data_source_id": 9,
+          "data_source_title": "WoRMS",
+          "gni_uuid": "db18e165-b9d1-5c68-a268-01a5fc40e456",
+          "name_string": "Amaroecium pellucidum (Leidy, 1855)",
+          "canonical_form": "Amaroecium pellucidum",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Aplousobranchia|Polyclinidae|Aplidium|Aplidium pellucidum",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "gn:3uL60ncMV0CLLRfxOOBRdQ|gn:0nPgiA8cWdWSAg1iZqIs6Q|gn:-90soA4wXtegNg0irT9EcA|gn:fFu6JilaUcWWK6RZgv_P5w|gn:djLqqrP2UD2i0MvZMAg44Q|gn:7REFa37oXUG6p_3ij_aXGg|236662",
+          "taxon_id": "'236662'",
+          "url": "http://www.marinespecies.org/ascidiacea/aphia.php?p=taxdetails&id=236662",
+          "current_taxon_id": "236662",
+          "current_name_string": "Aplidium pellucidum (Leidy, 1855)",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Amaroecium",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "58b619fa-12e3-5db2-9a3e-36270cee0872",
+          "name_string": "Amaroecium",
+          "canonical_form": "Amaroecium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "128068640",
+          "url": "http://www.organismnames.com/details.htm?lsid=2734665",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Mechenismus der"
+    }
+  ]
+}

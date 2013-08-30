@@ -1,0 +1,203 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=C1AEpsPoQTyYpF8HuC3uPQ",
+  "input_url": null,
+  "file": "98_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.164969968,
+    "resolve_names_duration": 1.029643794,
+    "total_duration": 26.317116856
+  },
+  "agent": "",
+  "created": "2013-06-18T12:53:01-04:00",
+  "total": 8,
+  "names": [
+    {
+      "verbatim": "Pennaria,",
+      "scientificName": "Pennaria",
+      "offsetStart": 440,
+      "offsetEnd": 448,
+      "identifiedName": "Pennaria"
+    },
+    {
+      "verbatim": "Tubularia,",
+      "scientificName": "Tubularia",
+      "offsetStart": 450,
+      "offsetEnd": 459,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "(Pennaria)",
+      "scientificName": "Pennaria",
+      "offsetStart": 523,
+      "offsetEnd": 532,
+      "identifiedName": "Pennaria"
+    },
+    {
+      "verbatim": "(Tubularia);",
+      "scientificName": "Tubularia",
+      "offsetStart": 577,
+      "offsetEnd": 588,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "(Tubularia);",
+      "scientificName": "Tubularia",
+      "offsetStart": 643,
+      "offsetEnd": 654,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "?Pennaria).",
+      "scientificName": "Pennaria",
+      "offsetStart": 899,
+      "offsetEnd": 909,
+      "identifiedName": "Pennaria"
+    },
+    {
+      "verbatim": "Pennaria",
+      "scientificName": "Pennaria",
+      "offsetStart": 911,
+      "offsetEnd": 918,
+      "identifiedName": "Pennaria"
+    },
+    {
+      "verbatim": "Pennaria medusae",
+      "scientificName": "Pennaria medusae",
+      "offsetStart": 2155,
+      "offsetEnd": 2170,
+      "identifiedName": "Pennaria medusae"
+    }
+  ],
+  "content": "\n\n\n-5- .\n'l6. (The sporosacs of HydracTinia bear very liTTle resemblance To medusae, being\ngreafly reduced.) \nSkefch The Three main Types of polyps and show several sTages in medusa de-\nvelopmenT. Gonads can be disfinguished along The radial canals of The swimming\nmedusae, very immafure buT sexually disfinguishable. The asexual colony gives off\neiTher male or female medusae, noT boTh.\nB. STudy of forms wiTh imperfecflmedusae.\nExamples: Pennaria, Tubularia,\nLife Hisforiesz ZygoTe shed from shorT-lived imperfecT medusa (Pennaria) or\nreTained in reduced sessile medusa form (Tubularia); or developmenf To acTinula\nlarva and growTh To polyp (Tubularia); Asexual budding of polyps To produce colony;\nGonophores formed by special buds on hydranThs; MaTuraTion of gonophores (imper-\nfecT medusae) and ferTilizaTion eiTher in siTu ilybularialor wiThin The limiTs of\nThe colony during Their deTachmenT ?Pennaria).\nPennaria (July, Augusf, SepTember; begin To ripen middle of July)\nGonophores bud off singly around The lower porTion of The hydranfh. They form\nreduced medusae wiTh rudimenfary TufT-like Tenfacles. Before opening\ncuT as Transparenf bell-shaped forms They suggesf cocoanufs. A single colony bears\ngonophores of one sex only, buT in The living individuals sex can be diagnosed\nonly wiTh difficulTy unTil They mafure, when The pinkness of eggs and The whiTe-\nness of sperm appear. (Smallwood \"Male\" and \"female\" colonies are acTually\nasexually reproducing colonies bearing male and female gonophores respecfively.\nMaTure Pennarig colonies fesfooned wiTh shedding medusae provide an asTonish-\ning and beaufiful specTable ThaT every sTudenT should cerTainly see. The maferial\nripens in The season of warmesf waTer. A demonsTraTion of The shedding will be\nmade when possible. IT sTarTs early in The evening and conTinues Through midnighT.\nlT is usually besT seen in maferial broughT inTo The laborafory on The preceding\nday The second nighT).\nThe ripe medusae gradually sTarT a Twifching. Those which are males\nemif puffs of whiTish sperm, and Those which are females ejecf, aT The expense\nof greaf efforT, The Three Two six pink eggs. ln The souTh, Pennaria medusae \ngenerally break loose from The colony and swim abouT during This discharge, buT\naT Woods Hole They generally remain aTTached, and The eggs may noT be ejecTed\nunTil long afTer ferTilizaTion. The medusae finally drop off, swim very feebly,\nif aT all, shrivel rapidly and die in a few hours. T,\nsmall selecTed sTems fr ripe \"male\" and \"female\" colonies TogeTher in a\nfingerbown afTer careful rinsing aT 3~4 P.M, and leave Them crowd\nNexT day, remove The sTems and look wiTh naked for free medusa as evidence of\nshedding. lf They are found, look for developing eggs. 5 \nThe eggs are very simple and slighTIy amoeboid, wiTh no apparenT membranes.\nFollow Their developmenf as far as possible. lf The wafer is changed several Times\nThe planula sTage should be reached in 24 hrs., and sTages in The very simple\nmeTamorphosis To The polyp sTage may be observed. (HargiTT, G. T., '00, 09).\nTease aparT male and female gonophores and examine The eggs and sperm. SkeTch\nseveral sTages in The developmenf of The medusa, male and female medusae, and\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Pennaria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Pennariidae|Pennaria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2363486|2488405",
+          "taxon_id": "2488405",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26328107",
+          "local_id": "100988",
+          "url": "http://eol.org/pages/100988",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pennaria medusae",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Pennariidae|Pennaria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2363486|2488405",
+          "taxon_id": "2488405",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e5105497-9c6d-5890-8ffa-fa6020b4e816",
+          "name_string": "Pennaria Goldfuss, 1820",
+          "canonical_form": "Pennaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30144775",
+          "local_id": "100988",
+          "url": "http://eol.org/pages/100988",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

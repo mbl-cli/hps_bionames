@@ -1,0 +1,295 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=9v6h285nSv6ZGmKETtmmAw",
+  "input_url": null,
+  "file": "49_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.16025083,
+    "resolve_names_duration": 1.271731073,
+    "total_duration": 25.817602198
+  },
+  "agent": "",
+  "created": "2013-06-18T12:33:58-04:00",
+  "total": 14,
+  "names": [
+    {
+      "verbatim": "Eundulus",
+      "scientificName": "Eundulus",
+      "offsetStart": 70,
+      "offsetEnd": 77,
+      "identifiedName": "Eundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 263,
+      "offsetEnd": 270,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 375,
+      "offsetEnd": 382,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Oryzias",
+      "scientificName": "Oryzias",
+      "offsetStart": 963,
+      "offsetEnd": 969,
+      "identifiedName": "Oryzias"
+    },
+    {
+      "verbatim": "Oryzias",
+      "scientificName": "Oryzias",
+      "offsetStart": 1086,
+      "offsetEnd": 1092,
+      "identifiedName": "Oryzias"
+    },
+    {
+      "verbatim": "Oryzias",
+      "scientificName": "Oryzias",
+      "offsetStart": 1272,
+      "offsetEnd": 1278,
+      "identifiedName": "Oryzias"
+    },
+    {
+      "verbatim": "(Salma,",
+      "scientificName": "Salma",
+      "offsetStart": 1756,
+      "offsetEnd": 1762,
+      "identifiedName": "Salma"
+    },
+    {
+      "verbatim": "Esox)",
+      "scientificName": "Esox",
+      "offsetStart": 1764,
+      "offsetEnd": 1768,
+      "identifiedName": "Esox"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 2651,
+      "offsetEnd": 2658,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus.",
+      "scientificName": "Fundulus",
+      "offsetStart": 2778,
+      "offsetEnd": 2786,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "(Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 2878,
+      "offsetEnd": 2886,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 2988,
+      "offsetEnd": 2995,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus.",
+      "scientificName": "Fundulus",
+      "offsetStart": 3105,
+      "offsetEnd": 3113,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 3219,
+      "offsetEnd": 3226,
+      "identifiedName": "Fundulus"
+    }
+  ],
+  "content": "\nMorris, MargareT, 1914. The behavior oT chromaTin in hybrids beTween Eundulus and\nCTenolabrus. J. Exp. Zool., LQ, \nNewman, H. H., 1915. Deve1opmenT and herediTy in heTerogenic Te1eosT hybrids.\nJ. Exp. Zoo., 18.\nShaver, J. R., 1951. The occurrence oT Twinning in Fundulus heTeroc1iTus aTTer\nCenTriTugaTion. Biol. Bull., LQL, 291. \nSolberg, A. N., 1938. The suscepTibi1iTy of Fundulus heTerocliTus embryos To x-\nradiaTion. J. Exp. Zool., 18, 441.\nSolberg, A. N. 1938. The suscepTibiliTy of The germ cells of Qryzias laTiges To\nx-radiaTion and recovery aTTer TreaTmenT. J. Exp. Zoo., 28, 417\nTrifonowa, A., 1934. ParThogenese der Fische, AcTa Zoologica, LQ 183-213.\nWessels, N. K. and F. J. SwarTz, 1953, Re1aTion of The micropyle To corTical changes\naT ferTi1izaTion in The egg of Fundg1us,heTerocliTus. Biol Bull. 111, 557-558\nYamamoTo, T., 1944. Physiological sTudies on TerTilizaTion and acTivaTion of fish\neggs. 1. Response oT The CorTica1 Layer of The egg of Oryzias laTiges To in-\nseminaTion and arTificial sTimulaTion. ll. The conducTion oT The 'FerTilizaTion\nwave' in The egg of Oryzias laTipes. AnnoTaTions Zool. Japon., ZZ, 19-136\nYamamoTo, T. 1954. Physiological sTudies on TerTilizaTion and acTivaTion oT fish\neggs. V. The role of calcium ions in acTivaTion of Oryzias eTTs. Exp. Cell.\nRes., 6, 56-68\nV. Cleavage and Early STages\nChild, C. M., 1943. OxidaTion-reducTion paTTern in developmenT of a TeleosT.\nPhysiol. Zool., LQ,\nChild, C. M., 1945. A TurTher sTudy of oxidaTion-reducTion paTTerns in TeleosT \nOevelopmenT. J. Exp. Zool., \nCordier, R., 1941. Le TransiT des oloranTe acides eT le phenomenes concomiTanTs\nchez 1'alevin de la TruiTe. Arch. de Biol., 52, 361-390.\nDevi lers, Ch. 1947. Exp1anTaTion ig viTrg de blasTodermes des Poissons (Salma,\nEsox) ExperienTia, 35 71.\nDevi lers, Ch. 1919. ExplanTaTions en milieu de blasTodermes de TruiTe\n1Sa1mo irridedgl, Journ. CyTo-Embryol., Belgo-Neerland \nDevil ers, Ch. 195O. Mecanisme de l'epibolie gasTruleen. Biol. \nDevi Xer, Ch. l95la. SymeTrisaTion eT regu1aTion du germe chez la TruiTe. C. R.\nAssoc. AnaT. QQ, l-7.\nDevil ers, Ch., 195lb. Les mouvemenTs superTicie1s dans la gasTrulaTion des\npoissons. Arch. d' AnaT. micr. eT de Morph. exp., QQ, 298-309\nGemme 1, J. F., 1912. The TeraTo1ogy oT fishes, Glasgow 73 pp)\nLewis, W. H. 1949. Gel layers of cells and Their role in early developmenT.\nRoscoe B. Jackson Mem. Lab. LecTures, 1949, 59-77\nLynn, W. G. 1938. Conjoined Twins and TripleTs in TrouT. AnaT. Rec. ZQ, 597\nMorgan, T. H., 1893. ExperimenTal sTudies on Te1eosT eggs, AnaT. Anzeiger, \nNicholas, J. S. 1927. The applicaTion of experimenTal meThods To The sTudy of\ndeveloping Fundulus embryes. Proc. Acad. Sci., QQU 695, 698\nNicholas, J. S. and J. M. Oppenheimer, 1942. RegulaTion and reconsTrucTion in\nFundulus. J. Exp. 127.\nOppenheimer, J. M. l936a. TransplanTaTion experimenTs on developing TeleosTs\n(Fundulus and J. Exp. Zool., 12, 409-437\nOppenheimer, J. M. l936b. The developmenT of isolaTed b1asToderms of Fundulus\nheTerocliTus. J. Exp. Zool., 12, 247-269.\nOppenheimer, J. M. l936c. Processes oT 1oca1izaTion in developing Fundulus. J.\nExp. Zool. 73, 435.\nPhilips, F. S. 1941. Oxygen consumpTion and iTs inhibiTion in The developmenT oT\nFundulus and various pelagic fish eggs. Biol. Bull, 256.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Eundulus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Oryzias",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "311d533a-2ced-5dfb-9aa8-c48e74f6e31b",
+          "name_string": "Oryzias",
+          "canonical_form": "Oryzias",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Beloniformes|Adrianichthyidae|Oryzias",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2371930|2371935|2396455",
+          "taxon_id": "2396455",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "311d533a-2ced-5dfb-9aa8-c48e74f6e31b",
+          "name_string": "Oryzias",
+          "canonical_form": "Oryzias",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20703780",
+          "local_id": "16276",
+          "url": "http://eol.org/pages/16276",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Salma",
+      "results": [
+        {
+          "data_source_id": 7,
+          "data_source_title": "Union 4",
+          "gni_uuid": "9c39126d-4ae4-5d60-913b-40e246c35de4",
+          "name_string": "Salma",
+          "canonical_form": "Salma",
+          "classification_path": "|Cellular life|Eukaryota|Opisthokonts|Choanoflagellates and animals|Animalia|Epitheliates|Bilateria|Ecdysozoa|Legged ecdysozoa|Arthropoda|Hexapods|Insecta|Pterygota|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Eulepidoptera|Obtectomera|Pyraloidea|Pyralidae|Salma",
+          "classification_path_ranks": "|above family|above family|above family|above family|unranked|above family|above family|above family|above family|above family|above family|above family|above family|above family||||||above family|family|genus",
+          "classification_path_ids": "2822864|2823207|2828118|2843765|2843766|2843767|2843768|17974913|2910040|2910041|2910042|2913524|2913525|2922935|3011222|20432451|20432460|20432464|20432467|20432498|3030993|3032474|3033800",
+          "taxon_id": "3033800",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "9c39126d-4ae4-5d60-913b-40e246c35de4",
+          "name_string": "Salma",
+          "canonical_form": "Salma",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30939515",
+          "local_id": "2927143",
+          "url": "http://eol.org/pages/2927143",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 7,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Esox",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "755988f4-ff3d-53e0-877e-988afe963be2",
+          "name_string": "Esox",
+          "canonical_form": "Esox",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Esociformes|Esocidae|Esox",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369348|2369350|2396164",
+          "taxon_id": "2396164",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "755988f4-ff3d-53e0-877e-988afe963be2",
+          "name_string": "Esox",
+          "canonical_form": "Esox",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305720",
+          "local_id": "19745548",
+          "url": "http://eol.org/pages/19745548",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    }
+  ]
+}

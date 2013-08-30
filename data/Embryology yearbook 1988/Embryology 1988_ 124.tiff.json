@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=LN5c5U3URpWP1UQUHj5pyg",
+  "input_url": null,
+  "file": "Embryology 1988_ 124.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.146775013,
+    "resolve_names_duration": 0.609457116,
+    "total_duration": 22.159037119
+  },
+  "agent": "",
+  "created": "2013-06-18T13:07:49-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 620,
+      "offsetEnd": 629,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "ing as for photo-\nnes at the centre)\nNo. WV-1850\n'e commercially\nplay-back image\n'date/time gen-\nire being filmed.\nkeeping. as well\ntermined. Other\n8050) are mech-\nme advance and\n'rewind' speeds.\nsd by introducing\niade. /clarsicht is\nVolhard, unpub-\ncontrast between\nts not well under-\ndroplets which\nzation (Wieschaus\n8).\nIDENTIFY-\nliving embryos\ntimings at room\ndesignation. The\nititication are the\ntheir monograph\nl7 corresponding\nstages 1-4)\nloped by Zalokar\nuvided in Figures\nof Figure 9.\nnment have been\nvage stages (4.5,\n ogenesis (22.23).\nE. Wieschaus ana' \nFigure 2. Wild-type embyros during cleavage stages of Drosophila development. \nStage l; Freshly laid egg (0 to 15 min).\nStage 2: Early cleavage (15 min to 20 min).\nStage 3: Pole cell formation (l 20 min to 1 30 min).\nStage 4: blasfoderm (l 30 min to 2 30 min).\n4.2 Stage 2: early cleavage (15 min to 20 min)\nAt the posterior end of the embryo. the egg contracts away from the vitelline mem-\nbrane. A cap of clear cytoplasm becomes visible at the posterior pole. This 'polar plasm`\nthins out during each cleavage cycle and forms again during interphase. The remainder\nof the embryo is covered by a very thin irregular layer of clear cytoplasm.\n4.3 Stage 3: pole cell formation 20 min to 30 min)\nThe layer of cytoplasm on the surface of the embryo becomes thicker and inhomogeneous\n205\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

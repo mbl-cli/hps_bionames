@@ -1,0 +1,123 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=NvuzGRgJTcWcy50HB2LNVQ",
+  "input_url": null,
+  "file": "89_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.105735958,
+    "resolve_names_duration": 2.589360204,
+    "total_duration": 27.297135452
+  },
+  "agent": "",
+  "created": "2013-06-18T12:49:14-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Horsfadius",
+      "scientificName": "Horsfadius",
+      "offsetStart": 254,
+      "offsetEnd": 263,
+      "identifiedName": "Horsfadius"
+    },
+    {
+      "verbatim": "Nereis.",
+      "scientificName": "Nereis",
+      "offsetStart": 365,
+      "offsetEnd": 371,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Eggeis limbala",
+      "scientificName": "Eggeis limbala",
+      "offsetStart": 587,
+      "offsetEnd": 600,
+      "identifiedName": "Eggeis limbala"
+    },
+    {
+      "verbatim": "Sapellarieielyeolela",
+      "scientificName": "Sapellarieielyeolela",
+      "offsetStart": 1466,
+      "offsetEnd": 1485,
+      "identifiedName": "Sapellarieielyeolela"
+    },
+    {
+      "verbatim": "Sgbellariggelveojaja",
+      "scientificName": "Sgbellariggelveojaja",
+      "offsetStart": 1666,
+      "offsetEnd": 1685,
+      "identifiedName": "Sgbellariggelveojaja"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1928,
+      "offsetEnd": 1933,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "\nCosTello,D.P.\nCoslello, \nCoslello, \nChild, C. M.\nCrampTon,H.\nDelage, \nDriesch, \nl945\n1948\n|949\nl9l7\n|896\nl899\n|897\nFaure-Fremlef, \n|924\nFaure-Fremief, E.\nH. Mugard |948\nFaure*Fremiel, E.\nThaureaux |949\nGersch, M.\nHarris, J.\nHall, P.\nHall, P.\nHenley, C.\nHorsfadius\nJusl, E. \nI.\n\nl936{\nl935\n|95l\nl932\nl946\ni957\nl953\n\nExperimenlal sludies of germinal localizalion in Nereis.\nl. The developmenl of isolaled blesfomeres. J. Exp. Zool.\nlQQ;l9\nOoplasmic segregalion in relalion To differenlialion. Ann.\nN.Y. Acad. Sci. \nRelaflons of plasma membrane, vilelline membrane and jelly\nin The egg of Eggeis limbala. J. Gen. Physiol. 32:35l-366.\nDifferenlial susceplibilily and differenfial inhibilion in\ndevelopmenl of polychaele annelids. J. \nExperimenlal sludies on Gaslropod developmenl. Arch. f. Enlw\nQzl.\nI ,v\nEludes sur la merogonie. Arch. Exp. Zool. Vll.\nAnhang ll, Uber die organizalion des Eies und uber die\nerslen Enlwickelungsvorgange von MyzosToma. Arch. Enlw.\nMech. ll6.\nL'oeuf de Sapellariagalyeolala. Arch. Anal. Micr. ZQ;2ll\nI\nSegregalion d'un malerial corTical au cours de la segmenfa-\nTlon chez l'oeuf de Comples Rendues Acad.\nSci. ;?l:l409\nEffecl de quelques de?ergenTs sur l'oeuf de Te?edo.Noryeqica\nBiochim. eT Biophys. Acla ?:536\nEine spezifisch verschiedene wirkung von Trypanblau auf\nenlwichlungssiadien einiger regulalions und mosaik Typen.\nArch EnTwick. Mech. l36:2ll\nSludies on living proloplasm. l. Slreaming movemenls in The\nproloplesm of The egg of Sapellarieielyeolela (L). J. Exp.\nBiol. \nLa fusion experlmenfals d'oeufs de \nleur developpmenl. Arch. de Biol. 225305.\nEssais experimenlaux sur les localisalions germinales dans\nl'oeuf d'un Annelide (Sgbellariggelveojaja L.) Arch.d'AnaT.\nMicr. T. \nKhe effecls of liThium chloride on The ferlilized eggs of\nBiol. Bull 2Q;l88\nExperimenls on delerminalion in The early developmenf of\nBiol. Bull. ZQ.\nObservallons on effecls of ul+ra~viole+ rays upon living\neggs of Nereis li@Qgjg exposed before inseminafion. Arch\nf. Enfw. Mech. l5O:495~5l6\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Horsfadius"
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Eggeis limbala"
+    },
+    {
+      "supplied_name_string": "Sapellarieielyeolela"
+    },
+    {
+      "supplied_name_string": "Sgbellariggelveojaja"
+    }
+  ]
+}

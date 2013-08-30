@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=BNfPRzS1TceIpMFCfGPPRw",
+  "input_url": null,
+  "file": "Embryology 1988_ 88.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.166211887,
+    "total_duration": 23.865252048
+  },
+  "agent": "",
+  "created": "2013-06-18T13:28:31-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Oocyte\nInjection:\nProtein\nLabelling\nSpin RNA precipitate in microfuge 30 min. Pour off\nrinse pellet with 70% and dry.\nResuspend RNA in 4 ul H2O. Take lul count in ACS.\nTake 1 ul 32P-GTP count in ACS. Calculate mass of\nRNA transcribed (under these conditions should be\nabout 2 ug). Freeze remainder of RNA on dry ice.\nPlace frog on ice about 1/2 hr. Surgically remove\npiece of ovary, and place it in OR2 medium. suture\nfrog. \nDefolliculate oocytes >1200 um (hopefully oocytes\nwill have white band surrounding equator denoting\nStage 6 oocytes; if so use these). Defolliculate\nabout 20 oocytes.\nGOGD \nInject 5-10 ng RNA into 20 oocytes. Set oocytes in\nOR2 and allow to incubate about 6InxL to overnight\n(note: all of these procedures using 32P labelled\nRNA should be done behind a protective plexiglass\nshield; although only about 20 nl of RNA will be\ninjected per oocyte this can still result in a\nsurprising amount of radioactive emission).\nTo prepare 3HLeucine for injection, dry down 1mCi of\n3HLeu in speed Vac (should be done at least 1 day\nprior to use because it will take a long time).\nResuspend pellet in 25 ul unlabelled 1.5 mM leucine.\n(note: leucine is used as a label because it\ncomprises approx. 10% of the oocyte's protein\ncontent, and is a good representative amino acid.\nThe addition of cold leucine to the label allows you\nto control the cell's leucine pool size, and insure\na more gradual and complete incorporation of label).\nInject 5 RNA injected oocytes, and 5 control oocytes\nwith 15 nl of labelled AJL Incubate in OR2 for 1\nhour to incorporate label.\nTransfer oocytes to clean microcentrifuge tube,\ntransferring as little media as possible. Add 0.75\nml of 50 mM mM Homogenize oocytes\ncompletely by pipeting with pastuer pipet. Add\nanother 0.75 ml buffer, mix, and centrifuge 5 min.\nin microfuge (this treatment removes the large mass\nof yolk which will pellet to the bottom. Remove\nsupernatant, and add 11 vol. Precipitate\novernight.\n\n"
+}

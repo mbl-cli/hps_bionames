@@ -1,0 +1,376 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=noXqlno7Rd6L9btSJm8RJw",
+  "input_url": null,
+  "file": "Embryology 1939_55B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.113263026,
+    "resolve_names_duration": 2.340714894,
+    "total_duration": 23.269893899
+  },
+  "agent": "",
+  "created": "2013-06-19T15:29:17-04:00",
+  "total": 14,
+  "names": [
+    {
+      "verbatim": "Arenicola.",
+      "scientificName": "Arenicola",
+      "offsetStart": 45,
+      "offsetEnd": 54,
+      "identifiedName": "Arenicola"
+    },
+    {
+      "verbatim": "Polygordius,",
+      "scientificName": "Polygordius",
+      "offsetStart": 116,
+      "offsetEnd": 127,
+      "identifiedName": "Polygordius"
+    },
+    {
+      "verbatim": "Trochophora",
+      "scientificName": "Trochophora",
+      "offsetStart": 186,
+      "offsetEnd": 196,
+      "identifiedName": "Trochophora"
+    },
+    {
+      "verbatim": "Euporatus",
+      "scientificName": "Euporatus",
+      "offsetStart": 202,
+      "offsetEnd": 210,
+      "identifiedName": "Euporatus"
+    },
+    {
+      "verbatim": "(Hydroides)",
+      "scientificName": "Hydroides",
+      "offsetStart": 265,
+      "offsetEnd": 275,
+      "identifiedName": "Hydroides"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 403,
+      "offsetEnd": 408,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Chaetopterus.",
+      "scientificName": "Chaetopterus",
+      "offsetStart": 516,
+      "offsetEnd": 528,
+      "identifiedName": "Chaetopterus"
+    },
+    {
+      "verbatim": "Chaetopterus",
+      "scientificName": "Chaetopterus",
+      "offsetStart": 654,
+      "offsetEnd": 665,
+      "identifiedName": "Chaetopterus"
+    },
+    {
+      "verbatim": "Hydroides,",
+      "scientificName": "Hydroides",
+      "offsetStart": 917,
+      "offsetEnd": 926,
+      "identifiedName": "Hydroides"
+    },
+    {
+      "verbatim": "Nereis,",
+      "scientificName": "Nereis",
+      "offsetStart": 992,
+      "offsetEnd": 998,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "A. von",
+      "scientificName": "A. von",
+      "offsetStart": 1150,
+      "offsetEnd": 1155,
+      "identifiedName": "A. von"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1200,
+      "offsetEnd": 1205,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Trochophora.",
+      "scientificName": "Trochophora",
+      "offsetStart": 1302,
+      "offsetEnd": 1313,
+      "identifiedName": "Trochophora"
+    },
+    {
+      "verbatim": "Polygordius",
+      "scientificName": "Polygordius",
+      "offsetStart": 1381,
+      "offsetEnd": 1391,
+      "identifiedName": "Polygordius"
+    }
+  ],
+  "content": "\n0\n\n.\nChild, 0. M. 1900 Early development of Arenicola. Roux' Archiv.\nIX fur Entw. Bd. 9\nFraipont, J. 1887 Le Genre Polygordius, Fauna u, Flora von Neapel\nVol. XIV.\n1888 Entwicklung der Trochophora vor Euporatus.\niatsehek, 8. . \nArheit. a. d. Zool, Inst. Wien, VI. (Hydroides)\nIvanoff, C. ?.l928 der Larvalsegmente hei den Anneliden\nMorph. Oek. Bd. 10\nJust, E. E. 1922 0n the rearing of sexually mature Nereis from\neggs. Am. Nat. vol, 56\nLillie, F. R. 1902 Differentiation without cleavage in the egg of\nthe annelid Chaetopterus. Roux Archiv' f. Entw.Bd. 14\n1906 Observations and experiments concerning the\nelementary phenom. of embryonic development in\nChaetopterus (Formative stuffs) Jour. Exp. Zool. \n1909 Polarity and hilaterality of the Annelid egg.\nI Biol. Bull. XVI.\nMead, A. D. 1897 The early development of marine annelids. J.\nMorph. vol. 15.\nShearer, C. 1911 Development and structure of the trochophore of\nHydroides, Quart. J. Micr. Sci. vol. 58\nWilson, E. B. 1892 Cell Lineage of Nereis, Journ. of Morph. v. 6\nWilson, E. B. 1898 Considerations on cell lineage and ancestral\nreminiscenses. Ann. N. Y. Acad. Sci. vol. 11.\nUistinghausen, C. A. von 1891 Untersuchungen Uber die Entwickl.\nvon Nereis dnmerilii. Mitt. a. d. Zool. Stat.\nNeapel. Bd. 10 I\nWoltereck, R. 1904 Wurmkopf, Surmrumpf und Trochophora. Zool.\nAAHE. Bd, 28.\n,tg 1904 Beitrage zur Proktischen analyse der Polygordius\n1 Entwicklung, etc. Roux Archiv. Entw. Bd. 18.\n1905 Zur Kopffrage der Anneliden.` Verh. d.\nDeutschen Zool. Gee. (His figs. are reproduced in\nMcBride).\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arenicola",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "84d6cfa9-9a80-5287-b2f8-6952019bd10c",
+          "name_string": "Arenicola",
+          "canonical_form": "Arenicola",
+          "classification_path": "Animalia|Annelida|Polychaeta|Not assigned|Arenicolidae|Arenicola",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369670|2372229|2413253",
+          "taxon_id": "2413253",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "84d6cfa9-9a80-5287-b2f8-6952019bd10c",
+          "name_string": "Arenicola",
+          "canonical_form": "Arenicola",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27908479",
+          "local_id": "52394",
+          "url": "http://eol.org/pages/52394",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Polygordius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cd68c025-ad53-50f1-8936-e6f6412d4fb4",
+          "name_string": "Polygordius",
+          "canonical_form": "Polygordius",
+          "classification_path": "Animalia|Annelida|Polychaeta|Not assigned|Polygordiidae|Polygordius",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369670|2369680|2513732",
+          "taxon_id": "2513732",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cd68c025-ad53-50f1-8936-e6f6412d4fb4",
+          "name_string": "Polygordius",
+          "canonical_form": "Polygordius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29101231",
+          "local_id": "71623",
+          "url": "http://eol.org/pages/71623",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Trochophora",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7329c568-4842-5b8e-8273-b67b4dc898ed",
+          "name_string": "Trochophora",
+          "canonical_form": "Trochophora",
+          "classification_path": "Fungi|Ascomycota|Not assigned|Not assigned|Not assigned|Trochophora",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2365755|2365760|2366071|2366072|2366073|2392742",
+          "taxon_id": "2392742",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7329c568-4842-5b8e-8273-b67b4dc898ed",
+          "name_string": "Trochophora",
+          "canonical_form": "Trochophora",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44735291",
+          "local_id": "25133692",
+          "url": "http://eol.org/pages/25133692",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Euporatus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Hydroides",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "094732ab-4c0b-5c5d-99f6-4db6b5031b53",
+          "name_string": "Hydroides",
+          "canonical_form": "Hydroides",
+          "classification_path": "Animalia|Annelida|Polychaeta|Sabellida|Serpulidae|Hydroides",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369634|2369636|2423051",
+          "taxon_id": "2423051",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "094732ab-4c0b-5c5d-99f6-4db6b5031b53",
+          "name_string": "Hydroides",
+          "canonical_form": "Hydroides",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20674349",
+          "local_id": "52350",
+          "url": "http://eol.org/pages/52350",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Chaetopterus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "731a221e-25f7-551b-8b46-b377bd15d759",
+          "name_string": "Chaetopterus",
+          "canonical_form": "Chaetopterus",
+          "classification_path": "Animalia|Annelida|Polychaeta|Spionida|Chaetopteridae|Chaetopterus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369624|2369631|2525102",
+          "taxon_id": "2525102",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "731a221e-25f7-551b-8b46-b377bd15d759",
+          "name_string": "Chaetopterus",
+          "canonical_form": "Chaetopterus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40913590",
+          "local_id": "489401",
+          "url": "http://eol.org/pages/489401",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "A. von"
+    }
+  ]
+}

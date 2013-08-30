@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Is2gXUDgQOy1Bx0LZpTAYw",
+  "input_url": null,
+  "file": "Embryology 1988_ 4.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.104583493,
+    "total_duration": 21.906451164
+  },
+  "agent": "",
+  "created": "2013-06-18T13:18:41-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Elias Lazarides\nDivision of Biology 156-29\nCalifornia Institute of Technology\nPasadena, CA 91125\n(818) 356-6987\nHoward D. Lipshitz\nDivision of Biology 156-29\nCalifornia Institure of Technology\nPasadena, CA 91125\n(818) 356-6446\nAnthony P. Mahowald\nDepartment of Developmental Genetics\nCase Western Reserve University\nCleveland, Ohio 44106\n(216) 368-3430\nL. Dennis Smith\nDepartment of Developmental\nCellular Biology\nUniversity of California\nSteinhous Hall\nIrvine, CA 92717\n(714) 856-4696\nJ. Richard Whittaker\nMarine Biological Laboratory\nWoods Hole, MA 02543 -\n(508) 548-3705\nEric Wieschaus\nDepartment of Biology\nPrinceton University\nPrinceton, NJ 08544\n(609) 452-5383\nKeith R. Yamamoto\nDepartment of Biochemistry\nBiophysics\nBox 0448\nSan Francisco, CA 94143-0448\n(415) 476-3128\nCourse Assistants:\nRoberta R. Franks\nDivision of Biology 156-29\nCalifornia Institute of Technology\nPasadena, CA 91125\n(818) 356-4940\nMichael Garabedian \nDepartment of Biochemistry\nBox 0448\nUniversity of California\nSan Francisco, CA 94143-0448\nAndrew D. Johnson\nDepartment of Developmental\nCellular Biology\nUniversity of California\nFaculty Research Facility\nCampus Drive, Jamboree Blvd.\nIrvine, CA 92414\n(714) 856-7024\nDavid Kimelman\nDepartment of Biochemistry\nBiophysics\nUniversity of California\nSan Francisco, CA 94143\n(415) 476-2669\nAndrew Ransick\nDepartment of Zoology\nUniversity of Texas at Austin\nPatterson Labs.\nAustin, TX 78712\n(512) 471-7425\nTeresa R. Strecker\nDivision of Biology 165-29\nCalifornia Institute of Technology\nPasadena, CA 91125\n(818) 356-6451\nDari K. Sweeton\nDepartment of Biology\nPrinceton University\nPrinceton, NJ 08544\n(609) 452-5401\nCourse Coordinator:\nLinda Huffer\n\nWoods Hole, MA 02543\n(508) 548-3705 X563\nCourse Assistants:\nMary La Grange\nUniversity of Massachusetts\n1106 North Plasant\nAmherst, MA 01002\n(413) 549-5786\nEm eline J. Chiao\nMawr College\n115 Ridge Road\nArdsley, NY 10502\n(914) 693-1324\n\n"
+}

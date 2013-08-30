@@ -1,0 +1,202 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=YoUlvpnAT9uHPbRMOLah7A",
+  "input_url": null,
+  "file": "Embryology 1988_ 83.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.144187335,
+    "resolve_names_duration": 0.573221987,
+    "total_duration": 22.247818987
+  },
+  "agent": "",
+  "created": "2013-06-18T13:27:16-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Urechis caupo",
+      "scientificName": "Urechis caupo",
+      "offsetStart": 163,
+      "offsetEnd": 175,
+      "identifiedName": "Urechis caupo"
+    },
+    {
+      "verbatim": "Spisula",
+      "scientificName": "Spisula",
+      "offsetStart": 353,
+      "offsetEnd": 359,
+      "identifiedName": "Spisula"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 521,
+      "offsetEnd": 527,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Laevis",
+      "scientificName": "Laevis",
+      "offsetStart": 529,
+      "offsetEnd": 534,
+      "identifiedName": "Laevis"
+    }
+  ],
+  "content": "~k\n'k\nit\nOogenesis References - Page 2\nRosenthal, E. T. and wilt, F. H. (1986) Patterns of maternal messenger RNA\naccumulation and adenylation during oogenesis in Urechis caupo. Dev. Biol.\ngil, 55-63.\nRosenthal, E. T. and Ruderman, J. V. (1987) widespread changes in the\ntranslation and adenylation of maternal messenger RNAs following fertilization\nof Spisula oocytes. Dev, Biol. 121, 237-246.\nSagata, N., Shiokawa, K. and Yamana, K. (1980) A study on the steady-state\npopulation of poly RNA during early development of Xenopus Laevis.\n gf-lv. 5101. Q, 431-448.9\nSmith, L. D. and Richter, J. D. (1985) accumulation, and utilization\nof maternal macromolecules during oogenesis and oocyte maturation. In, Biology\nof Fertilization. Vol. I, pp. 141-186. ed. C. B. Metz and A. Monroy\nAcademic Press, Inc.\nSmith, L. D. (1986) Regulation of translation during amphibian oogenesis\nand oocyte maturation. In, Gametogenesis and the Early Embryo, 44th Symp.\nSociety for Develop. Biol. ed J. G. Gall. pp 131-150. Alan R. Liss, Inc. N.Y.\nreviews\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Urechis caupo",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "e70a727c-e8e0-584a-8e59-3820ef3a6db2",
+          "name_string": "Urechis caupo",
+          "canonical_form": "Urechis caupo",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Lophotrochozoa|Annelida|Polychaeta|Echiura|Xenopneusta|Urechidae|Urechis|Urechis caupo",
+          "classification_path_ranks": "|superkingdom||kingdom||||||phylum|class|subclass|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206795|6340|6341|6427|6428|6429|6430|6431",
+          "taxon_id": "6431",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e70a727c-e8e0-584a-8e59-3820ef3a6db2",
+          "name_string": "Urechis caupo",
+          "canonical_form": "Urechis caupo",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29102469",
+          "local_id": "512273",
+          "url": "http://eol.org/pages/512273",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Spisula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6154bc52-c653-5bd3-878d-347c80947761",
+          "name_string": "Spisula",
+          "canonical_form": "Spisula",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Veneroida|Veneroida|Mactridae|Spisula",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2369911|2369975|2370006|2370007|2419156",
+          "taxon_id": "2419156",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6154bc52-c653-5bd3-878d-347c80947761",
+          "name_string": "Spisula",
+          "canonical_form": "Spisula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20679194",
+          "local_id": "57515",
+          "url": "http://eol.org/pages/57515",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Laevis",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "9a42c08f-7241-5791-b373-d08f3754948c",
+          "name_string": "Laevis",
+          "canonical_form": "Laevis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97701148",
+          "local_id": "urn:lsid:ubio.org:namebank:4557477",
+          "global_id": "urn:lsid:ubio.org:namebank:4557477",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4557477",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    }
+  ]
+}

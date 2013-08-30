@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=T4mFpIdBT06eYrpFzbaZQg",
+  "input_url": null,
+  "file": "Embryology 1988_ 42.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.169062318,
+    "total_duration": 25.549952378
+  },
+  "agent": "",
+  "created": "2013-06-18T13:19:33-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "The accuracy of the probe excess titration measurement is limited only by the\nrecovery of the probe hybrids, the data scatter, and knowledge of the probe\nspecific activity.\nTitration of and SM50 Transcripts in Embryonic Cell Fractions\nWe will repeat the single-stranded probe excess titration experiments described\nabove, using RNA extracted from the ectoderm and bag preparations made in the\nprevious lab section. Each fraction should, of course, be enriched for either \ntranscripts (ectoderm) or transcripts of SM50 (bags) and, ideally, should contain one or\nthe other transcript.\nSince time is limited the RNA preparations and radiolabeled probes will be\nprovided to you. Two widely-used methods for isolating urchin embryo RNA are\navailable and are described in detail by Posakony et al. (1983) and Shott et al. (198l4).\nThe RNA probes were prepared from transcription vectors containing sequences\nrepresentB'? either the transcript or the SM50 transcript. They were \nusing [oi- (800 Ci/mmole) and purified from unincorporated nucleotides by\nSephadex G-100 chromatography (ref: Promega Biotec).\n1. For fraction (ectoderm and bag), mix, in 1.5 ml Eppendorf tubes,\n1 ng of P-labeled RNA probe or SM50) together with 0, 0.RNA.  \n2. Add yeast RNA as carrier, maintaining a constant amount (50 ug) of RNA in each\ntube.\n3. Add 4.0 ammonium acetate to 0.2 and precipitate each RNA sample with two\nvolumes of 9596 ETOH at overnight.\nLl. Pellet the RNA by centrifugation. Wash the RNA pellet in 7096 ETOH lX, 95%\nETOH 1X. Remove residual salt by drying in a Savant speed-vac concentrator.\n5. Take the dried RNA pellets up in 6 ul of water and 10 ul of deionized formamidehybridization mix. Cover with 50 ul of mineral oil. Heat at for\n5 min. -\n7. Incubate at overnight.\n8. Place samples on ice. (6) NM IM)\n9. Dilute samples to 300 ul with 2.5X SET. Add 65 ug of RNase A and 150 units of\nRNase Tl. (NOTE: The amount of RNase to be added is predetermined by titrating\nthe activity of the enzyme preparation).\n10. Incubate each reaction at for 1 hr to digest RNA.\n11. Precipitate the hybrids on ice for 15-20 min in 1096 TCA (add 1 ml of\nice-cold 1396 TCA).\n12. 1 Collect the precipitates on glass fiber filters, rinsing the tubes and the filters with\nseveral volumes (~30 ml) of ice-cold 10% TCA and then 5 ml of ice-cold 9596 ETOH.\n\n"
+}

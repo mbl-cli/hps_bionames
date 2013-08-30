@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=HuQWDSQQQWSwQn3u3lJU3A",
+  "input_url": null,
+  "file": "Embryology 1988_ 152.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.255466159,
+    "total_duration": 23.527141623
+  },
+  "agent": "",
+  "created": "2013-06-18T13:13:14-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "2\nPREPARATION OFN SOLUTIONS FOR MICROINJECTION: All Solutions to be\nmicroinjected should be filtered to 0.2 um and  placed in clean eppendorf\ntubes. \nASSEMBLY OF NEEDLES IN THE MICROINJECTION APPARATUS: The microinjection\nneedle is filled from the rear, as near as possible to the tip using a mouth\ncontrolled, pulled, siliconized pasteur pipette. The injection solution is\ntaken to the tip by the capillary of the tube. Filling in this way\nminimizes the risk of picking up any fine particulate matter lodged in the\nneedle.  The needle is then mounted in the right-needle holder (right-handed\npeople). 'This is connected by plastic tubing to a 2 ml Hamilton glass barrel\nsyringe. Again the entire apparatus is entirely filled with mineral oil. The\nsyringe should be set one turn before maximum capacity for appropriate control\nof ejection. Large pressures can be exerted on the injection solution, or\nnegative pressure may be applied as inserting the needle into the apparatus\nitself places pressure on the injection fluid. A \"breaking pipette\" is made\nby passing an empty injection needle through a nsen flame. The breaking\npipette is mounted in the left needle holder.\nMICROINJECTION PROCEDURE: Dejellied eggs are placed in groups of ten in a\nline on a protamine sulfate coated dish in 10 ml of containing\npenicillin (20 units) and streptomycin (1 UQ/ml; FSW using a mouth-\ncontrolled, siliconized, pulled-pasteur pipette. The dish is then placed onto\nthe fixed stage of the microinjection apparatus (we use a Leitz set up with\nSmith-T optical system) and the eggs brought into focus using a 10X\nobjective. The condenser is focused and light. source centered (see Leitz\nmanual). The breaking pipette is then brought into focus just above the eggs\nand the injection needle brought into sharp focus next to the breaking\npipette. To start flow from the needle, one half-turn is applied to the screw\non the Hamilton syringe and the needle brushed against the breaking pipette.\nIf the solution is colored, viscous, or of different ionic strength to \na jet of the solution will be seen issuing from the needle. The screw of the\nsyringe is then turned in the reverse direction until the flow is reduced to a\nslow, continuous flow pl sec'1 is the desired rate).\nThe focus of the microscope is adjusted until the widest diameter of the\negg (the mid-line) is in focus, and the needle lowered to this point, at the\nright side of the egg 1x> be injected. The needle is then raised using the\nfine, vertical adjustment and moved using the joystick control to a position\njust above the mid-point of the right one-third of the egg. The needle is\nthen lowered using the fine adjustment onto the egg so that the egg surface is\nindented. The needle is then quickly but smoothly pushed forward into the egg\nusing the joystick control. A clear area of cytoplasm will arise at the point\nof injection which will be towards the left one-half to one-third of the\negg. The needle is then immediately removed quickly but smoothly out of the\negg. The operation is repeated for the next egg in line.\nThe flow from the needle is critical for successful injection. If it is\ntoo slow, the needle will not penetrate the egg easily. If it is too fast the\negg will either lyse, activate or immediately reject the injected material.\nPOST INJECTION TREATMENT OF EGGS AND EMBRYO CULTURE: Any uninjected eggs not\npreviously destroyed are removed gwith a mouth-controlled, pulled pasteur\n\n"
+}

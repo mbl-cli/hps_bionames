@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=cXtG4bVkQcWVdVh45tybbQ",
+  "input_url": null,
+  "file": "12_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.104064107,
+    "resolve_names_duration": 0.717284154,
+    "total_duration": 24.72327705
+  },
+  "agent": "",
+  "created": "2013-06-18T12:07:52-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "J. rw",
+      "scientificName": "J. rw",
+      "offsetStart": 232,
+      "offsetEnd": 236,
+      "identifiedName": "J. rw"
+    }
+  ],
+  "content": " \n1934. On the movements of the eg of the \nJ. ho. Sci. Imp. Univ., 'tokyo jx \nVI. Yao action of ion concentration.\nJo mi Sam Inc Univa il  \n1936. Anaerobic movements and oxidation-meduction\npotentials of the limiting the movements.\nJ. rw. sei. up. Univ., roxqm 5; 233-247.\n1944. Physiological studies on fertilization and activiation of fish\nogga. Alot. Zool. Japan.  zgx 109-125.\n1944. II. conduction of the \"fertilization wave\" :Ln the eggs af\n Annot. zool. Japan.  gg 126-136.\n1954. Plvsiologioal studies on fertilization and activiation of fish\ncas. Brp. 6eJl Has. 56-68.\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "J. rw"
+    }
+  ]
+}

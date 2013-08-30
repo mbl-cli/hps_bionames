@@ -1,0 +1,79 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=enQEu6TDQHiXGPphF3tkrg",
+  "input_url": null,
+  "file": "Embryology 1988_ 66.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.124124243,
+    "resolve_names_duration": 1.378006749,
+    "total_duration": 28.935863912
+  },
+  "agent": "",
+  "created": "2013-06-18T13:23:48-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Madara,",
+      "scientificName": "Madara",
+      "offsetStart": 0,
+      "offsetEnd": 6,
+      "identifiedName": "Madara"
+    },
+    {
+      "verbatim": "Brosius",
+      "scientificName": "Brosius",
+      "offsetStart": 2027,
+      "offsetEnd": 2033,
+      "identifiedName": "Brosius"
+    }
+  ],
+  "content": "Madara, JL and JR Pappenheimer 1987 Structural basis for\nphysiological regulation of paracellular pathways in intestinal\nepithelia. J. Membr. Biol. 100:149-164\nMakowski, L., D.L.D. Caspar, W.C. Phillips, and D.A. Goodenough\n1984 Gap junction structures V. Structural chemistry inferred from\nx-ray diffraction measurements on sucrose acxzessibility and\nsusceptibility. J. Mol. Biol. 174:449-481\nManjunath, C.K., B.J. Nicholson, D. Teplow, L. Hood, E. Page, and\nRevel 1987 'Ihe cardiac gap junction protein (Mr 47,000) has\na tissue-specific cytoplasmic domain of Mr 17,000 at its\ncarboxy-terminus. Biochem. Biophys. Res. Comm. l42:228-234\nMiller, T.M. and D.A. Goodenough 1986 Evidence for two\nphysiologically distinct gap junctions expressed by the chick lens\nepithelial cell. . Cell Biol. 102:194-199\nNeyton, . and A. 'Irautmann 1985 Single-channel currents of an\nintercellular junction. Nature 317 :331-335\nNicholson, B.J., D.B. Gros, S.B.H. Kent, L.E. Hood, and J.-P.\nRevel 1985 'Ihe Mr 28,000 gap junction proteins from rat heart and\nliver are different but related. . Biol. Cnem. 260:65l4-6517\nNicholson, B.J., R. Dermietzel, D. Teplow, O. Traub, K. Willecke,\nand .-P. Revel 1987 'Iwo homologous protein components of hepatic\ngap Nature (I ond.) 329:732-734\nPappenheimer, JR 1987 Physiological regulation of transepithelial\nimpedance in the intestinal mucosa of rats and hamsters. J. Membr.\nBiol. 1002137-148\nPaul, D.L. 1986 Molecular cloning of for rat liver gap\njunction protein. . Cell Biol. 103:123-134.\nSaez, J.C., D.C. Spray, A.C. Nairn, E. Hertzberg, P. Greengard,\nand M.V.L. Bennett 1986 increases junctional conductance and\nstimulates phosphorylation of the 27-kDa principal gap junction\npolypeptide. Proc. Natl. Acad. Sci. (USA) 83:2473-2477\nSosinsky, GE, JC Jesior, DID Caspar, and DA Goodenough 1988 Gap\njunction structures Membrane cross-sections. Biophys. .\n532709-722 \nSpray, D.C. and M.V.L. Bennett 1985 Physiology and pharmacology of\ngap junctions. Ann. Rev. Physiol. 47:281-303\nSpray, D.C., J.C. Saez, D. Brosius, M.V.L. Bennett, and E.L.\nHertzberg 1986 Isolated liver gap junctions: gating of\ntransjunctional currents is similar to that in intact pairs of rat\nhepatocytes. Proc. Natl. Acad. sci. (USA) 83:5494-5497\nSpray, D.C., M. Fujita, J.C. Saez, H. Choi, T. Watanabe, E.\nHertzberg, L.C. Rosenberg, and L.M. Reid 1987 Proteoglycans and\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Madara",
+      "results": [
+        {
+          "data_source_id": 159,
+          "data_source_title": "CU*STAR",
+          "gni_uuid": "946dde82-c561-5b96-b87b-7a65ade37b20",
+          "name_string": "Madara",
+          "canonical_form": "Madara",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "105953490",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Brosius",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

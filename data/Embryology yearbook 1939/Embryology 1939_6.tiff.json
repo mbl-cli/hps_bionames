@@ -1,0 +1,178 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ymG2OMSyQFGbZE4agx9vDg",
+  "input_url": null,
+  "file": "Embryology 1939_6.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.08332596,
+    "resolve_names_duration": 1.495481695,
+    "total_duration": 22.72151506
+  },
+  "agent": "",
+  "created": "2013-06-19T15:30:28-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Fundulus.\"",
+      "scientificName": "Fundulus",
+      "offsetStart": 221,
+      "offsetEnd": 230,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Hydrozoa.",
+      "scientificName": "Hydrozoa",
+      "offsetStart": 545,
+      "offsetEnd": 553,
+      "identifiedName": "Hydrozoa"
+    },
+    {
+      "verbatim": "(Loligo).",
+      "scientificName": "Loligo",
+      "offsetStart": 584,
+      "offsetEnd": 592,
+      "identifiedName": "Loligo"
+    },
+    {
+      "verbatim": "Horstadius",
+      "scientificName": "Horstadius",
+      "offsetStart": 866,
+      "offsetEnd": 875,
+      "identifiedName": "Horstadius"
+    }
+  ],
+  "content": "June\nJune\nJune\nJune\nJune\nJune\nJune\nJune\nJune\nJune\nJune\nJuly\nJuly\nJuly\nJuly\nTue\nWed\nThu\nFri\nSat\nMon\nTue\nWed\nThu\nFri\nFri\nSat\nMon\nMon\nTue\nLECTURES IN COURSE\n1939\nIntroductory Announcements.\nFish Spawning. Fertilize-\ntion in Fundulus.\"\nTeleoat Embryology. Cleav-\nage and Gastrulation.\nTeleost Embryology. Gastru\nlation and morphogenetic\nchanges.\nTeleost Embryology. Special\ntopics in Organogeny.\nDevelopment of Color\nPatterns and of Mendelian\ncharacters in fish (Illus-\ntrated). \nColloidal organization of\nthe egg nucleus.\nGeneral Embryology of the\nHydrozoa.\nThe development of the\nSquid (Loligo).\nDetermination and organizer\naction in Amphibian develop\nment.\nReproduction on the squid\nwith special reference to\nthe spermatophore. (9:60)\nThe Eohinoderm egg, its\nstructure and its relation\nto the orientation of the\n\nDevelopment of the Echino-\nderm egg according to\nHorstadius.\nTopics from the history of\nembryology. (9:00 A.M.)\nMetamorphosis of Echinoderme.\n(2:00 P.M.)\nParthenogensis.\nB. Goodrich\nB. Goodrich\nB. Goodrich\nH. B. Goodrich\nB. Goodrich\nR. Duryee\nW. Ballard\nHamburger\nHamburger\nHamburger\nSchotte \n\nSchotte\nPackard\nSchotte\nSchotte \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydrozoa",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2363435|2363454",
+          "taxon_id": "2363454",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992508",
+          "local_id": "1795",
+          "url": "http://eol.org/pages/1795",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Loligo",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b4c5a691-9ab2-55fb-919e-b64cfec92d7b",
+          "name_string": "Loligo",
+          "canonical_form": "Loligo",
+          "classification_path": "Animalia|Mollusca|Cephalopoda|Teuthida|Loliginidae|Loligo",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2370028|2370052|2370067|2431307",
+          "taxon_id": "2431307",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b4c5a691-9ab2-55fb-919e-b64cfec92d7b",
+          "name_string": "Loligo",
+          "canonical_form": "Loligo",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20630784",
+          "local_id": "38585",
+          "url": "http://eol.org/pages/38585",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Horstadius"
+    }
+  ]
+}

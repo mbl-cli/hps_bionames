@@ -1,0 +1,166 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=knaomuAfQT6F5ocpPLlDag",
+  "input_url": null,
+  "file": "87_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.131938351,
+    "resolve_names_duration": 0.735599719,
+    "total_duration": 24.577504044
+  },
+  "agent": "",
+  "created": "2013-06-18T12:48:56-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "L. von",
+      "scientificName": "L. von",
+      "offsetStart": 217,
+      "offsetEnd": 222,
+      "identifiedName": "L. von"
+    },
+    {
+      "verbatim": "Tubifex.",
+      "scientificName": "Tubifex",
+      "offsetStart": 1119,
+      "offsetEnd": 1126,
+      "identifiedName": "Tubifex"
+    },
+    {
+      "verbatim": "Limnaea.",
+      "scientificName": "Limnaea",
+      "offsetStart": 1455,
+      "offsetEnd": 1462,
+      "identifiedName": "Limnaea"
+    },
+    {
+      "verbatim": "Mylilus edulis",
+      "scientificName": "Mylilus edulis",
+      "offsetStart": 1739,
+      "offsetEnd": 1752,
+      "identifiedName": "Mylilus edulis"
+    }
+  ],
+  "content": "BIBLIOGRAPHY\nEXPERIMENTAL EMBRYOLOGY OF ANNELIDS AND MOLLUCS\nBrachel, J. |950\nDalcq, A. |958\nDalcq, A. 394|\nHuxley DeBeer .934\nMorgan, T. H. 927\nNeedham, J. ?942\nRaven, C. P. 958\nSchleip, l929\nSeidel, F. .953\nUbisch, L. von |952\nWeiss, |939\nWilson, E. B. |925\nConklin, E.G. |924\nLehmann, F. E. |950\nLehmann, F. E. |950\nLillie, F. R. |927\nPenners, A. l93l\nRaven, C. P. |948\nRaven, C. P. |949\nRies, E. |942\nWafierson, Ll |955\nBerg, a. A l95l\nTEXTBOOKS\nChemical EmbryolO9Y>> lnferscience, New York\nForm and CausaliTy in Early Developmenl, Cambridge\nL'Oeuf ef soh Dynamisme Organisafeur. Paris\nElemenfs of Experimenral Embryology, Cambridge (Macmillan)\nExperimenral Embryology, Columbia Universily Press\nBiochemisTry and Morphogenesis, Cambridge\nMorphogenesis: The Analysis of Molluscan Oevelopmenl.\nPergammon Press\nDie Delerminamion der Primi|iv~EnTwicklung, Akad. Veri.\nLeipsig\nder Tiere, W. de Gruyier, Berlin\nPelers, Berlin\nPrinciples of Developmenl. Henry Holi\nThe Cell in Herediiy and Developmenl. MacMillan, New York\nREVIEWS\n\"Cell Diflerenliarion\" in owdrey's General Cy+o|ogy, Chicag\nEmbryologie experimenlale chez Tubifex. Ann. Biol. 26:538\nDie Morphogenese in ihrer Abhargigheii von elemenlaren\nbiologischen konsliluenfen des Plasmas. Rev. Suisse de\nZool. 57:l42.\nEmbryonic segregaiion and ils role in The life hisTory.\nArch. f. Enlw. Mech. l|8:499\nVergleichende Enfwicklungsmechanik. Zool. Anz. Suppl. 5\nThe chemical and experimenfal embryology of Limnaea.\nBiol. Rev. 23:533.\nEmbryologie experimenTale de l'oeuf de Limnee. Ann.Biol.;?\nZum Problem der Zelldelerminaiion. Biol. Gen. l?;544\nSelecfed inverfebrales in Analysis of Developmenl. \nWeiss and Hamburger, Edilors\nSPEQJAL REFERENCES\nPhysiological sludies of differenTiaTion in Mylilus edulis\nKulsky I. The Oxygen uplake of isolaTed blasTomeres~aud polar lobes. \nI. Bu l. l:47 \nIO I IO \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "L. von"
+    },
+    {
+      "supplied_name_string": "Tubifex",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "98750f5c-1d5e-56cb-b251-dea11c436ef9",
+          "name_string": "Tubifex",
+          "canonical_form": "Tubifex",
+          "classification_path": "Animalia|Annelida|Polychaeta|Not assigned|Maldanidae|Tubifex",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369670|2372221|2537143",
+          "taxon_id": "2537143",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "98750f5c-1d5e-56cb-b251-dea11c436ef9",
+          "name_string": "Tubifex",
+          "canonical_form": "Tubifex",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30068727",
+          "local_id": "3095689",
+          "url": "http://eol.org/pages/3095689",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Limnaea",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "37e46166-9e79-58e2-ad92-d229fd700413",
+          "name_string": "Limnaea",
+          "canonical_form": "Limnaea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37223070",
+          "local_id": "4752166",
+          "url": "http://eol.org/pages/4752166",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "37e46166-9e79-58e2-ad92-d229fd700413",
+          "name_string": "Limnaea",
+          "canonical_form": "Limnaea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37223070",
+          "local_id": "4752166",
+          "url": "http://eol.org/pages/4752166",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Mylilus edulis",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "ed544379-162c-505f-99b2-23692b54f78b",
+          "name_string": "Mylilus edulis",
+          "canonical_form": "Mylilus edulis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "128228984",
+          "url": "http://www.organismnames.com/details.htm?lsid=2896154",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    }
+  ]
+}

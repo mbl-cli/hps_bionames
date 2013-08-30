@@ -1,0 +1,124 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=KYGgtWvHREKNUXzncayLHw",
+  "input_url": null,
+  "file": "Embryology 1988_ 58.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.067164594,
+    "resolve_names_duration": 0.638169362,
+    "total_duration": 22.730034307
+  },
+  "agent": "",
+  "created": "2013-06-18T13:22:13-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 171,
+      "offsetEnd": 177,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Laevis\"",
+      "scientificName": "Laevis",
+      "offsetStart": 179,
+      "offsetEnd": 185,
+      "identifiedName": "Laevis"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 483,
+      "offsetEnd": 489,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Laevis:",
+      "scientificName": "Laevis",
+      "offsetStart": 491,
+      "offsetEnd": 497,
+      "identifiedName": "Laevis"
+    }
+  ],
+  "content": "John Gerhart\nEmbryology Course\nMarine Biological Laboratory\nPage 2\nRobert L. Gimlich and John C. Gerhart, \"Early Cellular Interactions Promote\nEmbryonic Axis Formation in Xenopus Laevis\"\nDevelopmental Biology 10h 117-130 (1984)\nRobert L. Gimlich and Jonathan Cooke, \"Cell Lineage and the Induction of\nSecond Nervous Systems in Amphibian Development\"\nNature Vol. 306, No. 5942 471-473 (1983)\nStanley R. Scharf and John C. Cerhart, \"Determination of the Dorsal-Ventral\nAxis in Eggs of Xenopus Laevis: Complete Rescue of UV-Impaired Eggs by\nOblique Orientation before First Cleavage\"\nDevelopmental Biology 79 181-198 (1980)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Laevis",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "9a42c08f-7241-5791-b373-d08f3754948c",
+          "name_string": "Laevis",
+          "canonical_form": "Laevis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97701148",
+          "local_id": "urn:lsid:ubio.org:namebank:4557477",
+          "global_id": "urn:lsid:ubio.org:namebank:4557477",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4557477",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    }
+  ]
+}

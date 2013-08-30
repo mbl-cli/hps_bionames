@@ -1,0 +1,132 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=XY7Sf4iCQgWxyHieEPQ7MQ",
+  "input_url": null,
+  "file": "Embryology 1939_63M.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.097213545,
+    "resolve_names_duration": 1.664553521,
+    "total_duration": 22.47262929
+  },
+  "agent": "",
+  "created": "2013-06-19T15:30:59-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Gastropoda.",
+      "scientificName": "Gastropoda",
+      "offsetStart": 100,
+      "offsetEnd": 110,
+      "identifiedName": "Gastropoda"
+    },
+    {
+      "verbatim": "Crepidulapfornicata",
+      "scientificName": "Crepidulapfornicata",
+      "offsetStart": 150,
+      "offsetEnd": 168,
+      "identifiedName": "Crepidulapfornicata"
+    },
+    {
+      "verbatim": "Crepidula.",
+      "scientificName": "Crepidula",
+      "offsetStart": 1629,
+      "offsetEnd": 1638,
+      "identifiedName": "Crepidula"
+    }
+  ],
+  "content": "1959\nETVIBHYULOQY   \nHen. l, 5 and 4 are required, nos. 2, 5 and 6 should be done if time\npermits. \nGastropoda.\nl) Study the typical Veliger larva of Crepidulapfornicata.\nObtain material by breaking the animal from the substrate to which(\nit is attached. ~You will find the yellowish eggs (enclosed in trans-\nparent capsules) attached to the substrate or in the shell of the\nmother. Tease the embryos out of the capsules. Obtain swimming\nlarvae in different stages, particularly old ones with the yolk re-\nsorbed. They are transparent and show the inner organs. Consult\nConklin figs. 80-82 and use textbooks of Parker-Haswell vol. I\n(l928$ fig. 657 on p. 754, or MacBride figs. 263 on pages 501 ff,\nor Korschelt, l956, vol. 2, pp. Study dorsal, central and\nlateral views. Mouth and foot are on the ventral side, the anus is\non the fight side.\nNote: l. Velum with powerful cilia.\n2. Head.vesicle (dorsal).\n5. Eyes with lens (dorsal). i\n4. Foot (ventral), study it in lateral view.\n5. (ventral, on basis of foot). \n6, Mouth with powerful cilia (ventral, above the foot).\n7. Oesophagus (dorsal), stomach, liver. The different parts\nof the intestine can be distinguished only in older\nembryos which have resorbed the yolk.\n8. Anus (on right side).\n9. External kidneys (lateral to foot).\nlO. Heart (dorsal), observe the heart beat in older embryos.\nll. Transparent shell.\n2) There is no typical trochoyhore stage in Grepidula.\nStudy stages of direct transformation of the gastrula into the Veliger\nlarva. (Conklin, 5bserve the gradual development\n(of shell gland, shell, velum and foot.\nLiterature:\nConklin, E. G. l8Q7, Embryology of Crepidula. J. Morphol\nvol. l5.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Gastropoda",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "320533b0-8902-5288-a885-a6ea8748702f",
+          "name_string": "Gastropoda",
+          "canonical_form": "Gastropoda",
+          "classification_path": "Animalia|Mollusca|Gastropoda",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2362382|2362383",
+          "taxon_id": "2362383",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "320533b0-8902-5288-a885-a6ea8748702f",
+          "name_string": "Gastropoda",
+          "canonical_form": "Gastropoda",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29005986",
+          "local_id": "2366",
+          "url": "http://eol.org/pages/2366",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Crepidulapfornicata"
+    },
+    {
+      "supplied_name_string": "Crepidula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Calyptraeidae|Crepidula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370194|2370205|2410985",
+          "taxon_id": "2410985",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44534464",
+          "local_id": "404808",
+          "url": "http://eol.org/pages/404808",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

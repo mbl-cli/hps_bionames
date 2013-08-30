@@ -1,0 +1,163 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=XDdAkuaIQsWuTGHMNpYUuA",
+  "input_url": null,
+  "file": "38_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.107496672,
+    "resolve_names_duration": 1.583099607,
+    "total_duration": 40.132991184
+  },
+  "agent": "",
+  "created": "2013-06-18T13:29:13-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Emndulus heteroclituee eebzweea",
+      "scientificName": "Emndulus heteroclituee eebzweea",
+      "offsetStart": 838,
+      "offsetEnd": 868,
+      "identifiedName": "Emndulus heteroclituee eebzweea"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1215,
+      "offsetEnd": 1221,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "R. \"0:;:ygw",
+      "scientificName": "R. 0 ygw",
+      "offsetStart": 1239,
+      "offsetEnd": 1249,
+      "identifiedName": "R. \"0:;:ygw"
+    },
+    {
+      "verbatim": "Loligo",
+      "scientificName": "Loligo",
+      "offsetStart": 1473,
+      "offsetEnd": 1478,
+      "identifiedName": "Loligo"
+    }
+  ],
+  "content": "STUDENT COURSE, EESE,\nor-39? 1\"b?\nAllaiepechg 'Ae amd Pe Fell., A11 analysis of the process of\nHicrocione by time lapse cinematography .\nGiacometti, L.. Observations on cell in \nB., Rate of reeggregation of dissociated. epomge ce3..3.e;}\nGross, J, Attempts to direct migration of epcnge cells en en oriented eubetretee\nstudies on the eel; ef verioue \nGerrick,L? Obeervetione concerning restitution Ln Coe3,enEUR:eret \nSimpson., 3? Inhibitors on Hydranth regeneration.\nCleary, R., Effect oi' implantation of regenerating apex; :cegeremtion\ntime in crocee. 6\nSehabtech,G. Attezapts to demoxzetzutec iwnnme reactions in   and Hydrozoen\nI I\nlab'\n-V - - -- - --Y-V-L  \nEzellg Se Bleetccoel fluid. as a. factor in invaejrixee tiene\nFisher, Ee Observations on the effect of, various eelt eeletioee on the development\nof the cireuletery eyetm in Emndulus heteroclituee eebzweea\nGerrieon, H. Obeervetions concerning blocking and pm1ct1e;ffe effects on the stolen\nof Peroghore. viridise\nGorman, Do Effects of magnetic fields on early cleevegee\nUlark,A. The normal development of an Accel fleteoree\nLanyi, Attempts to incorporate P32 into Arbecie embryee 0\nLehrer, H. Preliminary observations on the role of various agents on Arbacia embryos\nSearls, R. \"0:;:ygw uptake in us edulie.;\nSkalko, HQ. The effects of 5-bromouracil and the development of\nAr' 133.013,   \nKellend, J., Effects of litixium chloride on emgaetruletiee.   erbeciac\nnot repertinge\nI~Iid?laugh, M.   experiments on Loligo oi ealiie\n .nA \nnotes: \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Emndulus heteroclituee eebzweea",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "f9e69441-e5c2-51ff-ab8c-fc7710bdb611",
+          "name_string": "Fundulus heteroclitus (Linnaeus, 1766)",
+          "canonical_form": "Fundulus heteroclitus",
+          "classification_path": "Animalia|Chordata|Vertebrata|Osteichthyes|Actinopterygii|Neopterygii|Teleostei|Acanthopterygii|Cyprinodontiformes|Cyprinodontoidei|Fundulidae|Fundulus|Fundulus heteroclitus",
+          "classification_path_ranks": "Kingdom|Division|Subdivision|Superclass|Class|Subclass|Infraclass|Superorder|Order|Suborder|Family|Genus|Species",
+          "classification_path_ids": "202423|158852|331030|161030|161061|553120|161105|166082|553130|165614|553174|165644|165647",
+          "taxon_id": "165647",
+          "match_type": 5,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "R. 0 ygw"
+    },
+    {
+      "supplied_name_string": "Loligo",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b4c5a691-9ab2-55fb-919e-b64cfec92d7b",
+          "name_string": "Loligo",
+          "canonical_form": "Loligo",
+          "classification_path": "Animalia|Mollusca|Cephalopoda|Teuthida|Loliginidae|Loligo",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2370028|2370052|2370067|2431307",
+          "taxon_id": "2431307",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b4c5a691-9ab2-55fb-919e-b64cfec92d7b",
+          "name_string": "Loligo",
+          "canonical_form": "Loligo",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20630784",
+          "local_id": "38585",
+          "url": "http://eol.org/pages/38585",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

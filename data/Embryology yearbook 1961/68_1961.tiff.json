@@ -1,0 +1,97 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Jn8FRBwIQIWVqYNUAiymeQ",
+  "input_url": null,
+  "file": "68_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.168760583,
+    "resolve_names_duration": 0.4556656,
+    "total_duration": 28.01721183
+  },
+  "agent": "",
+  "created": "2013-06-18T12:41:55-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 116,
+      "offsetEnd": 122,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 266,
+      "offsetEnd": 272,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 530,
+      "offsetEnd": 536,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1649,
+      "offsetEnd": 1655,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "ADDITIONAL DEVELOPMENT\nBrooks, W. K. Handbook of lnverTebraTe oology. BosTon\nDan, K. l954. The corTical movemenT in Arbacia puncTulaTa eggs Through cleavage\ncycles. Embryologia 2: ll5\nHarvey, E. N. l932. Physical and chemical consTanTs of The egg of The sea\nurchin, Arbacia puncTulaTa. Biol. Bull. 62: l4l\nHorsTadius, S. l92B. Uber die deTerminaTion des keimes bei Echinodermen.\nAcTa Zool. 9:l \nl957. lnvesTigaTions as To The localizaTion of micromere~, The\nskeleTon-, and The endoderm-forming maTerial in The unferTilized egg of\nArbacia puncTulaTa. Biol. Bull. 75: 295\nLorch, l. and J.Danielli, l953. The eTTecT of enucleaTion on The\ndevelopmenT of sea urchin eggs. ll. EnucleaTion of animal or vegeTal halves\nExp. Cell Res. 4:263\nKorschelT, K. and K. Heider, l895. TexT~book of Embryology of lnverTebraTes.\nNew York\nKrahl, M. l95O. MeTabolic acTiviTies and cleavage of eggs of The sea urchin,\nArbac ia puncTulaTa, a review, |932-1949 Biol. Bull 9B:l75 (Bi pages of\nbibliography)\nMorgan, T. l927. ExperimenTal Embryology, New York\nPease, D. l939. An analysis of The facTors of bilaTeral deTerminaTion in\ncenTriTuged embryos. Jour. Exp. Zool. \nRulon, D. l952. The modificaTions of developmenTal paTTerns in The sand dollar\nby glucose. Physiol. Zool. 25:346\nTaylor, C. and D. TennenT l924. Preliminary reporT on The developmenT of egg\nfragmenTs. Yearbook Carnegie lnsT. 23: 20|\nTennenT, D., C. Taylor and D. WhiTaker, l929. An invesTigaTion on organizaTion\nin a sea urchin egg. Pap. TorTugas Lab. 26: \nCosTello, D. P. eT al. 1957. MeThods Tor obTaining and handling marine eggs\nand embryos. M.B.L., Woods Hole, Mass.\nHarvey, E. B. l957. The American Arbacia and oTher sea urchins. PrinceTon\nUniversiTy Press, N. J.\nNoTe: An exTensive bibliography on FerTilizaTion (prepared by Dr. R. D. Allen)\nwill be available in The laboraTory.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

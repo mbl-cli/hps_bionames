@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=sg4dVYjoSUOASsyKm2bJvg",
+  "input_url": null,
+  "file": "6_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.047147143,
+    "total_duration": 22.287100028
+  },
+  "agent": "",
+  "created": "2013-06-18T12:42:11-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "A\nK.\n'z\n\n\n\n-.4\nf-.-yarn-f:-\"ii\n\n\n\n\n\n\n\n\n\n\n"
+}

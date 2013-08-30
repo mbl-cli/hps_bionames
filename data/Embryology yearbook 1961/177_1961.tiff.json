@@ -1,0 +1,136 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Pt0z15eHRByDLnwQWPHgtA",
+  "input_url": null,
+  "file": "177_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.14835235,
+    "resolve_names_duration": 0.585349834,
+    "total_duration": 28.115129486
+  },
+  "agent": "",
+  "created": "2013-06-18T12:22:38-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 1793,
+      "offsetEnd": 1797,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 1899,
+      "offsetEnd": 1903,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 2415,
+      "offsetEnd": 2419,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2811,
+      "offsetEnd": 2817,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\n5\n~l5~\n4\ndemonsTraTed a cell morphologically similar To The verTebraTe in These\nanimals, iT was decided To TesT Qj9ng inTesTinalis for iTs reacTion To grafTing and\ninfecTion. RespecTively, in verTebraTes, This generally corresponds To TesTing\nfor cell-mediaTed anTibody and for circulaTlng anTibody.\nln The firsT case, 28 animals supporeed a ToTal of 46 auTografTs and/or\nhomografTs. GraTTs were approximaTely pieces of The Tunic and underlying\nTissues and were implanTed inTo wounds of similar size and depTh. The response\nwas sTudied as long as 46 days, No indicaTion of even a possible firsT-seT re-\nacfion by sloughing of The enTire grafT was found. However, for unknown reasons,\none animal supporTing adjacenT auTo- and homografTs sloughed The surface of boTh\nin 4 days, anoTher supporTing similar non-adjacenT grafTs sloughed The surface of\nboTh in 3 days, and a Third animal sloughed parT of a homograTT in 4 days.\nDue To The relaTive pauciTy of cells in The grafTed Tissue such ThaT a\ngeneralized sloughing mighT noT occur, a hisTological examinaTion was underTaken\nfor indicaTions in homografTs as opposed To auTografTs oT cellular acTiviTy wiTh\npossible deaTh of grafT cells and repopulaTion of The grafT by hosT cells. To\nThis Time, secTions of homografTs in place for l4 and 75 hours and of homografTs\nand auTografTs in place Tor 23 hours, 23 days, and 40 days have been made. No\nreacTion specific To The homografTs has yeT been observed. The series of homo-\ngrafT, auTografT, and wounding alone fixed from To 9 days aTTer grafTing as well\nas The older grafTs which have noT yeT been secTioned may provide furTher informa-\nTion on This poinT.\nTo TesT for circulaTing anTibody, OuchTerlony plaTes were prepared.\nThe cenTral well conTained The supernaTanT of cenTrifuged blood from Ciona\nrecovered from a disease which resulTs in blackening of The base and lower half\nof The body or from Ciona in which This disease had never been observed. The\nouTside wells conTained anTigen\" prepared from a dry ice grindaTe of diseased\nand nondiseased Tissues. No reacTion was ever observed in such plaTes. NegaTive\nresulTs were also obTained wiTh The ring TesTs for precipiTaTing anTibody which\nwere run wiTh The same reagenTs. lT is possible, however, ThaT a good anTigen\npreparaTion was noT obTained, especially as aTTempTs To induce The disease by\nTransfer of The same Tissue used in such preparaTions To healThy Ciona failed in\n4/5 cases To induce The disease. ln The one successful case, The disease appeared\nwiThin one day and may Therefore have been coincidenTal.\nln summary, no evidence for immune reacTions by means of grafT rejecTion\nor 0uchTerlony precipifin bands has been provided by This sTudy.\nSEARLS, ROBERTT. An invesiigaiiangiaxygen eggs\nThe oxidaTive changes which occur upon TerTilizaTion of Arbacia eggs\nhave been The subjecT of considerable invesTigaTion since Warburg TirsT examined\nThem in l908. ln These eggs, The raTe of oxygen upTake decreases on laying To\na very low value. Upon ferTilizaTion The raTe increases very suddenly To abouT\nfour Times The raTe of unferTilized eggs.\nThese resulTs are easily explained as an inhibiTion of elecTron TransporT\nin The resTing egg and release from inhibiTion upon ferTilizaTion. An inhibiTor\nof cyTochrome oxidase which disappears on TerTilizaTion has been found in The\ncyToplasm of These eggs, Maggio and Munroe l959. The value of This phenomenon To\nThe cell's meTabolism is quiTe obvious and iT has been assumed ThaT This\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ciona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957",
+          "taxon_id": "2421957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628900",
+          "local_id": "43439",
+          "url": "http://eol.org/pages/43439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

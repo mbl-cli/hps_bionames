@@ -1,0 +1,124 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=GVOeptCbTViWHZLFJkeAEw",
+  "input_url": null,
+  "file": "Embryology 1988_ 148.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.21560862,
+    "resolve_names_duration": 0.909855129,
+    "total_duration": 24.64396085
+  },
+  "agent": "",
+  "created": "2013-06-18T13:12:38-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "E. coli",
+      "scientificName": "E. coli",
+      "offsetStart": 674,
+      "offsetEnd": 680,
+      "identifiedName": "E. coli"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1017,
+      "offsetEnd": 1026,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "MBL Embryology 88\nKeith Yamamoto\nJuly 26, 1988\nLONG RANGE MECHANISMS FOFZA TRANSCRIPTIONAL REGULATION\nReviews\nStruhl, K. (1987) Promoters, activator proteins, and the mechanism of transcriptional\ninitiation in yeast. Cell 53, 295-297.\nManiatis, T., Goodbourn, S. and Fischer, J.A. (1987) Regulation of inducible and\ntissue-specific gene expression. Nature 236, 1237-1245.\nYamamoto, K.R. (1985) Steroid receptor regulated transcription of specific genes and\ngene networks. Ann. Rev. Genet. 19, 209-252.\nCharacteristics of enhancers, enhancer binding proteins: modular, ubiquitous, context\ndependent, consen/ed.\nReitzer, L.J. and Magasanik, B. (1986) Transcription of glnA in E. coli is stimulated\nby activator bound to sites far from the promoter. Cell 55, 785-792.\nFluhr, R., Kuhlemeier, C., Nagy, F. and Chua, N.-H. (1986) Organ-specific and\nlight-induced expression of plant genes. Science 232, 1106-1112.\nGarabedian, M.J., Sheperd, B.M. and Wensink P.C.. (1986) A tissue-specific A\ntranscription enhancer from the Drosophila yolk protein 1 gene. Cell 43, 859-867.\nJones, N.C., Rigby, P.W.J. and Ziff, E.B. (1988) Trans-acting protein factors and the\nregulation of eukaryotic transcription: lessons from studies on DNA tumor viruses.\nGenes and Devel. 2, 267-281.\nBaldwin, A.S. and Sharp, P.A. (1988) Two transcription factors, and H2TF1,\ninteract with a single regulatory sequence in the class I major histocompatibility\ncomplex promotor. Proc. Nat. Acad. Sci. USA 35, 723-727.\nKeleher, Goutte, C. and Johnson, A.D. (1988) The yeast cell-type spcific repressor\nalpha-2 acts cooperatively with a non-cell-spcific protein. Cell 53, 927-936.\nChodsh, L.A., Olsen, J., Hahn, S., Baldwin, A.S., Guarente, L. and Sharp, P.A. (1988) A\nyeast and human CCAAT-binding protein have heterologous subunits that are functionally\ninterchangable. Cell 53, 25-35.\nSchena, M.S. and Yamamoto K.R. (1988) Mammalian glucocorticoid receptor derivatives\nenhance transcription in yeast. Science (in press).\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "E. coli",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "56737fca-0907-55ad-a9cb-018188c8a358",
+          "name_string": "E. coli O157:H7-specific bacteriophage L1",
+          "canonical_form": "E. coli",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5006778",
+          "local_id": "11603368",
+          "url": "http://eol.org/pages/11603368/names/synonyms",
+          "match_type": 2,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "56737fca-0907-55ad-a9cb-018188c8a358",
+          "name_string": "E. coli O157:H7-specific bacteriophage L1",
+          "canonical_form": "E. coli",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5006778",
+          "local_id": "11603368",
+          "url": "http://eol.org/pages/11603368/names/synonyms",
+          "match_type": 2,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

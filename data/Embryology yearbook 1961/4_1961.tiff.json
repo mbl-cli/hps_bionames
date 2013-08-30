@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=djZMsUeOQzyuPvTt6osykw",
+  "input_url": null,
+  "file": "4_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.128995923,
+    "resolve_names_duration": 0.752330334,
+    "total_duration": 32.14826295
+  },
+  "agent": "",
+  "created": "2013-06-18T12:34:54-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Chelaeae",
+      "scientificName": "Chelaeae",
+      "offsetStart": 129,
+      "offsetEnd": 136,
+      "identifiedName": "Chelaeae"
+    }
+  ],
+  "content": "\nHands In Lehrex\nrf*  Lo Renaud\n :retchen Schabtach\nIf  L., Searls\nidney Bo Simpabn, .Tre\nG. Skalko\ngame address\n105 Cottage St,\nChelaeae Messe\n463.2 Colfax Avee See\nMmneapolis 9, Minn.,\n2013 Cacique Ste\nOcean Park\nSantuxceg \nues \na, lm,\n623 semi sn,\nWaltham, Mass.,\n1204 Nl, \nRussellville, Arke\n5% NE 18't Sta \nGainesville, Flae\ngg; pther adczreess\nGraduate Department of Biecaemev \nBrandeis University\nwaltm 54, Messe\nBeparment of Zoolog\nUniversity of Minrxesote\nDepartment of Zoolow\nUniversity of Chicago\nchicago 37, Ill.,\nCarnegie Institution of wa..kd..ngtEUR>n\nDepartment of mbryology\n115 We University Pkvyo\nBsltimoge 10, Md.,\nBiolcg Department\nBrandeis University\nWaltham\" Hazel,\nZoology Deparmant\nTulane University\nNew Orleans 18, Lac\nDepartment of Anatom\nCollege of Medicine\nUniversity of Flerida\nF130\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Chelaeae"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=b5KEBE4lTbe9WlZm5lvLEw",
+  "input_url": null,
+  "file": "96_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.138157717,
+    "resolve_names_duration": 1.278999093,
+    "total_duration": 29.252594154
+  },
+  "agent": "",
+  "created": "2013-06-18T12:51:58-04:00",
+  "total": 8,
+  "names": [
+    {
+      "verbatim": "Hydrozoa",
+      "scientificName": "Hydrozoa",
+      "offsetStart": 17,
+      "offsetEnd": 24,
+      "identifiedName": "Hydrozoa"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 182,
+      "offsetEnd": 191,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Hydrozoa.",
+      "scientificName": "Hydrozoa",
+      "offsetStart": 351,
+      "offsetEnd": 359,
+      "identifiedName": "Hydrozoa"
+    },
+    {
+      "verbatim": "(Gonionemus,",
+      "scientificName": "Gonionemus",
+      "offsetStart": 1410,
+      "offsetEnd": 1421,
+      "identifiedName": "Gonionemus"
+    },
+    {
+      "verbatim": "Bouqainvillia",
+      "scientificName": "Bouqainvillia",
+      "offsetStart": 1824,
+      "offsetEnd": 1836,
+      "identifiedName": "Bouqainvillia"
+    },
+    {
+      "verbatim": "(Obelia)",
+      "scientificName": "Obelia",
+      "offsetStart": 2033,
+      "offsetEnd": 2040,
+      "identifiedName": "Obelia"
+    },
+    {
+      "verbatim": "(Bougainvillia)",
+      "scientificName": "Bougainvillia",
+      "offsetStart": 2056,
+      "offsetEnd": 2070,
+      "identifiedName": "Bougainvillia"
+    },
+    {
+      "verbatim": "Bougainvillia",
+      "scientificName": "Bougainvillia",
+      "offsetStart": 2167,
+      "offsetEnd": 2179,
+      "identifiedName": "Bougainvillia"
+    }
+  ],
+  "content": "\nlnTroducTion To Hydrozoa \nExamine a colony under The lowesT power of your dissecTing microscope in The\ncase oT The smaller forms or wiTh The naked in The case of large form such as\nTubularia.\nClip a few pieces conTaining The besT embryological maTerial and\nThem in plenTy of sea waTer in a dish Tor furTher sTudy.\nare Two phases of embryology in The Hydrozoa. CharacTerisTically, a long\nsegregaTe\n(A) Types oT Life HisTory \nThere\nseries of\nirregular\nasexual)reproducTions (by budding and oTher meThods) is inTerrupTed aT\ninTervals by isolaTed examples of sexual reproducTiog, This occurring\nusually in response To environmenTal condiTions prevailing aT cerTain Times of The\nyear. This alTernaTion\nof sexual and asexual generaTions (meTagenesis) is closely\nparalleled by an alTernaTion in sTrucTure, since zygoTe producTion is Typically\naccomplished by medusae and The producTion of buds by polyps. ExcepTions exisT,\nhowever, in which The polyp produces sex calls gydra) or in which The medusa\nreproduces asexually by\nln some hydrozoa no\nAll of The inTermediaTe\nly reduced, exisT. The\nbudding \nmedusa-form exisTs, while in oThers There is no polyp~Torm.\nsTages, in which The medusa or The polyp forms are various~\nhydrozoa available aT Woods Hole illusTraTe well The\nsTrucTural variabiliTy of The medusa-sTaTe. The besT known example of a compleTe\nmedusa wiTh degeneraTe polyp sTage is The idealized jellyfish (Gonionemus, buT\nunTorTunaTely iT is now nearly exTincT aT Woods Hole. The genera picked for sTudy\nare`arranged in The order of decreasing compleTeness of The medusa-form, The firsT\nhaving free-swimming medusae and The |asT mere sporosacs. The uTTer degeneraTion\n(namely The absence) of The medusa form is illusTraTed by The familiar Hydra.\nLabogaTory Procedure i\nA. STudy of forms wiTh perfecT medusae \nExamples: Bouqainvillia, Obella, PoQ9goryneJ\nZygoTe shed from medusa; DevelopmenT To planula\nlarva; Mefamorphosis To polyp; Asexual budding of The polyps To form a colony;\nMedusae formed by special buds, in a gonangium (Obelia) or separaTely (Bougainvillia)\nShedding of medusae, which slowly maTure as separaTe individuals before forming\neggs or sperm.\nBougainvillia (June, July, AugusT; noT always available in June)\nThe gonophores are borne singly or in clusTers on The main sTem and branches;\nand in This genus develop inTo compleTe medusae. The medusa buds are scaTTered\nirregularly ThroughouT The colony, There being no orderly arrangemenT according\nTo age. SelecT buds ThaT show various sTages of medusa developmenT and mounT Them\nunder cover slips. The sTrucTure of The medusa buds may be made more apparenT\nby The removal of waTer from beneaTh The cover slip wiTh absorbenT paper applied To\nThe edge of The slip, Thus compressing and spreading The buds \nwhen all of iTs parTs excepT The gonads are Tully formed, The medusa breaks\nloose and swims away. lT lives independenTly Tor one or Two monThs, The gonads\ngradually maTuring. Find a well-developed specimen ThaT is swimming acfively\nand skeTch iTs sTrucTure roughly. NoTe The velum, The presence of which is a key\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Hydrozoa",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2363435|2363454",
+          "taxon_id": "2363454",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992508",
+          "local_id": "1795",
+          "url": "http://eol.org/pages/1795",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gonionemus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "9bb907e5-8209-53cf-82ec-132fb2b9bedd",
+          "name_string": "Gonionemus",
+          "canonical_form": "Gonionemus",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Limnomedusae|Olindiasidae|Gonionemus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363468|2363469|2394684",
+          "taxon_id": "2394684",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "9bb907e5-8209-53cf-82ec-132fb2b9bedd",
+          "name_string": "Gonionemus",
+          "canonical_form": "Gonionemus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28551714",
+          "local_id": "23672",
+          "url": "http://eol.org/pages/23672",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Bouqainvillia",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Obelia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Leptothecata|Campanulariidae|Obelia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363465|2366699|2394668",
+          "taxon_id": "2394668",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327602",
+          "local_id": "18217",
+          "url": "http://eol.org/pages/18217",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Bougainvillia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3a8e6289-01fb-5198-bc46-412913a78f9c",
+          "name_string": "Bougainvillia",
+          "canonical_form": "Bougainvillia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Bougainvilliidae|Bougainvillia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366702|2394425",
+          "taxon_id": "2394425",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3a8e6289-01fb-5198-bc46-412913a78f9c",
+          "name_string": "Bougainvillia",
+          "canonical_form": "Bougainvillia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327524",
+          "local_id": "23410",
+          "url": "http://eol.org/pages/23410",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

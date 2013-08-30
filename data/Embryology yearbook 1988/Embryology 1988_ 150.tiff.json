@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=NN8tyXeBQnmbvlD3ilV6WQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 150.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.063982116,
+    "total_duration": 18.642177929
+  },
+  "agent": "",
+  "created": "2013-06-18T13:12:59-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "3\nWilson, A.C., Carlson, S.S. and White, T.J. (1977) Biochemical evolution.\nAnn. Flev. Biochem. 45, 573-639.\nFischer, J.A. and Maniatis, T. (1986) Regulatory elements involved in Adh\ngene expression are conseved in divergent species and separate elements meidate\nepxression in different tissues. EMBO J. 5, 1275-1289.\nZachar, Z., Davison, D., Garza, and Bingham, P.M. (1985) A detailed developmental\nand structural study of the trancriptional effects of insertion of the cgpia transposon into\nthe white locus of  . Genetics 495-515.\nErrede, B., Company, M. and Hutchison Ill, (1987) A Ty1 with enhancer and\nmating type dependent regulatory activities. Molec. Cell Biol. Z, 258-265.\n\n"
+}

@@ -1,0 +1,173 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=x3ZsLCQOT1Kqr3QKv2OSSw",
+  "input_url": null,
+  "file": "Embryology 1939_13.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.117407875,
+    "resolve_names_duration": 1.149862773,
+    "total_duration": 21.65203958
+  },
+  "agent": "",
+  "created": "2013-06-19T15:20:06-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 474,
+      "offsetEnd": 481,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Pundulus majalis",
+      "scientificName": "Pundulus majalis",
+      "offsetStart": 514,
+      "offsetEnd": 529,
+      "identifiedName": "Pundulus majalis"
+    },
+    {
+      "verbatim": "F",
+      "scientificName": "Majalis",
+      "offsetStart": 571,
+      "offsetEnd": 571,
+      "identifiedName": "Majalis"
+    },
+    {
+      "verbatim": "Fo\nheteroclitus",
+      "scientificName": "Fo heteroclitus",
+      "offsetStart": 605,
+      "offsetEnd": 619,
+      "identifiedName": "Fo heteroclitus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1455,
+      "offsetEnd": 1462,
+      "identifiedName": "Fundulus"
+    }
+  ],
+  "content": "\n1959\neggs and an equal number from the same lot of fertilized eggs\nshould be kept as a control experiment under identical conditions.\nMake comparisons at the same time intervals of different stages of\ndevelopment of Hao two lots. ls it to be expected that puncture of\nany one of the cells of the four-cell stage will give identical ro-\nsults? Keep careful records, See bibliography for reference to\nprevious experiments.\no. Experimental hydridization. Fertilize the egg of Fundulus\nneteroclitus with the sperm of Pundulus majalis. Make also the\nreciprocal cross (egg of F. Majalis fertilized by spenn of Fo\nheteroclitus.) ln planning this experiment the two sexes should\nCm Kept in separate aquaria for several hours and few noments in\nfresh water given an additional precaution against the presence\nof undesired spermatozoa. Crosses between Fi heteroclitus and the\nounner (Tautogolabrusl may also be attenptedf ln all eases control\negperinents snould be carried out and a careful comparison should\nbe wade of the normal and hybrid development,\nSono points that may be noted in these comparisons are rates\ndevelopment, gross morphological structures, appearance of\n,nyfuatcpnoros, etc. See bibliography for reference to previous\n<e;pml:ii;cf1ts.\ncv Uyclopian monsters and other defects may be produced by treat~\nalcohol or magnesium chloride using methods outlined\nSteekard 'lO.\ne. The activation of tne egg. Sea water has a certain activating\noifect on Fundulus eggs. This may be studied by placing unfer~\n,zlized eggs in sea water and carefully comparing changes in struc~\netzos and rate of reaction with normally fertilized eggs. Further\nworn may be done by noting effect of hype and hyper-tonic solutions\nof Known concentrations. Similar precautions to those suggested\nunder should be observed in obtaining unfertilined eggs.\ne. Studies may also be made in regard to the possibility of\nfertilizing eggs treated as nentioied above. How long and under\n#Fat conditions can an eg( remain in the solutions and yet be\nT3 1 \nrti1ized? How long does tfe ~perm retein its fertilisin; poser?\n(J 6 A . .,\nWhat dilutions of sperm will effect fertilization?\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pundulus majalis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "f9e07706-727c-585a-8184-1585f5d88bfc",
+          "name_string": "Fundulus majalis (Walbaum, 1792)",
+          "canonical_form": "Fundulus majalis",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus|Fundulus majalis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458|8583707",
+          "taxon_id": "8583707",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "1c63f2bb-19e0-5f6e-a617-69e29bc4ac4e",
+          "name_string": "Fundulus majalis (Walbaum, 1972)",
+          "canonical_form": "Fundulus majalis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44519518",
+          "local_id": "203797",
+          "url": "http://eol.org/pages/203797",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Majalis",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "89401923-0cc3-59c9-8e3e-da37b880317c",
+          "name_string": "Majalis",
+          "canonical_form": "Majalis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97386792",
+          "local_id": "urn:lsid:ubio.org:namebank:4230646",
+          "global_id": "urn:lsid:ubio.org:namebank:4230646",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4230646",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Fo heteroclitus"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=soRtM8zoQACJ6OT6hiFUtQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 45.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.128745951,
+    "resolve_names_duration": 1.747833909,
+    "total_duration": 26.516159614
+  },
+  "agent": "",
+  "created": "2013-06-18T13:19:57-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "C. elegans",
+      "scientificName": "C. elegans",
+      "offsetStart": 70,
+      "offsetEnd": 79,
+      "identifiedName": "C. elegans"
+    },
+    {
+      "verbatim": "Caenorhabditis elegans",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 135,
+      "offsetEnd": 156,
+      "identifiedName": "Caenorhabditis elegans"
+    },
+    {
+      "verbatim": "Caenorhabditis elegans",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 481,
+      "offsetEnd": 502,
+      "identifiedName": "Caenorhabditis elegans"
+    },
+    {
+      "verbatim": "Caenorhabditis elegans",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 572,
+      "offsetEnd": 593,
+      "identifiedName": "Caenorhabditis elegans"
+    }
+  ],
+  "content": " 1 \n  I\no.f'r'1+ (ft >\"f18<<f\nEMBRYOLOGY COURSE\nWoods Hole, June 1988\nC. elegans bibliography\nReviews:\n1. Wood, W.B. 1988 The Nematode Caenorhabditis elegans. Cold\nSpring Harbor Laboratory. New York.\n2. Sternberg, P.W. and H.R. Horvitz 1984 The genetic control of\ncell lineage during nematode development. Ann. Rev. Genetics 18,\n489 - 524.\n3. Emmons, S. 1987 Mechanisms of Q; elegans development. Cell\n51, 881-883.\n4. Hodgkin, J. 1987a Sex determination and dosage compensation\nin Caenorhabditis elegans. Ann. Rev. Genetics. 21, 133-154.\n5. Kenyon, C. (1988) The nematode Caenorhabditis elegans.\nScience 240, 1448-1453.\nDescription of nematode cell lineages: -\n1. Suston, J.E. and Horvitz, H.R. 1977 Postembryonic cell\nlineages of the nematode Q; elegans. Dev. Biol. 56, 110 - 156.\n2. Kimble, J. and Hirsh, D. 1979 cell lineages of\nthe hermaphrodtie and male gonads in Q; elegans. Dev. Biol. 70,\n396 - 417.\n3. Sulston J.E. Schierenberg, E., White, J.G., and Thomson, J.N.\n1983 The embryonic cell lineage of the nematode Q; elegans. Dev.\nBiol. 100, 64 - 119.\nBlastomere isolation and defect experiments:\n1. Sulston, J.E. and White, J.G. 1980 Regulation and cell\nautonomy' during* postembryonic development of Qg  elegans. Dev.\nBiol. 78, 577 - 597.\n2. Laufer, J.S., Bazzicalupo, P. and Wood, W.B. 1980 Segregation\nof developmental potential in early embryos of Q; elegans. Cell\n19. 569-577. \n3. Kimble, J. 1981 Lineage alterations after ablation of cells\nin the somatic gonad of Q; elegans. Dev. Biol. 87, 286 - 300.\n4. Kimble, J. and White, J.G. 1981 On the control of germ cell\ndevelopment in Q; elegans. Dev. Biol. 81, 208 - 219.\n5. Sternberg, P.W. and Horvitz, H.R. 1986 Pattern formation\nduring vulval development in Q; elegans Cell 44, 761-772.\n6. Priess, J.R. and Thomson, J.N. 1987 Cellular interactions in\nearly Q; elegans embryos. Cell 48, 241-250.\nLineage mutants: \n1. Chalfie, M. IL Robert Horvitz, and JT. E. Suston 1981\nMutations that lead to reiterations in the cell lineages of \nelegans. Cell 24, 59-69.\n2. Ferguson, E.L. and Horvitz, H.R. 1985 Identification and\ncharacterization of 22 genes that affect the vulval cell lineages\nof QL elegans. Genetics 110, 17 - 72.\n3. Ferguson, E.L., Sternberg, P.W. and Horvitz, H.R. 1987 A\ngenetic pathway for the specification of the vulval cell lineages\nof Q; elegans. Nature 326, 259-267.\n1\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "C. elegans",
+      "results": [
+        {
+          "data_source_id": 8,
+          "data_source_title": "Interim Register of Marine and Nonmarine Genera",
+          "gni_uuid": "44175eb8-7b3c-5d2d-9e8e-2581ea81a6d0",
+          "name_string": "Uca elegans George & Jones, 1982",
+          "canonical_form": "Uca elegans",
+          "classification_path": "Animalia|Arthropoda|Malacostraca|Decapoda|Ocypodidae|Uca|Uca elegans",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "11|235|1190|10704|110386|1048533|11123623",
+          "taxon_id": "11123623",
+          "local_id": "11123623",
+          "url": "http://www.marine.csiro.au/mirrorsearch/ir_search.taxon_info?id=11123623",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f26f2dc1-17e2-5b7c-9e1a-d5ed42107077",
+          "name_string": "Uca (Australuca) elegans George & Jones, 1982",
+          "canonical_form": "Uca elegans",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30065548",
+          "local_id": "3118931",
+          "url": "http://eol.org/pages/3118931",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 5,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Caenorhabditis elegans",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "642c0c40-8323-52dd-85fc-7578cebc6958",
+          "name_string": "Caenorhabditis elegans",
+          "canonical_form": "Caenorhabditis elegans",
+          "classification_path": "Animalia|Nematoda|Secernentea|Rhabditida|Rhabditidae|Caenorhabditis|Caenorhabditis elegans",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2370385|2370467|2370489|2370502|2458420|6906297",
+          "taxon_id": "6906297",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "642c0c40-8323-52dd-85fc-7578cebc6958",
+          "name_string": "Caenorhabditis elegans",
+          "canonical_form": "Caenorhabditis elegans",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34422705",
+          "local_id": "403869",
+          "url": "http://eol.org/pages/403869",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

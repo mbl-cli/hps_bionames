@@ -1,0 +1,228 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=29dVk84pTVSUuV2UPvMjWw",
+  "input_url": null,
+  "file": "Embryology 1939_17B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.120805569,
+    "resolve_names_duration": 1.012634196,
+    "total_duration": 20.75236106
+  },
+  "agent": "",
+  "created": "2013-06-19T15:24:07-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 251,
+      "offsetEnd": 258,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Oryzias latipes",
+      "scientificName": "Oryzias latipes",
+      "offsetStart": 348,
+      "offsetEnd": 362,
+      "identifiedName": "Oryzias latipes"
+    },
+    {
+      "verbatim": "Carassius auratus",
+      "scientificName": "Carassius auratus",
+      "offsetStart": 761,
+      "offsetEnd": 777,
+      "identifiedName": "Carassius auratus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1159,
+      "offsetEnd": 1166,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Ctenolabrus.",
+      "scientificName": "Ctenolabrus",
+      "offsetStart": 1172,
+      "offsetEnd": 1183,
+      "identifiedName": "Ctenolabrus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1226,
+      "offsetEnd": 1233,
+      "identifiedName": "Fundulus"
+    }
+  ],
+  "content": "1 f'\nBancroft, F. W.\nGoodrich, H. B.\nGoadiich, H. B.\nGoodrich, H. B.\nH, B.\nG3odricn  H. B.\nLoeb. J.\nMoenkhaue, W. J.\n  ne   .9 \nMorris, Margaret\nNavman, H. H.\nPi\ni.irey, M. E.\n1959 4.\nVII. DEVELOPMENT OF GENETIC CHARACTERS\nHeredity of pigmentation in Fundulus hybrids Jour.\nExp. Zool. 12, 1912\nA study of the development of Mendelian Characters\nin Oryzias latipes Jour, HXp.'Zool. 49, 1929\nMendelian inheritance in Fish, Quart, Review of\nBiology 41, 1929 (contains bibliography of genetic\nwork on fish.) \nOne step in the development of hereditary pigmenta-\ntion in the fish oryzias latipes. Biol, Bull. 65,\n1955\nThe development of hereditary color fish\nAm. Nat. 69, 1955\nand I. B. Hansen. The post embryonic development\nof mendelian characters in the gold fish Carassius\nauratus Jour, Exp, Zool. 59, 1951\nHeredity in heterogeneous hybrids. Jour. Morph.\n23, 1912. 1\nThe development of Hybrids between Fundnlue heter-\noclitus and lenidia notata with especial reference\nto the behavior of the maternal and paternal chro~\nmatin. Am. Jour. Anat, 5, 1904. \nEmbryology and Genetics. Columbia Univ. Press,\nNew Yorkf 1934.\nThe behavior of chromatin in hybrids between\nFundulus and Ctenolabrus. Jour. Exp. Zool. 16, 191\nHybrids between Fundulus and Mackerel. Jour. Exp.\nZool. 26, 1919. (See this for reference to other\npaper by same author).\nThe initial block in normal development in cross\nfertilized eggs. Jour. Morph. 56, 1922.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Oryzias latipes",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "651da240-d3f3-5e5d-af06-433ecbec36d0",
+          "name_string": "Oryzias latipes",
+          "canonical_form": "Oryzias latipes",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Elopocephala|Clupeocephala|Euteleostei|Neognathi|Neoteleostei|Eurypterygii|Ctenosquamata|Acanthomorpha|Euacanthomorpha|Holacanthopterygii|Acanthopterygii|Euacanthopterygii|Percomorpha|Smegmamorpha|Atherinomorpha|Beloniformes|Adrianichthyoidei|Adrianichthyidae|Oryziinae|Oryzias|Oryzias latipes",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||class||||||||||||||superorder|||||order|suborder|family|subfamily|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|7898|186623|41665|32443|186624|186625|32447|186839|123365|123366|123367|123368|123369|123370|32455|129947|32485|129949|32456|76071|28781|47757|8088|8089|8090",
+          "taxon_id": "8090",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "651da240-d3f3-5e5d-af06-433ecbec36d0",
+          "name_string": "Oryzias latipes",
+          "canonical_form": "Oryzias latipes",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35660145",
+          "local_id": "211215",
+          "url": "http://eol.org/pages/211215",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 22,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Carassius auratus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "5a4c2faa-f550-59f8-887f-ebbc153aebf7",
+          "name_string": "Carassius auratus",
+          "canonical_form": "Carassius auratus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Elopocephala|Clupeocephala|Otocephala|Ostariophysi|Otophysi|Cypriniphysi|Cypriniformes|Cyprinoidea|Cyprinidae|Carassius|Carassius auratus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||class||||||||||order|superfamily|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|7898|186623|41665|32443|186624|186625|186634|32519|186626|186627|7952|30727|7953|7956|7957",
+          "taxon_id": "7957",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5a4c2faa-f550-59f8-887f-ebbc153aebf7",
+          "name_string": "Carassius auratus",
+          "canonical_form": "Carassius auratus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29117025",
+          "local_id": "214363",
+          "url": "http://eol.org/pages/214363",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ctenolabrus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cf3d07b0-8e64-5fc0-b7ad-828e593e60aa",
+          "name_string": "Ctenolabrus",
+          "canonical_form": "Ctenolabrus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Perciformes|Labridae|Ctenolabrus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2365601|2365711|2398423",
+          "taxon_id": "2398423",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cf3d07b0-8e64-5fc0-b7ad-828e593e60aa",
+          "name_string": "Ctenolabrus",
+          "canonical_form": "Ctenolabrus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20670816",
+          "local_id": "26642",
+          "url": "http://eol.org/pages/26642",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

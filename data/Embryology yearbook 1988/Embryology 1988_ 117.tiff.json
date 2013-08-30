@@ -1,0 +1,97 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=SYM0ktiFSTK12gghKcK6ng",
+  "input_url": null,
+  "file": "Embryology 1988_ 117.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.209994766,
+    "resolve_names_duration": 0.650201266,
+    "total_duration": 23.973823383
+  },
+  "agent": "",
+  "created": "2013-06-18T13:06:24-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 267,
+      "offsetEnd": 277,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 665,
+      "offsetEnd": 674,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1577,
+      "offsetEnd": 1586,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1795,
+      "offsetEnd": 1804,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": " gene activity during early development in\nEmbryology Course, Woods Hole ,Massachusetts\nJuly 19-20, 1988\nEric Wieschaus and Dari Sweeton\nThe major topic of this lab experiment is the spatial\npatterns of transcription which arise during early embryonic\ndevelopment in Drosophila. In particular, we are interested\nin how these patterns directly reflect an underlying maternal\norganisation of the egg cytoplasm, and the extent that those\ncytoplasmic cues are mediated by a hierarchy of zygotically\nactive control genes. As probes for zygotic transcription,\nwe will use three transformant lines in which the structural\ngene for -galactosidase has been fused to various Drosophila\ncontrol sequences. All three lines were made by Yatsushi\nHiromi when he was in Walter Gehring's lab in Basel..\nIn one line the cis-acting control sequences\nare derived from the 5' region of the segmentation gene fushi\ntarazu, This fusion causes -galactisidase to be expressed\nat the blastoderm stage in same seven stripe pattern\nassociated with the wild type gene. One major difference\nis that the protein is extremely unstable and is no\nlonger present by mid-gastrula stages. In contrast, -\ngalactosidase made at the blastodern stage persists through\nout embryogenesis, effectively marking the progeny of all\ncells whose precursors expressed the gene.\nThe other two constructs are artificial and the nature\nof the cis-acting control sequences is not understood. In\nboth cases, the galactoidase (fused to a non-spatially\ncontrolled promotor) has been stabily integrated at various\nrandom sites in the Drosophila genome. Ocassionally, the\nsite of insertion confers a tissue or region specific pattern\non the expression of galactosidase. It is not known whether\nthe pattern observed actually reflects the expression of a\nDrosophila gene in the vicinity on the insertion site. Be\nthat as it may, the transformant lines at least provide\nmarkers for particular embryonic lineages. In one\nthe expresion is apparently limited to the\nanterior and posterior midgut devivatives. In the\nit is expressed at a late stage in the\nmesodermal component of the gonad.\nTo study how the expression patterns of these constructs\nare affected by alterations in maternal cytoplasmic cues, we\nwill use three different maternal effect mutation.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

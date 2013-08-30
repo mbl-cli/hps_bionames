@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=QqhJnh6cQFGMOjS9zIin8g",
+  "input_url": null,
+  "file": "Embryology 1988_ 147.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.096677826,
+    "total_duration": 24.853854934
+  },
+  "agent": "",
+  "created": "2013-06-18T13:12:30-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Embryology 1988 2\nGel Retardation Assay\nHorizontal gel box, glass plates for gel forming, spacers,\ncomb for well forming\n6% Acrylamide 4 ml 30% Acrylamide solution\n0.5 TBE 1 ml 10x TBE\n0.05% NP-40 10 pl NP-40\n20 ml H20\n200 ul 10% Ammonium persulfate\n20 ul TEMED\n30 gm acrylamide\n(60:l Acrylamide:Bisacrylamide) 0.5 gm bis acrylamide\nto 100 ml\n\nlx 100mM Tris-Borate pH 8.8 121.1 Tris base\n2mM EDTA 61.8 Boric Acid\n40 ml 0.5 EDTA pH 8 \nQ?I ml\n0.5x TBE 50 ul of 10X TBE\n10% Glycerol 100 pl Glycerol \n0.25% Bromophenol blue 0.25 mg Bromophenol blue\n0.25% Xylene cyanol 0.25 mg Xylene cyanol\nto 1 ml\n20mM Tris pH 7.9 200 pl 1 Tris pH 7.9\n2mM 20 pl 1 \n50mM NaCl 100 ul 5 NaCl\n1mm EDTA 20 pl 0.5M EDTA\n10% Glycerol 1 ml of glycerol\n0.05% NP 40 5 ul NP-40\n2mM DTT 20 ul 1M DTT\n\n"
+}

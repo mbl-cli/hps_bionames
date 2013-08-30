@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=3psj0wQjRe6dyfamBhN18g",
+  "input_url": null,
+  "file": "Embryology 1939_28B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.093728456,
+    "total_duration": 21.444529108
+  },
+  "agent": "",
+  "created": "2013-06-19T15:23:29-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "A.\n\n.LJ \nC.\n\n\nFol, H. Recherches sur la fecondetion et le commencement\nde l*hemogonie Mem. Soc. Phys. et Hist. Net. Geneve\nVol. 26, l87(R).\nRoveri, Th. Die Entwichlung dispermer Seeigel Eier. Ein \nBeitreg zur Befruohtungslehre und sur Theorie des Kerns.\nJenaische Vol. Q3, 1907.\nLillie, F. R. and Just, E. E. Fertilizetion (in General\nCytology) University of Chicago Press. l@24,\nChambers, Robert. The manner of sperm entry in the starfish\negg. Biol. Bull. Vol. 58, \nA general study on the cytological aspects of fertilize~\ntion is found in\nWilson, E. B. The cell in development and heredity. New York.\nlQ25. \nQCLAQITT QQ ORTEQTATIQM QQ EMEHYC.\nLyon, E. P. Results of Centrifugelizing Eggs. Arch, T. Entw.\nMech. Vol. 23, l9C7. \nMorgan, T. H. end Lyon, E. P. The relation of the Substances\nof the egg separates hy strong centrifugal force, to the\nlocation of the Embryo. Arch. T. Entw. Mech. Vol. 24,\n\nTennent, Teylor Whitaker. An investigation on orgenizetion\nin ses urchin egg. Carnegie Inst. Fuhl. Wash. No. 591.\nl929.\nMarx Wilh. Zum Problem der Eileterelitet im Seeigelkeim.\n,Roux 'Arch. vol. l25, l93l.\nvon Uhisch, L. Studien en  \nSeeigelkeimen\nI. T. Wissensch. Zool. vol. l2e, lQ?5.\n11. iss, ieev.\nLindehl, P. E. eno Stordel, A. Uher die Determination der'\nRichtung der ersten Furche in Seeigelei. Hour. Arch.\nVol. 156, l937. \n\nFaure-Fremiet. Le cinetique du development, Reris l925.\n(Consult for further hihliogrephy.)\nWilson E. E. A cftolosicel studw of artificial tertheno~\n. I .\ngenesis in Ses~Urchin eggs. Arch, T. Entw. Vol. l2,lQCl.\n\n"
+}

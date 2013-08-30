@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=MpQT4OIuRiS2bnIZ7c59Ew",
+  "input_url": null,
+  "file": "Embryology 1939_35.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.133985787,
+    "resolve_names_duration": 0.641025884,
+    "total_duration": 23.242171675
+  },
+  "agent": "",
+  "created": "2013-06-19T15:25:26-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Tubularia",
+      "scientificName": "Tubularia",
+      "offsetStart": 917,
+      "offsetEnd": 925,
+      "identifiedName": "Tubularia"
+    }
+  ],
+  "content": "\nBy elongation andithe acquisition of cilia, a planula is pro-\nduced. It swims heavify but rolls and crawls actively on the bottom\nlike a planarian. httaehing hy its small hind end, it produces a\nsuccession of tentacles, and actively sends out numerous anastomosing\nencrusting hydrorhiza processes, from which sprout new individuals.\nObserve specimens that have been growing several days or a week.\nRemove several male reproductive individuals showing ripe\nsporosacs, and crush them under a coverslip on a glass\nslide. This may be done by drawing off some of the water with\nblotting paper. The sporosacs fall far short of being perfect\nmedusae. Note stages in the production of sperm within them. Burst\na mature sporosac and study the sperm under high power.\nSimilarly crush several female reproductive individuals, and\nobserve the eggs with their large germinal vesicles, in various\nstages of development. (Bunting \nTubularia (June, July)\nThe gonosomes of a well~matured specimen form long racemes or\nclusters of gonophores crowding and drooping from the region between\nthe two circles of tentacles on a hydranth. The gonophores are quite\nseverely reduced medusae which never become free-swimming, usually \nhave no evident radial or circular canals and develop nothing but\nbuds for tentacles, Wits rare exceptions male and female gonophores\noccur in separate colonies, male colonies being a very small minor-\nity. Diagnosis of se; by sight is impossible in the immature, but\ngonophores that contain embryos are easy to poll from those that\nare filled with a cloudy mass of sperm.\nExamine a male gonophore, considering it as a very degenerate\nmedusa. Notice its mode of attachment, its shape, the structure of\nits free end and the position of the sperm surrounding the dark rod\nmanubrium. Crush a ripe male gonophore on a slide and inspect the\nmotile sperm under high power.\nExamine a female gonophore. Usually the tentacles at its distal\nond appear only as four short blunt knobs, but one or more of them\nare sometimes elongated. The eggs come from favored oocytes\nthat progressively swallow up their neighbors, lying in the space\naround the manubrium.\nWhen ripe the egg is very large and somewhat ameboid. (Allen\nl900). mAfter fertilization a coeloblastula is formed. Gastrulation\nhas been described (Benoit '25) as a mixture of delamination and\nmultipolar proliferation. The embryos are developed up to the\nactinula\" stage within the gonophore. The actinula is to be con-\nsidered as a precociously metamorphosing form, part planula and part\npolyp.  \nOpen some female genophores and study the larvae thus liberated.\nThe younger ones are flattened, with blunt marginal processes. it\nfirst these are not symmetrical in outline, but radial symmetry is\nattained later. when the larva has reached the actinula stage it\nhas a mouth and tentacles, and a rounded aboral body that later be~\ncmnes attached.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

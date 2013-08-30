@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=WG2rkPTMRNe7I9mejJ8tCA",
+  "input_url": null,
+  "file": "Embryology 1939_22.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.139657316,
+    "resolve_names_duration": 0.693909609,
+    "total_duration": 23.575854804
+  },
+  "agent": "",
+  "created": "2013-06-19T15:21:46-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "(Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1000,
+      "offsetEnd": 1007,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\nEXPERIMENTAL WORK WITH EGHINODEHMS.\nA few suggestions as to experimental work with echinoderm eggs\nare given in the followins Dara ra hs. For the most cart. these\nall \ndeal with the analysis of early developments Inasmuch as the study\nof fertilization occupies a separate section of the subjects investi~\ngated? but few experiments are outlined here. any student wishing to\ntest mennods of artificial parthenogenesis should consult the in-\nstructor.\n Too much emphasis cannot be placed on the necessity for running\nadgqpate in each of the experiments. In working with living\nit\"is essential that the experimenter be certain that his\nin reality concerned with the factors he is investigating\nand hence that all other possibilities are, insofar as is possible,\nThis can only be done by keeping an adequate series of\nThere is no more efficient way of obtaining \"parthenogenes\nthan by transferring sperm to a mass of unfertilised eggs on the ob-\njective of the microscope.\ntests are\nexcluded.\ncontrols.\n(Arbacia recommended.)\nConcentration of spermatozoa.\nAdd drop of dry sperm to 53 cc of sea~water. This is a 0.1%\nfca.) dilution of sperm.' Pyepare eggs and place drops in 5 dishes\ncontaining 25 cc., 50cc., 500 cc., and 1000 cc. of sea-water respec-\ntively. To each of these dishes add one drop of the 0.1% sperm sus~\npension and calculate after fifteen minutes the number (percentage)\nof the eggs fertilized. Observe again after 5 hours. at the same\ntime make a l% sperm suspension and add one drop to eggs in 10 cc.,\n25 cc., 50 cog, l00 cc., and l50 cc. sea~water. In the last series\nrecord not only the percentage of the eggs fertilized but also the\ndegree of polyspermy in each instance. (Note first cleavage).\nEffect of hydrogen ion concentration.\n0 Set up a series of finger bowls containing 100 cc. of solution\nas follows: sea-water plus 0.1 cc., 0.2 cc., 0.4 cc., and 0.6 cc.\nn/l0 and 0.1 cc., 0.2 cc., 0.4 cc., 0.6cc., 0.8 cc., and\n1.0 cc. n/l0 This makes ten dishes. Add another dish con~\ntaining sea~water from the tap. Add 2 cc. of eggs to each dish\nand examine to determine the effect of each solution on the eggs.\nRepeat to determine the effect of the solution on the sperm. Re-\npeat once more to determine the effect of #Gash solution on fertili~\nzation and cleavage. In testing the effect of each of the solutions\nupon the gametes of one of the sexes alone, observe the gametes at\nintervals up to one hour. The hydrogen ion concentration of each\nof the solutions should be determined by the indicator method. What\nconcentration of sperm did you use in making the inseminations? It\nshould be the same in every case.\nGross-fertilization.\nPrepare eggs and sperm of the starfish and sea-urchin. Insemi~\nnate the eggs of each with the sperm of the other. Observe the\npfertilization and development of the eggs. Analyze your results.\n\ncs\nBJ\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

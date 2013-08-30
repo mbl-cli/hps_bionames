@@ -1,0 +1,142 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=dCNCT9uITtSxPiKGLaM4jw",
+  "input_url": null,
+  "file": "Embryology 1939_51B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.114097262,
+    "resolve_names_duration": 0.511723347,
+    "total_duration": 21.091214975
+  },
+  "agent": "",
+  "created": "2013-06-19T15:28:45-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "S",
+      "scientificName": "Amaroucium",
+      "offsetStart": 477,
+      "offsetEnd": 477,
+      "identifiedName": "Amaroucium"
+    },
+    {
+      "verbatim": "Goodsiria",
+      "scientificName": "Goodsiria",
+      "offsetStart": 637,
+      "offsetEnd": 645,
+      "identifiedName": "Goodsiria"
+    },
+    {
+      "verbatim": "Clavellina lepadiformis",
+      "scientificName": "Clavellina lepadiformis",
+      "offsetStart": 860,
+      "offsetEnd": 882,
+      "identifiedName": "Clavellina lepadiformis"
+    }
+  ],
+  "content": "Berrill, N, \n.EDT 1 all \nqeullery, M.\nKowelevsky, A\nPizon, A. .\nRitter, w. \n5.\nTUNICATE ASEXUAL REPRODUCTION. \n1955.\nStudies in Tunicate Development. IV. Aeexuel\nReproduction. Phil. Trans. Roy. Soc. London, Series\nB, vol. 225, pp. 326-579.\n1927,\nT. 57\n1909,\nposee\n1874.\n0\n1905.\nArch.\n1897.\nBlaetogenese des Tuniciere. Arch. de Biol.\npp. 1ee~2o4.\nContributions a 1'Etude des Aecidiee com~\nBull. Sci. Fr. Belg. T. 27 pp. 1-158\nUber der Knospung der Ascidien. Arch. Mikr.\nBde 10, S. Amaroucium).\nL'evo1ution des Diplosomes (Ascidies composees)\nde Zool. Exp. et Gen. IV ser. T. IV pp. 1-68\nBudding in compound ascidiene, based on\nstudies on Goodsiria and Perophore. Jour. Morph.\nvol. 12,   \nde Selye-Longchamps, 1916. Sur le bourgeonnement des \nSpek, J.\n  0\n1927.\nSci. Fr. Belg. T. 50 pp. 170~276.\nUber die Winterknoepenentwicklung, Regeneration\nund Reduktion bei Clavellina lepadiformis, und die\nBedeutung besonderer \"omnipotenter\" Zellelemente fur\ndiese Vergenge. Archiv. f. Ebtwicklungsmech. Bd.\n111, S. 119-172, -\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Amaroucium",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata|Ascidiacea|Enterogona|Aplousobranchia|Synoicidae|Amaroucium",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum|class|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712|7713|183770|32436|107396|107397",
+          "taxon_id": "107397",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29104026",
+          "local_id": "2994850",
+          "url": "http://eol.org/pages/2994850",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Goodsiria",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "44daefd2-0a37-5ca8-9c23-7b7bc278da16",
+          "name_string": "Goodsiria",
+          "canonical_form": "Goodsiria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97339063",
+          "local_id": "urn:lsid:ubio.org:namebank:4180948",
+          "global_id": "urn:lsid:ubio.org:namebank:4180948",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4180948",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Clavellina lepadiformis",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "c906fa81-661f-5ed9-99f9-a4fd559acfd9",
+          "name_string": "Clavellina lepadiformis",
+          "canonical_form": "Clavellina lepadiformis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "128702239",
+          "url": "http://www.organismnames.com/details.htm?lsid=3369997",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    }
+  ]
+}

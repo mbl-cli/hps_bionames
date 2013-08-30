@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=hToaZsWXRE69Ve0LpqOM0A",
+  "input_url": null,
+  "file": "Embryology 1988_ 108.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.095624063,
+    "resolve_names_duration": 0.681840534,
+    "total_duration": 25.513543086
+  },
+  "agent": "",
+  "created": "2013-06-18T13:04:48-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 858,
+      "offsetEnd": 867,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": " La   \nCytoplasmic heakage and Transplantation Experiments:\nl. Induce phenocopies associated with the anterior and posterior\nmaternal effect genes in* eggs using the cytoplasmic leakage\nand transplantation schemes shown in Fig. l, A-G (see previous page\nof handout).=\n2. Attempt to rescue the effect of the hypermorphic spliced mutation\nby: 1 \n. a. leaking cytoplasm from the center of splc/splc eggs.\nb. transplanting cytoplasm from the posterior tip of splc/splc\neggs to the presumptive central abdominal region of other splc/splc\neggs. 1111- \n3. Attempt to rescue the effect of the torso mutation by transplanting\ncytoplasm from splc/splc eggs to the terminal regions of tor/tor eggs.\n  rkam, M. (1987) Deyelgp ment 101, 1-22.\n  1; if HEAD   \n.\nol  fig: 1   1 \ndip;  \n\nI Ml\" \ngd \n. 1 zzseea\nlr  \nes  l \nyr 1  \n1   \n      \nvmeeL  Fig. l. A fate map of the Drosophila blastodertn (from Campos-Ortega Hartenstein, 1985). The shape is a\nplanimetric reconstruction of the blastodenn surface. All parts of the egg surface contribute to the embryo proper,\nexcept the narrow dorsal primordium for the arnnioserosa Hatched areas will invaginate at gastmlation. Cells that\nwill generate metameric structures are enclosed by a thick line. Abbreviations: omg, anterior midgut; as, amnioserosa;\ncl, clypeolabrum; dEpi, dorsal epidermis; dr, dorsal ridge; er, oesophagus; mt, Malpighian tubules; MS, mesoderm;\nol, optic lobe; ph, pharynx; pmg, posterior midgut; procephalic neurogenic region; \npr. proctodeum; sg, salivary gland; ventral neurogenic region; M, mandibular segment; Mx, maxillary segment;\nLa, labial segment; Tl-73, thoracic segments; AI-AIO, abdominal segments; ant, anterior; dors, dorsal.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

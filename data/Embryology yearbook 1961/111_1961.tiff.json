@@ -1,0 +1,110 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=tDm5YnGuSDivQiADTqmEAQ",
+  "input_url": null,
+  "file": "111_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.059160952,
+    "resolve_names_duration": 0.510444816,
+    "total_duration": 27.384110502
+  },
+  "agent": "",
+  "created": "2013-06-18T11:30:12-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Cyanea",
+      "scientificName": "Cyanea",
+      "offsetStart": 39,
+      "offsetEnd": 44,
+      "identifiedName": "Cyanea"
+    },
+    {
+      "verbatim": "Planula.",
+      "scientificName": "Planula",
+      "offsetStart": 173,
+      "offsetEnd": 180,
+      "identifiedName": "Planula"
+    }
+  ],
+  "content": "A\n\nI\n\n\n\n\n\n\n\n\n\nEmbryonic Development of Cyanea\n(holds also for Aureliaf~-lwf' *xrf (~~Hq\\w \n\n f   \n\nax  ,th? -95iff 5 rw1olea\n-D Cleavage\nBlastula\nElastula\nGastrula\nLate gas\nPlanula.\n\nAttached\nTentacle\nvage. Rot necessarily equal.\nstages. Somewnat irregular.\n. (surface view) \n. (section)\n(section)\ntrula. Endodsrm discreet and\n(section)\nstage (mny ocxur undnr poor\nplanula\nand manubrium formation\nblustopore closing. (section\nconditions)\nwith beginning strobilization\nOrganization of \"metnmer?s\" into ephyrae\nTentacle resorption by terminal ephyra\nTerminal ephyra reaiy to be liborfted as 9 medusa\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Cyanea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "0fdfe1e9-1543-5561-a74d-309d03db36f3",
+          "name_string": "Cyanea",
+          "canonical_form": "Cyanea",
+          "classification_path": "Animalia|Cnidaria|Scyphozoa|Semaeostomeae|Cyaneidae|Cyanea",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363461|2363484|2366666|2488012",
+          "taxon_id": "2488012",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0fdfe1e9-1543-5561-a74d-309d03db36f3",
+          "name_string": "Cyanea",
+          "canonical_form": "Cyanea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "32514538",
+          "local_id": "2520297",
+          "url": "http://eol.org/pages/2520297",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Planula",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "1f84fe66-bbcd-5729-83ce-5f48e7771443",
+          "name_string": "Planula",
+          "canonical_form": "Planula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97453328",
+          "local_id": "urn:lsid:ubio.org:namebank:4299741",
+          "global_id": "urn:lsid:ubio.org:namebank:4299741",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4299741",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=5UMERx73QsuIN7kuzKZpKA",
+  "input_url": null,
+  "file": "81_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.233701447,
+    "resolve_names_duration": 1.16069474,
+    "total_duration": 24.084350476
+  },
+  "agent": "",
+  "created": "2013-06-18T12:46:27-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Nereis,",
+      "scientificName": "Nereis",
+      "offsetStart": 61,
+      "offsetEnd": 67,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Hydroides.",
+      "scientificName": "Hydroides",
+      "offsetStart": 86,
+      "offsetEnd": 95,
+      "identifiedName": "Hydroides"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 321,
+      "offsetEnd": 326,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 638,
+      "offsetEnd": 643,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis,",
+      "scientificName": "Nereis",
+      "offsetStart": 2341,
+      "offsetEnd": 2347,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 2364,
+      "offsetEnd": 2369,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "\n,Embryology ojfAnnelida\nThree forms are available Tor sTudy Nereis, ChaeTopTerus and Hydroides.\nCulTures of advanced sTages will be prepared by The insTrucTors. STudenTs should\nprepare Their own culTures of early sTages. lT is suggesTed ThaT aT leasT Two\nTorms be chosen for observaTion of early embryonic dev elopmenT.\nNereis limbaTa\nThe animals are obTained abouT an hour afTer sunseT from The Eel Pond.\nThey exhihiT lunar periodiciTy and, on cerTain nighTs, swarm near The surface of\nThe waTer when aTTracTed by a }ighT. Males are red anTeriorly wiTh whiTe\nposTerior segmenTs, The females lighT green.\nDeTails of TerTilizaTion of The Nereis egg are described on pg. 3 oT The\nsecTion on TerTilizaTion. The TirsT cleavage min.) is unequal and forms\na smaller AB and a larger CD blasTomere. These are divided unequally aT The\nsecond cleavage forming blasTomeres A, B, C, and in order of increasing size. AT\nThe Third cleavage four smaller cells (lsT quarTeT of micromeres, la-ld) aT The\nanimal pole are separaTed from Tour larger vegeTal cells (lsT generaTion of\nmacromeres, (See CosTello eT al 1957. MeThods Tor obTaining and handling\nmarine eggs and embryos Tor Time Table of developmenT)\nObserve The cyToplasmic segregaTion which begins aT The Time of TerTiliza-\nTion (CosTello, l945). This is a segregaTion of cyToplasmic inclusions along The\npolar axis so ThaT by The Time of The 3rd cleavage The micromere region is oil free\nand nearly yolk Tree. ln The unTerTilized egg The large oil dropleTs Torm a\nring around The germinal vesicle and The oTher inclusions (yolk spheres, miTochon-\ndria, granules, eTc.) are uniformly disTribuTed. AfTer The germinal vesicle breaks\ndown There is a gradual redisTribuTion of inclusions, The mosT obvious being\na movemenT of oil dropleTs and yolk To The vegeTal hemisphere. By The Tour cell\nsTage This segregaTion is compleTed and aT The 3rd cleavage The micromeres are\nTree oT yolk and oil dropleTs.\nSubsequenT divisions of micromeres and macromeres lead To The TormaTion\nof a spherical embryo. (20 hrs.) The anTerior is marked by spherical TronTal\nbodies and The posTerior end by greenish black pigmenT. The cenTral parT of The\nproTrochal hemisphere bears The apical of cilia.\nA. MeTamorgh9?js oT,The,Nereis lagyaig The meTamorphosis of an Annelid larva inTo\na segmenTed worm can be sTudied besT in Nereis, To 7 days old. Nereis has no\nTypical Trochophore, buT an abbreviaTed, Telescoped larval developmenT. The TirsT\nsigns of The adulT, segmenTal organizaTion appears very early. STudy larvae from\nall sides. onsulT The figures in E. B. Wilson, '92.\nObserve:\nl. The QroToTroch, composed of I2 very large ciliaTed cells.\n2. The garaTroch, near The vegeTal pole\n3. A pigmenTed area aT The anal pole, The gpg] QigmenT.\n4. The mouTh and sTomadaeum; The laTTer is a shorT ecTodermal invaginaTion.\n5. The large macromeres have noT yeT diTTerenTiaTed inTo The endodermal parTs\noT The inTesTine; Their cell boundaries may be seen. No anus is found as yeT\n6. Several \"TronTal bodies\" near The upper end. Circular disc-like\nsTrucTures of unknown TuncTion.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydroides",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "094732ab-4c0b-5c5d-99f6-4db6b5031b53",
+          "name_string": "Hydroides",
+          "canonical_form": "Hydroides",
+          "classification_path": "Animalia|Annelida|Polychaeta|Sabellida|Serpulidae|Hydroides",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369634|2369636|2423051",
+          "taxon_id": "2423051",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "094732ab-4c0b-5c5d-99f6-4db6b5031b53",
+          "name_string": "Hydroides",
+          "canonical_form": "Hydroides",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20674349",
+          "local_id": "52350",
+          "url": "http://eol.org/pages/52350",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

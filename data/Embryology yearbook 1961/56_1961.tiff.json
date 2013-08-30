@@ -1,0 +1,78 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=rp7D0mM7TCuttnvctne9uw",
+  "input_url": null,
+  "file": "56_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.350583844,
+    "resolve_names_duration": 1.20652491,
+    "total_duration": 27.429791375
+  },
+  "agent": "",
+  "created": "2013-06-18T12:36:45-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "ASTERIAS FORBESII",
+      "scientificName": "Asterias forbesii",
+      "offsetStart": 2303,
+      "offsetEnd": 2319,
+      "identifiedName": "Asterias forbesii"
+    }
+  ],
+  "content": "\nelongaTe in The dorso-venTral axis and The direcTion of swimming changes so ThaT\nThe venTral (oral) side is forward. Draw a prism larva.\nPluTeus:\nAfTer abouT 48 hours The embryo enTers The pluTeus sTage which is fully\ndeveloped aT The end of The Third day. The original apical plaTe grows ouT ln a\nvenfral direcTion\nTo form The oral lobe which includes The sTomodeum and anTerior\nparT of The oesophagus. Two shorT ouTgrowThs, The oral (anfero-laTeral) arms are\nformed on The oral lobe and, aT The anal side, Two longer anal (aboral or\nposToral) arms grow ouT in The same general direcfion. The original TriradiaTe\nspicules form ske|eTal rods which exTend inTo The oral arms (oral rods), The anal\narms (anal rods),\n\ndorsally Through The body (body rodsland laTerally (venTral\nThe rods are each made up of Three or four parallel parTs\njoined by cross bars. DiTferenT species of sea urchins differ in This regard, so\nThe sTrucTure of The skeleTal rods is a useful characTerisTic in hybridizaTion\nsTudies. The embryo conTinues To elongaTe in The dorso-venTral direcTion and be-\ncomes poinTed aT The posTero~dorsal end where The body rods meeT. The axis running\nThru oesophagus, sTomach and inTesTine becomes J-shaped. The sTomach expands To\nform a spherical sTrucTure ThaT fills a large parT of The body of The pluTeus and\nsphincTer muscles\nconnecT iT wiTh oesophagus and inTesTine. The Two coelomic sacs\nexTend posTerolaTerally from The oesophagus. ThaT on The lefT side becomes larger\nand laTer acquires a dorsal opening called The pore canal. The righT coelom buds\noff cells To form\nThe madreporic vesicle buT oTherwise remains rudimenTary. The\nlefT coelom undergoes exTensive laTer developmenT in The formaTion of The sTruc-\nTures of The adulT sea urchin. These changes do noT occur unTil The second week\nwhen meTamorphosis begins in properly fed larvae and will noT be sTudied here.\nIT should be menTioned, however, ThaT The adulT organs are\na sTrucTure Termed The Echinus.ggdimenT which is formed by\ninvaginaTion (amioTic invaglnaTion) of The ecToderm on The\nmid-porTion (hydrocoel) of The lefT coelom. The leTT side\nThen, The fuTure oral face of The adulT. Draw a 5 day old\nbuilT up in and around\nThe Tusion of an\nlefT side wiTh The\nof The pluTeus becomes\npluTeus in posTero-\nvenTral and side view.\nASTERIAS FORBESII (or A. VULGARIS)\nSpecimens\nof The common sTarfish, AsTerias, are dredged in The neighborhood\nof Woods Hole. Fresh maTerial seems To yield The besT eggs. The largesT and\nfaTTesT specimens\n9-\nAsferias, buf iT is noT possible To disTinguish Them by exfernal\nTo obTain gameTes, make a small puncTure'in one arm close To The\na few gameTes onTo a slide To deTermine The sex of The specimen.\nremove The arm compleTely, and sliT iT along The mid-dorsal line\npair of bulging ovaries, which are a Typical gale salmon color.\npair of clean forceps, carefully deTach each plume-like ovary by\nare reall The onl ones worTh enin Sexes are separaTe in\ncharacTerisTics.\ndisc and pipeTTe\nlT iT is a female,\nTo expose The\nThen, wiTh a\ngrasping iT wiTh\nas liTTle injury as possible in one |750 ml. finger bowl and Transfer iT To\nanoTher conTainer\nshed normally for\nresT of The ovary\nshould be kepT in\nTor more Than Two\nof The same size. Do noT cuT up The ovary, buT raTher leT iT\nabouT 5 minuTes; These firsT shed eggs are besT. Discard The\nand save The specimen for use laTer in The day. injured animals\na separaTe aquarium wiTh rapidly running sea wafer and noT kepT\ndays. The eggs should be washed by siphoning off The supernaTanT\nfluid and replacing iT wiTh sea waTer aT leasf Twice. During This Time, The eggs\nshould be examined occasionally To observe meioTic sTages. IT The eggs have been\nlefT relaTively undisTurbed for abouT 30 minuTes, iT is Time To decide wheTher\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Asterias forbesii",
+      "results": [
+        {
+          "data_source_id": 11,
+          "data_source_title": "GBIF Taxonomic Backbone",
+          "gni_uuid": "195e1664-7df6-517a-8aa1-18594bc28ac7",
+          "name_string": "Asterias forbesii",
+          "canonical_form": "Asterias forbesii",
+          "classification_path": "Animalia|Echinodermata|Asteroidea|Paxillosida|Astropectinidae|Asterias|Asterias forbesi",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "1|50|214|808|5538|2270462|5187514",
+          "taxon_id": "5842586",
+          "current_taxon_id": "5187514",
+          "current_name_string": "Asterias forbesi (Desor, 1848)",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "195e1664-7df6-517a-8aa1-18594bc28ac7",
+          "name_string": "Asterias forbesii",
+          "canonical_form": "Asterias forbesii",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5204827",
+          "local_id": "597578",
+          "url": "http://eol.org/pages/597578/names/synonyms",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": false
+    }
+  ]
+}

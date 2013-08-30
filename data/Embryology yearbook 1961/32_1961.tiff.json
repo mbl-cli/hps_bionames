@@ -1,0 +1,63 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=4L7BFfeJSNy8fUjpsfbrTw",
+  "input_url": null,
+  "file": "32_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.087023988,
+    "resolve_names_duration": 1.173973233,
+    "total_duration": 27.682503064
+  },
+  "agent": "",
+  "created": "2013-06-18T12:28:26-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Uber das zytologischa",
+      "scientificName": "Uber das zytologischa",
+      "offsetStart": 256,
+      "offsetEnd": 276,
+      "identifiedName": "Uber das zytologischa"
+    }
+  ],
+  "content": " \n13.14.   Ziorton, 1955 . The ci1e1.1ic..1 0; :sito-\nchzeoncliq beet. Biochem. J.   ZLL.\nWlitelegy, AJR. :mu Baltzer, 1958. Development. respiratery rate and co.1te=.1i; of\nDNA in the hybrid Pubbl. del. St.;z. Zool. Hapoli. 22 402\nF. md. Chen, P.S. 1960. Uber das zytologischa Vornzalterm und die der\n-iuklcinsaureu bei den 9 o' und\n9.31-Dceixtrotis o. lieu. Suisse de Zoul.   133.\nHaunilton, L. D. 1957 Control 0. gnrochaction. In Drooicimveaci Smaposic. in Dialog.\n1310 Iiomeoatatic 1:52. \nHill, li. and Draaid, . 1960 Iluclear uptake of DHA i'rQ5r;en'cs after inj ection of 52\nlabelled tnyminiue in letimally irradiated mice.   Cell. nes. 21 569-532.\nBieliqvalqr, EZ.   Tgwe, R. 1960 Etude de -1'incorporation de*1?uridine iritiee dans\nJdeeufs Exp. Cell. Rea. 279-285. \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Uber das zytologischa",
+      "results": [
+        {
+          "data_source_id": 8,
+          "data_source_title": "Interim Register of Marine and Nonmarine Genera",
+          "gni_uuid": "3d54e032-2190-5e89-89ce-8f576db4180d",
+          "name_string": "Uber Cotton & Godfrey, 1931",
+          "canonical_form": "Uber",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Littorinimorpha|Naticidae|Uber",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "11|175|1298|10104|114368|1269785",
+          "taxon_id": "1269785",
+          "local_id": "1269785",
+          "url": "http://www.marine.csiro.au/mirrorsearch/ir_search.taxon_info?id=1269785",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    }
+  ]
+}

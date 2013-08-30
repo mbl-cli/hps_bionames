@@ -1,0 +1,90 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=FKq8DKV1QxGXr3rAbijMbw",
+  "input_url": null,
+  "file": "140_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.168156928,
+    "resolve_names_duration": 0.741702508,
+    "total_duration": 24.3697163
+  },
+  "agent": "",
+  "created": "2013-06-18T12:11:29-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 359,
+      "offsetEnd": 368,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 440,
+      "offsetEnd": 449,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 2355,
+      "offsetEnd": 2364,
+      "identifiedName": "Microciona"
+    }
+  ],
+  "content": "Sponges 2. \nMonospecific aggregafionz a variefy of specific processes Take place in se-\nquence during aggregaTion which are To observe. You will have To waTch The\nculTures aT various infervals during The nexT 24 hours or so and Try To answer The\nfollowing quesTions. Carefuliy record The Time aT which observafions are made.\nDo your observafions primarily on Microciona buT noTe differences wiTh The oTher\nsponges.\na) Take a small piece of Microciona and express iT Through bolTing clofh on To\na slide and cover wiTh a cover slip. Make observafions of This aT Times during\nThe nexT hour adding fluid aT The cover slip edge To avoid evaporaTion. You may\nbe aided in This by puffing vaseline on Three edges of The coverslip before\npuTTing iT on The fluid.\nThe sTrucTure of The reunifion mass and The cells involved are discussed in\npapers by wilson and by GalTsoff, copies of which are available in The laborafory.\nMany of The cell Types, The which forms The surface layer of The inTacT\nsponge, and all skelefal elemenfs are refained by The bolTing cloTh. Wilson con-\nsiders Three Types as represenfed among The free cells passing Through The cloTh:\nThe choanocyTes, which remain specific (alfhough reTracTing Their collars and\nflagella in many cases) and produce a new lining for The inTernal caviTies; (2)\ncells wiTh nucleolaTe nuclei and a variable degree of granulafion in The cyTosome;\nand (3) non-nucleolaTe cells possessing fine cyToplasmic granules of uniform size\nwhich give The cells a grayish color. Wilson regards The nucleolafe cells as\nprimordial cells, which produce in The reunifion mass, as in The inTacT sponge,\nskeleTal and reproducfive cells. The non-nucleolaTe cells produce The \nwhich covers The body and lines Those infernal spaces noT possessing choanocyTes.\nSome indicaTions of cell Types may be learned from your fresh preparaTions, buT\nfixed and sTained maferial has been found more saTisfacTory. Do noT spend Too\nmuch Time Trying To idenTify The differenT Types of cells. \nb) AT approximafely hourly inTervals for 3 or 4 hours use a small pipeffe To blow\nwafer aT The reuniTion masses. when does a change in behavior of The masses occur?\nc) AfTer masses appear make some efforT To measure The size of some of The masses\nduring The day (say, every 2 hours) by placing a millimeTer rule beneafh The\nsTender. Do This especially for Microciona expressages of differenT diluTions\nand compare.\nd) Place a coverslip on a slide from dish no. 5 affer 2-3 hours and observe The\nmasses. Are The masses smooTh or rough edged? By carefully focusing on The\nsurface of a mass see if you can see granulaTed cells wiTh a clear circular space\nin Them (\"gray cells\"). Try again in 4-5 hours, eTc. when They appear you will\nnoTice The change in surface Texfure of The masses, seen especially aT The edge\nof a mass. lf you are careful, you can refurn The slide To The fingerbowl and\nremove The coverslip under waTer wiThouT dislodging Too many aggregafes.\ne) Rough-edge masses may be combined by pushing Them TogeTher wiTh glass needles\nor They may be cuf in half wiTh crossed needles. Wilson and Penney (l93O) say\nThaT masses of l-2 mm. will form The mosT compleTely regeneraTed sponges. You\nshould combine or divide several masses on slides in finger bowls (no. 5 above)\nfor laTer observafions.\nf) ln from l8~24 hours many masses will be firmly affached by visible exTensions\nof The aggregafe. Observe such aggregafes on a slide and on a coverslip from\ndish no. 6 inverfed inTo sea wafer in a depression slide (or on an ordinary slide).\nDescribe The aTTachmenTs and The shapes of The masses. \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Microciona",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Porifera|Demospongiae|Ceractinomorpha|Poecilosclerida|Microcionina|Microcionidae|Microciona",
+          "classification_path_ranks": "|superkingdom||kingdom|phylum|class|subclass|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6040|6042|6048|27925|283498|27926|27927",
+          "taxon_id": "27927",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992018",
+          "local_id": "2544604",
+          "url": "http://eol.org/pages/2544604",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    }
+  ]
+}

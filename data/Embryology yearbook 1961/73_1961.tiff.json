@@ -1,0 +1,334 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ID7DT8XxSHGgEXcnw94oHA",
+  "input_url": null,
+  "file": "73_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.187886255,
+    "resolve_names_duration": 1.527980535,
+    "total_duration": 30.656232198
+  },
+  "agent": "",
+  "created": "2013-06-18T12:43:34-04:00",
+  "total": 8,
+  "names": [
+    {
+      "verbatim": "Spisula solidissima",
+      "scientificName": "Spisula solidissima",
+      "offsetStart": 734,
+      "offsetEnd": 752,
+      "identifiedName": "Spisula solidissima"
+    },
+    {
+      "verbatim": "Cumingia.",
+      "scientificName": "Cumingia",
+      "offsetStart": 1051,
+      "offsetEnd": 1059,
+      "identifiedName": "Cumingia"
+    },
+    {
+      "verbatim": "T. mikr",
+      "scientificName": "T. mikr",
+      "offsetStart": 1423,
+      "offsetEnd": 1429,
+      "identifiedName": "T. mikr"
+    },
+    {
+      "verbatim": "Unionidae.",
+      "scientificName": "Unionidae",
+      "offsetStart": 1724,
+      "offsetEnd": 1733,
+      "identifiedName": "Unionidae"
+    },
+    {
+      "verbatim": "Dreissensia polymorpha",
+      "scientificName": "Dreissensia polymorpha",
+      "offsetStart": 1773,
+      "offsetEnd": 1794,
+      "identifiedName": "Dreissensia polymorpha"
+    },
+    {
+      "verbatim": "Nereis,",
+      "scientificName": "Nereis",
+      "offsetStart": 1953,
+      "offsetEnd": 1959,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Hydroid",
+      "scientificName": "Hydroid",
+      "offsetStart": 1965,
+      "offsetEnd": 1971,
+      "identifiedName": "Hydroid"
+    },
+    {
+      "verbatim": "Spisula",
+      "scientificName": "Spisula",
+      "offsetStart": 2136,
+      "offsetEnd": 2142,
+      "identifiedName": "Spisula"
+    }
+  ],
+  "content": "Calcium and magnesium in re|aTion To longeviTy of MacTra,\n..3..\nc. The gpical flage|lum,TeloTroch, and The long cilia of The\ndeveloping velum. \nd. The sTomadeal ingaqinaTion on The venTra| side, jusT below The\nvelum. The grocTodea| invaginaTion appears laTer (23 hours)\ne. The inTernal sTrucTures are diTTicu|T To recognize aT This Time, Tor\na large dark mass of undifferenTiaTed endoderm and mesoderm cells\nfills mosT of The posT-velar areal\nBibliograghy\nAllen, R. D. |953\nBrooks, W. K. |880\nField, l. A. |922\nFujiTa, T. |929\nBeilbrunn, L. V. |920\nHorsT, R. |884\nKosTanecki, K. |902\n|904\n|908\nl9|l\nLillie, F. R. |895\nMeisenheimer, J. |900\n\nSchechTer, V. |936\n|936\nFerTilizaTion and arTiTicial acTivaTion in The egg of The\nsurf clam, Spisula solidissima. Biol. Bull. |05:2|3\nDeve|opmenT of The oysTer. STud. Biol. Lab. Johns Hopkins\nUniv. l.\nThe biology and economic value of The sea mussel, MyTilus\nedulis. Bull. Bur. of Fish. U. S. ??;l27\nEarly deve|opmenT of The Japanese oysTer. \nThe corTica| change and The iniTiaTion of maTuraTion in The\negg of Cumingia. Biol. Bull. 38:3|7.\nThe developmenT of The oysTer (0sTrea edulis L.). ReporT\nFish. Comm. WashingTon, 89|\nUber kunsT|iche BefruchTung und kunsT|iche parThenogeneT-\nische Furchung bei MacTra. ExTraiT due Bu|leTin de l'Acad.\nSci. Cracovie, JuilleT: 363\nCyTologische STudien an kunslich\nenTwickelenden Eiern von MacTra.\nEnTwick., Qizl.\nparThenogeneTische sich\nArch. T. mikr. AnaT. und\nZur Morphologie der kunsTi|ichen\nEnTwicklung bei MacTra. Arch. T.\n1;;327\nparThenogeneTischen\nMikr. AnaT. und EnTwick.,\nExperimenTelle STudien an den Eiern von MacTra. ExTr. du\nBull. Acad. Sci. Cracovie\nClasse des Sci. MaTh. eT Serie B. Sci. NaTurelles,\nMars: |40 \nThe embryology of Unionidae. J. Morph. \nEnTwicklungsgeschichTe von Dreissensia polymorpha Pall.,\nZeiT. T. Wiss. Zool., Qizl.\nComparaTive hypoTonic cyTolysis of several Types of inverTe-\nbraTe egg cells and The influence of age. Biol. Bull. 7|:4l0\nNereis, and Hydroid egg cells. Biol. Bull., 73: 392.\nExperimenTal sTudies upon The egg cells of The clam, MacTra\nsolidissima, wiTh special reference To longeviTy. \nThe respiraTion of Spisula eggs. Biol. \n|94|\nSclufer, |955\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Spisula solidissima",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "7b062127-3d70-5ad9-96ca-651d44467476",
+          "name_string": "Spisula solidissima",
+          "canonical_form": "Spisula solidissima",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Lophotrochozoa|Mollusca|Bivalvia|Heteroconchia|Veneroida|Mactroidea|Mactridae|Spisula|Spisula solidissima",
+          "classification_path_ranks": "|superkingdom||kingdom||||||phylum|class||order|superfamily|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206795|6447|6544|6599|6580|106231|6581|6582|6584",
+          "taxon_id": "6584",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7b062127-3d70-5ad9-96ca-651d44467476",
+          "name_string": "Spisula solidissima",
+          "canonical_form": "Spisula solidissima",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "38944761",
+          "local_id": "448794",
+          "url": "http://eol.org/pages/448794",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cumingia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "32f9a1db-2ee0-5298-96d1-0b5ad4650247",
+          "name_string": "Cumingia",
+          "canonical_form": "Cumingia",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Veneroida|Veneroida|Semelidae|Cumingia",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2369911|2369975|2369994|2370017|2451720",
+          "taxon_id": "2451720",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "32f9a1db-2ee0-5298-96d1-0b5ad4650247",
+          "name_string": "Cumingia",
+          "canonical_form": "Cumingia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30285945",
+          "local_id": "62762",
+          "url": "http://eol.org/pages/62762",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "T. mikr"
+    },
+    {
+      "supplied_name_string": "Unionidae",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ec7c2669-f017-5bd5-90bb-edf34008a8d5",
+          "name_string": "Unionidae",
+          "canonical_form": "Unionidae",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Unionoida|Unionidae",
+          "classification_path_ranks": "kingdom|phylum|class|order|family",
+          "classification_path_ids": "2362377|2362382|2369911|2369972|2369974",
+          "taxon_id": "2369974",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ec7c2669-f017-5bd5-90bb-edf34008a8d5",
+          "name_string": "Unionidae",
+          "canonical_form": "Unionidae",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627507",
+          "local_id": "2274",
+          "url": "http://eol.org/pages/2274",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Dreissensia polymorpha",
+      "results": [
+        {
+          "data_source_id": 164,
+          "data_source_title": "BioLib.cz",
+          "gni_uuid": "5c721b2e-bf46-58c0-8d55-c6d8ef5faba3",
+          "name_string": "Dreissensia polymorpha",
+          "canonical_form": "Dreissensia polymorpha",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "141732254",
+          "url": "http://www.biolib.cz/en/taxon/id3034/",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydroid",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "dfc49174-87e1-5187-97c2-b6d5ebbcf28a",
+          "name_string": "Hydroid",
+          "canonical_form": "Hydroid",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "128365068",
+          "url": "http://www.organismnames.com/details.htm?lsid=3032956",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Spisula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6154bc52-c653-5bd3-878d-347c80947761",
+          "name_string": "Spisula",
+          "canonical_form": "Spisula",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Veneroida|Veneroida|Mactridae|Spisula",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2369911|2369975|2370006|2370007|2419156",
+          "taxon_id": "2419156",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6154bc52-c653-5bd3-878d-347c80947761",
+          "name_string": "Spisula",
+          "canonical_form": "Spisula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20679194",
+          "local_id": "57515",
+          "url": "http://eol.org/pages/57515",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

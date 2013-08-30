@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=uzooXFN3RxOoBI5kGg06eQ",
+  "input_url": null,
+  "file": "148_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.137209742,
+    "total_duration": 24.187277212
+  },
+  "agent": "",
+  "created": "2013-06-18T12:13:16-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "\n.2-\nAmount of differentiation and growth necessary to proouce adult;\nnature of metamornhosis.\nTransient larval vs. emergent adult structures - relative bulk, rates\nof growth, degree of neoteny in adult; degree of coexistence and\neooevelo ment of larval and aeult tissues.\nStructural and functional comglexity\n. Habitat and way of life of larva. i\nLocomotor, sensory~neura1, and alimentary equi ment, in relation to\nway of life; other pertinent features.\nGeneral main furction of larva - distributive, perceptive, nutritive.\ngdautive comolggity\n. Can larva function as permanent organism? Is there evidence of\nneotenic macroevolution?\nCan larval perioe be suppressed or dispensed with altogether? Is\nthere evidence of abridged oevelo ment?\nRelation between egg size, amount of yolk, duration of free-swimming\nlarval period, and uevelopmental stage at hatching (oviparous or\nviviparous). Is direct, indirect (larval), or are both types of\ndevelopment typieal of the group? Relate to ecology.\nDoes larva recapitulate an ancestral stage, or is it an indepenaent\ninvention of the group? If larva resembles another larval type, is\nthis parallel evolution or ancestral relation?\nNet adaptive advantagevanu uisadvantage of larva probable direction\nof selective pressure.\n\n"
+}

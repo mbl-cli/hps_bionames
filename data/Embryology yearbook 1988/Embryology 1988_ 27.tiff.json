@@ -1,0 +1,123 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=mACkaErMSnyqegXNPbp36g",
+  "input_url": null,
+  "file": "Embryology 1988_ 27.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.061181935,
+    "resolve_names_duration": 0.670221866,
+    "total_duration": 22.118598866
+  },
+  "agent": "",
+  "created": "2013-06-18T13:16:32-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Ciona intestinalis",
+      "scientificName": "Ciona intestinalis",
+      "offsetStart": 449,
+      "offsetEnd": 466,
+      "identifiedName": "Ciona intestinalis"
+    },
+    {
+      "verbatim": "(Ascidia)",
+      "scientificName": "Ascidia",
+      "offsetStart": 468,
+      "offsetEnd": 476,
+      "identifiedName": "Ascidia"
+    }
+  ],
+  "content": "The reaction is stopped by adding the embryos to 35% ethanol where\nthey may be observed. Specimens can be stored indefinitely in 70%\nethanol. Permanent mounts are prepared by dehydrating in a graded\nseries of ethanols, clearing in xylene, and mounting in damar\nresin. The color is permanent.\nReaction:\nReddish-brown precipitate of cupric ferrocyanide (Hatchett's\nbrown) is formed.\nReferences:\nDurante, M. (1956) Cholinesterase in the development of Ciona\nintestinalis (Ascidia). Experientia 12:307-308.\nKarnovsky, M.J. (1965) A formaldehyde-glutaraldehyde fixative of\nhigh osmolality for use in electron microscopy. J. Cell Biol.\n\nKarnovsky, M.J. and L. Roots (1964) A `direct-coloring'\nthiocholine method for cholinesterase. J. Histochem. Cytochem.\n12:219~221.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ciona intestinalis",
+      "results": [
+        {
+          "data_source_id": 2,
+          "data_source_title": "Wikispecies",
+          "gni_uuid": "e7bb654a-ba90-575a-85a6-cbe72a86805f",
+          "name_string": "Ciona intestinalis",
+          "canonical_form": "Ciona intestinalis",
+          "classification_path": "Animalia|Eumetazoa|Bilateria|Nephrozoa|Echinothrix|Branchiostoma capense|Thaliacea|Sorberacea|Plurellidae|Cionidae|Ciona intestinalis",
+          "classification_path_ranks": "||||||||||",
+          "classification_path_ids": "80|4404|192967|249913|4473|4474|112943|123974|123975|142523|142524",
+          "taxon_id": "142524",
+          "url": "http://species.wikimedia.org/wiki/Ciona_intestinalis",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e7bb654a-ba90-575a-85a6-cbe72a86805f",
+          "name_string": "Ciona intestinalis",
+          "canonical_form": "Ciona intestinalis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628901",
+          "local_id": "512629",
+          "url": "http://eol.org/pages/512629",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ascidia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "67ef4142-9496-570e-bda6-a771e8e2e6d8",
+          "name_string": "Ascidia",
+          "canonical_form": "Ascidia",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Ascidiidae|Ascidia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363377|2421959",
+          "taxon_id": "2421959",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "67ef4142-9496-570e-bda6-a771e8e2e6d8",
+          "name_string": "Ascidia",
+          "canonical_form": "Ascidia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27908482",
+          "local_id": "43441",
+          "url": "http://eol.org/pages/43441",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

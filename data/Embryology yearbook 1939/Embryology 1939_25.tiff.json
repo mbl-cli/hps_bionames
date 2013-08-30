@@ -1,0 +1,129 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Aj5ag9SAQnWNZC4FeVQwZA",
+  "input_url": null,
+  "file": "Embryology 1939_25.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.183952755,
+    "resolve_names_duration": 0.723251088,
+    "total_duration": 22.902618792
+  },
+  "agent": "",
+  "created": "2013-06-19T15:23:02-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 29,
+      "offsetEnd": 35,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 493,
+      "offsetEnd": 499,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Asterias",
+      "scientificName": "Asterias",
+      "offsetStart": 584,
+      "offsetEnd": 591,
+      "identifiedName": "Asterias"
+    }
+  ],
+  "content": "sa-\nPlace fertilized eggs of Arbacia in the following solutions:\nso cc. sea Hp0 55 cc. m/2 NaClcc. \n,hi diese solutions eggs fuse or agglutinate. Leave in the solution\nto l0 hours and then transfer to pure sea-water and observe sub-\n'Wi 0 0 0 \nsequent development. ihe fusions should be treated as individuals\nand not collectively from early stages. dnalyzc your results.\nEx criments on Partheno.enesis\nYY 1 2 inttfi' xt:\nGeneral Remarks.\nIt is advisable to perform most of the experiments on Arbacia\neggs as they seem to lend themselves better to dlis kind of experi-\nmentation than Asterias eggs. Before opening every sea-urchin it\nshould be rinced in fresh water and scissors and hands of the ex~\nperimenter should be washed also\nurchin is opened particular care\nand instruments with fresh water\na) Parthenogenesis in one\nin fresh water. If a male sea~\nshould be taken in washing hands\nbefore opening a new sea~urchin.\ntreatment (Dr. Ethel Harvey).\nThe washed eggs (cheese-clothl) are put into the hypertonic sea water\nsolution (1 liter sea-water to which are added 50 g. of NaCl) for l6\n20 and 25 minutes. Agitate dish during treatment and observe under\nmicroscope the formation of fertilization membranes.\nTransport the so treated eggs into sea Water and observe results\nCompare the number of successful developments in the different\nbatches with variable times of treatment. Compute the approximate\npercentages of successful parthenogenesis and compare the times of\ndevelopment with the times of normal development. (Control fertili\ntations should be made after the different treatments are\nvb) Parthenogenesis in two\na treaunent corrected)\nstarted.)\ntreatments (Jaques Lobe's\nI. To an egg mass Mol NaCl solution.\nLeave for 40 minutes, wash.well in sea~water.\nll. Bring the egg mass back to E0 cc. and add to this suspension\n2.8 cc. N/l0 butyric acid. Let act for 50~40 seconds and\nin remarks about observations to be made\nwashvvell\nas above.\nReverse the sequence of treatments, i.e. butyric acid first, hyper~\ntonic salt solution as second treatment. Compare results, \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Asterias",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7b1ac17d-35ba-58e2-b65c-2ab566742b47",
+          "name_string": "Asterias",
+          "canonical_form": "Asterias",
+          "classification_path": "Animalia|Echinodermata|Asteroidea|Forcipulatida|Asteriidae|Asterias",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362716|2362745|2371692|2535287",
+          "taxon_id": "2535287",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7b1ac17d-35ba-58e2-b65c-2ab566742b47",
+          "name_string": "Asterias",
+          "canonical_form": "Asterias",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628080",
+          "local_id": "72957",
+          "url": "http://eol.org/pages/72957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

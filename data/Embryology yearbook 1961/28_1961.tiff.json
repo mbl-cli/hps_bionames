@@ -1,0 +1,174 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=MhmmKphOQTuGpZVm9PcgEg",
+  "input_url": null,
+  "file": "28_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.120903071,
+    "resolve_names_duration": 2.991404316,
+    "total_duration": 35.986542494
+  },
+  "agent": "",
+  "created": "2013-06-18T12:27:03-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "J. (1954). anormale",
+      "scientificName": "J. (1954)anormale",
+      "offsetStart": 909,
+      "offsetEnd": 927,
+      "identifiedName": "J. (1954). anormale"
+    },
+    {
+      "verbatim": "Comita,",
+      "scientificName": "Comita",
+      "offsetStart": 1118,
+      "offsetEnd": 1124,
+      "identifiedName": "Comita"
+    },
+    {
+      "verbatim": "Qllug domestlcus",
+      "scientificName": "Qllug domestlcus",
+      "offsetStart": 1310,
+      "offsetEnd": 1325,
+      "identifiedName": "Qllug domestlcus"
+    },
+    {
+      "verbatim": "Rana gigiens",
+      "scientificName": "Rana gigiens",
+      "offsetStart": 2057,
+      "offsetEnd": 2068,
+      "identifiedName": "Rana gigiens"
+    },
+    {
+      "verbatim": "Rana glglens",
+      "scientificName": "Rana glglens",
+      "offsetStart": 2415,
+      "offsetEnd": 2426,
+      "identifiedName": "Rana glglens"
+    }
+  ],
+  "content": "F,\nan Eibliography \nA-grell, 1. and Peterson, H. (1956). Changes in the amount of\nnucleic acids and free nucleotides during early embryon-\nic development of sea urchins. Nature l)78xl398. \nBieber, S.. J.A. Spence and Hitchings \naclds and their derivatives and the development of Rana\ni lens Exp Cell Res l?x202 214.\nabrams, R.  1951). ol* nucleic acid purine in the see\nurchin embryo. Exp. Cell Res. \nalfert, M. (1950). A cytochemical study of oogenesls and cleave\n. age in the mouse. J. Cell. Coup. Physiol. \nfxlfert, M. and Swift, ii. (1953). Nuclear DNA constancy: A crlt-ev\nical evaluation of some exceptions reported by Llson\nand Pasteels. Exp. Cell \nBrachet, J. (1960). The Biochemistry of Development. Claapt. \nPergamon \"Press, \nBeermann, W. (1956) \nSreuer, and Pavan, C. 1955). Behavior of polytene chromo-\nsomes of angglae at different stages of\nlarval development. Chromosome ;I x37l--386.\nBraghet, J. (1954). anormale du noyau et metabolism\ndo lfembryon chez les Batraclens. Arch. Biol. \nChino, H. (1956). The changes in phosphorus compounds during\nembryonic development of the gpg.\nEmbryologla ga 167'-186\nComita, J.J. and ilhltely, (1953). The correlation of Dm\nand the rate of respiration in the sea urchin\n?!hb1'Y0o 81010 311110 \nDurand, 1.1.6. (1955). L'acide deoxyribonucleique des gametes de\nQllug domestlcus. C.R. Acad. Sci. Paris g? l sl340\nDurand, M.C. (1958). Exp. Cell Res. gga246. \nElson, D., T. Gustafson and E. Chargaff (1954). lhe nucleic\nacids of the sea urchin during embryonic development.\n&8285\"294o\nIfinamore, E.J. and G.T. Crouse (1958). Nucleotide and -nucleic\nacid metabolism in developing amphibian embryos I. Iso=-\nlation and chemical identification of acid soluble nuc-=\nleotides. Exp. CELL RES. 14:160-165.\nlfinamore, E.J. and E. Volkin (1958): Exp. Cell Res. \nE. (1918). Roux Arch. Entw. Meehan. \nGrant. P. (1958). The of deoxyribonucleic acid during\nearly embryonic development of Rage pipleng. J.C.C.P.\n528227\"248o 32 14\nThe incorporation of and glycine 2-C\ninto nucleic acids during early embryonic development\nof Rana gigiens. J.C.C.P. ?g s249.\n(1960). The influence of folic acid analogs on devel-\nopment and nucleic acid metabolism in Ranapiplens embryos.\nDev. Biol. g?197-251.\nGmac. .3.R. and S. Lovtrup (1955). of desoxyribonuc-\nleoticeacld in lethal amphibian hybrids. Biol. Bull.\n\nGreco, .Jan are s. .L.vr..~up (1960). The influence of temperature\non the of Dim in Rana glglens embryos. Exp.\n1 Cell Res. 1 :619-620.\n1960) A reinvestigation of DNA in\nlethal amphibian hybrids. Exp. Cell Res., \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "J. (1954)anormale"
+    },
+    {
+      "supplied_name_string": "Comita",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "80114129-2929-5508-8a0d-f96cb64927cc",
+          "name_string": "Comita",
+          "canonical_form": "Comita",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "127734692",
+          "url": "http://www.organismnames.com/details.htm?lsid=2390579",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Qllug domestlcus"
+    },
+    {
+      "supplied_name_string": "Rana gigiens",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7eb901ed-5396-5509-996f-cf350d4ad097",
+          "name_string": "Rana",
+          "canonical_form": "Rana",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370878|2525654",
+          "taxon_id": "2525654",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7eb901ed-5396-5509-996f-cf350d4ad097",
+          "name_string": "Rana",
+          "canonical_form": "Rana",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20625776",
+          "local_id": "15744",
+          "url": "http://eol.org/pages/15744",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Rana glglens",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7eb901ed-5396-5509-996f-cf350d4ad097",
+          "name_string": "Rana",
+          "canonical_form": "Rana",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370878|2525654",
+          "taxon_id": "2525654",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7eb901ed-5396-5509-996f-cf350d4ad097",
+          "name_string": "Rana",
+          "canonical_form": "Rana",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20625776",
+          "local_id": "15744",
+          "url": "http://eol.org/pages/15744",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

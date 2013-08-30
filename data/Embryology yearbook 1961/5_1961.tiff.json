@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=mwmftBUsRZGjNsf4xw0NQQ",
+  "input_url": null,
+  "file": "5_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.062919948,
+    "total_duration": 26.004197872
+  },
+  "agent": "",
+  "created": "2013-06-18T12:38:13-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "CLASS 10652,\nHomin Holeg Masmchusctm\n\nlf; Dcnald Mmm;\n26 John Clark\n36 John Saunders\n46 Larry Kellaud\n56 A1 \n61: NQSUX1  \n70 118998  \n8? Richard Scalko\ngo Grant\nloo A8103 \nno   \n12?    \n138 Richard Hhittnker\n146 Sidxmr Siwson\n15? P8111 Fell\n16? Luim. Giacometti\n17? Robert Searls\n18? lhnrice Sussman\n19? Bernice Grafstein\n20? Gretchen Schabtach\n21? Linda. Garrick\n225 Ellen Fisher\n236 Larry Ruben\n246 Stiles Ezcll\n25? Richard Cleary\n26? Henry Garrison\n27? Fernando Renaud\nnot pictureds\nHa.rr.!.s Lehrer\nHioal \n\n"
+}

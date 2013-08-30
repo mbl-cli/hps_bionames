@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=DN1wXJIfRcKv2CEOvPJe1Q",
+  "input_url": null,
+  "file": "Embryology 1988_ 118.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.199923728,
+    "total_duration": 21.203445363
+  },
+  "agent": "",
+  "created": "2013-06-18T13:06:32-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "1.) Females homozygous for BicaudalD produce embryos\nwhich lack anterior head and thoracic structures,\nforming instead two posterior abdomens in mirror image\nsymmetry. At gastrulation, posterior midgut\ninvaginations are observed at the anterior and posterior\nends of the egg. At room temperature the penetrance of\nthe phenotype is somewhat variable. Many embryos show\nno polarity reversals and only partial reductions in\nanterior structures.\n.2.) Females homozygous for tudor produce embryos which\ndo not make germline precursors (\"pole cells) and show\npattern deletions in their abdominal region.\nDevelopment at the anterior end of the egg in normal.\n3.) Females homozygous for concertina produce embryos\nwhich do not form a posterior midgut. Other\ngastrulation movements are initiated normally, but the\nembryo is soon thrown into multiple folds It is not\nknown whether the pole cells which are formed normally\nmake it into the interior of the embryo in the absence\nof a posterior midgut invaginations\nTo study the effect of early zygotically active genes on the\nexpression of -galactosidase in these transformants, we\nwill use mutations in two segemntation genes and one gene\ncontrolling morphogenetic movements at gastrulation.\n1.) In embryos homozygous for the \"gap\" mutation\nKruppel, pattern elements in the thorax and anterior\nabdomen are deleted and replaced by a mirror image\nduplication somewhat similar to that observed in embryos\nfrom Bicaudal mothers.\n2.)In embryos homozygous for the \"pair-rule\" mutation\nhairy, pattern elements in alternate segments are\ndeleted. The deletion consists of the posterior\nportions of the odd-numbered segments and the anterior\nregions of the even numbered segments.\n3.) In embryos homozygous for folded gastrulation,\nsegmentation is normal but the animal fails to form a\nposterior midgut at gastrulation. The appearance of\nembryos at gastrulation is identical to that of embryos\nfrom concertina mothers\nWe will discuss the results of these experiments as a group.\nMost likely you will not able to stain embryos from all the\ncrosses listed below, but you should try to get several done.\nFor the crosses that you do, you should also some embryos\nwhich have been allowed to develop for 24 hours in Hoyers\nMountant to determine the cuticle phenotypes.\n\n"
+}

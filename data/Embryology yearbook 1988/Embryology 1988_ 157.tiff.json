@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=FIUBBubGRZWxnEDzd5wFew",
+  "input_url": null,
+  "file": "Embryology 1988_ 157.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.105169549,
+    "total_duration": 22.176809114
+  },
+  "agent": "",
+  "created": "2013-06-18T13:14:21-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": " -vwwuli\nReferences E. Davidson July 1988\nC. N., Britten, R. J., and Davidson, E. H. (1987).\nOntogenic activation of a fusion gene introduced into sea\nurchin eggs. Proc. Natl. Acad. Sci. USA 84, l5l-155.\nCalzone, F. C., Theze, N., Thiebaud, P., Hill, R. L., Britten,\nR. J., and Davidson, E. H. (1988). Developmental appearance\nof factors that bind specifically to cis-regulatory sequences\nof a gene expresses in the sea urchin embryo. Genes Dev., in press\n\n"
+}

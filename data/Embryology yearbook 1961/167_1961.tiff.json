@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Af6WbCGZTomgTA9tVoQQvA",
+  "input_url": null,
+  "file": "167_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.25614335,
+    "resolve_names_duration": 0.698622745,
+    "total_duration": 27.728787583
+  },
+  "agent": "",
+  "created": "2013-06-18T12:19:37-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 2084,
+      "offsetEnd": 2091,
+      "identifiedName": "Fundulus"
+    }
+  ],
+  "content": "\nwere noT employed, a possible explanaTion is conTaminaTion of The cuT maTerial.\nif one used asepTic condiTions, cuT blasTulae, and found in Those ThaT remained\nopen ThaT cells migraTed from The vegeTal plaTe aT The same Time as in inTacT\nembryos, The blasTocoel fluid could be excluded as having an immediaTe influen-\nTial role in The early gasTrulaTion process.\nFELL, PAUL TragmenTed,Mnemigg?i;\ndeveloped from1isolaTed1bla?Tgmere?\nAdulT cTenophores were collecTed during early AugusT aT GanseTT Bay and\nlaTer in The Eel Pond. The animals were placed in l50 ml. beakers of filTered\nsea waTer and kepT aT ocean TemperaTure in a consTanT TemperaTure box. OfTen\nwiThin 8-l0 hours aTTer being broughT inTo The laboraTory, The animals, which\nare monoecious, shed eggs and sperm. Under The exisTing condiTions The embryos\nhaTched as free swimming forms in abouT 8 hours.\nThe isolaTion of blasTomeres was confounded by The presence of The elasTic\njelly coaT which is noT easily severed wiThouT damaging The blasTomeres. For\nsTudying developmenT, The eggs were lefT in The beaker wiTh The adulT which\ngenTly sTirred Them by acTion of The comb rows. This genTle sTirring appears To\nbe imporTanT To The successful developmenT of The eggs (YaTsu, The\nisolaTed blasTomeres were kepT in a hanging drop suspended from The cover of a\nsmall sTender dish over 85% sea waTer. -\nlsolaTed blasTomeres of The Two cell sTage developed inTo essenTially nor~\nmal animals in some cases. These differed from The normal animals only in\npossessing half The usual number of comb rows as described by YaTsu for\nBende ovaTa. Thus, The eggs appear To be regulaTive save wiTh respecT To The\ncomb row formaTion, which sysTem is mosaic. lT would Therefore be of inTeresT To\nknow wheTher fragmenTs from adulT animals developed from isolaTed blasTomeres would\nregeneraTe The normal number or a reduced number of comb rows. Due To The laTe\nappearance of The cTenophores, and Their failure To shed eggs regularly in laTe\nAugusT, The regeneraTion sTudies were noT underTaken.\nELLEN The og The developmenT of The;\nsysTem in Fundulus heTe;pcliTus. \nThis projecT was underTaken To observe The effecT oT various salT soluTions\non The developmenT of The circulaTory sysTem in fundulus heTerogliTu?, The salTs \nused --MnCl2, and - were chosen wiTh The idea oT keeping The caTion\nconsTanT in Two of Them and The anion consTanT in Two, To Try and disTinguish,\nif possible, beTween The eTTecTs due To The caTion and Those due To The anion.\nThe salTs were used in The following concenTraTions: MnCl2 - 0.04, 0.05, 0.0625,\nand 0.l KCI and - 0.0625, 0.l, 0.2, and 0.5 N. The eggs were ferTilized\nand placed in sea waTer for Three hours or unTil mosT of Them had reached The\nfour cell sTage. Then They were Transferred To The soluTions and lefT There for\nThe resT of Their developmenT.\nThe Tollowing effecTs were observed in The eggs developing in The MnCl2\nsoluTions; however, The facT ThaT MnCl2 forms a precipiTaTe wiTh sea waTer\nundoubTedly viTiaTes These resulTs To a large exTenT. The embryos in all Tour\nsoluTions seemed To develop normally unTil The day haTching began, The TwelTTh\nday. AT This Time Those in The more diluTe soluTions haTched normally; buT of\nThe eggs in The Two more concenTraTed soluTions only a few haTched. The resT\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

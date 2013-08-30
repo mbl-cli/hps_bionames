@@ -1,0 +1,90 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=tfId4RzpQmOhaQjz5x3j6g",
+  "input_url": null,
+  "file": "79_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.205585782,
+    "resolve_names_duration": 0.893814516,
+    "total_duration": 29.387143141
+  },
+  "agent": "",
+  "created": "2013-06-18T12:46:01-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Ilyanassa.",
+      "scientificName": "Ilyanassa",
+      "offsetStart": 2027,
+      "offsetEnd": 2036,
+      "identifiedName": "Ilyanassa"
+    },
+    {
+      "verbatim": "Ilyanassa.",
+      "scientificName": "Ilyanassa",
+      "offsetStart": 2110,
+      "offsetEnd": 2119,
+      "identifiedName": "Ilyanassa"
+    },
+    {
+      "verbatim": "Ilyanassa.",
+      "scientificName": "Ilyanassa",
+      "offsetStart": 2396,
+      "offsetEnd": 2405,
+      "identifiedName": "Ilyanassa"
+    }
+  ],
+  "content": "\n\nIlvanassg obsolete \nThe Obtaining of Eggs and The best method of obtaining very early\nstages consists cf removing egg capsules which have been deposited on glass plates\nby snails in aquaria. Eggs are visible at the oviuucal opening (anterior meaian\npart of foot). After the egg is fastened to glass, the snail may be removed\ngently, ana the capsule transferrea to a watch glass of filtered sea water with a\npair uf fine forceps. Since snailsseem to prefer to deposit eggs on the woouen\nsiues of the tank, in preference to the glass, J. Oppenheimer suggests inserting\nsheets ef glass over these sides; these can be removed from the sides for\ninspection purposes without disturbing the animals.\nThe Opening of (The stage of uevelopment of the eggs may be determined\nbefore removal from the capsule with the aid of a binocular microscope.) When\nthe proper stage is found, pin sown the side of the capsule furthest from the eggs\nwith a dissecting needle. with another needle, tear off the section that is\npinned tu the dish, making sure that a very large tear is made. If gentle\npressure is now applied to the capsule, the eggs will flow out of the mass of\njelly. Make sure that all cf the eggs are free of the capsule and that the\ncapsule is rather well torn up before releasing the gressure, or else the thick\njelly will rush back into the capsule, carrying the eggs with it. All of the\noperations must be carried out under water, for the eggs rupture on contact with\nair. The jelly dissolves in the water, and after a few seconds, the eggs will\nsettle down to the bottom of the aish.\nQlgayggesz Approximate Time Table:\nlobe SO minutes (lst polar body coming off)\nDisaap. of lobe 59 minutes (lst polar bony off)\n2nd apsears 1 hr. 12 min.\nZno lobe LHS 2 hrs. 12 min.\nBra lobe 2 hrs. 42 min.\ncleavage 3 hrs. 42 min.\nA cells A hrs. 52 min.\nObserve later stages of development through the veliger larva\n(there is no trochophore larva.)\nREFERENCES\nClement, anthony C. 1935 The formation of giant polar bodies in centrifuged eggs\nof Ilyanassa. Biol. Bull., QQ: \n1952 Experimental studies on germinal localization in\nIlyanassa. 1. The role of the polar lobe in determination\nof the cleavage pattern and its influence in later\nuevelonment. J. E. Z. 593.\nCranpton, H. E. 1896 Experimental Stuuies on Gastropou Development.,\nArch. f, Entw'mech., 3\nMorgan, T. H. 1933 The formation of the antipolar lobe in Ilyanassa.\nJuufs Ejfpa ee:  \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ilyanassa",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "2c7980c7-bc35-507b-9b71-cc0bf90b7065",
+          "name_string": "Ilyanassa",
+          "canonical_form": "Ilyanassa",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Lophotrochozoa|Mollusca|Gastropoda|Caenogastropoda|Hypsogastropoda|Neogastropoda|Buccinoidea|Nassariidae|Ilyanassa",
+          "classification_path_ranks": "|superkingdom||kingdom||||||phylum|class|||infraorder|superfamily|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206795|6447|6448|69555|216293|6479|216303|6483|34581",
+          "taxon_id": "34581",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "2c7980c7-bc35-507b-9b71-cc0bf90b7065",
+          "name_string": "Ilyanassa",
+          "canonical_form": "Ilyanassa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29011199",
+          "local_id": "4836677",
+          "url": "http://eol.org/pages/4836677",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    }
+  ]
+}

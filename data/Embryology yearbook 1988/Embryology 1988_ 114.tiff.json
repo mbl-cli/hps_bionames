@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=o8BS84c4TJqH7RmMkafYrg",
+  "input_url": null,
+  "file": "Embryology 1988_ 114.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.074400551,
+    "total_duration": 23.017008507
+  },
+  "agent": "",
+  "created": "2013-06-18T13:06:04-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Tuesdaxl Jul! 26\n11:00 AM\nPM\nWednesday: July 27\n10:00 AM\nPM\nThursdax, JUILZH3\n10:00 AM\nPM\nFriday: Jul! 29\n10:00 AM\nPM\nSaturday, Jul! 30\nAM\nPM\nKeith Yarnarnow\nGarabedian and Franks Labs\n(1/2 of class in each session)\nKeith Yamamoto\nCarabedian and Franks Labs\nEric Davidson Lecture\nGarabedian and Franks Labs\nEric Davidson Lecture\nGarabedian and Franks Labs\nFinal Discussion\nBash\n\"Long-range mechanisms\nfor transcriptional\nregulation\"\nprotein interaction\nin vitro\" and \"Transgene\nexpression in sea urchin\nembryos\"\n\"Signal transduction\nmechanisms for\ntranscriptional regulation\"\nContinued\n\"Trans-acting factors\nregulate lineage-specific\ngene expression in eariy\nsea urchin embryos.\" I.\nContinued\n\"Trans-acting factors\nregulate lineage-specific\ngene expression in early\nsea urchin embryos.\" II.\nContinued\n\n"
+}

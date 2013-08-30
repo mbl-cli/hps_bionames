@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=yq9DdvgLQvuDB5lqwwiMaw",
+  "input_url": null,
+  "file": "Embryology 1988_ 25.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.1326223,
+    "total_duration": 21.749442174
+  },
+  "agent": "",
+  "created": "2013-06-18T13:16:15-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "2. Nitro BT Stock Solution:\nDissolve nitro blue tetrazolium (Sigma N6876), 50 mg/ml of 70%\nCan be stored in refrigerator, up to a\nmonth.\n3. BCIP Stock Solution:\n5-bromo-4-chloro-3-indolyl phosphate, p-toluidine salt (Sigma\nB8503), 50 mg/ml \n4. Reagent Buffer Solution:\n100 mM Tris-HCl, pH 9.5, 100 mM NaCl, 5 mM MgCl2\n1.211 gm Tris-HCl (100 mM)\n0.584 gm NaCl (100 mm)\n0.25 ml 2 stock soln. (5 mM)\n100 ml distilled water\nadjust pH to 9.5\n5. Reaction Solution:\n10 ml Reagent Buffer Solution\n33 ul Nitro-BT Stock Soln. added first\nand then add 33 ul BCIP Stock Soln.\nNature of the reaction:\nAccording to McGadey (1970), the oxidation of indolyl substrates\nby non-specific alkaline phosphatase results in the production of\nindigo (blue colored) and dehydroindigo (colorless), with the\nrelease of hydrogen which reduces the tetrazolium salt to\ndiformazan (blue colored). The major source of hydrogens is\nprobably from the formation of the dehydroindigo. Diformazan is\nsaid to be insoluble in alcohols and when mounted in a\nxylene-soluble resinous medium remains a permanent color. In my\nown experience the blue diformazan color disappears slowly in\nalcohols; either the product is soluble or the alcohols\nprovide slight reducing conditions. The technique as described\nabove is formulated from the ProtoB1ot procedure described by\nPromega as part of'a method using conjugated alkaline phosphatase\nantibodies in the staining of Western Blots.\nReferences:\n\"ProtoBlot Western Blot Technical Manual,\" 1987. Promega, 2800 S.\nFish Hatchery Road, Madison, WI 53711-5305.\nMcGadey, J. 1970.\nA tetrazolium method for non-specific alkaline phosphatase.\nHistochem. 23: 180-184.\nBlake, M.S., Johnson, K.H., Russell-Jones, G.J. and \nE.C. 1984.\nA rapid, sensitive method for detection of alkaline phosphatase-\nconjugated anti-antibody on Western blots.\nAnal. Biochem. 136: 175-179.\n\n"
+}

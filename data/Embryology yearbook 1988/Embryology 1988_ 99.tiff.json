@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=RoOX1hl0S8agtgTyvnGfHA",
+  "input_url": null,
+  "file": "Embryology 1988_ 99.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.080052282,
+    "total_duration": 24.967076577
+  },
+  "agent": "",
+  "created": "2013-06-18T13:30:43-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "\nUQ\nQ03 29019-9\n336109\n\n\n\n-fua'\\fifpix?\n2-Wim\n\n13)\nQQBS\n32\n\"5\nEEQ2\n\nSTU\n\n\n\n\n\n07 aa/EEZ\n\nQ33\n\n43,5\nWin\n\n\n\nf`\n$233\n?`7<Eo\n\njg)\n\n\n\n252QE..\nI  \nf~ \nNi go\nTHIN Ejtgzotli \""
+}

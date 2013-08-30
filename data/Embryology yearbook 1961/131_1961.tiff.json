@@ -1,0 +1,83 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=OKjBjBitQX254Xfaloe1IA",
+  "input_url": null,
+  "file": "131_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.28063074,
+    "resolve_names_duration": 0.619516087,
+    "total_duration": 39.585500935
+  },
+  "agent": "",
+  "created": "2013-06-18T12:08:47-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Perophora",
+      "scientificName": "Perophora",
+      "offsetStart": 2928,
+      "offsetEnd": 2936,
+      "identifiedName": "Perophora"
+    },
+    {
+      "verbatim": "-Perophora",
+      "scientificName": "Perophora",
+      "offsetStart": 3309,
+      "offsetEnd": 3318,
+      "identifiedName": "Perophora"
+    }
+  ],
+  "content": "\na fi\nas ,dau\nnon-functional and incomplete circulatory' system (Graves and Woodbridge, ?24)s In\nmetamorphosis they unfold like petals of a flower, and spread around the edge of the\ndeveloping tunicateo As the colony grows these increase in number. \nIn addition, identify: the Statolith, a densely black cup suspended in the sensory\nvesicle by a slender stalk and closely sociated with light-sensitive elements (Grave\nand Riley, the two siphons; the with several stigmata; the stomach and\nintestines \nTadpoles attach to e. substrate within an hour or two after hatch.i.nge The mete-\nmorphoeis is extremely rapid (Grave \"35, Grave and Iiichol, They often netamor->>\nphose without attaching and attach a. day or so laters \nbo  -old form atrial buddy., Allow tadpolee to attach to wa;/ch glasses and\ngrow for ltwo days. They are now larger and clearer, and usually so oriented that the\nobserver looks directly down into the atrial and oral sipnons., The large pharynx is in\nthe shape of a truncated cone and bears the three rows of stigmata which let eater pass\nout into the atrial cavities of the two sides., The endoetyle lies on the underside of\nthe pharynx and thus appears as a rod under the mouth.,\nThe stomach ordinarily appears as a yellow body under the atrial opening., The\nintestine after turning to one side from the stomach, returns to empty near the atriume\nThe pulsating heart and its vessels are of particular interest, especially the flow of\nblood around the mouth and pharynx., \nrenew bud (first biaewzcoia) appears from the sexually developed animal (uw oozcid)\nas an evagination of the atrium at one side. It is furnished with a blood supply, and\npresently the differentiating parts can be distinguished., Coming from the atrium, the\nwhole bud, and all parts of the new individual, are derived from ectoderm. This is the\natrial type of budding (lerrill, \nc. Week-old forms Will be providede In these animals, general struc%e already\nstudied may be easily seen under low power. The pharynx of the oozooid developed\n4 mira of stigmata, and the first blastozooid may also have three or four rows., Blasto-\nsooid buds of the second and third order may be presents\nThe first blastozooid bud in is single, all the later ones are in symmet-\nrical pairs. The same organ structures may be seen in all the individuals, not with-\netauding their diverse enbryology, with the minor exception that the oozooid does not\ndevelop gonads. Through rearrangement of the individuals, the completed colony shows a.\ncormnon atrial pit in the center, with separate pharyngeal openings at the periphery\n(see wall chart). \nEach bud consists at first of a disc, then a sphere., The sphere extrudes sex cells\nat one or both sides and becomes partitioned into three vesiclese the ,lateral ones\nforming an-iai chambers, me middle one the pharymce (Later stages show differentiation\nof the rest oi' the organs from the Berrill, \n3. geropgrae Perophora is a little green-colored ascidian, which by means of\nstolons foms loose colonies on wharf pilings, etc. Pieces of the colony may be gently\nstuck to watch glasses withpvaseline, and stored in running sea waters After a day or\nso,sto1ons will be sent 'out over the surface of the glass and new blastozocids will be\nformed' at intervals. Examine the watch glass culture of -Perophora which has been grow->>\ning for two weaker \nNotice the branching pattern of the stolonss The tips show exploratory tendencies \nlike small pseudopodia. The outgo;Ln.g; and incoming blood streams in the stolons are \nseparated by a septume .A11 the stages in the formation of new individuals \nwill be found, arranged like pumpkins on a vine, with the youngest nearest the tipse\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Perophora",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "0b9736d1-ec72-5d22-badb-ab11c8c0b758",
+          "name_string": "Perophora",
+          "canonical_form": "Perophora",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Perophoridae|Perophora",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2368560|2445157",
+          "taxon_id": "2445157",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0b9736d1-ec72-5d22-badb-ab11c8c0b758",
+          "name_string": "Perophora",
+          "canonical_form": "Perophora",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103963",
+          "local_id": "65033",
+          "url": "http://eol.org/pages/65033",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=0xQpQwUyQRqh3wtOBEHi6Q",
+  "input_url": null,
+  "file": "Embryology 1988_ 109.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.174747219,
+    "resolve_names_duration": 0.868670954,
+    "total_duration": 24.219149722
+  },
+  "agent": "",
+  "created": "2013-06-18T13:04:55-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Santamaria",
+      "scientificName": "Santamaria",
+      "offsetStart": 996,
+      "offsetEnd": 1005,
+      "identifiedName": "Santamaria"
+    }
+  ],
+  "content": "C. Cytoplasmic, Leakage 1\n1. Following a 30' minute egg collection, remove chorion by gently\nrolling embryos on double stick tape. Carefully arrange embryos in correct\norientation for planned injection. 9 \n2. Cover embryos with a small amount of 700 Series (very viscous)\nhalocarbon oil. \n3. Carefully lower needle and find the needle tip in the microscopes\nviewing field. Then bring the egg and needle tip into the same plane of focus.\n4. I Gently prick the embryo so that cytoplasm leaks out. Record the\nstage of the embryo and the degree and position of cytoplasm extruded from\nthe egg. Then gently remove extruded cytoplasm with needle.\n5. After experimental treatment put embryos in a moist chamber and\nreturn to humidified incubator. \n6. After an overnight incubation score the number of hatched larvae\nand mount the unhatched embryos for cuticle examination as described in the\nprevious lab protocol. 7 A\nRefereneesr \nFrohnh6fer,~H. G. et eL, (1986) 1 M, 97 Suppl., 169-179. (see below) 1\nSantamaria, P. (1986) Injecting eggs. Dresophila, a practical\napproach, D. B. Roberts IRL Press, Oxford, pp. 159-173.\n9   I   \nfi \n\nI \nFig. l. Protocols of pricking and transplantation experiments (see Table legends).\nEmbryos were collected from Oregon-R wild-rype females for 1h at l8?C, dechor-\nionated with Klorix and mounted in suitable orientations on a eoverslip spread\nwith glue. For pricking (experimental designs A, D, and F). eggs were covered\nimmediately after mounting with Voltalef 10S oil and pricked with a glass needle.\nAfter about 15 min, the extruded cytoplasm was removed using a wide glass capillary.\nIf necessary, this clearing treatment was repeated. For cytoplasmic transplantation\n(experimental design and C) the recipient embryos were dried briefly under a fan to\navoid leakage. Cytoplasm was collected from several donor embryos and distributed\ninto approximately the same number of recipient embryos. In experiment D. the ratio\nof donors to recipients was between one and two. After the experimental treatment,\nembryos were left to develop in a moist chamber. Unhatched larvae were removed\nfrom the vitelline membrane using a glass needle and, together with the hatched\nlarvae, mounted in I-loyers medium diluted 1:1 with lactic acid. After clearing at \nthe embryos were screened for the presence of cuticular markers (Lohs-Schardin er al.\n1979).\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Santamaria",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

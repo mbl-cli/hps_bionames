@@ -1,0 +1,104 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ERIQDCswSrOIBYDgUTajbQ",
+  "input_url": null,
+  "file": "35_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.198581889,
+    "resolve_names_duration": 2.457023438,
+    "total_duration": 28.186289521
+  },
+  "agent": "",
+  "created": "2013-06-18T12:29:31-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Mus musculus",
+      "scientificName": "Mus musculus",
+      "offsetStart": 279,
+      "offsetEnd": 290,
+      "identifiedName": "Mus musculus"
+    },
+    {
+      "verbatim": "Drosoghila",
+      "scientificName": "Drosoghila",
+      "offsetStart": 768,
+      "offsetEnd": 777,
+      "identifiedName": "Drosoghila"
+    },
+    {
+      "verbatim": "Sur lfactiviti ensymatique",
+      "scientificName": "Sur lfactiviti ensymatique",
+      "offsetStart": 1036,
+      "offsetEnd": 1061,
+      "identifiedName": "Sur lfactiviti ensymatique"
+    }
+  ],
+  "content": "1 5\nKarli, P. (1951). Retines sans oellules visuelles. Rgeherchea\nmo phologiquee, physiologiquee et physiopathologiques chez\nles rongeurs. Archives d?Anatomie d'Histologie et\nd?Embryo1ogie 35, 1-75.\nKeeler, C. E. (1927). Rodless retina, an opthalmic mutation in the\nhouse mc se, Mus musculus. J. Exptl. Zool. 46, 355~407.\nKollroe, J. J. (1961). Mechanisms of amphibian.metamorphosias hormones.\nAmerican Zoologist 1, 107-114.\nY. (1954). a au de%1.pp.m.n1= .t a. la\nregression des canaux de Muller chez 1?embtyon Bull.\nlbiol. France et Belg. 95, 472-505.\nMontague, W. (1945). .A re-investigation of the development of the wing of\nthe fowl. J. Morphol. 76, 87-113.\nNovixmff, A. (1960). Am. J. ma. 29, 102.\nOkada, E., and C. H. (1959). The submicroscopic structure of\nthe Drosoghila egg. J. Embryol. Exptl. Morphol. 7, 585~597.\nPfleger, D. de l?inf1uence des hormones sexuelles sur\n1?..e1vie. enzymatique des autolysate de cenau  de Moller chez\n1?.mbry.. de poulet. mpt. rend. soo. biol. 146, 932~935.\nPfleger, D., and Vendrely, C. (1952). Sur lfactiviti ensymatique des auto~\nlysate de oanaux de M@11er males et femelles d?embryons de poulet.\nCumpt. fend. 800. biol. 146, 118?125e\nRosenbaum, R. M. (1960). Gastrular arrest and the control of autolytio\nactivity in the egg of Rana Eigiensa the comparative egfeota of\noxygen, supramaximal temperature, and dinitrophenol. Develop.\nBiol. 2, 427-445. \nSaunders, J. W., Jr. (1948). The promimo-distal sequence of origin of the\nparts o? the ohiok wing and the role of the eetoderm. J. Exptl.\nZool. 108, 363-404.\nSoraby, A., Koller, P. C., Atfield, M., Davy, J. B., and Lucas, D. R. (1954).\nRetinal in the mouses histological and genetical aspects.\nJ. Exptl. Zool. 125, 171-197.\nSpratt, N. T. (1946). Formation of the primitive streak in the explanted\nchick b1astoderm.marked with carbon particles. J. Exptl. Zool.\n103, 259-304.\nStookenberg, W. (1936). Die Orte besondererJVita1farbbarkeit des \nund ihre Bedeuthng for die Wilhelm\nRoux Arch. Entwioklungsmech. Organ. 135, 408-425.\nTaneley, K. (1951). Hereditary degeneration of the mouse retina. British\nJournal of Opthahmology 55, 575~582.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Mus musculus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "110efec8-e876-5509-80e4-54f616b1c109",
+          "name_string": "Mus musculus",
+          "canonical_form": "Mus musculus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Muridae|Murinae|Mus|Mus|Mus musculus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass||||||class|||superorder||order|suborder||family|subfamily|genus|subgenus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|8287|32523|32524|40674|32525|9347|314146|314147|9989|33553|337687|10066|39107|10088|862507|10090",
+          "taxon_id": "10090",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "110efec8-e876-5509-80e4-54f616b1c109",
+          "name_string": "Mus musculus",
+          "canonical_form": "Mus musculus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29149217",
+          "local_id": "328450",
+          "url": "http://eol.org/pages/328450",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 25,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Drosoghila",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Sur lfactiviti ensymatique"
+    }
+  ]
+}

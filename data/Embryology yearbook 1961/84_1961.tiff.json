@@ -1,0 +1,63 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=s9dB4ObERn6hv0yMg4F5hg",
+  "input_url": null,
+  "file": "84_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.182975251,
+    "resolve_names_duration": 1.218901861,
+    "total_duration": 27.239259276
+  },
+  "agent": "",
+  "created": "2013-06-18T12:47:38-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Chaetcnterus wergamentaceus",
+      "scientificName": "Chaetcnterus wergamentaceus",
+      "offsetStart": 186,
+      "offsetEnd": 212,
+      "identifiedName": "Chaetcnterus wergamentaceus"
+    }
+  ],
+  "content": "\nggferencesz\nHatschek, B. 1886 Entwicklung eer trochophere van \nArbeit. a, a. Zool. Inst. Wien. Xl.\nShearer, C. 1911 Development ana structure of the of Hygreiaes.\nQuart. J. Hier. Sec. \nChaetcnterus wergamentaceus \nThis is an exotic species of anneliu fours in shaped tubes on muo or\nsand flats. The sexes are easily uistinguished by the coler of the parapcaia which\ncsntain the gametes the females are orange colered and the males white. Eggs and\nsperm may be obtainec`hy cutting the posterior parapodia. The eggs; after ex-\ntrusion the parapceia, shcule be washed several times with sea water or\nfiltered thrcugh cheesecleth to remove mucous.\nThe egg (abcut 100 micra in aiameter) contains a large germinal vesicle\nwhich breaks sown ana proceeds to the metaphase of the first maturation division\nwhen places in sea water. Details of fertilizaticn will  stuaied at another time,\nhowever, observe the change in shape ef the egg between fertilizaticn and first\ncleavage. \nA pclar lobe is formea in the vegetal hemisphere prior tu the first\ncleavage ana at the close cf cleavage fuses with the CD cell. A smaller lcbe appears\nprior tc the sectna cleavage and passes into the D, Cell which thus beccmes the\nlargest blastcmere of the A cell stage. Subsequent cleavages are cf the sprial\ntype (see Plate Xll, Mead, l897). The third cleavage is dexietrepic, giving rise\ntx the first quartet uf micrcmeres, which are nearly the same size as the macro~\nmeres. The embryo becemes ailiatee and hatches the membrane before the end\ncf the first dey\nSchedule of development:\nare Zne polar homies 15-27 min.\ncleavage 62 min.\n2nd cleavage 82 min.\nBie cleavage 95 min.\nciliateu blastula 8 hrs.\nyoung trochophore 24 hrs.\n24 heur stage\nElongation of the body occurs auriug the first say. Observe the ggtegigr\nauical tuft, mcuth on ventral surface, eze seats on cereal side, ana band\nef cilia.\n3-6 eav Elongation of the continues ans it beccmes\nspinele shapes. The band uf cilia disappears ana is replaces by two\nlateral flagella. A eiliary band levelcps in the region of the pcsterior part of\nthe intestine. The mcuth becemes enlarged, forming a triangular split and the\ndigestive tract mere eistinct. Observe sects, lateral flagella,\nposterior eiliatee oesophagus,;spherical stcmach, thin wallee intestine.\n0 \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Chaetcnterus wergamentaceus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3f867c9f-c86a-5a63-98c6-de363439a9f7",
+          "name_string": "Chaetopterus pergamentaceus Cuvier, 1827",
+          "canonical_form": "Chaetopterus pergamentaceus",
+          "classification_path": "Animalia|Annelida|Polychaeta|Spionida|Chaetopteridae|Chaetopterus|Chaetopterus variopedatus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2369613|2369614|2369624|2369631|2525102|8066951",
+          "taxon_id": "8069096",
+          "current_taxon_id": "8066951",
+          "current_name_string": "Chaetopterus variopedatus Cuvier, 1827",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    }
+  ]
+}

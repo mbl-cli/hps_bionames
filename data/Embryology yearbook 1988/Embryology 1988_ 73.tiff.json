@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=KDmVMZRuQIiyTxH3HpeK9g",
+  "input_url": null,
+  "file": "Embryology 1988_ 73.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.086471839,
+    "total_duration": 20.434800073
+  },
+  "agent": "",
+  "created": "2013-06-18T13:25:18-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Urea Acrylamide gels\nUrea 6.259\n30% Acrylamide (30:1.13) 2.5 ml\n10XTBE 1.25 ml\nH20 4.5 ml\nHeat with stirring until just dissolved\nAdd 10% ammonium persulfate .125ml\ntemed 10 ul\n10; TBE\n108g Tris base\n55g boric acid\n9.32g EDTA\nper liter\n\n"
+}

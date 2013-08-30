@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=rm8cs9a9QUOzQCpbbHzcgA",
+  "input_url": null,
+  "file": "Embryology 1988_ 56.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.059476325,
+    "total_duration": 21.112999107
+  },
+  "agent": "",
+  "created": "2013-06-18T13:21:59-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "EMBRYOLOGY COURSE - MINIMODULE: MICROINJECTION WORKSHOP\nFriday July 8 No Lecture\nSaturday July 9\n10 AM Lecture R. Silver \"Calcium Regulation in Mitosis:\nA View from the Mitotic Apparatus\n\n"
+}

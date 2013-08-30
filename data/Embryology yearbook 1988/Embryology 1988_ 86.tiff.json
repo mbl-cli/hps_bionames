@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=TMuNvsVsRYS1322pyds7dw",
+  "input_url": null,
+  "file": "Embryology 1988_ 86.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.172266236,
+    "total_duration": 25.722065259
+  },
+  "agent": "",
+  "created": "2013-06-18T13:28:16-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Digest DNA\nMinigel:\nRNA\n\nLA5\nSgLy ll'  \nProcedures\n5ug DNA\nH20 to 100 ul\n10 ul of appropriate 10X buffer (usually provided by\nsupplier alternatively check back of any molecular\nbiology catalog).\n10 units restriction enzyme.\nDigest 1~2 hours 37 deg. C.\nCheck digestion by running about 500ng on-0.7%\nagarose minigel adjacent to undigested plasmid.\nExamine DNA by UV flouresence of DNA/Ethidium Br\ncomplex (note: ethidium bromideflouresces in uv\nlight when complexed with nucleic acids).\nExtract DNA by adding equal volume of\nphenol/chloroform and shaking vigorously for about 2\nmin. Spin on microfuge 5 min.\nRemove upper aqueous layer, avoiding interphase and\nadd to new tube. Either precipitate DNA, or extract\nonce more with chloroform alone. Again aqueous\nlayer is on top. Precipitate DNA by bringing\naqueous layer to 0.3 Na0Ac ph 5.2, then adding 2\nvolumes of the final volume of ethanol. Mix and\nfreeze at -20 deg. C.\nFor 25 ml minigel add 0.175 of agarose to small\nflask. .Add 20 H20. Heat tx: boiling\nswirling flask occasionally. When completely\ndissolved 2.5 ul of 5mg/ml Ethidium Br. Place flask\nin refrigerator.\nTape off ends of minigel with labelling tape. Place\napparatus in refrigerator. When agarose has cooled\npour into form, add comb, and let harden.\nFill tanks and cover gel with 1X TBE. Add H20 to\nDNA sample to bring to 10 ul. Add 2 ul laoding\nbuffer, and mix. .Add sample to wells in gel and run\nat 60 until the bromophenol blue has run about 1/2\nthe length of the gel. Remove gel and examine with\nUV light.\nSpin DNA 10 min. in Microfuge. Pour off ethanol.\nRinse tube with fresh 70% ethanol to remove any\nsalt contaminants. Pour off and dry tube in\nSpeed Vac. \n\n"
+}

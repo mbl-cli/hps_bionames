@@ -1,0 +1,261 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=a8HjcIXMSUOmsCGEVlMBcw",
+  "input_url": null,
+  "file": "Embryology 1939_14B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.163942828,
+    "resolve_names_duration": 1.361183991,
+    "total_duration": 20.717904541
+  },
+  "agent": "",
+  "created": "2013-06-19T15:20:13-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Batrachus tau",
+      "scientificName": "Batrachus tau",
+      "offsetStart": 1298,
+      "offsetEnd": 1310,
+      "identifiedName": "Batrachus tau"
+    },
+    {
+      "verbatim": "Fundulus heteroclitus",
+      "scientificName": "Fundulus heteroclitus",
+      "offsetStart": 1599,
+      "offsetEnd": 1619,
+      "identifiedName": "Fundulus heteroclitus"
+    },
+    {
+      "verbatim": "(Serranus atrarius)",
+      "scientificName": "Serranus atrarius",
+      "offsetStart": 2183,
+      "offsetEnd": 2201,
+      "identifiedName": "Serranus atrarius"
+    },
+    {
+      "verbatim": "Gasterosteuous aculeatus",
+      "scientificName": "Gasterosteuous aculeatus",
+      "offsetStart": 2322,
+      "offsetEnd": 2345,
+      "identifiedName": "Gasterosteuous aculeatus"
+    },
+    {
+      "verbatim": "Opsanus tau",
+      "scientificName": "Opsanus tau",
+      "offsetStart": 2455,
+      "offsetEnd": 2465,
+      "identifiedName": "Opsanus tau"
+    }
+  ],
+  "content": "1959\nREFERENCES ON OE EISR\nWith special reference to (lecture and\nlaboratory) work of course.\n*his bibliography contains only a few of the older papers (for\nmore complete references see general works and bibliographies in\npapers here listed.\nl. GENERAL REFERENCE WORKS.\nBracket, A. Traite d'embryologie des vertebres. 2nd ed. 1955.\nHertwig, 0. (editor) Handbuch der vergleichenden und experimentelle\nEntwicklungslehre der Wirbeltiere. Jena 1906.\nJenkinson, J. W. Vertebrate embryology. Oxford, Clarendon lress,l9l5\nKerr, J. G. Text book of Embryology, Vol. ll, Vertebrate. MacMillan\nCo., 1919\nMorgan, T. H. Experimental Embryology, New York, 1927\nOppenheimer, J. M. Historiga&'introduction to the study of teleos-\ntean development. Osiris, 2, 1956.\nSchleip, W. Die Determenation der Primitiventivicklung, Leipzig 1929\nZiegler, H. E. Lehrbuch der vergl. Entwickelungeschichte der\nniederen Wirbeltiere. Jena 1902.\n\nll. SPECIAL REFERENCES ON MORPHOLOGY OE DEVELOPMENT\nAgassiz, A. Whitman, C. 0. On the development of some Pelagic\nFish Eggs. Proc. Am. Head. Arts Sciences, 20, 1884. \nAgassiz, A. Whitman, C. 0, The Development of Osseous Fishes.\nMem. Mus. Comp. Zool. Cambridge, Mass. 14, 1885.\nClapp, 0. M. Some points in the development of the \nMorph. 5, 1891\nSlapp, C. M. The lateral line system of Batrachus tau. Jour. Morph.\n15, 1899.\nCunningham, J. T. On the relations of the Yolk to the Gastrula in\nTeleostreans and in other Vertebrate Types. C. J. M. S.\n28, 1885.\nHis. W. Untersuchungen uber die Bildung des Knochenfischembryo.\nArch. Anat. u. Entw. 1878.\nOppenheimer, J. M. The normal stages of Fundulus heteroclitus. Anat.\nI Rec, 58, 1957.\nRyder, J. A. A contribution to the Embryology of osseous fishes\nwith special reference to the cod. Report of Com. of\nFish and Fisheries. 1882. Washington, 1884 \nSumner, F. B., Kupffer's Vesicle and its Relation to Gastrulation\nand Concresence. Mem. N. Y. Acad., Sci. 2, 1900.\nSumner, F. B., A study of Early Fish Development, Experimental and\nMorphological. arch Entw'mech. 17, 92 - 119. 1904\nStockard, Charles R., A Study of wandering cells on the\nliving yolk sac. Am. Jour. Anat. 18, 1915.\nWilson, R. V., The Embryology of the Sea Bass (Serranus atrarius).\nBull. U. S. Fish Com. 9, 1891.\nIll. HAEITS\nCraig-Bennett, A. The reproductive cycle of the three~spined stickle\nback, Gasterosteuous aculeatus, Linn. Phil. Trans. Roy.\nSoc. London 219, 1951. \nGudger, E, W, The hahits and life history of the toadfish. Opsanus\ntau. Bull. Bureau of Fisheries. Washington 28, 1910.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Batrachus tau",
+      "results": [
+        {
+          "data_source_id": 9,
+          "data_source_title": "WoRMS",
+          "gni_uuid": "43bb240a-c470-5bcc-9229-c79ea5220e18",
+          "name_string": "Batrachus tau",
+          "canonical_form": "Batrachus tau",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Perciformes|Serranidae|Batrachus|Batrachus tau",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "gn:3uL60ncMV0CLLRfxOOBRdQ|gn:0nPgiA8cWdWSAg1iZqIs6Q|gn:_UNmPgNyUVCvGlWbfQ8O6A|gn:nMA7QjBdVFe7o9kGXHIW2w|gn:9ElvWo0yXpez3fMiMumTtg|gn:KRYoS2YYXFG83nWbAxElvQ|298291",
+          "taxon_id": "298291",
+          "url": "http://www.marinespecies.org/aphia.php?p=taxdetails&id=298291",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "43bb240a-c470-5bcc-9229-c79ea5220e18",
+          "name_string": "Batrachus tau",
+          "canonical_form": "Batrachus tau",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20795268",
+          "local_id": "3088710",
+          "url": "http://eol.org/pages/3088710",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Fundulus heteroclitus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "b4e4dfca-4136-5fc1-8688-53af51190898",
+          "name_string": "Fundulus heteroclitus",
+          "canonical_form": "Fundulus heteroclitus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Elopocephala|Clupeocephala|Euteleostei|Neognathi|Neoteleostei|Eurypterygii|Ctenosquamata|Acanthomorpha|Euacanthomorpha|Holacanthopterygii|Acanthopterygii|Euacanthopterygii|Percomorpha|Smegmamorpha|Atherinomorpha|Cyprinodontiformes|Cyprinodontoidei|Fundulidae|Fundulus|Fundulus heteroclitus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||class||||||||||||||superorder|||||order|suborder|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|7898|186623|41665|32443|186624|186625|32447|186839|123365|123366|123367|123368|123369|123370|32455|129947|32485|129949|32456|28738|8087|28756|8077|8078",
+          "taxon_id": "8078",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b4e4dfca-4136-5fc1-8688-53af51190898",
+          "name_string": "Fundulus heteroclitus",
+          "canonical_form": "Fundulus heteroclitus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39163140",
+          "local_id": "1157172",
+          "url": "http://eol.org/pages/1157172",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Serranus atrarius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4f362b43-3520-59e8-9432-bf39761b1684",
+          "name_string": "Serranus",
+          "canonical_form": "Serranus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Perciformes|Serranidae|Serranus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2365601|2365623|2375724",
+          "taxon_id": "2375724",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4f362b43-3520-59e8-9432-bf39761b1684",
+          "name_string": "Serranus",
+          "canonical_form": "Serranus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20670933",
+          "local_id": "23804",
+          "url": "http://eol.org/pages/23804",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gasterosteuous aculeatus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "afa39027-24a8-5d9f-81c8-885d9a6a020d",
+          "name_string": "Gasterosteus aculeatus Linnaeus, 1758",
+          "canonical_form": "Gasterosteus aculeatus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Gasterosteiformes|Gasterosteidae|Gasterosteus|Gasterosteus aculeatus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2365430|2369331|2369335|2395332|8620218",
+          "taxon_id": "8620218",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4a973282-061a-5c3b-a5f5-cd281a4c5446",
+          "name_string": "Gasterosteus aculeatus pop. 1",
+          "canonical_form": "Gasterosteus aculeatus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44522888",
+          "local_id": "223856",
+          "url": "http://eol.org/pages/223856",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 23,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Opsanus tau",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "db1066d8-55b4-5941-810c-8d4233755e57",
+          "name_string": "Opsanus tau",
+          "canonical_form": "Opsanus tau",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Elopocephala|Clupeocephala|Euteleostei|Neognathi|Neoteleostei|Eurypterygii|Ctenosquamata|Acanthomorpha|Euacanthomorpha|Holacanthopterygii|Paracanthopterygii|Batrachoidiformes|Batrachoididae|Batrachoidinae|Opsanus|Opsanus tau",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||class||||||||||||||superorder|order|family|subfamily|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|7898|186623|41665|32443|186624|186625|32447|186839|123365|123366|123367|123368|123369|123370|32518|8064|8065|45381|8067|8068",
+          "taxon_id": "8068",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "db1066d8-55b4-5941-810c-8d4233755e57",
+          "name_string": "Opsanus tau",
+          "canonical_form": "Opsanus tau",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29116318",
+          "local_id": "225201",
+          "url": "http://eol.org/pages/225201",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

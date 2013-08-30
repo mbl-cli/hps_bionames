@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=DCbRpRWBRneeVOQXHQY61A",
+  "input_url": null,
+  "file": "Embryology 1988_ 136.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.133058793,
+    "total_duration": 24.366070486
+  },
+  "agent": "",
+  "created": "2013-06-18T13:10:00-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "PULSES, wAvEs, AND GRADIENTS OF cYTosoLIc FREE CALCIUM\nL. F. Jaffe, Marine Biological Laboratory, Woods Hole, MA\nThe chemiluminescent aequorin\nfluorescent dyes for studying free\nthey stay in the cytosol for hours\nmembranes into other compartments.\nrange; do not significantly buffer\nproteins have certain advantages over\ncalcium in cel1s.1 Once microinjected,\nor even days without leaking across cell\nMoreover, they have a far wider dynamic\ncalcium; do not compete with autofluores\ncence; and require relatively inexpensive equipment.2\nTheir use has revealed that fperm activate medaka fish eggs3 (as well as\nother eggs on the vertebrate line by detonating a huge, traveling calcium\nexplosion or tsunami which moves across an egg at about 10 um/sec. More\nrecently, they have been used to reveal remarkable, periodic post-fertilization\nwaves of still unknown function. In the ascidian egg, most of these start from\nthe vegetal pole.5\nThey have also been used to reveal an apparent steady standing gradignt of\nfree calcium with its high point at the vegetal pole of medaka fish eggs. In\nfucoid eggs, such a gradient--with the high calcium region at the future growth\nor rhizoid pole--has long been postulated to help establish the main develop-\nmental axis. Recent support for this hypothesis comes from the results of\nmicroinjecting various buffers.\nThe development of such 'baptized' eggs is arrested for periods of up to\ntwo weeks. Moreover, the relative effectiveness of BAPTA buffers of different\ndissociation constants or KDS can be determined from the minimum buffer\nconcentration needed to arrest development. So far, the weaker the buffer, the\nless must be injected. Thus the newly 5,5' \na KD of 70 UM--is about 100 times more effective than 5,5' dimethyBAPTA which\nhas a KD of 0.4 UM. These results suggest that the needed calcium hot spot is\nat a remarkably high level--perhaps 100 uM or more.7\n1. Blinks, J.R. (1982) In Techniques in Cellular Physiology, P126: 1-38.\n2. We use an imaging photon detector from ITL in England.\n3. Gilkey, J.C. et al. (1978) J. Cell Biol, 76: 448-466; Miyazaki, S. et al.\n(1986) Dev. Biol. 118: 259-267.\nJaffe, L.F. (1985) In, Bgielegy of Fegreilizeeien (eds. 0.8. Metz end\nA. 127-165; Kuboda, H.Y. et al. (1987) Dev. Biol. 112: 129-136.\n5. Speksnijder, J.E. (1986) Biol. Bull. 171: 488.\n6. Jaffe, L.F. (1986) CIBA symg. 271-288.\n7. Jaffe, L.F. et al. (1987) Biol. Bull. 173: 425; Proc. VII Int. Washington\nSpring Symp., Plenum (in press).\n\n"
+}

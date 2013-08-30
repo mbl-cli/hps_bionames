@@ -1,0 +1,400 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Au83pUe6RcSX6H8kSmzpnA",
+  "input_url": null,
+  "file": "113_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.101585522,
+    "resolve_names_duration": 2.490819529,
+    "total_duration": 27.842426069
+  },
+  "agent": "",
+  "created": "2013-06-18T11:31:37-04:00",
+  "total": 8,
+  "names": [
+    {
+      "verbatim": "Psammechinus",
+      "scientificName": "Psammechinus",
+      "offsetStart": 1102,
+      "offsetEnd": 1113,
+      "identifiedName": "Psammechinus"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1412,
+      "offsetEnd": 1417,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Arenicola",
+      "scientificName": "Arenicola",
+      "offsetStart": 1492,
+      "offsetEnd": 1500,
+      "identifiedName": "Arenicola"
+    },
+    {
+      "verbatim": "Pelecypoda",
+      "scientificName": "Pelecypoda",
+      "offsetStart": 1654,
+      "offsetEnd": 1663,
+      "identifiedName": "Pelecypoda"
+    },
+    {
+      "verbatim": "Spisula solidissima",
+      "scientificName": "Spisula solidissima",
+      "offsetStart": 1754,
+      "offsetEnd": 1772,
+      "identifiedName": "Spisula solidissima"
+    },
+    {
+      "verbatim": "Pholas",
+      "scientificName": "Pholas",
+      "offsetStart": 1862,
+      "offsetEnd": 1867,
+      "identifiedName": "Pholas"
+    },
+    {
+      "verbatim": "AsTeroidea",
+      "scientificName": "AsTeroidea",
+      "offsetStart": 1917,
+      "offsetEnd": 1926,
+      "identifiedName": "AsTeroidea"
+    },
+    {
+      "verbatim": "Henricia",
+      "scientificName": "Henricia",
+      "offsetStart": 1997,
+      "offsetEnd": 2004,
+      "identifiedName": "Henricia"
+    }
+  ],
+  "content": "\nThe sTudy of ferTilizaTion and arTiTicial acTivaTion has long been a meeTing\npoinT for embryologisTs inTeresTed in The iniTiaTion of developmenT and for\nphysiologisTs aTTracTed by more general aspecTs of cellular sTimulaTion or inTer-\nacTion. The selecTed bibliography for This secTion of The course will illusTraTe\nThe scope of sTudies carried ouT in This field. The LaboraTory exercises are de-\nsigned Tor orienTaTion in regard To The habdling of marine eggs and The apprecia-\nTion of The myriad problems in TerTilizaTion, acTivaTion and early developmenT\nwhich awaiT soluTion.\nClassiTicaTion\nIT is well To remember ThaT The differences among eggs can in parT be ex-\nplained by Taxonomic posiTion. Wider differences among TerTi|izaTion mechanisms\nwould be expecTed, for example, beTween eggs of an annelid and an echinoderm Than\nbeTween a chordaTe and an echinoderm. To a large exTenT This expecTaTion is\nrealized. ln The area of comparaTively small differences, The eggs of Arbaeia,\nfor example, differ more widely from The eggs of The camarodonT sea urchin Than\ndo Two members of The laTTer group Psammechinus and ParacenTroTus). Failure\nTo Take inTo accounT Taxonomic relaTedness can lead To errors of judgemenT in\ngeneralizing. The following classificaTion is Taken from Hyman's \"The lnverTe~r~\nbraTes:Echinoderms\" and from \"The lnverTebraTa\" (Znd Ed.) by Borrodaile \n\nDA\nClass PolychaeTa\nOrder ErranTia\n\nNereis \nirens, N. limbaTa (Woods Hole\nPlaTynereis (Woods Hole)\nOrder SedenTaria\nArenicola (Woods Hole)\nAmphiTriTp (Woods Hole)\nChaeTopTerus pergamenTaceus (Woods Hole Europe)\nPomaToceros TriqueTer (Scandinavia, Naples)\n.CAE\nOnder\norder\nClass Pelecypoda\nFilobranchiaTa\nMyTilus\nPecyen\nEulamel\n(Woods Hole, California)\n(Woods Hole)\nlibranchiaTa\nSpisula solidissima (MacTra) (Woods Hole New Jersey)\nMacTra (Naples, Florida, AusTralia)\nOsTrea (Universal)\nPholas (Europe, New Jersey)\nPHYLUM \nEleuTherozoa\nClass AsTeroidea - The sTarfish\nOrder FercipulaTa\nAsTerias\nAsTerias\nAsTerias\nAsTerias\nHenricia\nPisasTer\nTorbesii (Woods Hole)\nvulgaris (Woods Hole)\nrubens (European)\nglacialis (arcTic)\n(Woods Hole)\n(California)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Psammechinus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "8181cc0b-3730-5793-8857-5cccefbf0753",
+          "name_string": "Psammechinus",
+          "canonical_form": "Psammechinus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Echinidae|Psammechinus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362622|2493651",
+          "taxon_id": "2493651",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8181cc0b-3730-5793-8857-5cccefbf0753",
+          "name_string": "Psammechinus",
+          "canonical_form": "Psammechinus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27908571",
+          "local_id": "73314",
+          "url": "http://eol.org/pages/73314",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arenicola",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "84d6cfa9-9a80-5287-b2f8-6952019bd10c",
+          "name_string": "Arenicola",
+          "canonical_form": "Arenicola",
+          "classification_path": "Animalia|Annelida|Polychaeta|Not assigned|Arenicolidae|Arenicola",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369670|2372229|2413253",
+          "taxon_id": "2413253",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "84d6cfa9-9a80-5287-b2f8-6952019bd10c",
+          "name_string": "Arenicola",
+          "canonical_form": "Arenicola",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27908479",
+          "local_id": "52394",
+          "url": "http://eol.org/pages/52394",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pelecypoda",
+      "results": [
+        {
+          "data_source_id": 8,
+          "data_source_title": "Interim Register of Marine and Nonmarine Genera",
+          "gni_uuid": "ae2cd17f-ff67-5b77-a80d-c778a42f0ed4",
+          "name_string": "Pelecypoda",
+          "canonical_form": "Pelecypoda",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Pelecypoda",
+          "classification_path_ranks": "kingdom|phylum|class|order",
+          "classification_path_ids": "11|175|1146|10476",
+          "taxon_id": "10476",
+          "local_id": "10476",
+          "url": "http://www.marine.csiro.au/mirrorsearch/ir_search.taxon_info?id=10476",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ae2cd17f-ff67-5b77-a80d-c778a42f0ed4",
+          "name_string": "Pelecypoda",
+          "canonical_form": "Pelecypoda",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5167992",
+          "local_id": "2215",
+          "url": "http://eol.org/pages/2215/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Spisula solidissima",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "7b062127-3d70-5ad9-96ca-651d44467476",
+          "name_string": "Spisula solidissima",
+          "canonical_form": "Spisula solidissima",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Lophotrochozoa|Mollusca|Bivalvia|Heteroconchia|Veneroida|Mactroidea|Mactridae|Spisula|Spisula solidissima",
+          "classification_path_ranks": "|superkingdom||kingdom||||||phylum|class||order|superfamily|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206795|6447|6544|6599|6580|106231|6581|6582|6584",
+          "taxon_id": "6584",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7b062127-3d70-5ad9-96ca-651d44467476",
+          "name_string": "Spisula solidissima",
+          "canonical_form": "Spisula solidissima",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "38944761",
+          "local_id": "448794",
+          "url": "http://eol.org/pages/448794",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pholas",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "61b77b4f-70fd-5b1b-b43c-ff7fc109152b",
+          "name_string": "Pholas",
+          "canonical_form": "Pholas",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Myoida|Myoida|Pholadidae|Pholas",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2369911|2369922|2369930|2369931|2451971",
+          "taxon_id": "2451971",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "61b77b4f-70fd-5b1b-b43c-ff7fc109152b",
+          "name_string": "Pholas",
+          "canonical_form": "Pholas",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20679765",
+          "local_id": "56949",
+          "url": "http://eol.org/pages/56949",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "AsTeroidea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "eb26d2c9-4c56-50ee-9637-476d4857c8e3",
+          "name_string": "Asteroidea",
+          "canonical_form": "Asteroidea",
+          "classification_path": "Animalia|Echinodermata|Asteroidea",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2362508|2362716",
+          "taxon_id": "2362716",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "eb26d2c9-4c56-50ee-9637-476d4857c8e3",
+          "name_string": "Asteroidea",
+          "canonical_form": "Asteroidea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39145240",
+          "local_id": "1927",
+          "url": "http://eol.org/pages/1927",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Henricia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a27fd977-075b-5d78-97ee-cf9feba05f2e",
+          "name_string": "Henricia",
+          "canonical_form": "Henricia",
+          "classification_path": "Animalia|Echinodermata|Asteroidea|Spinulosida|Echinasteridae|Henricia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362716|2362730|2362731|2535399",
+          "taxon_id": "2535399",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a27fd977-075b-5d78-97ee-cf9feba05f2e",
+          "name_string": "Henricia",
+          "canonical_form": "Henricia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "24730566",
+          "local_id": "36645",
+          "url": "http://eol.org/pages/36645",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=IAJ83lAfSsuZw2YXGGhurg",
+  "input_url": null,
+  "file": "20_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.070439671,
+    "total_duration": 23.348684171
+  },
+  "agent": "",
+  "created": "2013-06-18T12:25:17-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "ADDITIONAL SPONGE EMBRYOLOGY REFERENCES\nA.A. Moscone\nJune 1961\nBronsted, H.V. 1953.\nThe ability to differentiate, and the size gf regenereted cells\nafter repeated regeneration in illa lacuetris.\nQuart. J. Micros. Sci. Qlig \nBroneted, H.V. and Carlsen, F.E. 1951.?\nA cortical cytoskeleton in expanded epithelium cells of sponge\ngemmules. Exp. Cell. Res. Q: 90=96.\nGanguly, B. 1960.\nThe differentiating capacity of dissociated sponge cells.\nRoux Arch. Entwmech. Org. LQQS 22~34.\nGross, J. Sokal, Z. and Reugvle, M. 1956.\nStructural and chemical studies on the connective tissue of\nmarine eponges. J. Histochem. Hlstol. 227=246.\nJones, W.C. 1956.\nColloidal properties of the mesoglea in species of Leucosolenla\nQuart. J. Micro. Sci. 21: 269~285. \nM1nOh1n, lgogo .\nSponges. ig: A Treaties on Zoo108? (Ed. E. Ray Lankeeter).\nSlvaramakriehnan, V.R. 1951.\nStudies on early development and regeneration in some Indian\nSponges. Proc. Ind. Acad. Sci. Sect. B. Qi: 273-310.\n0\n\n"
+}

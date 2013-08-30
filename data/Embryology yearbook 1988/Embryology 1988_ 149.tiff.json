@@ -1,0 +1,78 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ICW7morOTkWWQmpnO6cnOQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 149.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.287061444,
+    "resolve_names_duration": 0.531176296,
+    "total_duration": 23.896668822
+  },
+  "agent": "",
+  "created": "2013-06-18T13:12:45-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "E. coli",
+      "scientificName": "E. coli",
+      "offsetStart": 669,
+      "offsetEnd": 675,
+      "identifiedName": "E. coli"
+    }
+  ],
+  "content": "2\nIll. Mechanism: dependence on protein :protein interactions; DNA as tether versus allosteric\neffector\n12. Ptsahne, M. (1986) Gene regulation by proteins acting nearby and ata distance.\nNature 322, 697-701.\n13. Ma, J. and Ptashne, M. (1987) Deletion analysis of GAL4 defines two transcriptional\nactivating segements. Cell, 48, 847-853.\n14. Biggin, M.D., Bickel, S., Benson, M., Pirotta,V. and Tjian, Ft. (1988) Zeste encodes a\nsequence-specific transcriptional factor that acrivates the Ultrabithorax promoter in\nvitro. Cell 53, 713-722.\n15. Ninfa, A.J., Fleitzer, L.J. and Magasanik, B. (1987) initiation of transcription at the\nbacterial glnAp2 promoter by purified E. coli components is facilitated by enhancers.\nCell 50, 1039-1046.\n16. Abmayr, S.M., Workman, J.L. and Fioeder, (1988) The pseudorabies immediate\nearly protien stimulates in vitro transcription by facilitating promoter\ninteractions. Genes and Devel. 2, 542-553.\n17. Saki, D.D., Helms, S., Carstedt-Duke, J., Gustafsson, J-A., Rottman, F.M., Yamamoto,\nK.R. (1988) Hormone-mediated repression: a neagtive glucocorticoid response element\nfrom the bovine prolactin gene. Genes and Devel. (in press).\nIV Rationale: combinatorial regulation, regulatory evolution, relationship to short-range\nmechanisms\n18. Yamamoto, (1985) Hormone-dependent transcriptional enhancement and its\nimplications for mechanisms of multifactor gene regulation. ln \"Molecular\nDevelopmental Biology: Expressing Foreign Genes\" 43rd Symposium ofthe Society for\nDevelopemental Biology. (L. Bogorad and G. Adelman, eds. Alan Liss, Inc., New York,\npp. 131-148.\n19. Pinkert, Ornitz, D.M., Brinster, and Palmiter, FLD. (1987) An albuim\nenhancer located 10kb upstream functions along with its promoter to direct efficient\nexpression in transgeneic mice. Genes and Devel. 1, 268-276.\n20. Nechushtan, H., Benvensity, N., Brandeis, R. and Reshef, L. (1987) Glucocorticoids\ncontrol phosphoenolpyruvate carboxykinase gene expression in a tissue specific manner\nNucl. Acids Res. 15, 6405-6417.\n21. Flochford, Fl., Campell, B.A. and Villareal, L.P. (1987) A pancreas specificty results\nfrom the combination of polyoma virus and moloney murine leukemia virus enhancer.\nProc. Natl, Acad. Sci USA 54, 449-453.\n22. Strittmatter, G. and Chua, N-H (1987) Artifical combination of two cis-regulatory\nelements generates a unique pattern of expression in transgenic plants. Proc. Natl, Acad\nSci USA BA, 8986-8990.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "E. coli",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "56737fca-0907-55ad-a9cb-018188c8a358",
+          "name_string": "E. coli O157:H7-specific bacteriophage L1",
+          "canonical_form": "E. coli",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5006778",
+          "local_id": "11603368",
+          "url": "http://eol.org/pages/11603368/names/synonyms",
+          "match_type": 2,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "56737fca-0907-55ad-a9cb-018188c8a358",
+          "name_string": "E. coli O157:H7-specific bacteriophage L1",
+          "canonical_form": "E. coli",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5006778",
+          "local_id": "11603368",
+          "url": "http://eol.org/pages/11603368/names/synonyms",
+          "match_type": 2,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    }
+  ]
+}

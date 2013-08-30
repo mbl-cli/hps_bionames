@@ -1,0 +1,78 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Qrj1RSuGRPKcJWvfzj1MgQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 145.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.122017539,
+    "resolve_names_duration": 0.427862893,
+    "total_duration": 20.199418441
+  },
+  "agent": "",
+  "created": "2013-06-18T13:11:46-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "E. coli",
+      "scientificName": "E. coli",
+      "offsetStart": 713,
+      "offsetEnd": 719,
+      "identifiedName": "E. coli"
+    }
+  ],
+  "content": "2\n(95:5) which has been allowed to equilibrate for 2-3 hr. (NOTE: Place\npaper towel or 3 mm paper wicks up along the two narrow sides of the\ntank.)\n13. Remove plate. Air dry. Wrap in Saran Wrap and put down for\nautoradiography (overnight).\n14. Cut out the substrate and. product. spots from. the TLC plate, using the\nautoradiograph as aa reference, and determine the percent acetylation of\nchloramphenicol by scintillation counting.\n15. Determine the corresponding CAT enzyme activity in the injected embryos by\nreference to the standard curve obtained for the bacterial CAT enzyme\npreparation (1 unit of activity 2.614 1011 CAT enzyme molecules).\nReagents\n1. 250 mM Tris (pH 7.8)\n2. Acetyl coenzyme A (Sigma)\n3. E. coli chloramphenicol acetyl transferase - 1000 ul/ml (Pharmacia).\nDiiute 1000x. use 0.5, 1.0, 2.0, 4.0, and 8.0 10'3 units as standards.\n4. ethyl acetate\n5. methanol, chloroform\n6. ['4c1 chloramphenicol (Amersham)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "E. coli",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "56737fca-0907-55ad-a9cb-018188c8a358",
+          "name_string": "E. coli O157:H7-specific bacteriophage L1",
+          "canonical_form": "E. coli",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5006778",
+          "local_id": "11603368",
+          "url": "http://eol.org/pages/11603368/names/synonyms",
+          "match_type": 2,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "56737fca-0907-55ad-a9cb-018188c8a358",
+          "name_string": "E. coli O157:H7-specific bacteriophage L1",
+          "canonical_form": "E. coli",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5006778",
+          "local_id": "11603368",
+          "url": "http://eol.org/pages/11603368/names/synonyms",
+          "match_type": 2,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    }
+  ]
+}

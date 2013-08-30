@@ -1,0 +1,122 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=jGx13mMlTvC2HmoU2ub57A",
+  "input_url": null,
+  "file": "Embryology 1988_ 67.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.217041817,
+    "resolve_names_duration": 0.746700722,
+    "total_duration": 27.829575331
+  },
+  "agent": "",
+  "created": "2013-06-18T13:23:56-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1454,
+      "offsetEnd": 1463,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1619,
+      "offsetEnd": 1625,
+      "identifiedName": "Xenopus"
+    }
+  ],
+  "content": "glycosaminoglycans induce gap junction and function in\nprimary liver cultures. J. Cell Biol. 105:541-552\nStevenson, B.R., J.D. Siliciano, M.S. Mooseker, and D.A.\nGoodenough 1986 Identification of Z0-1: a high molecular weight\npolypeptide associated with the tight junction (zonula occludens)\nin a variety of epithelia. . Cell Biol. 103:755-766\nUnwin, P.N.T. a.nd G. Zampighi. 1980. Structure of the junction\nbetween communicating cells. Nature 283:545-549\nUnwin, P.N.T. and P.D. Ennis 1983 Calcium-mediated changes in gap\njunction structure: evidence from the low angle X-ray pattern. .\nCell Biol. 97:1459-1466.\nUnwin, P.N.T. and P.D. Ennis 1984 Two configurations of a\nchannel-forming membrane protein. Nature 307:609-613\nvan Meer, G., B. Gumbiner, and K. Simons 1986 'Ihe tight junction\ndoes not allow lipid molecules to diffuse from one epithelial cell\nto the next. Nature 322:639-641\nVeenstra, R.D. and R.L. DeHaan 1986 Measurement of single channel\ncurrents from cardiac gap junctions. Science 2332972-974\nWarner, A.E. and P.A Lawrence 1982 Permeability of gap junctions\nat the segmental border in insect epidermi s. Cell\n282243-252\nWarner, A.E., S.C. Guthrie, and N.B. Gilula 1984 Antibodies to\ngap-junctional protein selectively disrupt junctional\ncommunication in the early amphibian embryo. Nature 311:127-131\nWeir, M.P. and C.W. I o 1985 An anterior-posterior communication\ncompartment border in engrailed wing discs: possible implications\nfor Drosophila pattern formation. Dev. Biol. 110:84-90\nWerner, R., T. Miller, R. Azarnia, and G. Dahl 1985 Translation\nand functional expression of cell-cell channel in Xenopus\noocytes. J. Membrane Biol. 87:253-268\nYoung, J.D-E., Z.A. Cohn, and N.B. Gilula 1987 Functional assembly\nof gap junctions conductance in lipid bilayers: demonstration that\nthe major 27kD protein forms the junctional channel. Cell\n482733-743\nZervos, A.S., J. Hope, and W.H. Evans 1985 Preparation of a gap\njunction fraction from uteri of pregnant rats: the 28-kD\npolypeptides of uterus, liver, and heart gap junctions are\nhomologous. . Cell Biol. 101:1363-1370\nZimmer, D.B., C.R. Green, W.H. Evans, and N.B. Gilula 1987\nTopological analysis of the maj or protein in isolated intact rat\nliver gap junctions and gap junction-derived single membrane\nJ. Biol. Chem. 26227751-7763\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

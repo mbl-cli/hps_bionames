@@ -1,0 +1,97 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Hi9ed7psSHOLr3jYkvmM0Q",
+  "input_url": null,
+  "file": "Embryology 1939_24.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.149149177,
+    "resolve_names_duration": 0.625591224,
+    "total_duration": 26.453666063
+  },
+  "agent": "",
+  "created": "2013-06-19T15:22:52-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 540,
+      "offsetEnd": 546,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 804,
+      "offsetEnd": 810,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "(Arbacia).",
+      "scientificName": "Arbacia",
+      "offsetStart": 2076,
+      "offsetEnd": 2085,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2622,
+      "offsetEnd": 2628,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "lv-\nEffect of osmotic pressure on development.\nBoil 100 cot of sea~water to 50 cc. The salts in the sea-\nwater will be twice as concentrated (cal) in such.a solution as in\nsea~water@ New make up different solutions using this medium to re-\npresent 2/l sea watef  7/d sea~water, 6/4 soa~watcr, and 5/4 sea~\nwater, ln the same series make concentrations of 7/8 sea~water, 5/8\nsea~water, sea~water and 4/8 sea water by diluting the sea~water\nas it comes from ire tap with.distilled watert lnto each of these\nsolutions place fertilized eggs of Arbacia (5 minutes after insemina-\ntion)~ Record the b;hsvior f~o~ or the eggs during the first three di~\nvisions, Tire 9? cleavage? Percentage of cleavage? Extent ot\ndevelomtent obtained? Type or cytolysis?\nof cleavage pattern.\nThe cleavage pattern of the egg of Arbacia may be altered by\npressure, Flare some of use fertilized eggs on a slide and with~\ndraw the water until the cover presses Seal the edge\nof the cover with vaseline to prevent evaporation. The eggs should\nbe placed on the slide approximately 20 minutes before the first\ncleavagel Observe the cleavages of the egg through the 8-cell stage.\nReturn to sea-water in a watch glass and allow to develop. What\neffect does such treatment have on the fomwation of the embryo? Ee-\npeat allowing die egg to remain under pressure for longer periods\nof times\nEffect of dislocation of cytoplasmic inclusions on development.\nC@ntriitge fertilized eggs of Arbacla at different times between\nfertilization and the first cleavagen Examine and place ln containers\nfor further observation. What effect does the eentrifuging have on\nthe eggs? Does the egg recover? What is hae relation between the\nfirst cleavage plane and the dislocated substance? Select eggs'\nwhich cleave in such a way that all of the pigment is left in one of\nthe first blastomeres. Do they proceed to cleave at the same rate?\nObserve the formation of the embryo. Does the dislocation of the cy-\ntoplasmic substances appear to have any influence on the development\nof the embryo?\nDevelopment of isolated blastomeres (Arbacia).\nFertilize eggs of Arbaoia. About lo minutes after fortiliza~\ntion remove the jelly and membranes by drawing them into a very fine\ncapillary pipette with a bore 2/5 the diameter of the egg membrane.\nThis may also be done after the eggs have cleaved to form the \ntwo blastomeres, With a fine glass needle separate the two blastoh\nmeres while still spheres and remove to separate dishes. Keep\naccurate records of the behavior of halves of each egg during\nits subsequent development, snalyze.A\nDevelopment of fused eggs.\nEertilizod ova of Arbacia may be made to fuse by the following\nmodded. The results obtained enable the experimenter to draw cer-\ntain conclusions concerning the organization of the zygote.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

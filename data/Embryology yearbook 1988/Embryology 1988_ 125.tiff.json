@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Wc58uxHgSQWgM6wc8h1AOA",
+  "input_url": null,
+  "file": "Embryology 1988_ 125.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.07985739,
+    "resolve_names_duration": 0.681011686,
+    "total_duration": 21.916713228
+  },
+  "agent": "",
+  "created": "2013-06-18T13:07:56-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Midgur invagimizions",
+      "scientificName": "Midgur invagimizions",
+      "offsetStart": 239,
+      "offsetEnd": 258,
+      "identifiedName": "Midgur invagimizions"
+    }
+  ],
+  "content": "Looking at enibrjwis\nFigure 3. Wild-type embryos during cellularization and gastrulation.\nmid-Stage 5: Cell formation (2 30 min to 3 15 min).\nmid-Stage 6: Early gastru/anon. ventral fiarrow formation (3 15 min to 3 35 min).\nearly-Stage 7; Midgur invagimizions (3 35 min to 3 45 min).\nmid-Stage 8: Germ band extension (3 45 min to 4 30 min). note the characteristic buckle in the germ\nband on the ventral side immediately behind the head fold The indentation observed on the dorsal side\nofthis embryo (-) is a variable feature and frequently totally obscured by the folds ofthe amnion and serosa\n(See Figures 4 and 6).\ndue to the migration of the nuclei into the cortex. At the posterior pole, the cap of\npolar cytoplasm thins out and becomes irregularly shaped. Buds appear at the surface.\nenlarge and finally pinch off and form pole cells.\n4.4 Stage 4: blastoderm 30 min to 2 30 min)\nThe nuclei at the surface of the embryo divide four or more times. The cor-\ntical cytoplasm becomes thicker and more clearly delimited from the underlying yolk.\n206\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Midgur invagimizions"
+    }
+  ]
+}

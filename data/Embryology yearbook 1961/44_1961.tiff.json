@@ -1,0 +1,156 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=qs2x5ohbRYauo0JGW0QfGw",
+  "input_url": null,
+  "file": "44_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.228394214,
+    "resolve_names_duration": 1.176270921,
+    "total_duration": 27.637590036
+  },
+  "agent": "",
+  "created": "2013-06-18T12:32:25-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Fundulus,",
+      "scientificName": "Fundulus",
+      "offsetStart": 2263,
+      "offsetEnd": 2271,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Salmo,",
+      "scientificName": "Salmo",
+      "offsetStart": 2297,
+      "offsetEnd": 2302,
+      "identifiedName": "Salmo"
+    },
+    {
+      "verbatim": "Temina-",
+      "scientificName": "Temina",
+      "offsetStart": 3139,
+      "offsetEnd": 3145,
+      "identifiedName": "Temina"
+    }
+  ],
+  "content": "..6..\nOppenheimer Devillers Tung, eT al. and Trinkaus and Drake \n6. [he Germ Bing agd &;Tension of The BiasTodisc (l8-48 hours) \nAfTer The formaTion of The flaT blasTula The margin of The blasTodisc begins To\nThicken, wiTh The formaTion of The germ ring. The embryo musT be manipulaTed wiTh\nThe hair-loop and observed in a varieTy of posiTions To appreciaTe This process\n(The germ ring is parTicularly well seen in E, maialis). During The nexT few hours\nThe germ ring spreads over The surface of The yolk mass. WhaT is happening To The\nperiblasT during This period? The uncovered porTion of The yolk is The blasTopore.\nSfaining wiTh neufral red will faciliTaTe observaTion of The deTails of germ ring\nand embryo formaTion. Add I or 2 drops of sTock soluTion To a Syracuse dish of\nsea waTer. \nSome of The mechanics of epiboly in The TeleosT have been considered by Lewis \nOevillers and Trinkaus These papers may be consulTed for a descrip-\nTion of The process and The resulTs of experimenfal analysis.\nThe acTiviTies of isolaTed cells and small groups of cells from gasTrulaTion and\npregasTrulaTion sTages may be sTudied in viTro afTer dissociaTion by or\nversene. for The use of These agenTs and for culTure procedure may\nbe procured from The insTrucTor.\nPoTency and regulaTion during qasTrulaTion sTaqe;\na) Nicholas and Oppenheimer Hoadley and LuTher performed\nexperimenTs on desTrucTion of various porTions of The germ-ring and early neural\nVkeel\". This Type of experimenT Takes pracTice and skill, and should be aTTempTed\nonly by Those willing To spend Time learning This Technique. ConsulT The papers\nnoTed above for deTails. (See Oppenheimer, '47, for bibliography.;\nb) ln connecTion wiTh The cenTriTugaTion Technique suggesTed in B, above, The\nformaTion of The germ-ring in embryos developing from cenTrifuged eggs should be\ncarefully sTudied, parTicularly for The appearance of supernumerary organizaTion\ncenTers.  \n7. ,FormaTion of The Embryo (24-36 hours)\nWhile The blasToderm is spreading over The yolk The embryonic axis is being es~\nTablished, The TirsT indicaTion being The embryonic shield, a Thickening caused by\nconvergence of cells Toward one parT of The germ ring.\nThe morphogeneTic movemenTs aT This Time have been described by Oppenheimer \nfor Fundulus, and in greaT deTail Tor Salmo, The TrouT, by PasTeels His\nreview should be consulTed for a comparison of gasTrulaTion movemenTs in\nverTebraTes. \nBy The Time The blasToderm has moved abouT half way over The yolk, The embryonic\nshield has become a blunTly Triangular area exTending from The margin of one porTion\nof The blasToderm To near The cenTer of The blasToderm. The shield should be\nsTudied from all angles, parTicularly in profile view. Make a series of observaTioms\nin opTical sagiTTal secTion when The yolk is l/3, l/2, 2/3, and 3/4 covered. WhaT\nproporTion does The lengTh of The embryo bear To The diameTer of The blasToderm\nand To The circumference of The germ~ring? Several oTher TeaTures will become\napparenT af This Time. The noTchord will be seen. STudy iT in longiTudinal and\nTransverse opTical secTion. WhaT are iTs anTerior and posTerior poinTs of Temina-\nTion? The somiTes ,also become visible. eHow many of Them are There aT The Time\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Salmo",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a9176642-0303-5cf1-8ca8-c6b60bb34a64",
+          "name_string": "Salmo",
+          "canonical_form": "Salmo",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2365574|2365575|2393868",
+          "taxon_id": "2393868",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a9176642-0303-5cf1-8ca8-c6b60bb34a64",
+          "name_string": "Salmo",
+          "canonical_form": "Salmo",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305815",
+          "local_id": "19745643",
+          "url": "http://eol.org/pages/19745643",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Temina",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "881ab3b6-4e99-56a5-912c-b424039f527b",
+          "name_string": "Temina",
+          "canonical_form": "Temina",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97515738",
+          "local_id": "urn:lsid:ubio.org:namebank:4364411",
+          "global_id": "urn:lsid:ubio.org:namebank:4364411",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4364411",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    }
+  ]
+}

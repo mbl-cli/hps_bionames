@@ -1,0 +1,132 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=I1Bm4nuQSRaDho4Ztfk16w",
+  "input_url": null,
+  "file": "Embryology 1988_ 33.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.110462446,
+    "resolve_names_duration": 0.959961376,
+    "total_duration": 22.062050396
+  },
+  "agent": "",
+  "created": "2013-06-18T13:17:52-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Nishikata",
+      "scientificName": "Nishikata",
+      "offsetStart": 0,
+      "offsetEnd": 8,
+      "identifiedName": "Nishikata"
+    },
+    {
+      "verbatim": "Xenopus laevis",
+      "scientificName": "Xenopus laevis",
+      "offsetStart": 311,
+      "offsetEnd": 324,
+      "identifiedName": "Xenopus laevis"
+    },
+    {
+      "verbatim": "I",
+      "scientificName": "Gorgone",
+      "offsetStart": 376,
+      "offsetEnd": 376,
+      "identifiedName": "Gorgone"
+    }
+  ],
+  "content": "Nishikata, T., I. Mita-Miyazawa, T. Deno and N. Satoh (1987) Muscle cell\ndifferentiation in ascidian embryos analysed with a tissue-specific monoclonal\nantibody. Development 99:163-171.\nPerry, H.R. and D.A. Melton (1983) A rapid increase in \nduring ascidian embryogenesis as demonstrated by microinjection into\nXenopus laevis oocytes. Cell Diff. 13:233-238.\nReverberi, G. and I. Gorgone (1962) Gigantic tadpoles from ascidian eggs\nfused at the 8-cell stage. Acta Embryol. Morph. Exp. 5:104-112.\nReverberi, G., G. Ortolani and N. Farinella-Ferruzza (1960) The causal\nformation of the brain in the ascidian larva. Acta Embryol. Morph. Exp.\n32296-336.\nSatoh, N. and S. Ikegami (1981) A definitive number of aphidicolin-sensitive\ncell-cyclic events are required for development in\npresumptive muscle cells of ascidian embryos. J. Embryol. exp. Morph. 61:1-13.\nTomlinson, C.R., W.R. Bates and W.R. Jeffery (1987) Development of a muscle\nactin specified by maternal and zygotic in ascidian embryos. Dev. Biol.\n123:470-482.\nTomlinson, C.R., R.L. Beach and W.R.Jeffery (1988) Differential expression of\na muscle actin gene in muscle cell lineages of ascidian embryos. Development\n101:751-765.\nTung, T.C., Y.F. Yeh, K.S. Li, and M.C. Hsu (1977) Cell\ndifferentiation in ascidian studied by nuclear transplantation. Scientia\nSinica 20:222-233. \nWhittaker, J.R. (1973) Segregation during ascidian embryogenesis of egg\ncytoplasmic information for tissue-specific enzyme development. Proc. Natl.\nAcad. Sci. USA 70:2096- 2100.\nWhittaker, J.R. (1977) Segregation during cleavage of a factor determining\nendodermal alkaline phosphatase development in ascidian embryos. J. Exp. Zool.\n202:139-153.\nWhittaker, J.R. (1979) Cytoplasmic determinants of tissue differentiation in\nthe ascidian egg. In S. Subtelny and I.R. Konigsberg (eds): Determinants of\nSpatial Differentiation. New York: Academic Press, pp. 29-51.\nWhittaker, J.R. (1979) Quantitative control of end products in the melanocyte\nlineage of the ascidian embryo. Dev. Biol. 72:76-83.\nWhittaker, J.R. (1980) develop ent in extra cells caused\nby changing the distribution of myoplasm in ascidian embryos. J. Embryol. Exp.\nMorph. 55:343-354.\nWhittaker, J.R. (1982) Muscle lineage cytoplasm can change the developmental\nexpression in epidermal lineage cells of ascidian embryos. Dev. Biol.\n93:463-470.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nishikata"
+    },
+    {
+      "supplied_name_string": "Xenopus laevis",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "22a6df90-1cc9-5462-a5d9-144a006cf030",
+          "name_string": "Xenopus laevis",
+          "canonical_form": "Xenopus laevis",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Xenopus|Xenopus laevis",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|8287|32523|8292|41666|8342|30319|8352|8360|8353|262014|8355",
+          "taxon_id": "8355",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "22a6df90-1cc9-5462-a5d9-144a006cf030",
+          "name_string": "Xenopus laevis",
+          "canonical_form": "Xenopus laevis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29126132",
+          "local_id": "1038993",
+          "url": "http://eol.org/pages/1038993",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gorgone",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5d9c7bc6-bf04-53f9-a677-fa006d2376bc",
+          "name_string": "Gorgone",
+          "canonical_form": "Gorgone",
+          "classification_path": "Animalia|Arthropoda|Insecta|Lepidoptera|Lepidoptera|Noctuidae|Gorgone",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362873|2362923|2364644|2448561",
+          "taxon_id": "2448561",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5d9c7bc6-bf04-53f9-a677-fa006d2376bc",
+          "name_string": "Gorgone",
+          "canonical_form": "Gorgone",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30959767",
+          "local_id": "68246",
+          "url": "http://eol.org/pages/68246",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    }
+  ]
+}

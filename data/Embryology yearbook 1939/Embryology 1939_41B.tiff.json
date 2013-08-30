@@ -1,0 +1,61 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=8SgO6cMYTbazgLrlgaZJ5A",
+  "input_url": null,
+  "file": "Embryology 1939_41B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.16592823,
+    "resolve_names_duration": 0.646168579,
+    "total_duration": 21.518857846
+  },
+  "agent": "",
+  "created": "2013-06-19T15:26:49-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "H. 1895. irehiv",
+      "scientificName": "H. 1895irehiv",
+      "offsetStart": 765,
+      "offsetEnd": 779,
+      "identifiedName": "H. 1895. irehiv"
+    }
+  ],
+  "content": "-4-\nPepere QQ ?cyphezQa.\nl902. f. wins. Znel. 71. Untersuchungen\nHber die estembr enale bntwicklunv Ven Lurelie auritn.\nk)\nHergitt, C. V. en& G. T, Hergitt. 1910. Studies in the development\nof 8cypnome&usee. Jeur. Morph. vol. 21, pp. 2l7~282.\nHein, W. 1900. Untersuehungen Hber die Entwicklung von nnrelie\neurita. f. Rise. Ze\\1. Bd. 57, S, 401-458.\nQU \nChun, C. 1880. Die Ctenopheren des Gelfes Ven Neepel. Fauna une\nFlora des Golfes von Neapel, vol. 1.\nFiscnel, L. 1897. Experimentelle Euntersuchungen em Ctenepnerenei.\nVen der Entwicklung iserlirter Eitheile. Archiv. f5r\nEntwicklungsmecnenik. Bd. 6, 3. 109-150.\nFisehel, 1. 1898. l1vl7. Ba. 7, ibia, s. \nFlsenel, L. 1905. Entwieklung und Organdifferenzierung. Bd. 15,\nibid, S. eve-750.\nUrieseh H. and Morgan; T. H. 1895. irehiv. fur Entwicklungemeeh.,\nBd. 2 Zur bnalyse der ersten Qes\nGtenephereneies. I. Ven der Entwicklung einzelner\n Qtenophorenblastemeren. PP. 204-215. 11. Ven Qer\n`Entwiek1ung der ungefurcnter Eier mit Ereteplasmadefekten\npp. 2l5~224.\nIetsu, N. 1912. Observations and experiments on the Ctenepnere egg.\nExperiments en germinel localization of the egg ef\nBeree evate. Lnnet. Znel. Japan. vel. 8, pp. 5-14.\nZiegler, H. E. 1898. Arch. f. Entw. d. Org. 7. Experimentelle\nStudien Hber @1e Zellteilung. 111. Die Furchungszellen\nvon Ber5e ovete. (Figures ef normal cleavage te 128 cells)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "H. 1895irehiv",
+      "results": [
+        {
+          "data_source_id": 139,
+          "data_source_title": "New Zealand Animalia",
+          "gni_uuid": "4e14002d-ddda-5b06-837a-dadc3e664a21",
+          "name_string": "H. aff. pacificus “Three Kings” E",
+          "canonical_form": "H.",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "133818558",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    }
+  ]
+}

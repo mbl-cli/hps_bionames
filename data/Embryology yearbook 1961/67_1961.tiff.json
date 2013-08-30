@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=OOAhe7glQ2yUquSWVsdaWg",
+  "input_url": null,
+  "file": "67_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.17849526,
+    "total_duration": 24.225740268
+  },
+  "agent": "",
+  "created": "2013-06-18T12:40:58-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "\nPerlmann, P. and GusTafsson, T. AnTigens in The egg and in The early developmenTal\nsTages of The sea urchin. Exper., 4:48|, |948 2\nRulon, O. The modiTicaTion of deve|opmenTa| paTTerns in The sand dollar by Thiourea\nPhys. Zool., 23: 248. |950\nRulon, O. The modiT|caTion of developmenTa| paTTerns in The sand dollar wiTh\nsodium azide. Phys. Zoo., 23: 236. |950\nRulon, O. ModiTicaTions of developmenTal paTTerns in sand dollar by malonic acid.\nPhys. Zool., 24: 85~92. l95l\nJ. and G. KriszaT. EGR, 3: 497. Animalizing acTion of iodosobenzoic\nacid in The sea urchin. |952 \nSoarano, E. and H. Kalckar. Nucleic acid in developing sea urchin embryos\nPubl. STaz. Zool. Nap., 24: |953\nScholander, P., C. Ciaff, C. Sveinsson and S. Scholander. RespiraTory sTudies of\nsingle cells. |ll. Gxygen consumpTion during cel|*division. Biol. Bull., lO2:\n|85-|99. |952\nShinozaki, J. The osmoTic behavior of The blasTula of The sea urchin. J. Fac. Sci.\nHok. Univ. Ser VI: lOl-lO6. |952\nSwann, M. M. The mechanism of cell division. A sTudy wiTh carbon monoxide on The\nsea urchin egg. Q. J. Micr. Sci., 94: 369-379. |953\nSuguwara, H. ProducTion of mulTinuc|eaTe eggs by J. Fac. Sci. lmp. Univ.\nTokyo, lV:6:|29. |942\nTyler, A. On The energeTics of diTTerenTiaTicn. Il. A comparison of The raTes of\ndeve|opmenT of gianT and normal sea urchin embryos. Biol. Bull., 68:45l. |935\nlbid. Comparison of The TemperaTure coeTTicienTs for cleavage\nand laTer sTages in The deve|opmenT of The eggs of some marine animals. lbid.\n7l:59. |936. lbid. IV. Comparison of The raTes of oxygen consumpTion\nand of The developmenT aT diTTerenT TemperaTures of eggs of some marine animals.\nlbid. 7l: 82. |936. lbid V. Comparison of The raTes of developmenT and of\noxygen consumpTion of TighT membrane and normal echinoderm eggs. J. E. Z.,\n761395. I937.\nYaTsu, N. ExTraovaTe experimenTs on The eggs of The sea urchin. AnnoT. Zool. Japan,\n7: 2|3-2l8. i9|O. \n\n"
+}

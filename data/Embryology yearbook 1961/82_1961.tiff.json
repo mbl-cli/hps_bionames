@@ -1,0 +1,116 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=GQQKSIowRd6TQ67RQM99WA",
+  "input_url": null,
+  "file": "82_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.224746075,
+    "resolve_names_duration": 1.283238031,
+    "total_duration": 29.744150647
+  },
+  "agent": "",
+  "created": "2013-06-18T12:47:22-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1359,
+      "offsetEnd": 1364,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis.",
+      "scientificName": "Nereis",
+      "offsetStart": 1422,
+      "offsetEnd": 1428,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Hereis dumerlii",
+      "scientificName": "Hereis dumerlii",
+      "offsetStart": 1505,
+      "offsetEnd": 1519,
+      "identifiedName": "Hereis dumerlii"
+    }
+  ],
+  "content": ".12-\n7. Two pairs ef sets sacs, spherical structures in the pest~treehal hemis-\nphere. The setae (3 ehetae) will l.iiff61'EUR= tiate inside nf them. These\nsecs are the first ineieatieu uf the first tue segments ef the warm.\nS. Observe the truehophere in leeomotion\nAdvanced trsehephere, 2 days old Gdilsun, figs. 85~89):\nIuehtify all structures in A. In asaitien ebserve:\n1. shuts  \n2. A third pair uf seta sacs has appeared behiua the first two. All three\nare lined up in a rew ineieatihg the first 3 segments. Setae can be seen\nin the of fermatien, insise of these sacs; in elder\nstages they will be seen prejeetiug fren the secs.\n3, Pigment appears in the prutotreeh celli\n2 C. 2%-3 days (Nilsen. figs. 90-91) \nNetiee the change uf shape and the gradual uemarcetien uf the first three\nsegments. Observe the fellewing new features:\nl. Seuss hairs at the apical pele\n2. Aueitienal egg spets; number variable\n3. Mesutreehal eiliaxg bands at the heundery uf the segments.\nA. Parsyudia with gsraweuial girrhi appearing en segments 2 ann 3\n5. Tentaeulsr eirrhi on the head. .\n6. ?t>>madaeum, stemaeh, igtestine sistinct.\nThis stage eembines larval [?reehephere) ans auult stvuttures in a peculiar way.\nREFEREECES\nCastelle, D. P. 1945 Segregation of eehlasmie eenstituehts. J. of the Elisha\nMitchell Sei. See., \nJust, E. E. 1922 On the rearing of sexually mature Nereis frem eggs.\nAm. Net. \nWilson, E. B. 1892 Cell lineage uf Nereis. J. Morph. Q.\nNistinghausen, A 1891 Untersuehungen Uber sie Entwiekluhg veh Hereis dumerlii.\n  9| `l ZKVUJ-0      \nHvureises hexasehu? \nHydroiues, beth male and female, will spawn im euiately after being re-\nmoved frum their ealeareeus tubes. Remove several and place them in finger bewls\n(one warm per eish te keep sexes seearate.) Remeve the animals after they have\nspawned. Let sperm stana fer abeut Q-hour. Aad a few drops of sperm suspension to\na dish of eggs. Extrusiun uf pular beuies and cleavage may be readily,\nThe blastula stage is reaches after 5~6 heurs, gastrulatiun after 8~l2 heurs, the\ntroehephere stage lasts from 20 hears tu two weeks. The troehephores are best\nfor study when 2-5 days old.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hereis dumerlii",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dcc4984c-ec02-5cd0-9b6c-297cbe651ebd",
+          "name_string": "Nereis dumerilii Audouin & Milne Edwards, 1834",
+          "canonical_form": "Nereis dumerilii",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Platynereis|Platynereis dumerili",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2473329|8062086",
+          "taxon_id": "8075045",
+          "current_taxon_id": "8062086",
+          "current_name_string": "Platynereis dumerili (Audouin & Milne Edwards, 1834)",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": true
+    }
+  ]
+}

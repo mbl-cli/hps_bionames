@@ -1,0 +1,153 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=zwYqMO9ITt6VMnaWxLa74w",
+  "input_url": null,
+  "file": "51_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.180315156,
+    "resolve_names_duration": 0.921421913,
+    "total_duration": 24.435389519
+  },
+  "agent": "",
+  "created": "2013-06-18T12:35:12-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Echinarachnius parma",
+      "scientificName": "Echinarachnius parma",
+      "offsetStart": 173,
+      "offsetEnd": 192,
+      "identifiedName": "Echinarachnius parma"
+    },
+    {
+      "verbatim": "A. vulgaris",
+      "scientificName": "A. vulgaris",
+      "offsetStart": 217,
+      "offsetEnd": 227,
+      "identifiedName": "A. vulgaris"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1086,
+      "offsetEnd": 1092,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1250,
+      "offsetEnd": 1256,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1428,
+      "offsetEnd": 1434,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia;",
+      "scientificName": "Arbacia",
+      "offsetStart": 2330,
+      "offsetEnd": 2337,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "7 i\n\nWoods Hole, l96O Embryology\nThe sTudenT should spend The nexT Two days in a Thorough sTudy of The\nnormal developmenT of Three species: Arba?ia,puncTulaTa (Sea urchin),\nEchinarachnius parma I Sand dollar) and (or A. vulgaris)\n(sTarTish). For a sTudy of The larval sTages iT will be necessary To conTinue\nobservaTions, inTermiTTenTly, during The Third and TourTh days.\nFerTilize a baTch of eggs of each of The species aT The beginning of The\nlaboraTory period. These may be sTudied comparaTively by keeping a Table of\n\"cleavage Times\" and are To be used for The sTudy of gasTrulaTion and larval\nTormaTion on The second and Third days of observaTion. DeTailed sTudy of\nferTili2aTion and early cleavage sTages should be done wiTh a second baTch of eggs\nfor each species separaTely and consecuTively.\nlT is wise To Take special precauTions To avoid overcrowding and over-\nheaTing of eggs in The sea waTer dishes. Have no more Than a ?iggLg lQy?g oT\neggs on The boTTom of a Tinger bowl and keep The TemperaTure oT The sea waTer\nTor besT resulTs. TemperaTures above 30-52? are leThal Tor Arbacia\n\nPUNCTULATA\nThe eggs of various sea urchins have been possibly The mosT used classical\negg maTerial for embryological and physiological sTudies. The egg of Arbacia is\nraTher diTTerenT from The eggs of mosT oTher sea urchins in being smaller and\nconTaining red echinochrom granules. IT is inTeresTing To noTe ThaT Hyman has\nclassified Arbacia in a difTerenT order from The oTher sea urchins so oTTen sTud*,.\nied.\nln The early years aT Woods Hole, invesTigaTors placed a heavy drain on\nThe supply of urchins; wheTher This was The reason for a depleTion in Their \nsupply is noT known. However, for The lasT Tive or Ten years, The general supply*\nof urchins has been jealously guarded. RecenTly There have been signs ThaT urchins\nwere becoming more common locally; iT is noT known how much of This is due To \n\"seeding\" operaTions carried ouT by The supply in The area of former urchin\nbeds, and how much is due To oTher TacTors. Sea urchins normally shed several \nTimes during a season, ofTen aT rough weaTher.\nI\ni Te preserve The supply of urchins, iT is highly desirable To sex Them,\nTo avoid opening several males in a row, Tor example, while searching Tor a\nfemale. Mrs. E. B. Harvey has described a simple elecTrical meThod for sexing\nArbacia; This meThod is preferable To The KCI injecTion meThod, which can also be\nused, The apparaTus deparTmenT provides a simple elecTrical seT-up wiTh which \nTo sTimulaTe The surface of The sea urchin (usually wiTh a lead elecTrode). lf\nThe animal is ripe, gameTes will ooze ouT of The gonopores (aboral surface) in\nsuTTicienT quanTiTy To deTermine The sex of The specimen. Eggs are blood-red;\nsperm are whiTe. Shedding usually sTops if The animals are rinsed in sea waTer\nand replaced in The aquarium. For experimenTs, eggs can be shed elecTrically To\ngive The desired number for an experimenT, or The animal can be ouT open around\nThe oral surface and The gonads (5) removed wiTh a sTain|ess sTeel spoon. The\ngonads are Then Transferred To an egg sTrainer made of coarse bolTing silk. lf,\nThe eggs are sTrained Too rapidly, Their jelly layers may be Torn off. Excised\nTesTes can be wrung in moisT double-layer cheesecloTh, or sperm can be shed dry\ninTo a clean dry dish by The elecTrical meThod.'\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Echinarachnius parma",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "a047cb5c-ff13-5d35-84ab-6531e02ac4d0",
+          "name_string": "Echinarachnius parma",
+          "canonical_form": "Echinarachnius parma",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Echinodermata|Eleutherozoa|Echinozoa|Echinoidea|Euechinoidea|Gnathostomata|Clypeasteroida|Echinarachniidae|Echinarachnius|Echinarachnius parma",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum||superclass|class|subclass|superorder|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7586|133551|7624|7625|7638|35060|31186|869208|869202|869203",
+          "taxon_id": "869203",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a047cb5c-ff13-5d35-84ab-6531e02ac4d0",
+          "name_string": "Echinarachnius parma",
+          "canonical_form": "Echinarachnius parma",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20629592",
+          "local_id": "598165",
+          "url": "http://eol.org/pages/598165",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "A. vulgaris"
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

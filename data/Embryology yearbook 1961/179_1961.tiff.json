@@ -1,0 +1,97 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ldYc7rzcTHm2KXFOpBxMnw",
+  "input_url": null,
+  "file": "179_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.179449203,
+    "resolve_names_duration": 0.570212772,
+    "total_duration": 25.690450621
+  },
+  "agent": "",
+  "created": "2013-06-18T12:22:56-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Tubularia",
+      "scientificName": "Tubularia",
+      "offsetStart": 2297,
+      "offsetEnd": 2305,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 2447,
+      "offsetEnd": 2456,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tubularia",
+      "scientificName": "Tubularia",
+      "offsetStart": 2667,
+      "offsetEnd": 2675,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tubularia,",
+      "scientificName": "Tubularia",
+      "offsetStart": 2799,
+      "offsetEnd": 2808,
+      "identifiedName": "Tubularia"
+    }
+  ],
+  "content": "i \n\nThe exTernal changes following isolaTion are essenTia|ly The same as\nThose described for Aigfasia, by Cary WiThin four hours following isolaTion\nThe 'oral' and 'aboral' epidermal layers roll inward and come To lie in close\nproximify To each oTher. AT The same Tiime The opposife ends of The wound begin\nTo approach each oTher. A plug of mucus, conTaining food parTicles and scaTTered\nendoderm cells, forms beTween The folded edges of The epidermis. WiThin 24 To\n48 hours The cell layers aT The wound surface are regeneraTed so ThaT a confinuum\nof The Three layers is esfablished, compleTely closing The wound. The majorify\nof The isolaTes become aTTached To The subsTraTe wifhin 24 hours. AddiTional\ninfernal changes do noT occur unTil 5 days following isolaTion. However, during\nThis period, The apex of The shallow obTuse cone becomes elevafed and shiffs\nToward a more cenfral posiTion in relafion To The expanded basal porTion.\nFive days following isoiaTion,\nThe endodermis lining The inner oral\nsurface of The cone becomes acfive and gives rise To new sepTal buds. These\nbegin as Tri-lobed sTrucTures which grow aborally and aTTach To The basal end.\nThe firsf exTernal signs\nThin clear circular area\nsTomadeum. The TenTacle\nThe developing sepfa are\naconfia developing aT Their bases.\nof TenTacle and sTomadeum formaTion occur aT 6 days.\naT The apex of The cone foreshadows The formafion of The\nridges can be seen forming aT The margin of This area.\nalmosT compleTe aT This Time and some of Them have\nNine days following isoiaTion The TenTacle buds become more prominenT\nand infernally They consisT of The Three Typical layers. AT This Time The\nformafion of sepfa was essenTially compleT@>>\nA\nFrom The lOTh To The l2Th day, The Tenfacles developed furTher and became\nexTended. The sTomadeal plaTe also became perforaTe. The resulT was a small buf\nfuncTional polyp. \nAlThough a criTical analysis of The hisTology has noT been made, iT\nwould appear ThaT The process of reconsTiTuTion is more a process of morpholaxis,\nrafher Than an epimorphic process, enfailing The formafion of a regenerafion bud.\nSIMPSON, JR., B. An inhibifcr of hvdranfh reconsTiTuTion in\nTubularia,produced,by.bacTeria\nTweedell succeeded in exTracTing a 'specific inhibiTor' of hydranfh\nregeneraTion from homogenafes of Tubularia hydranThs. The purpose of The following\nexperimenT was To deTermine wheTher or noT The inhibifor, as prepared by Tweedell,\nwas specific for Tubularia. An inhibiTor soluTion was prepared from 300 mafure\nhydranfhs. The soluTion was auToclaved\nand furTher dilufions were made wiTh\nsferile filfered sea wafer. The inhibifor soluTion was Tesfed on The cuT sfems\nof Tubularia and The ampuTaTed nuTriTive polyps of The hydroid Hydracfinia.\nThe resulTs indicafe ThaT The inhibiTor\nis noT specific To Tubularia, buf ThaT\niT is equally effecTive inhibifor of hyposTome and TenTacle regeneraTion in\nHydracTinia.\nFulTon published resulTs\nprepared by Rose and Tweedell, were noT\nhydranfhs. His evidence suggesfed ThaT\nbacferial growfh in The solufions. The\nwhich indicaTed ThaT The inhibifors, as\nspecific inhibiTors derived from The\nThe inhibifor was a by~producT of The\npurpose of This experimenf was To\ndefermine wheTher or noT culTures of bacferia, normally associafed wiTh The\nhydranfhs, could produce an inhibiTor.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

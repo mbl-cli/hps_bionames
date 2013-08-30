@@ -1,0 +1,185 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=CB5LvE7mSOWRfd4q5If2iQ",
+  "input_url": null,
+  "file": "Embryology 1939_53.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.173221075,
+    "resolve_names_duration": 1.954560353,
+    "total_duration": 25.57487612
+  },
+  "agent": "",
+  "created": "2013-06-19T15:29:00-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Nea.",
+      "scientificName": "Nea",
+      "offsetStart": 17,
+      "offsetEnd": 20,
+      "identifiedName": "Nea"
+    },
+    {
+      "verbatim": "Hydroides",
+      "scientificName": "Hydroides",
+      "offsetStart": 105,
+      "offsetEnd": 113,
+      "identifiedName": "Hydroides"
+    },
+    {
+      "verbatim": "Hydroides",
+      "scientificName": "Hydroides",
+      "offsetStart": 257,
+      "offsetEnd": 265,
+      "identifiedName": "Hydroides"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 780,
+      "offsetEnd": 785,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "(Protonephridium",
+      "scientificName": "(Protonephridium",
+      "offsetStart": 1795,
+      "offsetEnd": 1810,
+      "identifiedName": "(Protonephridium"
+    }
+  ],
+  "content": "1959\nof ?UH@lid%\nNea. 2 are required, #5 should be done if time permits.\nThe two forms to be studied are Hydroides fsupomatus) hexagonus\n;nd Nereisv 'n mumum \nof advanced stages will be prepared, If you wish to\nprepare your own cultures proceed as follows: Hydroides will spawn\nimmediately after being removed from'its Remove\nseveral and place them in finger bowls (one worm per dish), keep\nsexes separate. Remove the animals after they have spawned. Let\nsperm stand for about hour. Add a few drops of sperm suspension\ntc a dish of eggs.r (Extrusion of polar bodies and cleavage may be\neasily studied). fhe blastula stage is reached after 5~6 hours, gas~\ntrulation after 8-12 hrs., Trochophore after 20 hrs, to two weeks.\nThe trochophores are best for study when 2-5 days old.\nof Nereis has been studied in a previtus lab. period.\nle The ical trochophore of droides. Consult the excellent figs.\nin Shearer ('l1 . \nMount trochophores two, three, and five days old in a light sus~\npension of Chinese Put a few shreds of lens paper under the\ncover slip to entangle the larvae and hold them quiet. Stain \nwith neutral Red or Methylene Blue if desirable.\ndeserve: l. Shape of the troddophore larva.\n2. Apgicaggl tuft or What is its function?\n5. Equatorial band of cilia called the prototroch.\nDetermine its exact distribution as seen in side and polar views.\n4. Are there other cilia? (Mesotroch or telotroch or fine\ncilia?) \n5. Digestive tract (mouth, oesophagus, stomach, intestine\nand anus. Are these ciliated also? Feed them a suspension of chinese\nink or carmine powder. Ey'whrt means do they take food? By what\nmeans do they swinw\n6. spots or pigment spots. How many?\n7. A ical plate an ectodermal thickening beneath the\napical tuft. Tge cerebral,ganglia are formed from it.\n8. A larval Kidney (Protonephridium) may be seen similar\nin position to that shown in Hatsehek's figures. lt appears as a\nslender cord extending diagonally from oesophagus to intestine.\n9. Body cavity or blastocoele surrounding the digestive\ntract. Is this the same as the cleavage cavity or is it a coelom?\nHow much mssoderm is visible at this stage?\nlO. A large vacuolated cell called the anal vesicle at the\nposterior end.\nJraw the trochophore as seen in side and polar views.\nas a \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "1a30e7cd-dc17-50c4-be12-1afa06b59ce9",
+          "name_string": "Nea",
+          "canonical_form": "Nea",
+          "classification_path": "Animalia|Arthropoda|Insecta|Coleoptera|Coleoptera|Dryophthoridae|Nea",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362602|2362836|2365689|2533329",
+          "taxon_id": "2533329",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "1a30e7cd-dc17-50c4-be12-1afa06b59ce9",
+          "name_string": "Nea",
+          "canonical_form": "Nea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33480034",
+          "local_id": "78009",
+          "url": "http://eol.org/pages/78009",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 7,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydroides",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "094732ab-4c0b-5c5d-99f6-4db6b5031b53",
+          "name_string": "Hydroides",
+          "canonical_form": "Hydroides",
+          "classification_path": "Animalia|Annelida|Polychaeta|Sabellida|Serpulidae|Hydroides",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369634|2369636|2423051",
+          "taxon_id": "2423051",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "094732ab-4c0b-5c5d-99f6-4db6b5031b53",
+          "name_string": "Hydroides",
+          "canonical_form": "Hydroides",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20674349",
+          "local_id": "52350",
+          "url": "http://eol.org/pages/52350",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "(Protonephridium"
+    }
+  ]
+}

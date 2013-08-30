@@ -1,0 +1,64 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=3kSA7oK6RHyuPr6WJPrPbA",
+  "input_url": null,
+  "file": "Embryology 1988_ 63.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.077137865,
+    "resolve_names_duration": 0.902375542,
+    "total_duration": 20.555809346
+  },
+  "agent": "",
+  "created": "2013-06-18T13:23:27-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Damais,",
+      "scientificName": "Damais",
+      "offsetStart": 462,
+      "offsetEnd": 468,
+      "identifiedName": "Damais"
+    }
+  ],
+  "content": "Savagner, P., Imhof, B.A., Yamada, K.M., and Thiexy, J.P.\n(1986). Homing of hemopoietic precursor cells to the\nembryonic thymus: Characterization of an invasive\nmechanism induced by chemotacgc peptides. J. Cell Biol\n84: 935-939.\nChampion, S., Iinhof, B., Savagner, P. and Thiery, .P.\n(1986). The embryonic thymus produced chemotactic\npeptides involved in the homing of hemopoitic precursors.\nCell, 44: 781-790.\nImhof, Deugnier, M.A., Gtrault, .M., Champion, S.,\nDamais, C., Itoh, T., and Thiery, J.P. (1988). Thymotaxin:\nA\nthymic epithelial peptide chemotactic for T~ce11 precursors.\nProc. Natl. Acad. Sci. 85: in press.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Damais",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "91a61c15-92cc-5557-8369-e265e12c6bb3",
+          "name_string": "Damais",
+          "canonical_form": "Damais",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97296313",
+          "local_id": "urn:lsid:ubio.org:namebank:4136638",
+          "global_id": "urn:lsid:ubio.org:namebank:4136638",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4136638",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 5,
+      "in_curated_sources": true
+    }
+  ]
+}

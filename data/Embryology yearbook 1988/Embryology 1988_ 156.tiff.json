@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=U3gvobG4S22Boo4fniXIKw",
+  "input_url": null,
+  "file": "Embryology 1988_ 156.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.048627068,
+    "total_duration": 22.154286989
+  },
+  "agent": "",
+  "created": "2013-06-18T13:14:14-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "DNA\nGTCO\n\nOTCO\n1 ul\n\nGTCO\nEmbryology 1988\nBinding Buffer\n(with competitor)\n17 ul\nProtein\nnone\nnone\n0.2 ng/ul\n2 ng/ul\n20 ng/ul\n200ng/ul\n0.2 ng/ul\n2 ng/ul\n20 ng/ul\n200 ng/ul\n1 ul of 20ng/ul 1 ul\n1 ul of 20ng/ul 2 ul\nno protein\nno protein\n1 ul\n1 ul\nAntibody\n\n"
+}

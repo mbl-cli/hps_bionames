@@ -1,0 +1,191 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=vcujBti0Qn2XdaShrjBfNw",
+  "input_url": null,
+  "file": "135_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.122942375,
+    "resolve_names_duration": 2.758995767,
+    "total_duration": 28.07514763
+  },
+  "agent": "",
+  "created": "2013-06-18T12:09:58-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Phallueia mamillata",
+      "scientificName": "Phallueia mamillata",
+      "offsetStart": 380,
+      "offsetEnd": 398,
+      "identifiedName": "Phallueia mamillata"
+    },
+    {
+      "verbatim": "Clona inteetinalia\nmediante",
+      "scientificName": "Clona inteetinalia mediante",
+      "offsetStart": 458,
+      "offsetEnd": 484,
+      "identifiedName": "Clona inteetinalia mediante"
+    },
+    {
+      "verbatim": "Ascidiella",
+      "scientificName": "Ascidiella",
+      "offsetStart": 1671,
+      "offsetEnd": 1680,
+      "identifiedName": "Ascidiella"
+    },
+    {
+      "verbatim": "Ascidiella",
+      "scientificName": "Ascidiella",
+      "offsetStart": 1773,
+      "offsetEnd": 1782,
+      "identifiedName": "Ascidiella"
+    },
+    {
+      "verbatim": "Aecidlella aepersa",
+      "scientificName": "Aecidlella aepersa",
+      "offsetStart": 2022,
+      "offsetEnd": 2039,
+      "identifiedName": "Aecidlella aepersa"
+    }
+  ],
+  "content": "\nOrtolanl, G.\nRev erberi G.\nil\nv/Reverberi, G. and\nA tn 1\nV/Reverber1? Ortol-\nani and Ferruzza~\nFerruzza, \nReverberi, \nVerly, C. Maneu-\neto and \n\nEe A\n9 \nv/Rose, S.M.\nSchmidt, G.A.\n4\nTung, T1~Chow\n.\nI\nTung, T-C., Ku, \nand Tung, Y.\nA von Ublech, L.\n1957\n1957\n1958\n1956\n1957\n1951\n1960\n1960\n1957\n1959\n1959\n1951\n1952\n195@\n1941\n1958\n1938\n\nAzione della trlpeina sul cortex del1'uovo di\nPhallueia mamillata. Ric. Sci. 27: 1175-1178.\nRimozione dell'autoeter1lita in Clona inteetinalia\nmediante trattamento con vereene. 5 \nRic. Sci. 27: \nCleavage and development of egg fragments in\naecidiane. Acta Embryol. Morph Exper. I: 247~72.\nThe mitochondrial pattern in the development of\nthe ascidian egg. Experientia 12: 55-56.\nSome effects of enzyme inhibitors on the aecidlan\ndevelopment. Acta Embryol. Morph. Exper. 1: l2=32.\nConcerning the interpretation of the experimental\nanalysis of the ascidian development.\nActa Biotheoretica 9: 197-204.\nThe causal formation of the brain in ascidian\nlarva. Acta Embryol. Morph. Exper. 3: 296?335.\nAn analysis of the aecidian dvelopment by the\nuse of radio-isotopes. \nActa Embryol. Morph. Exper. 2: 202~2l2.\nDie Verteilung von Vitamin C, Glutathion, Benzidln\nPeroxydaee, Phenolaee (lndophenolblauoxydase) und\nwahrend der\nfruhen Embryonalentwicklung verchiedener\nwirbelloeer Tiere.' Pubbl. Staz. Zool. Napoli\nVereuche uber die Bedeutung dee Subetanzmoeaike\nfur die embryaeale Gewebedifferenzierung dei:\n  Arch0` Expo Zellforsche   95\"'121o\nEmbryonic induction in the aecidia. Biol. Bull.\n77: 216-252. 5 1 \nDie Entwicklung der Palpen bel Aec1d1en=ha1be11arven\nArch. Zool. Ital. (Torino) 16: 490-494.\nExperiences de coloration vital sur l'oeuf d'\nAscidiella aepersa. Arch. de Biol. 45: 451~469.\nRecherches ear les potentialltee des blaetomeree\nchez Ascidiella ecabra. Experiences de\ntraneolation, de combination et d'1eo1ement de\nblastomeree. Arch. d'Anat. m1cro. 50: 381-410.\nThe development of the aecidian egg centrifuged\nbefore fertilization. Biol. Bull. 80: 153~168.\nUber Keimverechmelzung an Aecidlella aepersa.\nArch. Entw. Mech. 158: 18=36.\nEine vergleichende Studie uber die organization\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Phallueia mamillata",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "f5d54bb9-298b-5179-8f29-f87d2c291852",
+          "name_string": "Phallusia mammillata (Cuvier, 1815)",
+          "canonical_form": "Phallusia mammillata",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Ascidiidae|Phallusia|Phallusia mammillata",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363377|2421948|5284826",
+          "taxon_id": "5284826",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3668959e-3eac-5c65-8e78-b5ba43e4a57c",
+          "name_string": "Phallusia mamillata (Cuvier, 1815)",
+          "canonical_form": "Phallusia mamillata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30335253",
+          "local_id": "13325367",
+          "url": "http://eol.org/pages/13325367",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Clona inteetinalia mediante",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "57048b61-81ad-5a71-93e8-19f2f9176549",
+          "name_string": "Ciona intestinalis (Linnaeus, 1767)",
+          "canonical_form": "Ciona intestinalis",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona|Ciona intestinalis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957|5284837",
+          "taxon_id": "5284837",
+          "match_type": 5,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ascidiella",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "83f30bb2-dc30-516a-8790-c77c679b93b3",
+          "name_string": "Ascidiella",
+          "canonical_form": "Ascidiella",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Ascidiidae|Ascidiella",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363377|2421958",
+          "taxon_id": "2421958",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "83f30bb2-dc30-516a-8790-c77c679b93b3",
+          "name_string": "Ascidiella",
+          "canonical_form": "Ascidiella",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103950",
+          "local_id": "43440",
+          "url": "http://eol.org/pages/43440",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Aecidlella aepersa",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ff1bba97-fa64-5e82-903d-89ce307a91d6",
+          "name_string": "Ascidiella aspersa (Muller, 1776)",
+          "canonical_form": "Ascidiella aspersa",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Ascidiidae|Ascidiella|Ascidiella aspersa",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363377|2421958|5284818",
+          "taxon_id": "5284818",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    }
+  ]
+}

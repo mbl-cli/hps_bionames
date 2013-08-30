@@ -1,0 +1,379 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=bcPakvoGQgmHpfGW0DT6bg",
+  "input_url": null,
+  "file": "143_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.216985745,
+    "resolve_names_duration": 2.893347398,
+    "total_duration": 30.387434217
+  },
+  "agent": "",
+  "created": "2013-06-18T12:11:54-04:00",
+  "total": 11,
+  "names": [
+    {
+      "verbatim": "Ephyralia fluviaiills",
+      "scientificName": "Ephyralia fluviaiills",
+      "offsetStart": 190,
+      "offsetEnd": 210,
+      "identifiedName": "Ephyralia fluviaiills"
+    },
+    {
+      "verbatim": "Ephydalsa fluvlalills",
+      "scientificName": "Ephydalsa fluvlalills",
+      "offsetStart": 347,
+      "offsetEnd": 367,
+      "identifiedName": "Ephydalsa fluvlalills"
+    },
+    {
+      "verbatim": "Spongilla",
+      "scientificName": "Spongilla",
+      "offsetStart": 417,
+      "offsetEnd": 425,
+      "identifiedName": "Spongilla"
+    },
+    {
+      "verbatim": "Acia",
+      "scientificName": "Acia",
+      "offsetStart": 442,
+      "offsetEnd": 445,
+      "identifiedName": "Acia"
+    },
+    {
+      "verbatim": "Spongilla",
+      "scientificName": "Spongilla",
+      "offsetStart": 540,
+      "offsetEnd": 548,
+      "identifiedName": "Spongilla"
+    },
+    {
+      "verbatim": "Proloplasma",
+      "scientificName": "Proloplasma",
+      "offsetStart": 560,
+      "offsetEnd": 570,
+      "identifiedName": "Proloplasma"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 779,
+      "offsetEnd": 788,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Microciona prolifera",
+      "scientificName": "Microciona prolifera",
+      "offsetStart": 885,
+      "offsetEnd": 904,
+      "identifiedName": "Microciona prolifera"
+    },
+    {
+      "verbatim": "Sycon,",
+      "scientificName": "Sycon",
+      "offsetStart": 1150,
+      "offsetEnd": 1155,
+      "identifiedName": "Sycon"
+    },
+    {
+      "verbatim": "Sycon.",
+      "scientificName": "Sycon",
+      "offsetStart": 1454,
+      "offsetEnd": 1459,
+      "identifiedName": "Sycon"
+    },
+    {
+      "verbatim": "Porifera,",
+      "scientificName": "Porifera",
+      "offsetStart": 1831,
+      "offsetEnd": 1839,
+      "identifiedName": "Porifera"
+    }
+  ],
+  "content": "if\nSponges 5.\nwinfermann-Kilian, G., l95l. Unlersuchungen an\nZool. Jahr. ll: 428-486.\nA I i954 Uber das verhalien der Zellen bei der Vereingung\n\"'andW? E0 ne; 0\nlsolierlen-epilhelkugeln von Ephyralia fluviaiills. Roux' Arch. f. Enlw.\nl47: \nll. \nBrien P., l937. La reorganisalion de l'Eponge apres par filiraiion\nl. \nel phenomenes d'inoluTlon chez Ephydalsa fluvlalills. Arch. Bio \nBronsled, H. V., l936. sludien uber Spongilla\nlacuslria (L.) Acia Zool. (Slock.) Ll: 75-l72\n\nbei einem sehr primiliven Melazoon, er\n- - 7.\nSusswasser schwamm, Spongilla lacusiris Proloplasma QQ, 244 25\nGalisoff, P. S., l923. The aneboid movemeni of dissocialed sponge cells. Biol.\nBull. ii: l53-l6l.\nl925. Re eneraiion afier (an experimenial sludy on sponges).\n\nl. Behavior of dissociafed cells of Microciona prollfera under normal and\n\naliered J. Exp. Zool. ig; l83-222.\nl925. lbid. ll. Hislogenesis of Microciona prolifera, Verr. J. Exp. Zool.\n223~256.\nSome physiochemical properiies of dissocialed sponge cells. J. Gen.\nPhysiol. 239-255.\nl929. Heleroagglulinalion of dissocialed sponge cells. Biol. Bull. Q15\n\nHuxley, J. S. l9l2. Some phenomena of regenerallon in Sycon, wiih a noie on The\nsiruclure oi ils collar cells. Phil. Trans. Roy. Soc. Lond. \nDifferences in viabilify in differenl Types of regenerales from\ndissociaied sponges wiih a HOT9 on The enlry of somalic cells by\nspermalozoa. Biol. Bull. l27-l29. A\nFurlher sludies on bodies in free Tissue culiure in\nSycon. Quarl. J. Micr. Sci. \ni de Laubenfels, M. i926-7. Bispecific conglomeralions of sponges. Carn. lnsl.\nYearbook no. QQ, 2l9-222.\nll, 1927-8. Experimenls concerning cellular behavior and physiology of\nsponges. Carn. lnsl. Yearbook no. 27, 276-278.\n-~-1928. inierspecific grafling using sponge cells. J. Elisba Miichell Sci.\nSoc. 82-86\n~~-l932. Ph siology and morphology of Porifera, exemplified by lolrochola\n\nbiraiulaie Higgin. Carn. lnsl. Wash. Publ. no. 455. (Papers from\nTorlugas Lab. vol 28).\nM. l954. The role of specific surface anligens in cell adhesion. Parl l.\nSpiegel,\nThe reaggregalion of sponge cells. Biol. Bull. l2O~l48.\nll culiure\nand C. Meicalf, l957. The reaggregaiion of ce an\nmedia. Biol. Bull. ll3: 356.\n\n\nWilson, H. V. l9lO. Developmenf of sponges from dissociaied Tissue cells. Bull. Bur\nFisheries l-30.\nif l925. STudies on dissociaied sponge cells. Carn. lnsl. Yearbook, no. 24,\n  242 '24-6 \nJ. T. Penney, l93O. The regeneralion of sponges <MiCrOCiona> \ndissocialed cells. J. Exp. Zool. 56: 73-148.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ephyralia fluviaiills",
+      "results": [
+        {
+          "data_source_id": 11,
+          "data_source_title": "GBIF Taxonomic Backbone",
+          "gni_uuid": "6baf9a8a-2393-50d7-a18b-b720c538cf13",
+          "name_string": "Ephydatia fluviatilis (Linnaeus, 1759)",
+          "canonical_form": "Ephydatia fluviatilis",
+          "classification_path": "Animalia|Porifera|Demospongiae|Haplosclerida|Spongillidae|Ephydatia|Ephydatia fluviatilis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "1|105|199|1239|3915|2244932|2244968",
+          "taxon_id": "2244968",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Ephydalsa fluvlalills"
+    },
+    {
+      "supplied_name_string": "Spongilla",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4cdf01f3-211a-50f2-9c9c-4f47137278e0",
+          "name_string": "Spongilla",
+          "canonical_form": "Spongilla",
+          "classification_path": "Animalia|Porifera|Demospongiae|Haplosclerida|Spongillidae|Spongilla",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2364203|2366770|2366772|2420797",
+          "taxon_id": "2420797",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4cdf01f3-211a-50f2-9c9c-4f47137278e0",
+          "name_string": "Spongilla",
+          "canonical_form": "Spongilla",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20816246",
+          "local_id": "34553",
+          "url": "http://eol.org/pages/34553",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Acia",
+      "results": [
+        {
+          "data_source_id": 7,
+          "data_source_title": "Union 4",
+          "gni_uuid": "85a427c4-c2b2-5f36-9215-cda21e039133",
+          "name_string": "Acia",
+          "canonical_form": "Acia",
+          "classification_path": "|Cellular life|Eukaryota|Opisthokonts|Choanoflagellates and animals|Animalia|Epitheliates|Bilateria|Ecdysozoa|Legged ecdysozoa|Arthropoda|Hexapods|Insecta|Pterygota|Hemiptera|Sternorrhyncha|Cicadelloidae|Cicadellidae|Unassigned cicadellid genera|Acia",
+          "classification_path_ranks": "|above family|above family|above family|above family|unranked|above family|above family|above family|above family|above family|above family|above family|above family|unranked|above family|above family|family|subfamily|genus",
+          "classification_path_ids": "2822864|2823207|2828118|2843765|2843766|2843767|2843768|17974913|2910040|2910041|2910042|2913524|2913525|2922935|3042078|3044423|3045552|3045553|3045635|3045847",
+          "taxon_id": "3045847",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "85a427c4-c2b2-5f36-9215-cda21e039133",
+          "name_string": "Acia",
+          "canonical_form": "Acia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30186586",
+          "local_id": "6738698",
+          "url": "http://eol.org/pages/6738698",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Proloplasma",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Microciona",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Porifera|Demospongiae|Ceractinomorpha|Poecilosclerida|Microcionina|Microcionidae|Microciona",
+          "classification_path_ranks": "|superkingdom||kingdom|phylum|class|subclass|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6040|6042|6048|27925|283498|27926|27927",
+          "taxon_id": "27927",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992018",
+          "local_id": "2544604",
+          "url": "http://eol.org/pages/2544604",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Microciona prolifera",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "f830f7de-450c-5946-a619-3b6c825515c9",
+          "name_string": "Microciona prolifera",
+          "canonical_form": "Microciona prolifera",
+          "classification_path": "Animalia|Porifera|Demospongiae|Poecilosclerida|Microcionina|Microcionidae|Microcioninae|Microciona|Microciona prolifera",
+          "classification_path_ranks": "Kingdom|Division|Class|Order|Suborder|Family|Subfamily|Genus|Species",
+          "classification_path_ids": "202423|46861|47528|47862|659149|48304|659220|47994|47997",
+          "taxon_id": "47997",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f830f7de-450c-5946-a619-3b6c825515c9",
+          "name_string": "Microciona prolifera",
+          "canonical_form": "Microciona prolifera",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992019",
+          "local_id": "1159968",
+          "url": "http://eol.org/pages/1159968",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Sycon",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6ec20bf2-191c-5a61-a1b5-da58e51b7042",
+          "name_string": "Sycon",
+          "canonical_form": "Sycon",
+          "classification_path": "Animalia|Porifera|Calcarea|Leucosolenida|Sycettidae|Sycon",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2366827|2367870|2367871|2420826",
+          "taxon_id": "2420826",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6ec20bf2-191c-5a61-a1b5-da58e51b7042",
+          "name_string": "Sycon",
+          "canonical_form": "Sycon",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992332",
+          "local_id": "42867",
+          "url": "http://eol.org/pages/42867",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Porifera",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "99981e2d-6c30-54b3-9230-5416603c5a58",
+          "name_string": "Porifera",
+          "canonical_form": "Porifera",
+          "classification_path": "Animalia|Porifera",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2364202",
+          "taxon_id": "2364202",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "99981e2d-6c30-54b3-9230-5416603c5a58",
+          "name_string": "Porifera",
+          "canonical_form": "Porifera",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40913760",
+          "local_id": "11143412",
+          "url": "http://eol.org/pages/11143412",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    }
+  ]
+}

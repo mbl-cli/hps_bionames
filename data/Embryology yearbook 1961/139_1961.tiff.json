@@ -1,0 +1,266 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=3BZk5mb8T6ml7PG80DFDoQ",
+  "input_url": null,
+  "file": "139_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.249655564,
+    "resolve_names_duration": 0.758335564,
+    "total_duration": 26.112546037
+  },
+  "agent": "",
+  "created": "2013-06-18T12:10:31-04:00",
+  "total": 17,
+  "names": [
+    {
+      "verbatim": "Microciona,",
+      "scientificName": "Microciona",
+      "offsetStart": 610,
+      "offsetEnd": 620,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Cliona",
+      "scientificName": "Cliona",
+      "offsetStart": 622,
+      "offsetEnd": 627,
+      "identifiedName": "Cliona"
+    },
+    {
+      "verbatim": "Halichondria",
+      "scientificName": "Halichondria",
+      "offsetStart": 633,
+      "offsetEnd": 644,
+      "identifiedName": "Halichondria"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 672,
+      "offsetEnd": 681,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Halichondria,",
+      "scientificName": "Halichondria",
+      "offsetStart": 1941,
+      "offsetEnd": 1953,
+      "identifiedName": "Halichondria"
+    },
+    {
+      "verbatim": "Cliona",
+      "scientificName": "Cliona",
+      "offsetStart": 1962,
+      "offsetEnd": 1967,
+      "identifiedName": "Cliona"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 1980,
+      "offsetEnd": 1989,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 2091,
+      "offsetEnd": 2100,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 2131,
+      "offsetEnd": 2140,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 2217,
+      "offsetEnd": 2226,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Cliona",
+      "scientificName": "Cliona",
+      "offsetStart": 2240,
+      "offsetEnd": 2245,
+      "identifiedName": "Cliona"
+    },
+    {
+      "verbatim": "Halichondria",
+      "scientificName": "Halichondria",
+      "offsetStart": 2250,
+      "offsetEnd": 2261,
+      "identifiedName": "Halichondria"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 2334,
+      "offsetEnd": 2343,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 2582,
+      "offsetEnd": 2591,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Cliona",
+      "scientificName": "Cliona",
+      "offsetStart": 2615,
+      "offsetEnd": 2620,
+      "identifiedName": "Cliona"
+    },
+    {
+      "verbatim": "Halichondria",
+      "scientificName": "Halichondria",
+      "offsetStart": 2625,
+      "offsetEnd": 2636,
+      "identifiedName": "Halichondria"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 2866,
+      "offsetEnd": 2875,
+      "identifiedName": "Microciona"
+    }
+  ],
+  "content": "Sponges\nThe laboraTory ouTline is prepared To include sporodic observaTion on\nThe weekend. ln order ThaT The maTerial may be observed aT inTervals ThroughouT\nThe day, The regeneraTion experimenTs should be sTarTed firsT, since The mosT\ninTeresTing observaTions occur laTer.\nRegeneraTion: Read all insTrucTions before sTarTing.\nEach pair of sTudenTs will need The following equipmenT: Two ml.\nbeakers, 6 large sTender dishes, 2 fingerbowls, clean slides and cover slips,\npipeTTes, fine (clean) glass needles, and a square of The fine bolTing c|oTh.\nThe reaggregaTion sTudies will be performed on Three species: Microciona, Cliona\nand Halichondria (if available). Of These, Microciona shows The fasTesT reaggre-\ngaTion so ThaT greaTesT aTTenTion will be paid To iT during The observaTions.\nThe expressaTe from each sponge should be made in The following way and aTTen-\nTion should be\\paid To The quanTiTies of sea waTer and sponge used. Work quickly\nOne gram of sponge (esTimaTed from I gram samples demonsTraTed up fronT)\n(bloTTed dry wiTh Towelling) is placed in The cenTer of a square of bolTing cloTh\nwhich is Then folded inTo a small bag around iT. This bag is squeezed eiTher\nwiTh clean fingers or a heavy forceps inTo 40 ml. of sea waTer in a beaker.\nDon'T spare The muscle power. Quickly wash The cloTh (or geT a clean one) wiTh\nsea waTer and use iT To filTer The expressaTe inTo a second beaker aTTempTing\nTo remove all macroscopic pieces of sponge. Ten To 20 cc. (depending on The\nsize of The sTender dish - be consisTenT in all experimenTs) should be Trans-\nferred To a sTender dish and This placed on The sea Table. Save The excess sus-\npension.\nExperimenTs will be performed wiTh mono- and expressaTes of\nsponges. Specifically prepare The following dishes (and number Them) by The\nabove meThod (excepT for indicaTed modificaTions) and carefully record The Time\naT which each is made.\nl. A sTender dish conTaining an expressaTe of Halichondria, one of\nCliona and one of Microciona diluTed 5:l wiTh fresh sea waTer.\n2. A sTender dish conTaining a 5O:l diluTion of The expressage of\nMicrociona (keep The same volume as The Microciona expressaTe of no. \n3. A sTender dish conTaining a half and half mixTure of Microciona\nwiTh eiTher Cliona or Halichondria (differenT groups of sTudenTs should Try\ndifTerenT sponges excepT ThaT Microciona musT always be in The mixTure)(diluTed\n5:l wiTh fresh sea waTer) made wiThin l5 minuTes of The Time of preparaTion of\nThe expressaTe.\n4. A sTender dish conTaining a mixTure made in The following waylsee\nDeLaubenfels, l926-l928): gram of Microciona 4* l/2 gram of eiTher Cliona\nor Halichondria are placed in The square of bolTing cloTh and expressed as\ndecribed above for monospecific expressaTes inTo 40 ml. of sea waTer.\n5. A Tingerbowl wiTh Two slides in The boTTom and conTaining an ex-\npressaTe made wiTh l/2 gram of Microciona in cc. sea waTer (same proporTions\nas already used). A\n6. A fingerbowl wiTh as many coverslipu on The boTTom as will go and\ncovered wiTh The same soluTion as in no. 5.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Microciona",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Porifera|Demospongiae|Ceractinomorpha|Poecilosclerida|Microcionina|Microcionidae|Microciona",
+          "classification_path_ranks": "|superkingdom||kingdom|phylum|class|subclass|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6040|6042|6048|27925|283498|27926|27927",
+          "taxon_id": "27927",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992018",
+          "local_id": "2544604",
+          "url": "http://eol.org/pages/2544604",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cliona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "8c34d247-4ac3-54b6-b3b1-9322170ef4a8",
+          "name_string": "Cliona",
+          "canonical_form": "Cliona",
+          "classification_path": "Animalia|Porifera|Demospongiae|Hadromerida|Clionaidae|Cliona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2364203|2366793|2366803|2420225",
+          "taxon_id": "2420225",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8c34d247-4ac3-54b6-b3b1-9322170ef4a8",
+          "name_string": "Cliona",
+          "canonical_form": "Cliona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20731946",
+          "local_id": "34915",
+          "url": "http://eol.org/pages/34915",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Halichondria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "edd3e3b4-2bbd-596f-a1df-63bc64edb9c5",
+          "name_string": "Halichondria",
+          "canonical_form": "Halichondria",
+          "classification_path": "Animalia|Porifera|Demospongiae|Halichondrida|Halichondriidae|Halichondria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2364203|2366787|2366789|2420160",
+          "taxon_id": "2420160",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "edd3e3b4-2bbd-596f-a1df-63bc64edb9c5",
+          "name_string": "Halichondria",
+          "canonical_form": "Halichondria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40913095",
+          "local_id": "2545149",
+          "url": "http://eol.org/pages/2545149",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

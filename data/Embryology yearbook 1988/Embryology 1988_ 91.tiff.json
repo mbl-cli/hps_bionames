@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=wvHwAvaLS42LO8o18MSjyQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 91.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.066966428,
+    "total_duration": 20.753318492
+  },
+  "agent": "",
+  "created": "2013-06-18T13:29:00-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "to the bottom of the gel.\nStain and fix gel overnight in 10% Acetic acid, 24%\nIsopropanol, 0.1% Coomassie Blue.\nDestain gel at least 2 hrs. the next day in 10%\nAcetic acid, 24% Isopropanol. When bands are\nvisible soak gel for 1/2 hr. in AMPLIFY. Remove gel\nand dry on gel dryer for about 1 hr. Place gel over\nX-Ray film in -70 deg. freezer (AMPLIFY will not\nwork at room temperature).\nBy the end of the day the RNA gel should be\nsufficiently exposed for developing; The film can\nbe developed by hand or with an automatic X-ray\nprocessor. Densitometry can then be done on the\nfilm if a densitometer is available.\nIf all goes well the translation product gel will be\nready for developing in about 2 days.\nGOOD \n\n"
+}

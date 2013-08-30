@@ -1,0 +1,160 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=5O32DH7AS1OPfOGsdQNGgQ",
+  "input_url": null,
+  "file": "138_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.183811007,
+    "resolve_names_duration": 2.48292592,
+    "total_duration": 28.383453417
+  },
+  "agent": "",
+  "created": "2013-06-18T12:10:22-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Goodsiria",
+      "scientificName": "Goodsiria",
+      "offsetStart": 482,
+      "offsetEnd": 490,
+      "identifiedName": "Goodsiria"
+    },
+    {
+      "verbatim": "Glevelina lepediformie",
+      "scientificName": "Glevelina lepediformie",
+      "offsetStart": 1021,
+      "offsetEnd": 1042,
+      "identifiedName": "Glevelina lepediformie"
+    },
+    {
+      "verbatim": "Amarcuclum",
+      "scientificName": "Amarcuclum",
+      "offsetStart": 1158,
+      "offsetEnd": 1167,
+      "identifiedName": "Amarcuclum"
+    },
+    {
+      "verbatim": "Celvellina lepedlformie",
+      "scientificName": "Celvellina lepedlformie",
+      "offsetStart": 1303,
+      "offsetEnd": 1325,
+      "identifiedName": "Celvellina lepedlformie"
+    },
+    {
+      "verbatim": "Perephcra viridleo",
+      "scientificName": "Perephcra viridleo",
+      "offsetStart": 1374,
+      "offsetEnd": 1391,
+      "identifiedName": "Perephcra viridleo"
+    },
+    {
+      "verbatim": "Ameroecium conetelle\natum",
+      "scientificName": "Ameroecium conetelle atum",
+      "offsetStart": 1799,
+      "offsetEnd": 1823,
+      "identifiedName": "Ameroecium conetelle atum"
+    }
+  ],
+  "content": "T., ,q l'\nEnifio\n\n\nee? \n  5 Ho  \nNatanebe, in\nHitter, W.h.\n  Roll\nearth, \neerri11,.N.J.\nand Colw1n,'A,\nBirmingham, L.\nSrlen,4P.\nQrieech, H.\nQcldin, A.,\nHuxley, \nRies, E0 \nScott,~Sr0 F.e\n1954\n\n1597\nIQQY\n1945\n4-   'Jes\n'Phe behavior of ieoletee piecee of aacioien\n(Perophore viridie) etolon ee compared with\nordinary heeding. J. Elisha Mitchell Sci. Soc.\n49: l85>>22&. `f \nVeeculer budding, new type of bndeing in 1\nBiol. 8ull.'ll2: \nBudcing in compoune eecieiens based on etudiee on\nGoodsiria and Perophcre. J. Morph. lQ: \nUber die Wlnterkoepenentwicklung, Regeneration\nund Reeuktionfbei lepediformie, und\ndie Bedeutung\"beeonderer \"omnipotenter\"\nZellelemente fur diese Vorgenge. Arch. Ente.\n  3: 119\"172o \nAeexuel reproduction in the colonial tunicete\nwith\nspecial reference to the developmental history\nof lntereiphonel bands of~ pigment cells. Biol.\n'Bull. 88: 7l~103. \nruexclce REGENERATIQN Ann Rznuccron   \n1949 *ATP>>aee activity in embryonic development.\nTrans. N.Y. Acad. Scla`2: 108e1l2.>> - \n1956 Regeneration ln Glevelina lepediformie. J. Exp.\n1941\n1953\n1902\nIwi:-S1\n1921\n1925\nlee?\n195%\n\ne101. 15; 352~56?.    -  \nRegeneration in the early zooid of Amarcuclum.\nconetellatum. Biol; Bull. 81: 287>>288. \nRegeneration thoreclque chez Archiaecidia.\nBull. Biol. Fr, Belg. 67: \nDie Reetitutionen der Celvellina lepedlformie.\nArch. Ent. Mech. 14: 247~28?.\nRegeneration in Perephcra viridleo Biol. Bull.\n'e - \nStudies in differentiation. ll. Dedifferentiatien\nand reeorption in Perophora..Quart. J. Micro.\nSci. 65: 64?=697.  \nVI. Reduction phenomena in lepediformie.\nPiltiblo Stez. Zoolo   7: \nIT. Dee verhelten differenzierter und undiffereneiere\nter zellen bei eer Regeneration, Reduktion und\nKnoepung von Cleveline lepadlformle. Arch. Ente.\nMech. 157: 527-362.   \nmetamorphic eifferentietion in Ameroecium conetelle\natum treated with nitrogen mustard. 127i33l~5&\nTiseuc affinity in Amaroec1um.'I. Aggregation of\ndie ociated fragments and their integration into\none orgenieme Acta Embryol. Morph. Exper. 2: \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Goodsiria",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "44daefd2-0a37-5ca8-9c23-7b7bc278da16",
+          "name_string": "Goodsiria",
+          "canonical_form": "Goodsiria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97339063",
+          "local_id": "urn:lsid:ubio.org:namebank:4180948",
+          "global_id": "urn:lsid:ubio.org:namebank:4180948",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4180948",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Glevelina lepediformie",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "528eb681-fb38-5fef-a4c0-1c35d819d658",
+          "name_string": "Clavelina lepadiformis (Muller, 1776)",
+          "canonical_form": "Clavelina lepadiformis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40320468",
+          "local_id": "512656",
+          "url": "http://eol.org/pages/512656",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "528eb681-fb38-5fef-a4c0-1c35d819d658",
+          "name_string": "Clavelina lepadiformis (Muller, 1776)",
+          "canonical_form": "Clavelina lepadiformis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40320468",
+          "local_id": "512656",
+          "url": "http://eol.org/pages/512656",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Amarcuclum",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Celvellina lepedlformie"
+    },
+    {
+      "supplied_name_string": "Perephcra viridleo"
+    },
+    {
+      "supplied_name_string": "Ameroecium conetelle atum"
+    }
+  ]
+}

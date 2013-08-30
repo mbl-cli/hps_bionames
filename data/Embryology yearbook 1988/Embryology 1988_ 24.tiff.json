@@ -1,0 +1,78 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=XSaYNFsiSpqmnvXhf0NKzg",
+  "input_url": null,
+  "file": "Embryology 1988_ 24.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.105236294,
+    "resolve_names_duration": 0.779887323,
+    "total_duration": 23.283629587
+  },
+  "agent": "",
+  "created": "2013-06-18T13:16:08-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Medium",
+      "scientificName": "Medium",
+      "offsetStart": 846,
+      "offsetEnd": 851,
+      "identifiedName": "Medium"
+    },
+    {
+      "verbatim": "Medium",
+      "scientificName": "Medium",
+      "offsetStart": 879,
+      "offsetEnd": 884,
+      "identifiedName": "Medium"
+    },
+    {
+      "verbatim": "Medium",
+      "scientificName": "Medium",
+      "offsetStart": 912,
+      "offsetEnd": 917,
+      "identifiedName": "Medium"
+    }
+  ],
+  "content": "MBL Embryology Course\nJ.R. Whittaker\nJune, 1988\nA SIMPLE AND HIGHLY SENSITIVE ONE-STEP HISTOCHEMICAL ASSAY FOR\nLOCALIZATIONS OF ALKALINE PHOSPHATASE: An indoxyl tetrazolium\nmethod for non-specific alkaline phosphatase\nThe method as described is for staining whole small invertebrate\nembryos.\nMost satisfactory fixative is SZ formaldehyde in sea water.\nPrepared by adding 2 ml 25% para-formaldehyde to 8 ml of filtered\nsea water. The p-formaldehyde solution should be relatively fresh\n(not more than a month old) and adjusted to neutral pH at the time\nof its preparation to prevent breakdown to methanol.\nFixation in the p-form is for a period 15-30 min at SOC on ice.\nThere are some situations in which 80% ethanol works better as a\nfixative, especially whereo the species has a thick larval test.\nFixation After fixation, rinse once in Reaction Medium then incubate in\nReaction Medium for 30-90 min at Reaction Medium\ncontains the substrate bromochloroindolyl phosphate and the\nelectron (hydrogen) acceptor Nitro*BT.\nThe localized reaction of alkaline phosphatase appears first as a\nfaint chartreuse-blue color; as the enzyme continues to react, the\nproduct deepens in color to a darker blue. Since AlkP is a minor\ncomponent of all tissues, with longer incubation times the\nbackground reaction in other tissues will eventually deepen and\nserve to obscure any differential staining.\nwhen ethanol is used as a fixative, the tissues are rendered\nsomewhat more permeable to reagents, and a sufficient differential\nstaining reaction may occur within 10-15 min.\nThe reaction is stopped by moving the specimens to 352 ethanol\nwhere the color will deepen but remain stable for several days.\nAs soon as possible, samples should be run up rapidly through a\ngraded series of alcohol concentrations to xylene and mounted in\ndam ar or balsam resin. If left in absolute ethanol the tissues\ngradually destain; they ldestain overnight in xylene. After\nspecimens are mounted in resin the stain seems to be permanent.\nReagents and Solutions:\n1. 25% p-formaldehyde Solution\n25 para-formalgehyde in 100 ml distilled water dissolved\nby heating to 60 and adding 1N dropwise until soln\nclears. Neutralize the resulting soln to pH 7.0 with 1N\nFilter and store at \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Medium",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "4bd27f52-b1ac-562c-8111-d0642a43a9ef",
+          "name_string": "Medium",
+          "canonical_form": "Medium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97886505",
+          "local_id": "urn:lsid:ubio.org:namebank:4904049",
+          "global_id": "urn:lsid:ubio.org:namebank:4904049",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4904049",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=dNjKg5W3RL2QaEAuN0dX5g",
+  "input_url": null,
+  "file": "Embryology 1988_ 116.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.134955525,
+    "resolve_names_duration": 0.877666886,
+    "total_duration": 23.458013967
+  },
+  "agent": "",
+  "created": "2013-06-18T13:06:17-04:00",
+  "total": 7,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 173,
+      "offsetEnd": 182,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 376,
+      "offsetEnd": 385,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 600,
+      "offsetEnd": 610,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 726,
+      "offsetEnd": 735,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 892,
+      "offsetEnd": 902,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1049,
+      "offsetEnd": 1059,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1180,
+      "offsetEnd": 1190,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "\nEric Wieschaus\nEmbryology Course\nMarine Biological Laboratory\nPage 2 7/19/88\n. (1985). Near-reciprocal phenotypes cuased by inactivating\nor indiscriminately expressing the Drosophila segmentation gene.\nftz. Nature 318: 677-680.\nCarroll, S. and Scott, M.P. (1986). Zygotically active genes that affect the\nspatial expression of the fushi tarazu segmentation gene during early\nDrosophila embryogenesis.\nCell 45, 113-126.\nFrasch, M. and Levine, M. (1987). Complementary patterns of even-skipped and\nfushi-tarazu expression involve their differential regulation by a common set\nof segmentation genes in Drosophila.\nGenes Dev. l, 981-995.\nGergen, J.P. and Wieschaus, E. (1986). Dosage Requirements for runt in the\nSegmentation of Drosophila Embryos. 1\nCell 45, 289-299.\nHarding, K., Rushlow, C., Doyle, H.J., Hoey, T. and Levine, M. (1986) Cross-\nRegulatory Interactions Among Pair-Rule Genes in Drosophila.\nScience 233, 953-959.\nJackle, H., Tautz, D., Schuh, R., Seifert, E. and Lehmann, R. (1986).\nCross-regulatory interactions among the gap-genes of Drosophila.\nNature 324, 668-670.\nNusslein-Volhard, C. and Wieschaus, E. (1980). Mutations affecting segment\nnumber and polarity in Drosophila.\nNature 287, 795-801.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

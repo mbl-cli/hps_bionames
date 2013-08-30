@@ -1,0 +1,48 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=39Lm4dvPQpajfvwtWGuK3Q",
+  "input_url": null,
+  "file": "130_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.193308097,
+    "resolve_names_duration": 0.736891563,
+    "total_duration": 43.257770511
+  },
+  "agent": "",
+  "created": "2013-06-18T12:08:39-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Amsroucium",
+      "scientificName": "Amsroucium",
+      "offsetStart": 3687,
+      "offsetEnd": 3696,
+      "identifiedName": "Amsroucium"
+    }
+  ],
+  "content": "\n\"fl\"\nExamine the specimens under low poww first, for orientations If they are growing\nupright they may be flattened out by gently lowering cover glass on  theme At one end\nof the snimsl are the atrial and oral s1p;1one; at the other end is the ~postf-abdomen.,\nwith the heart st its tip. Watch the hesrt for periodic reversal of best. Identify the\nepicsrdium, a usually pigmented ctrend of tissue running throughout the post-abdomen\nfrom pharynx to heart region. It is the agent in asexual reproduction and colony forma\nations\nBelow the siphons is the pharynx with its three rows of numerous stigmcta (visceral\nclefts)., It opens into a short esophagus which connects with a round yellow stomach\nmarked by muscular bsndes The intestine turns sharply after leaving the stomach., and\nends near the atrial siphon. The endostyle is sharply indicated on the wall of the \npharynx; delimiting the two atrial pouchesr These pouches surround the pharynx and\nopen to the exterior at the atrial siphons\ndo Izjpioardial buddgge Asexual reproduction of new individuals may be seen in\nlaboratory cultures about 17 days after attachment of the tedpoles Or, swarms of buds\nin all stages of growth and migration can usually be found st the bases of the tiniest\ntransparent finger-like lobes of a large healthy colonys\nAsexual reproduction is accomplished by Strobilization, 1939 segmentation of the\npost-abdomen which contains the epicsrdiel strands The buds consist at of inner\nvesicle (from epicsrdiuxn) and outer covering (from parent epidemic), All internal\norgans of the new individuals form from the epicardium tissue, which me a. pharyngeal\nderivative, Lea endoderm. The epicardiel buds while differentiating into new sooids\nmove up and take their place around the parent., Dsring the strobilization of the\nparent' post-abdomen, the old heart is isolated and degenerates, and new heart is\nregenerated :Ln the parents \nOo Permanent prgarations of lsrvee and metamorphosed individuals can be made by\nthe following method, kindly supplied by Sister Florence Scotts\nFix scout dozen specimens of desired nge in a small Stonder dish in Sohaudinnhs\nfluid (sat. soln. HgCl2: 80 pts; abs., ale.: 20 pts; imc, gl., 5Pts added before using),\nHeat mixture (60? C) and pour over animals in e. shell amount of sea water., After 10\nminutes change to pure fixstive for 19; to 2 In this and subsequent changes, use\npipette to removeaud replace fluids\" keeping specimens always in the same dishe From\nfixstive, change to 50% ale., (20 minutes); 70% solo plus iodine (overnighth 70% aloe\n(rinse out iodine); 50% aloe (15 mates); 35% aloe (l5minutes); dist., waters'\nChange to IN BC1 for minutes; rinse in water; Feulgen stain for 6 minutes;\nso water for 5 minutes (1 change), Upgrade slowly through 35% nc. (10 minutes), 70%\nslg. (15 mmuees), sos hc., (ao minutes), 95% ale. (-if to 1 hour), abs. acc., to 1\nhour), abs., aloe plus toluene (-3 hou.r)., toluene (1 hour)? Change to small quantity of\nfresh toluene and add balssm a. drop at time over at period of 30 minutese Permit\ntoluene to evaporate., Iiount in balsam, 'supporting cover slip sith paper or chips of\ncover slips 0 \n2. is another compound Ascidian, which is found encrusting\non rocks, and floats., Certain colonies? brought into the laboratory and placed\nin dishes of sea water\" will liberate msny tsdpoles. Tadpoles and all stages of cleavage\nand 'development may also be obtained by :rinsing the colonies and hunting in the debrise\nIf the normally-1-shed tadpoles are placed in e. little sea water in a watch glass, they \nsoon attach to the dish and commence their rapid metsmorphosise\nBro Structure of tadpglo., The tadpole is not ns large as of Amsroucium, but\nshows sn interesting nes features Just under the adhesive papillae is a ring of eight\nampullae which are diverticula of the body wall, destined to be parts of the as yet\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Amsroucium",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

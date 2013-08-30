@@ -1,0 +1,69 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=J9Q6Ka8HTcK0xPN4fYNLLg",
+  "input_url": null,
+  "file": "3_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.101592904,
+    "resolve_names_duration": 0.432137763,
+    "total_duration": 33.453475621
+  },
+  "agent": "",
+  "created": "2013-06-18T12:30:53-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Massa",
+      "scientificName": "Massa",
+      "offsetStart": 306,
+      "offsetEnd": 310,
+      "identifiedName": "Massa"
+    },
+    {
+      "verbatim": "Massa",
+      "scientificName": "Massa",
+      "offsetStart": 1172,
+      "offsetEnd": 1176,
+      "identifiedName": "Massa"
+    }
+  ],
+  "content": "EQQ\n.n  \nAlvin Zio clark\nRichard Ta Cloeryp sta,\nStiles Do Ezellg \nPaul Fell\nmm rimm-\nLinda savior\nHenry \nLuigi Giaeomotti.\nDoimld st comm  \nBernice Grafatein\nJerome Gross\nLarry Kelland\nJanos Lanyi  \n1961 \nHoocls \nHome addreso\n509 W., 110th sto\nApt., 'lr\nNew York 25, NJG .\n297 Comnwealth Ave.,\nBoston 15, Massa\n50.9 omm   tt\nLoudonvilleg NJQ\nBox 6% \nWarrmton, \nWestover \nCharlet; city, vac\n2208 cr?a?m-e mve\nHamton, Yao\nCatalonia Ave? \nCoral Gables 34, F1 5\nao\n102 Forest' Stu\nProvidence, R., \n1555 Avo?\nApts:  \nMontreal., fC31.8d&\n77 Dorset Road.\nMa-580 I \n45   A,v@o\n  Noarol\n18 Prescott St;\nCambridge' 389 mas.,\n:an- T \nUn:lversig  tower\nBiolog Department\nAlbright college\n\naddreg\n  of Zoolog\nColumbia University\n  Y?1'k 27 9 Nero\nBioloy Deparmmt\nJohns Hopkins 'University \nBgltimore, Md.,\nBiology Depafwent\nMawr College\nMawr, Pa.\nStanford' Village\nStanford, Colo\nnm Holyoke\nS06 H5351\nGoucher College\nTowson, Baltimore 4\n575 Ialo Station\nNew Haven, Conn.\nBiolog Departmongt\nBrown University\nProvidence, \nBiolog Department\nHarvard University\n58, \n9\nHCL\nof Phyaiolog\nMcGill University\nMontreal, Cazioda\nine\nDepartment of Medic \nMassachusetts General Hospital\nBoston 143 Massa to \n11 B-B Graduate Co ego\n3 1\nPrinceton Univereity\nPrinceton, \nDepartment of Chemistry\nHarvard University\nCambridge 38, Mass.,\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Massa",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "cfae2901-e216-5297-855c-a6b9b272f153",
+          "name_string": "Massa",
+          "canonical_form": "Massa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "127920867",
+          "url": "http://www.organismnames.com/details.htm?lsid=2585735",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    }
+  ]
+}

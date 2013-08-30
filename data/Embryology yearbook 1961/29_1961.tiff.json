@@ -1,0 +1,160 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=5PxicNwOTUOkqVhOo5wSsg",
+  "input_url": null,
+  "file": "29_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.197299327,
+    "resolve_names_duration": 1.55163089,
+    "total_duration": 28.026800546
+  },
+  "agent": "",
+  "created": "2013-06-18T12:27:12-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Rana 1'icns",
+      "scientificName": "Rana 1 icns",
+      "offsetStart": 467,
+      "offsetEnd": 477,
+      "identifiedName": "Rana 1'icns"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 920,
+      "offsetEnd": 926,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Parasoaris eguorume",
+      "scientificName": "Parasoaris eguorume",
+      "offsetStart": 2031,
+      "offsetEnd": 2049,
+      "identifiedName": "Parasoaris eguorume"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2283,
+      "offsetEnd": 2289,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": " \n?off=Jor3enoen, Fo (l9ql}? A microbiological nova? of deoxy=\nribonmcleotidea and deoxyribonucleic acido biocnemg Jo\n\nUesoxyribonucleic acid in som  and\nenbryos? Ins Recent Development in Cell Physiolo yo\nEdo; JoAo Kitchinge Qpo \nand No Zcuten (1952;? Fvidenoe of cytoplasmic oeoxyw\nribooide in the frog e?Q? Nature l?Q;245?24o?\nAo (1959)? Enzymatic of deoxyribonucleic\nacido Harvey Lectures Ser. 55:85>>112?\nTutsky, PQ trhosphute tab in the early deve1op? \nment of Rana 1'icns? Je rxpe Zoolo l15:c29~43O?\nKrufclis, RQJ. if'E1 Alkaline phoo?5?taoc activity and\nnucleic acids curing embryonic development or Anbl1otomo\npunctatum at different temperatureoe Jo Fxpe ioole \nffoon, Lo and Jo Pastoels (1951)? ttudes histopntomotriqueo our\nla teneur cn ocide dcsoxyribonucleique dee noyaux au court\ndu 1'ours1n Paracentrotuc\n].1V1d\\lBo Arch (18 Bicle @232?64o\nHarding, Cav. and Hughes Uptake of tritium labelled\nthymidine by Arbacia ogg; and Biolo \nKarncfeky,D? and Bosch xffect of 5~f1uorodeoxy=\nuridine and related halogenated pyrimidines on the sand\ndollar JeBoBeCo 7361'?'710\nLovtrop,S? (1955)>> Chemical differentiation during amphibian\nembryo eneeiso Compta Bend. Lobe Carlae \n(1959?? of deoxyribonucleic acid during\namphibian embryogenesis at different temperaturese Jo\nExpo Zoola 1412545?'570o\nKroeger, H? induction of new puffing patterns by\ntransplantation of salivary gland nuclei into egg cytoe\nplaam of Dresophilaa Chromosome 11:129~145?\nmagterg RQDQ (1955)? Deoxyriboae nucleic acid in cleavage\nand larval stages of the sea urchino Jo Expo Zoolo\n15031\"?28o\nMoore, E252 (1952)? Deeoxyribose nucleic acid in embryonic\ndiploid and haploid tiesuese Chromoeo a 4:565@575?\n(195H). DNA in diploid and androgenet1c`omphib1an\nhybridse Jo Morphe lOl2227=274?\nFiechberg, Me et ale (1958)? Nuclear transfer in ampbibia and\nthe problem of the potcntialitiea of the nuclei of diffw\nerentiating tissuesg Expo Coll Rest \nyoore, (1958)? Expo Cell Rest Suppl?6:179?\nNigon, Vo and Daille, Jo (1958)? La de 1*aoide dose\noxyribonucleique ohee Parasoaris eguorume Co nte Ronda\nSoon Biola 149s129~13O>>\nNigong V0 and BuneE?` (lQb5)@ La teneur des gametes en\nacids desoxyribonucleique chez Parascaria \nCompte Ronde Soco Biole 149:129~130?\nHarahak, Ao and CQ Thymino in the acid soluble\nfraction of Arbacia eggse l:167=17l?\nAo and Co Marahak Expa C511 Rest 5:288?\nticqg Ao, Co Pavan and Jo Brachet (1958)? ?etcbo1i5'processee\nin chromosomeae Expt Cell Rose Hupp1??;105?114e\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Rana 1 icns",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7eb901ed-5396-5509-996f-cf350d4ad097",
+          "name_string": "Rana",
+          "canonical_form": "Rana",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370878|2525654",
+          "taxon_id": "2525654",
+          "match_type": 2,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7eb901ed-5396-5509-996f-cf350d4ad097",
+          "name_string": "Rana",
+          "canonical_form": "Rana",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20625776",
+          "local_id": "15744",
+          "url": "http://eol.org/pages/15744",
+          "match_type": 2,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Parasoaris eguorume",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7a3c3074-a4bd-5104-8887-c4f8cbf37709",
+          "name_string": "Parascaris equorum (Goeze, 1782)",
+          "canonical_form": "Parascaris equorum",
+          "classification_path": "Animalia|Nematoda|Secernentea|Ascaridida|Ascarididae|Parascaris|Parascaris equorum",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2370385|2370467|2370472|2371759|2523478|7139657",
+          "taxon_id": "7139657",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    }
+  ]
+}

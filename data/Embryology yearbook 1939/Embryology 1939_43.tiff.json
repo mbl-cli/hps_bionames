@@ -1,0 +1,83 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=60Q3PlsxQbOCmLi6niJg7Q",
+  "input_url": null,
+  "file": "Embryology 1939_43.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.189507437,
+    "resolve_names_duration": 0.482436206,
+    "total_duration": 23.162078329
+  },
+  "agent": "",
+  "created": "2013-06-19T15:27:07-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 1286,
+      "offsetEnd": 1291,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 1916,
+      "offsetEnd": 1921,
+      "identifiedName": "Styela"
+    }
+  ],
+  "content": "\nb) Mature Unfertilized Egg.\nThe mature unfertilized egg should show the following:\n(ll Chorion, a tough membrane with perhaps a few follicle cells\nadhering to its surface.\n(6 Small spherical test cells between chorion and the egg\nitself. \n5) reripheral layer of egg, a clear layer containing minute\nyellow granules.\n(4) Central part, consisting of gray yolk material.\n(5) Germinal vesicle, a very large eccentrically placed mass.\n\n1|\n\nc) Post-tertilization Rearrangements..\nCarefully watch for the rearrangement of egg substances starting\nwithin 2-8 minutes after fertilization. The clear yellowish peri~\npheral matter streams to the lower pole over the yolk, followed by\nthe clear protoplasm from the animal pole. If the yellow pigment\nis not visible, try a more colored egg. Use only daylight\nfor illumination, and have the diaphragm on une microscope wide open.\nRoll the egg around by moving the cover slip with a needle.\nThe gray yolk rises to occupy the upper pole, all except the\nspace that surrounds the maturation~spindle complex. Soon the yellow\nSubstance accumulates on one part of the lower hemisphere, where it\nassumes crescentic fern. Immediately above the broad part of the\nyellow crescent is a layer formed by the clear, cytoplasm.\nThe most remarkable characteristic of Styela is that now at the\nconclusion of these movements the position of the future larva is\nvisibly marked on die rsurface of the uncleaved egg. The broadest\npart of the yellow crescent is at the posterior pole, and the horns\nwrap around the right and left] sides. The animal pole, where the\nperminal vesicle lay, becomes the ventral~anterior side of the larva.\n-he vegetal pole, where the spermatozoon entered, is the future\ndorsal side, To avoid confusion, fix firmly in your mind the rela-\ntionship between egg orientation and definite axis of embryo.\nd) Cleavage.\nThe following approximate time schedule for the embryology of\nStyela is from the great monograph of Conklin \nFirst cleavage to 2 cells after 40 minutesVen fll2 so \nsen \"els so \nTo neural plate stage, 2 more hours.\nFully formed tadpole l2 hours after fertilization.\nFirst cleavage. Equal, separating Une two horns of the yellow\ncrescent from each other, likewise bisecting the clear proto-\nplasm anterior to the yellow.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

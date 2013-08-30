@@ -1,0 +1,136 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=L2yajh92QE2rlHOE3ietDw",
+  "input_url": null,
+  "file": "Embryology 1988_ 11.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.177001405,
+    "resolve_names_duration": 0.55661195,
+    "total_duration": 20.424314388
+  },
+  "agent": "",
+  "created": "2013-06-18T13:05:00-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 321,
+      "offsetEnd": 330,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Strongylocentrotus purpuratus",
+      "scientificName": "Strongylocentrotus purpuratus",
+      "offsetStart": 513,
+      "offsetEnd": 541,
+      "identifiedName": "Strongylocentrotus purpuratus"
+    },
+    {
+      "verbatim": "Strongylocentrotus purpuratus",
+      "scientificName": "Strongylocentrotus purpuratus",
+      "offsetStart": 1439,
+      "offsetEnd": 1467,
+      "identifiedName": "Strongylocentrotus purpuratus"
+    },
+    {
+      "verbatim": "Strongylocentrotus purpuratus",
+      "scientificName": "Strongylocentrotus purpuratus",
+      "offsetStart": 1951,
+      "offsetEnd": 1979,
+      "identifiedName": "Strongylocentrotus purpuratus"
+    }
+  ],
+  "content": "Eric Davidson\nMBL Embryology Course\nSummer, 1988\nSelected References for Initial Lectures\nDavidson, E.H. (1986) Gene Activity in Early Development. 3rd Edition. New\nYork: Academic Press, 67Opp.\nfor general review of the various specification strategies\n8 \nAkam, M. (1987) The molecular basis for metameric pattern in the Drosophila\nembryo. Development 101:1-22.\nAkhurst, R.J., F.J. Calzone, J.J. Lee, R.J. Britten and E.H. Davidson (1987)\nStructure and organization of the actin gene subfamily of the sea\nurchin, Strongylocentrotus purpuratus. J. Mol. Biol. 194:193-203.\nCameron, R.A., B.R. Hough-Evans, R.J. Britten and E.H. Davidson (1987) Lineage\nand fate of each blastomere of the eight-cell sea urchin embryo. Genes \nDevelop ent 1:75-85. 1 5 - 1 \nCox, K.H., L.M. Angerer, J.J. Lee, E.H. Davidson and R.C. Angerer (1986) Cell\nlineage-specific programs of expression of multiple actin genes during seas\nurchin embryogenesis. J. Mol. Biol. 188:159-172. 1\nC.N., R.J. Britten and E.H. Davidson (1987) Ontogenetic activation\nof a fusion gene introduced into sea urchin eggs. Proc. Nat. Acad. Sci. USA\n84:151-155. 6\n.dex \nC.N., A.P. McMahdn, B.R. Hough-Evans, K.S. Katula, R.J. Britten and\nE.H. Davidson (1985) Persistence and integration of cloned DNA in\npostembryonic sea urchins. Dev. Biol. 108:431-542.\nFranks, R.R., B.R. Hough-Evans, R.J. Britten and Eric H. Davidson (1988)\nSpatially deranged though temporally correct expression of-a\nStrongylocentrotus purpuratus actin gene fusion in transgenic embryos of a\ndifferent sea urchin family. Genes Develo ment 2:1-12.\nHough-Evans, B.R., R.R. Franks, R.A. Cameron, R.J. Britten and E.H. Davidson\n(1987) Correct cell-type expression of a fusion gene injected into sea urchin\neggs. Dev. Biol. 121:576-579.\nLee, J.J., F.J. Calzone, R.J. Britten, R.C. Angerer and E.H.Davidson (1986)\nActivation of sea urchin genes during embryogenesis. Measurement of transcript\naccumulation from five different genes in Strongylocentrotus purpuratus. J.\nMol. Biol. 188:173-183. \nMcMahon, A.P., C.N. B.R. Katula, R.J. Britten and\nE.H. Davidson (1985) Introduction of cloned DNA into sea urchin egg cytoplasm:\nreplication and-persistence during embryogenesis. Dev. Biol. 108: 420-430.`\n4 \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Strongylocentrotus purpuratus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "53f53c09-6546-50a0-9b07-de0af452bf30",
+          "name_string": "Strongylocentrotus purpuratus",
+          "canonical_form": "Strongylocentrotus purpuratus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Echinodermata|Eleutherozoa|Echinozoa|Echinoidea|Euechinoidea|Echinacea|Echinoida|Strongylocentrotidae|Strongylocentrotus|Strongylocentrotus purpuratus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum||superclass|class|subclass|superorder|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7586|133551|7624|7625|7638|7674|7675|31181|7664|7668",
+          "taxon_id": "7668",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "53f53c09-6546-50a0-9b07-de0af452bf30",
+          "name_string": "Strongylocentrotus purpuratus",
+          "canonical_form": "Strongylocentrotus purpuratus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39146635",
+          "local_id": "598175",
+          "url": "http://eol.org/pages/598175",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

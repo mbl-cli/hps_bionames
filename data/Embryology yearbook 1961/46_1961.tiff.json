@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=xu5W8kqLRJiDNiYqseCflQ",
+  "input_url": null,
+  "file": "46_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.062544073,
+    "total_duration": 25.33884947
+  },
+  "agent": "",
+  "created": "2013-06-18T12:33:27-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "..8..\nc) Removal of The oTic ves'cle. NoTe behavior paTTern of laTer embryo. STage 20,\nd) Removal of small biTs of nerve cord (STages l7-20). Remove only abouT Two\nsomiTe of nervous Tissue, and as liTTle adjacenT Tissue as possible.\nT) TransecTion of spinal cord of moTile sTages (STage 23). The nerve cord can be\nTransecTed, wiThouT removal of Tissue, aT diTferenT levels. NoTe behavior paTTerns\nof laTer embryos (5Tage 26).\nQ). GraTTing of Tissue To pericardial sac To sTudy morphogenesis when isolaTed\nfrom normal Tissue environmenT.\nh) CulTuring organ anlagen in nuTrienT media (cf. Trinkaus Drake, \ni) Behavioral sTudies (a la Coghill) and mechanism of haTching (Milkman, \n\n"
+}

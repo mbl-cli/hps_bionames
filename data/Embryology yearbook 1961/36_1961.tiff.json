@@ -1,0 +1,50 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=xvFOL3tJSIaoXP6tTpx4Lw",
+  "input_url": null,
+  "file": "36_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.146603225,
+    "resolve_names_duration": 1.405741896,
+    "total_duration": 26.763972768
+  },
+  "agent": "",
+  "created": "2013-06-18T12:29:40-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Acta anats",
+      "scientificName": "Acta anats",
+      "offsetStart": 301,
+      "offsetEnd": 310,
+      "identifiedName": "Acta anats"
+    },
+    {
+      "verbatim": "Xenggus larvaes",
+      "scientificName": "Xenggus larvaes",
+      "offsetStart": 530,
+      "offsetEnd": 544,
+      "identifiedName": "Xenggus larvaes"
+    }
+  ],
+  "content": "\nTansley, Kc (1954)>> An inherited retinal degeneration in the mousse\nJo Heredity 45, 125e127? \nTeylor, Ao Cecile (1943)e Development of the innervation pattern in the\nlimb bud of the frogs Anats Record 87, 379~415?\nTheiler, Ko (1954)? Die Entstehung von Spaltwirbeln bei Danforth\"s\nshort>>tai1 meuso Acta anats 21, 259-283?\nTheiler, Ko, and Ss (1956)? The morphological effects\nand the development of the fused mutation in the mousse Anato\nRecord 125, 83-104?\nWeber, Ro (1957)? Biological function of cathepsin in tail tissue of\nXenggus larvaes Experentia 15, l53~155>>\nWolff, Eta Le determinisme de 1@atrophie d'un organs rudimentaires\nle canal de Muller des embryone m?1es d'oiseaux>> Experentia 9,\n121>>153?\nWolff, Etc (1955)? Le role des hormones embryonnaires dans la differenciation\nsexuelle primaire des Acta XI Conge Int. Orns 1954,\n86~103?\nZwilling, Ee (1942)? The development of dominant rumplessness in chick\nembryoss  Genetics 27, 641~656? \nZwilling, Ea (1959)? Mioramelie as a direct effect of insulin -- Evidenne\nfrom in vitro and in vivo experimentse Jo Morphols 104, 159=179>>\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Acta anats"
+    },
+    {
+      "supplied_name_string": "Xenggus larvaes"
+    }
+  ]
+}

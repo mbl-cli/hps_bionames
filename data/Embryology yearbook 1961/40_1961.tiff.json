@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=RvBpN7o4SR2AU2VZO43klg",
+  "input_url": null,
+  "file": "40_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.273709533,
+    "resolve_names_duration": 1.243227575,
+    "total_duration": 25.396570505
+  },
+  "agent": "",
+  "created": "2013-06-18T12:31:02-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Fundulus.",
+      "scientificName": "Fundulus",
+      "offsetStart": 1763,
+      "offsetEnd": 1771,
+      "identifiedName": "Fundulus"
+    }
+  ],
+  "content": " ..2-\naccumulaTe in ome spoT. Label each loT wiTh The exacT Time of ferTilizaTion.\nChange The waTer daily. \n4- MQUIOGS. Of 99.95.\nThe eggs should firsT be sTudied in The condiTion in which They are spawned, buT\nfor many purposes iT is desirable To prepare Them for microscopic sfudy as follows;\nroll The eggs on a piece of fi|Ter paper or paper Towel unTil The jelly and The ouTer\nfibres are removed, leaving The surface of The chorion smooTh and clean. The\nsame procedure should be followed for day-old sTock culfures in order To prevenT\nclumpihg of The eggs.\nFor experimenTal work eggs are usually examined uncovered in shallow depression\nslides or Syracuse dishes and manipulaTed wiTh hair loops. For laboraTory sTudy\nwhere eggs are To be observed over long periods of Time and specific orienTaTion\nis desired, eiTher of The following meThods is suggesTed: Place The eggs in\nsea waTer in culTure slides having a l.7 and l.8 mm. depression less\nThan The diameTer of The egg). The egg may now be roTaTed by moving The cover\nslip. lf These special slides are noT available eggs may be placed in a drop of\nsea waTer on an ordinary glass slide and covered wiTh a very Thin, flexible sheeT\nof mica. waTer is Then wifhdrawn wiTh lens paper unTil capillary aTTracTion\ncauses a pressure roTaTed as in The previous meThod.\n5. PermanenT ToTal PreparaTion?,\nFix The eggs in STockard's soluTion. This Turns The proToplasm whiTe buT leaves\nThe yolk TransparenT. The fixaTive may be used as a preservafive or The maferial\nmay be Transferred To IOZ formalin afTer 2 days.\n6. gPrep&raTion \nFor fixafion and embedding meThods, consulT insTrucTor.\nB. Gunner and oTher Pelagic Eggs\nWhenever possible, observaTions should be made on pelagic eggs as well as on The\ndemersal eggs of Fundulus. Many sTrucTures such as The germ-ring, embryonic shield,\nand Kupffer's vesicle will be easier To see in The former because They have fewer\noil globules and a less-granular porToplasm. The formafion of polar bodies may\nalso be seen in This Type of egg. Pelagic eggs are far more sensITive, however,\nin Their oxygen requiremenTs, so require careful handling.\nGunners should be caughT The same day as needed; females are ordinarily obTained\nonly afTer l2M. The male is a somewhaT brighTer green color and can also be \ndisTinguished by iTs brighT red cloacal lining epiThelium. MilT is sTripped inTo\na large finger bowl which conTains sufficienT sea waTer To cover The boTTom. iT\nwill prove helpful To use a cloTh Towel or work-gloves for holding The fish while\nThey are being sTripped, because They are exfremely slimy and have sharp spines\nin The dorsal fin.. i\nAs soon as possible afTer sTripping, The sperm-suspension should be poured inTo\nThe egg dish and The Time recorded. The mixTure sTand for half a minuTe; Then\ndiluTe wiTh sea waTer and decanf inTo smaller finger bowls, or pour inTo a\ncylinder or Erlenmeyer flask and add sufficienT sea waTer To fill. Good eggs will\nfloaT on The Top and collecT principally aT The edge of The menlscus. They should\nbe pipeTTed off and placed in covered finger-bowls confaining l/4\" of clean sea\nwaTer, and seT in The sea waTer Table where They will keep cool.\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

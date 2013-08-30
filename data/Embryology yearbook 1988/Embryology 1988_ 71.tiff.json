@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=88iE455eRpmk5gjzAc1WDQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 71.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.095885982,
+    "total_duration": 22.689208221
+  },
+  "agent": "",
+  "created": "2013-06-18T13:25:04-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": " protection\nSP6 Reaction\n1. At room temperature mix10mM nucleotides\n0.5 ul 2mg/10X buffer\n0.5 ul RNASIN\n4 ul (400 Ci/mmole)\n0.5 ul enzyme (SP6 or T7)\n2. incubate 1 hr\nAdd 1 ul F20-1\n10 mins \n3. Add 90 ui sterile H20\nPhenol extract 1X\n4. Add 10 ul sterile 3N Na Acetate and 2 vols Ethanol\nprecipitate\n5. Resuspend in 200-400 ul sterile H20\n10X Buffer\n0.4 Tris 7.5\n60 mM \n20 mM spermidine\nH20 to 10 ml\n\n"
+}

@@ -1,0 +1,261 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=R15zU9sFQReedosOLYaxag",
+  "input_url": null,
+  "file": "159_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.106451671,
+    "resolve_names_duration": 1.199713984,
+    "total_duration": 26.418286764
+  },
+  "agent": "",
+  "created": "2013-06-18T12:16:58-04:00",
+  "total": 7,
+  "names": [
+    {
+      "verbatim": "Ternaria.",
+      "scientificName": "Ternaria",
+      "offsetStart": 165,
+      "offsetEnd": 173,
+      "identifiedName": "Ternaria"
+    },
+    {
+      "verbatim": "Bipinnaria.",
+      "scientificName": "Bipinnaria",
+      "offsetStart": 225,
+      "offsetEnd": 235,
+      "identifiedName": "Bipinnaria"
+    },
+    {
+      "verbatim": "Tornaria",
+      "scientificName": "Tornaria",
+      "offsetStart": 491,
+      "offsetEnd": 498,
+      "identifiedName": "Tornaria"
+    },
+    {
+      "verbatim": "Bipinnaria,",
+      "scientificName": "Bipinnaria",
+      "offsetStart": 831,
+      "offsetEnd": 841,
+      "identifiedName": "Bipinnaria"
+    },
+    {
+      "verbatim": "Thaliacea",
+      "scientificName": "Thaliacea",
+      "offsetStart": 1484,
+      "offsetEnd": 1492,
+      "identifiedName": "Thaliacea"
+    },
+    {
+      "verbatim": "Larvacea,",
+      "scientificName": "Larvacea",
+      "offsetStart": 1502,
+      "offsetEnd": 1510,
+      "identifiedName": "Larvacea"
+    },
+    {
+      "verbatim": "Cephaloehorda\n(kmphicxus",
+      "scientificName": "Cephaloehorda (kmphicxus",
+      "offsetStart": 1516,
+      "offsetEnd": 1539,
+      "identifiedName": "Cephaloehorda (kmphicxus"
+    }
+  ],
+  "content": ".13-\nTORFARIA\nIn many of the Hemithorea, eggs are large and yolky, and development is\neireet. In other forms, ievelcpment passes threugh a pelagic larval phase, the\nTernaria. This larva resembles both the Trechophore and the Bipinnaria. The\napical sensory plate with its ciliary tuft, the telotroeh, and the alimentary\nsystem are reminiscent of the troehophore; general shape, coelnm fozmatien, and\nthe anterior ciliatea band are reminiscent of the Bitinnaria. The ehoreate\ncharacter of the Tornaria is revealed early, principally by the appearance of\nfour, and later more, pairs of esophageal evaginations, the early gill pouches.\nThese acquire openings through the larval skin comparatively late. A portion of\nthe iorsal coelum (which originally opens to the exterior through the dorsal\nectcderm) becomes the pericardium. In the Bipinnaria, the eomparable part of\nthe coelum becomes the madreporic vesiele, a portion of the water-vascular system.\n\n\n\nW, i\niexft\n-Beyond the strong probability that the Hemichorda belong to the Echino&erm~\nCherdate line of evolution, their ancestral relationships are obscure. Berxill\nsuggests that the group may be extremely aneient, having evolved indepenoently\nand separately fran the main eehinoaerm and chordate steaks. In that ease larval\nresemblanees woule be largely fortuitous, or at most indicative of parrellel\nevelution.\n\nTHE ASCIDIAN TASPOLE \nThis larva probably gave rise, through neotenie macroevolution, to the\npelagic tunieates, the Thaliacea and the Larvacea, the Cephaloehorda\n(kmphicxus), ana the vertebrates. The tadpole thus is important not\nonly for its own sake but also as the eloest and the original representative of\nthe chordate prototype. Berrell regards this larva as an inoependent, original\ninvention of sessile ascidians.\nIn the as in ether groups, large eggs, abriaged development ana/or\nabeenee of larval phases, ana viviparity go together. In more primitive small-\neggea forma, pelagic nan-feeding larvae may be formeo within 24 hours after\nfertilizetien. The free-swimming terioe may be as lang as a few days or in\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ternaria",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "2fa2a6d9-8d20-5be4-82e3-fbe909bad96d",
+          "name_string": "Ternaria",
+          "canonical_form": "Ternaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "98016320",
+          "local_id": "urn:lsid:ubio.org:namebank:5048102",
+          "global_id": "urn:lsid:ubio.org:namebank:5048102",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=5048102",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Bipinnaria",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "036ba09b-4f03-5a44-a43c-12d94f85e697",
+          "name_string": "Bipinnaria",
+          "canonical_form": "Bipinnaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "129098697",
+          "url": "http://www.organismnames.com/details.htm?lsid=3766739",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tornaria",
+      "results": [
+        {
+          "data_source_id": 11,
+          "data_source_title": "GBIF Taxonomic Backbone",
+          "gni_uuid": "43f9eeed-320f-5a82-bbd5-3f65d4a441b2",
+          "name_string": "Tornaria",
+          "canonical_form": "Tornaria",
+          "classification_path": "Animalia|Hemichordata|Enteropneusta||Tornaria",
+          "classification_path_ranks": "kingdom|phylum|class|family|genus",
+          "classification_path_ids": "1|75|277|5723894|4356978",
+          "taxon_id": "4356978",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "43f9eeed-320f-5a82-bbd5-3f65d4a441b2",
+          "name_string": "Tornaria",
+          "canonical_form": "Tornaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30735875",
+          "local_id": "8635330",
+          "url": "http://eol.org/pages/8635330",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Thaliacea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "16562d12-c3a3-5b4e-b375-44d60a96e01c",
+          "name_string": "Thaliacea",
+          "canonical_form": "Thaliacea",
+          "classification_path": "Animalia|Chordata|Thaliacea",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2362754|2363364",
+          "taxon_id": "2363364",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "16562d12-c3a3-5b4e-b375-44d60a96e01c",
+          "name_string": "Thaliacea",
+          "canonical_form": "Thaliacea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37279997",
+          "local_id": "19719817",
+          "url": "http://eol.org/pages/19719817",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Larvacea",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "0b29cf58-4206-5e16-a34e-624d8ab2007b",
+          "name_string": "Larvacea",
+          "canonical_form": "Larvacea",
+          "classification_path": "Animalia|Chordata|Tunicata|Appendicularia",
+          "classification_path_ranks": "Kingdom|Division|Subdivision|Class",
+          "classification_path_ids": "202423|158852|203347|159664",
+          "taxon_id": "159665",
+          "current_taxon_id": "159664",
+          "current_name_string": "Appendicularia",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0b29cf58-4206-5e16-a34e-624d8ab2007b",
+          "name_string": "Larvacea",
+          "canonical_form": "Larvacea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5205148",
+          "local_id": "1489",
+          "url": "http://eol.org/pages/1489/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 7,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cephaloehorda (kmphicxus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

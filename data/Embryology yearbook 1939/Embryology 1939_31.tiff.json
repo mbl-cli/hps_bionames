@@ -1,0 +1,168 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=XK2vLGBsSCG54U3DXmxVcw",
+  "input_url": null,
+  "file": "Embryology 1939_31.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.140193468,
+    "resolve_names_duration": 0.667554675,
+    "total_duration": 27.034130568
+  },
+  "agent": "",
+  "created": "2013-06-19T15:24:47-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Tubularia,",
+      "scientificName": "Tubularia",
+      "offsetStart": 66,
+      "offsetEnd": 75,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Hydrozoa.",
+      "scientificName": "Hydrozoa",
+      "offsetStart": 1109,
+      "offsetEnd": 1117,
+      "identifiedName": "Hydrozoa"
+    },
+    {
+      "verbatim": "Gonionemus,",
+      "scientificName": "Gonionemus",
+      "offsetStart": 1808,
+      "offsetEnd": 1818,
+      "identifiedName": "Gonionemus"
+    }
+  ],
+  "content": " -2- i\nBrelatioeass in the Stea-\nSelect SO uniform individuals of Tubularia, and cut off hydranth\nand a short piece of distal stem, as before. From the distal (hydranth)\nend of each stem cut a piece mm. long, takvng care not to confuse the\norientation of the pieces. Divide them into two lots of l5, A and B. \nFasten the pieces of the A lot wide their distal ends all on the same i\nside, in a fingerbowl of sea water. Ligate each of the lot pieces\nin the middle, by tying a thread firmly around it, and orient them\nsimilarly in a fingerbowl of sea water. Cover both fingerbowls and\nplace them in the sink to be kept cool. Change water regularly.\nCn the third day record the number of individuals in A which\nshow regeneration on their proximal ends, and the number which show\nregeneration distally. Do the same for the ligated lot individuals.\nEsmpared with the lot in which the two ends have been isolated by\nLigature, do the A lot show any indication of a dominance-suppression\nrelationship of the two ends? Which end is dominant? (Barth '58)\n\nTHB, or nislicsnusi .\nThere are two phases of embryology in the Hydrozoa. Characteris~\npically, a long series of asexual reproductions, by budding and other\nmethods, is punctuated at irregular intervals by alternation with\nisolated examples of sexual reproduction. this alternation of genera- \ntion is closely paralleled by an alternation of form, since the pro-\nduction of zygotes is usually accomplished by medusae, and the pro~\nluqtion of buds by polyps. In some hydrozoa no medusa~form is known,\nin others no polyp-form is known, and there are all stages between.\nShe hydrozoa available at Woods hole illustrate well the variability in\nstructure of the medusa~state. ihe best example of a complete medusa\nwith a degenerate polyp stage is idealized jelly~fish Gonionemus,\nbut it is unfortunately now nearly extinct at Woods Hole. The genera\npicked for study are arranged in the order of diminishing completeness\nei'the medusa form, the first having free~swimming medusae and the\nlast mere sporosacs. The utter degeneration of the medusa-form is\nillustrated by the familiar Hydra. \nBecause of seasonal variations and unpredictable fluctuations\nin the Coelenterate fauna, some of the material desoribed~may not be\navailable, and the order of study will have to be announced.\nheugainvillae (July and August)\nThe gdnophores are borne singly or in clusters on the main stem\nind branches. New buds destined to become medusae are scattered\nirregularly throughout the colony, there being no arrangement according\nto age. Examine buds that show successive stages of development, and\nfind out how a medusa is formed.\nWhen all of its parts except the sex organs are fully formed,\nthe medusa breaks loose mid swims away, living l~2 months. Its struc~\nture is diagrammatic. Find a well~developed specimen and identify its\nnmnubrium, radial and circular canals, velum, 4 groups of marginal\ntentacles and eyespots. These medusae gradually form eggs and sperm\nbut the embryos do not develop inside them.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydrozoa",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2363435|2363454",
+          "taxon_id": "2363454",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992508",
+          "local_id": "1795",
+          "url": "http://eol.org/pages/1795",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gonionemus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "9bb907e5-8209-53cf-82ec-132fb2b9bedd",
+          "name_string": "Gonionemus",
+          "canonical_form": "Gonionemus",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Limnomedusae|Olindiasidae|Gonionemus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363468|2363469|2394684",
+          "taxon_id": "2394684",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "9bb907e5-8209-53cf-82ec-132fb2b9bedd",
+          "name_string": "Gonionemus",
+          "canonical_form": "Gonionemus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28551714",
+          "local_id": "23672",
+          "url": "http://eol.org/pages/23672",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=kNHsAtrsSAySsm946OmIlw",
+  "input_url": null,
+  "file": "93_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.161040799,
+    "resolve_names_duration": 1.313814162,
+    "total_duration": 30.06746455
+  },
+  "agent": "",
+  "created": "2013-06-18T12:51:31-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Chaefopierus",
+      "scientificName": "Chaefopierus",
+      "offsetStart": 262,
+      "offsetEnd": 273,
+      "identifiedName": "Chaefopierus"
+    },
+    {
+      "verbatim": "Qerebrafuius",
+      "scientificName": "Qerebrafuius",
+      "offsetStart": 344,
+      "offsetEnd": 355,
+      "identifiedName": "Qerebrafuius"
+    },
+    {
+      "verbatim": "Chaeiopierus",
+      "scientificName": "Chaeiopierus",
+      "offsetStart": 640,
+      "offsetEnd": 651,
+      "identifiedName": "Chaeiopierus"
+    },
+    {
+      "verbatim": "Denfalium",
+      "scientificName": "Denfalium",
+      "offsetStart": 769,
+      "offsetEnd": 777,
+      "identifiedName": "Denfalium"
+    },
+    {
+      "verbatim": "Tubifex.",
+      "scientificName": "Tubifex",
+      "offsetStart": 892,
+      "offsetEnd": 899,
+      "identifiedName": "Tubifex"
+    },
+    {
+      "verbatim": "Tubifex.",
+      "scientificName": "Tubifex",
+      "offsetStart": 1020,
+      "offsetEnd": 1027,
+      "identifiedName": "Tubifex"
+    }
+  ],
+  "content": "\n\nWi|son, E. B.\nWilson, E. B.\nYafsu, \nYaisu, N.\nZeieny, C.\nMulnard, J. |958\nReverberi, G. |958\nLehmann, F. |958\nLehmann, F. |956\n|939\n|930\n|904\n\n|904\n\nThe deveiopmeni of egg iragmenis in annelids. Arch. f.\nEn+wick. \nNofes on The deve|opmenT of fragmenfs of The \nChaefopierus egg. Biol. Buil. \nExperimenis on The developmenf of egg fragmenfs of\nQerebrafuius. Biol. Buii. \nExperimenfs on germinal |oca|izaTion in The egg of\nCerehra+u|us. J. C. Sci. Tokyo Z1 \nExperimenis on The localizaiion of deveiopmenfal faciors\nin The NemerTine egg. J. Exp. Zooi. |;293.\nAddendum\nLa meTachromasie in vivo ef son anaiyse cyiochimique dans\n|'oeuf Annelide Chaeiopierus pergamenTacous. Arch. Bioi.\n?2;645~685 \nSeieciive disfribufion of miTochondria during The deveiopmeni\nof The egg of Denfalium. Ac+o Em ryol. Morphoi. Exper. \nPhases of dependeni and au+onomous morphogenesis in The so-\nca||ed mosaic egg of Tubifex. In Chemical Basis of developmenf\nJohns Hopkins Press\nP|asmaTische Ecorganisafion und Enfwickiungsieifung beim\nkeim von Tubifex. Naiurwiss. |3:289-296.\nPasieels, J. J. |958 Compara+ive cyiochemisfry of The fer+i|ized egg. In\nChemical Basis of Deveiopmeni. Johns Hopkins Press\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Chaefopierus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Qerebrafuius"
+    },
+    {
+      "supplied_name_string": "Chaeiopierus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Denfalium",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Tubifex",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "98750f5c-1d5e-56cb-b251-dea11c436ef9",
+          "name_string": "Tubifex",
+          "canonical_form": "Tubifex",
+          "classification_path": "Animalia|Annelida|Polychaeta|Not assigned|Maldanidae|Tubifex",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369670|2372221|2537143",
+          "taxon_id": "2537143",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "98750f5c-1d5e-56cb-b251-dea11c436ef9",
+          "name_string": "Tubifex",
+          "canonical_form": "Tubifex",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30068727",
+          "local_id": "3095689",
+          "url": "http://eol.org/pages/3095689",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

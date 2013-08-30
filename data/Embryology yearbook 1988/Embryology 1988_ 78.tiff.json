@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=6nbCgjGqQPatvjl4UUe2Dw",
+  "input_url": null,
+  "file": "Embryology 1988_ 78.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.100233057,
+    "total_duration": 33.736612416
+  },
+  "agent": "",
+  "created": "2013-06-18T13:26:31-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Analysis of Proteins Ffom Embryonic and Adult Blood Cells\nl, Collect blood cells. For eoult cells use heparin at 50 ug/ml.\n2. Pellet cells in clinical centrifuge, Speed 5, 3 min. Solution\nshould become clear.        \n3. Refsuspend cells in l55 mf! choline chloride, pH 75    \nheparin for adult cells). Put on ice. \n4. Put dropon a slide. Use another Slidefto spread the blood.   \nDrop on stain. Leave mmewosn with water,      \nem and ool                \n5. Wash remaining and repellelloycent\nr~lfogatlon  Carefully remove supernatant \nfl( llel I 'e ll   lel    \n6 *ef inolomSolution snoolcl become cleat;       gl'      \n7\"3\"'5f9V mea\" eel  l' off tube; i  el lel     \n1             \nRemove soe ernetent  in 0.5 mlHB;j?gl2mz~mgcz2         .\n  oo ?mn5orA      \nLet stand on ice 5- lo mln.               \n9. for 5  Seve    \nnesosognoplelzez ln 250 ul orne            \nlo,   ro aol ul of mesa smples       eg      \nBei* ffl\"  mm- '5Dl"
+}

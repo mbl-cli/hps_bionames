@@ -1,0 +1,104 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=qrETRJp7RlWEYQWDYmjEVg",
+  "input_url": null,
+  "file": "76_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.269433991,
+    "resolve_names_duration": 5.016126756,
+    "total_duration": 33.16934946
+  },
+  "agent": "",
+  "created": "2013-06-18T12:44:47-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Crepidula",
+      "scientificName": "Crepidula",
+      "offsetStart": 525,
+      "offsetEnd": 533,
+      "identifiedName": "Crepidula"
+    },
+    {
+      "verbatim": "Crepicula",
+      "scientificName": "Crepicula",
+      "offsetStart": 1934,
+      "offsetEnd": 1942,
+      "identifiedName": "Crepicula"
+    },
+    {
+      "verbatim": "Erepiuula",
+      "scientificName": "Erepiuula",
+      "offsetStart": 2053,
+      "offsetEnd": 2061,
+      "identifiedName": "Erepiuula"
+    }
+  ],
+  "content": "r\"f\n\nfcrnicata \nDuc to the opacity of the living eggs, the details of maturation,\nassociation of the germ nuclei, and cleavage can best be studied from prepared\nslides. The eggs are not sectioneu, but are whole mnunts. Number one or zero\ncover glasses have been used, making it possitle tu examine the material under\nhigh power. Du not under anv circumstances use oil immersinn ob ectives on\nTHESE SLIDES. Gonklin's two monographs 1397 ann 1902) may be used for referenc \nor the photo copies of the plates from these papers.\nCrepidula is a dioecious genus with the males fewer in number and\nsmaller than the adult females. The spermatozoa mingle with ova before the egg\ncapsules are formed around groups uf eggs in the oviouct of the female. The\nmature females are sedentary, and the males locomotive, and at the breeding season\nor perhaps once for all, the females are visited and inseminated by these motile\nmales. All of the ova produced by a given individual curing a season are laid\nwithin a short space of time.\nl. On the prepared slides, make a careful stuuy of various stages in the two\nmaturation divisions. In the same eggs find the sperm nucleous ana note its\napproach bu the egg nutleus. Note also the small antipclar lobe. Make drawings.\n2. Study the first and seccnd cleavages, noting the direction of the axes of the\nmitotic figures in the latter. The small antipolar lobe may be visible near the\nvegetal region of the furrow at the 2-cell stage. Make drawings.\n3. Study in detail the formation of the first three quartettes of mifromeres and\nthe formation of the derivatives of the first and secenn quartettes. Indicate\nwhich divisions are dexitropic and which are leiotropic. Fine ana draw examples\nand 25~cel1 stages. The last is difficult to find and\nit should be checked carefully. The nuclei be identified by their size\ncharacteristics.\nSome students, in their spare time, may wish to prepare their own slices\nof Crepicula maturation and cleavage stages. The following method is suggested:\nA. Obtaining with a heavy knife, loosen a Erepiuula shell from its\nattachment. The egg capsules will either be attached to the substrate or to the\nfoot of the female. Those that are small and light yellow contain eggs in the\nearlier stages of development; the larger, deep yellow or mud-colored capsules\ncontain older embryos and larvae. Remove the capsules, by means of forceps, to\na of sea water. Tear open the capsules with a pair of needles to\nrelease the eggs. Discard empty capsules. Examine the eggs under the microscope\nto ascertain the stage. Dark-fielu illumination may be helpful. lt is best to\nmix several batches of young stages for slide-making.\nB. Fixgtinn; (Do not use fixatives or other reagents in any uishes which are\nused for living materials. (Confine these reagents to vials). Having freed the\neggs, wash them by gentle rotary rinsing with a pipette, and then concentrate them\nin the center of the cish. Change the sea water two or three times. Then take\nup the concentrates eggs with a pipette, and drop them, with a small amount of\nsea water, into a vial three~quarters full of Kleinenberg's picro-sulphuric\nfixative. The eggs should be fixed at least 15 minutes.\nRemove the fixative, using a pipette of small diameter equipped with a\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Crepidula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Calyptraeidae|Crepidula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370194|2370205|2410985",
+          "taxon_id": "2410985",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44534464",
+          "local_id": "404808",
+          "url": "http://eol.org/pages/404808",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Crepicula",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Erepiuula"
+    }
+  ]
+}

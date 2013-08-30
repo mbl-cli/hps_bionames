@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=BBsijceTTvyC8EC94E00lg",
+  "input_url": null,
+  "file": "61_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.1704919,
+    "resolve_names_duration": 0.418988296,
+    "total_duration": 23.136308233
+  },
+  "agent": "",
+  "created": "2013-06-18T12:39:18-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Echinarachnius",
+      "scientificName": "Echinarachnius",
+      "offsetStart": 59,
+      "offsetEnd": 72,
+      "identifiedName": "Echinarachnius"
+    }
+  ],
+  "content": "some of The same experimenTal procedures wiTh AsTerias and Echinarachnius eggs.\nA few Types ol experimenTs are lisTed below. \nl. ExperimenTal analysis by operaTion: DevelopmenT of isolaTed blasTomeres\n(easiesT); developmenT of isolaTed animal and vegeTal halves (more difTiculT);\ndevelopmenT of recombinaTions of animal and vegeTa| layers (exTremely difficulT);\ncombinaTion of operaTion and chemical agenTs.\n2. ExperimenTal analysis Through The effecT of agenTs: Physical: CenTrilugaTion;\ndevelopmenT of lighT and heavy halves and quarTers; developmenT of whole cenTri-\nfuged eggs; combinaTion of cenTrifugaTion and chemical TreaTmenTs. Chemical:\nEffecT on developmenT of: LiCl, iodosobenzoic acid, proTeolyTic\nenzymes ribonuclease), sodium azide, mercapTro-eThanol,\neTc.\n3. GradienT sTudies? redox gradienTs as demonsTraTed wiTh meThylene blue, Janus\ngreen, Nile blue sullaTe or NeoTeTrazolium chloride.\nFor The above, or any oTher experimenTal procedures which members of The class\nmighT wish To Try, special direcTions, reagenTs and equipmenT will be made\navailable by The insTrucTors.\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Echinarachnius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6f5c1914-3a92-50c3-8cc3-9a0bc0d2e39f",
+          "name_string": "Echinarachnius",
+          "canonical_form": "Echinarachnius",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Clypeasteroida|Echinarachniidae|Echinarachnius",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362627|2362630|2493660",
+          "taxon_id": "2493660",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6f5c1914-3a92-50c3-8cc3-9a0bc0d2e39f",
+          "name_string": "Echinarachnius",
+          "canonical_form": "Echinarachnius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20629591",
+          "local_id": "73062",
+          "url": "http://eol.org/pages/73062",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

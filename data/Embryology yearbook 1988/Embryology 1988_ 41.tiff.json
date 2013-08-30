@@ -1,0 +1,47 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=755RPRyyQniTMBbDh5ajug",
+  "input_url": null,
+  "file": "Embryology 1988_ 41.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.196859817,
+    "resolve_names_duration": 0.870434686,
+    "total_duration": 27.451854667
+  },
+  "agent": "",
+  "created": "2013-06-18T13:19:26-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "S. purpuratus",
+      "scientificName": "S. purpuratus",
+      "offsetStart": 134,
+      "offsetEnd": 146,
+      "identifiedName": "S. purpuratus"
+    },
+    {
+      "verbatim": "S.\npurpuratus",
+      "scientificName": "S. purpuratus",
+      "offsetStart": 1614,
+      "offsetEnd": 1626,
+      "identifiedName": "S. purpuratus"
+    }
+  ],
+  "content": " peek -\n4/al/rv\nSingle-Stranded Probe Excess Titration of Specific Embryonic Transcripts\nIntroduction (Tissue-specific \nThe genome of S. purpuratus contains eight different actin genes. Each of the\nactive genes (six known) of this family is regulated independently during development and\nfunctions in diverse cell lineages or sets of cell lineages at diverse stages of\ndevelopment. Transcripts of one gene, called M, are confined to muscle cells in adult sea\nurchins, and in the embryo to muscle anlage cells that differentiate after gastrulation.\nThe remaining five active actin genes are all expressed in non-muscle cell types, and\npresumably code for cytoskeletal actin proteins. One of these, is exclusively\nexpressed in the aboral ectoderm of plutei and in presumptive aboral ectoderm at\nblastula stage. Thus, the transcript is a specific molecular marker for the aboral\nectoderm cell lineage.\nThe endoskeletal spicules of the sea urchin embryo are elaborated by the primary\ncells, descendants of the micromeres, beginning at gastrulation, and\nincrease in size and complexity as the pluteus larva matures. The mineral component of\nthe skeletal structures is a 20:1 complex that is deposited within a\nprotein template secreted by the skeletogenic cells. The major component\nof the spicule matrix is a glycoprotein called SM50. The SM50 gene is expressed\nexclusively in the skeletogenic its transcripts appearing in primary\ncells even before the onset of skeletogenesis. The SM50 gene, then, is a\nmolecular marker for the skeletogenic cells.\nThe numbers of and SM50 transcript molecules that are accumulated in S.\npurpuratus embryos have been determined. In the 64-hr pluteus (~l800 cells) there are\nabout CylIIa molecules present, or 190 transcripts per aboral ectoderm\ncell (~l+70 cells total). The prevalence of SM50 is about 130 molecules per\nprimary cell (~60 cells total) in the 3-day pluteus. These measurements\nwere made using a single-stranded probe excess titration technique described by Lee\net al. (1986). ln this method total embryo RNA is mixed at 5/Qrious mass ratios with an\nexcess amount (with respect to the sequence of interest) of P-labeled single-stranded\nprobe (RNA in the experiments above), and reacted in solution to completion. The\namount of nuclease-resistant hybrids that form with the various amounts of\ntotal embryo RNA is then measured. From these determinations the prevalence of the\nin question may be calculated as follows:\nMass of xy/B6 where\n(cpm for 32P)/ug RNA slope of titration curve\ntotal RNA/embryo 2.8 ng\n3 probe specific activity (cpm)/ug probe\n5 fraction of contained in probe probe length/mRNA length\n.0028 ug RNA\nmass probe length embryo\nug probe length\nThe mass/embryo may then, of course, be converted to numbers of\ntranscripts/embryo (or cell), based on the known molecular weight (ug/transcript) of the\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "S. purpuratus"
+    }
+  ]
+}

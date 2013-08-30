@@ -1,0 +1,234 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=xEDFLsfbTWOTB6g94PzW4Q",
+  "input_url": null,
+  "file": "Embryology 1939_52B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.141081646,
+    "resolve_names_duration": 1.193465165,
+    "total_duration": 23.331664405
+  },
+  "agent": "",
+  "created": "2013-06-19T15:28:53-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Perophera.",
+      "scientificName": "Perophera",
+      "offsetStart": 325,
+      "offsetEnd": 334,
+      "identifiedName": "Perophera"
+    },
+    {
+      "verbatim": "Clavellina",
+      "scientificName": "Clavellina",
+      "offsetStart": 651,
+      "offsetEnd": 660,
+      "identifiedName": "Clavellina"
+    },
+    {
+      "verbatim": "Phallusia",
+      "scientificName": "Phallusia",
+      "offsetStart": 758,
+      "offsetEnd": 766,
+      "identifiedName": "Phallusia"
+    },
+    {
+      "verbatim": "Amaroucium",
+      "scientificName": "Amaroucium",
+      "offsetStart": 821,
+      "offsetEnd": 830,
+      "identifiedName": "Amaroucium"
+    },
+    {
+      "verbatim": "Molgula",
+      "scientificName": "Molgula",
+      "offsetStart": 1043,
+      "offsetEnd": 1049,
+      "identifiedName": "Molgula"
+    }
+  ],
+  "content": "I -4-\nTUNICATE ETC.\nTien, P. 1935. Reaeneration thoracieue chez Arckiaecidia\n. L, .L \nEmil. Biol, Fr. nelg. T. 67 pp. \ndans. 1902. Die Restitution en Restituticner der 6lv\\e11 ni\nlepadiformis. Arch, f. Entiwcklungsrechanik hd. Pi,\n2d7~287.\n'ev, J. 1921. Studies in dedifferentiation. 11. Dedifferen\ntiation and resportion in Perophera. Q, Jourr\nMicr. Sci. vol. 65, pp. 645-697.\n1926. VI. Reduction\nlepadifonnis. Pubhl.\n7, pp. 1~55.\nTUNICATE TQDLOLES \nand C. Julin. 1884\nment postembryonnaire\nscabroides. Arch. de\nvan Beneden, E.\n1887. Recherches sur\n(the development of \nT. 6 pp. 257-QW6.\nGrave, Caswell 1920.\nlavellina). Arch. de Biol.,\nphenomena in Clavellina\nStaz. Zool. Napoli, vol.\nND THEIR METATOREHOSTS. \nRecherches sur le developpe-\ndJune Phallusie, Phallusia\nBiol., T. 5 pp. 611~658\nla morphologie des tuniciers\nAmaroucium eonstellatum. 1. The activities\nand reactions of the tadpole larvae. Jour. Exp.\nZool. vol. 50, pp. 239-258.\n1921. 11. The structure and organization of the\ntadpole larva. Jour.\nMorph. vol. 56, pp. 71~1Ol.\n1926. Molgula oitrina. Activities and structures\nof the free-swimming larva. Jour. Morph. and\nPhysiol. vol. 42, pp.\n    0\nGrave, C. and H. Woodbridge. 1924. schlosseri. The\nbehavior and morphology of the\nJour. Morph. and Physiol. vol.\nKowalevsky 1892 Beitrage zur Bildung des\nMem. Acad. St. Petersburg. Bd.\nfree-swimwing larva.\n59, rr. \nMantels der Ascidien\n58.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Perophera",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "bd02b99d-8b7d-5454-85d2-0aa9c1a8e01b",
+          "name_string": "Perophera",
+          "canonical_form": "Perophera",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97443673",
+          "local_id": "urn:lsid:ubio.org:namebank:4289722",
+          "global_id": "urn:lsid:ubio.org:namebank:4289722",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4289722",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Clavellina",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "209fa658-f475-5098-877a-7eeea943aa60",
+          "name_string": "Clavellina",
+          "canonical_form": "Clavellina",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "128810130",
+          "url": "http://www.organismnames.com/details.htm?lsid=3478042",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Phallusia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e65de7a0-11d4-5060-9220-46bd6fdca3c1",
+          "name_string": "Phallusia",
+          "canonical_form": "Phallusia",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Ascidiidae|Phallusia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363377|2421948",
+          "taxon_id": "2421948",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e65de7a0-11d4-5060-9220-46bd6fdca3c1",
+          "name_string": "Phallusia",
+          "canonical_form": "Phallusia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103945",
+          "local_id": "43437",
+          "url": "http://eol.org/pages/43437",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Amaroucium",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata|Ascidiacea|Enterogona|Aplousobranchia|Synoicidae|Amaroucium",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum|class|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712|7713|183770|32436|107396|107397",
+          "taxon_id": "107397",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29104026",
+          "local_id": "2994850",
+          "url": "http://eol.org/pages/2994850",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Molgula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a31a74e5-db77-5d08-9eb6-f8f2e9525009",
+          "name_string": "Molgula",
+          "canonical_form": "Molgula",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Molgulidae|Molgula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2363302|2373154",
+          "taxon_id": "2373154",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a31a74e5-db77-5d08-9eb6-f8f2e9525009",
+          "name_string": "Molgula",
+          "canonical_form": "Molgula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103905",
+          "local_id": "10806",
+          "url": "http://eol.org/pages/10806",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

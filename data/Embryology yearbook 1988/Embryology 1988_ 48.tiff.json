@@ -1,0 +1,175 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=bqsZkqriSAOtJoaazrFJ3g",
+  "input_url": null,
+  "file": "Embryology 1988_ 48.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.083009349,
+    "resolve_names_duration": 0.860404168,
+    "total_duration": 20.833512416
+  },
+  "agent": "",
+  "created": "2013-06-18T13:20:20-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Patella vulgata",
+      "scientificName": "Patella vulgata",
+      "offsetStart": 352,
+      "offsetEnd": 366,
+      "identifiedName": "Patella vulgata"
+    },
+    {
+      "verbatim": "(Mollusca",
+      "scientificName": "Mollusca",
+      "offsetStart": 368,
+      "offsetEnd": 376,
+      "identifiedName": "Mollusca"
+    },
+    {
+      "verbatim": "Gastropoda).",
+      "scientificName": "Gastropoda",
+      "offsetStart": 379,
+      "offsetEnd": 390,
+      "identifiedName": "Gastropoda"
+    },
+    {
+      "verbatim": "Gastropoda).",
+      "scientificName": "Gastropoda",
+      "offsetStart": 601,
+      "offsetEnd": 612,
+      "identifiedName": "Gastropoda"
+    }
+  ],
+  "content": "ll\nKeypapers for W. Kuhtreiber Lecture \n\"Mesoderm determination in equal cleaving molluscs\"\nSunday June 26 8 PM\nKuhtreiber W.M.. van der Bent, J., Dorresteijn A.W.C, de Graaf\nA., van den Biggelaar J.A.M. en van Dongen C.A.M. (1986) The\npresence of an extracellular matrix between cells involved in\nthe determination of the mesoderm bands in embryos of Patella\nvulgata (Mollusca, Gastropoda). Wilhelm Roux's Arch Dev Biol\nLQQ: 265-275\nKuhtreiber W.M., Serras F. en van den Biggelaar J.A.M. (1987)\nSpreading of microinjected horseradish peroxidase to\nnondescendant cells in embryos of Patella (Molusca,\nGastropoda). Development LQQ: 713-722\nKuhtreiber W.M., van Til E.H. en van Dongen (1988)\nMonensin interferes with the determination of the mesodermal\ncell line in embryos of Patella vulqata. Wilhelm Roux's Arch Dev\nBiol 197: 10-18 7 \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Patella vulgata",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3efb89c4-e7f2-5636-afd8-d710fa2ab5af",
+          "name_string": "Patella vulgata",
+          "canonical_form": "Patella vulgata",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Archaeogastropoda|Archaeogastropoda|Patellidae|Patella|Patella vulgata",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus|species",
+          "classification_path_ids": "2362377|2362382|2362383|2370090|2370104|2370107|2451332|6926773",
+          "taxon_id": "6926773",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3efb89c4-e7f2-5636-afd8-d710fa2ab5af",
+          "name_string": "Patella vulgata",
+          "canonical_form": "Patella vulgata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39238624",
+          "local_id": "401252",
+          "url": "http://eol.org/pages/401252",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Mollusca",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "85d45ea9-bfb0-523a-9717-94de71abbb08",
+          "name_string": "Mollusca",
+          "canonical_form": "Mollusca",
+          "classification_path": "Animalia|Mollusca",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2362382",
+          "taxon_id": "2362382",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "85d45ea9-bfb0-523a-9717-94de71abbb08",
+          "name_string": "Mollusca",
+          "canonical_form": "Mollusca",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "36496225",
+          "local_id": "2195",
+          "url": "http://eol.org/pages/2195",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 22,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gastropoda",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "320533b0-8902-5288-a885-a6ea8748702f",
+          "name_string": "Gastropoda",
+          "canonical_form": "Gastropoda",
+          "classification_path": "Animalia|Mollusca|Gastropoda",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2362382|2362383",
+          "taxon_id": "2362383",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "320533b0-8902-5288-a885-a6ea8748702f",
+          "name_string": "Gastropoda",
+          "canonical_form": "Gastropoda",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29005986",
+          "local_id": "2366",
+          "url": "http://eol.org/pages/2366",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    }
+  ]
+}

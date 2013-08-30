@@ -1,0 +1,164 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=7exO7i72RFiIPIzowQkDlw",
+  "input_url": null,
+  "file": "Embryology 1988_ 102.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.166153222,
+    "resolve_names_duration": 0.691580835,
+    "total_duration": 22.223300336
+  },
+  "agent": "",
+  "created": "2013-06-18T13:05:12-04:00",
+  "total": 8,
+  "names": [
+    {
+      "verbatim": "Drosophila)",
+      "scientificName": "Drosophila",
+      "offsetStart": 72,
+      "offsetEnd": 82,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 216,
+      "offsetEnd": 225,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 605,
+      "offsetEnd": 614,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 748,
+      "offsetEnd": 757,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 1076,
+      "offsetEnd": 1098,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1212,
+      "offsetEnd": 1221,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1427,
+      "offsetEnd": 1436,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1628,
+      "offsetEnd": 1637,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "References: Anterior-Posterior and Dorsal-Ventral Axis\nEstablishment in Drosophila)\nLectures: Howard Lipshitz\nJuly 14 and July 15, 1988\nA: General:\n.*Akam, M. (1987) The molecular basis for metametric pattern in\nthe Drosophila embryo.\nDev. 101, 1-22\n*Sander, K. (1984) Embryonic pattern formation in insects;\nbasic concepts and their experimental foundations.\nIn: Pattern formation, A primer in developmental biology.\n(Malacinski, G. and Bryant, S., eds). Macmillan Pub. Co.\nB: Anterior-Posterior Axis:\n*Nusslein-Volhard, C., Frohnhofer, H., Lehmann (1987) Determination\nof anterior posterior polarity in Drosophila\nScience 238, 1675-1681\nSchupbach, T., Wieschaus, E. (1986) Maternal effect mutations\naltering the anterior-posterior pattern of the Drosophila embryo.\nRoux's Arch. Dev. Biol. 195, 302-317\nNusslein-Volhard, C. (1977) Genetic Analysis of pattern formation\nin the embryo ofDrosophila melanogaster: characterization of\nthe maternal-effect mutant bicaudal.\nRoux's Arch. Dev. Biol. 182, 249-268\nMohler, J., Wieschaus, E. (1986) Dominant maternal-effect mutations\nof Drosophila melanogaster causing the production of double-abdomen\nembryos.\nGenetics 112, 803-822\nLohs-Schardin, M. (1982) Dicephalic - a Drosophila mutant affecting\npolarity in follicle cell organization and embryonic pattering.\nRoux's Arch. Dev. Biol. 191, 28-36\nFrohnhofer, H., Nusslein-Volhard, C. (1986) Organization of the\nanterior pattern in the Drosophila embryo by the maternal gene\nbicoid.\nNature 114, 120-125\nFronhhofer, H., Nusslein-Volhard, C. (1987) Maternal genes required for\nthe anterior localization of bicoid activity in the embryo of Drosophila\nGenes Dev. 1, 880-890.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Drosophila melanogaster",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Brachycera|Muscomorpha|Eremoneura|Cyclorrhapha|Schizophora|Acalyptratae|Ephydroidea|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophiliti|Drosophila|Sophophora|||Drosophila melanogaster",
+          "classification_path_ranks": "|superkingdom||kingdom|||||||phylum|||superclass|class|||subclass|infraclass|order|suborder|infraorder|||||superfamily|family|subfamily|tribe|subtribe||genus|subgenus|species group|species subgroup|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7147|7203|43733|480118|480117|43738|43741|43746|7214|43845|46877|46879|186285|7215|32341|32346|32351|7227",
+          "taxon_id": "7227",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39022287",
+          "local_id": "733739",
+          "url": "http://eol.org/pages/733739",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 22,
+      "in_curated_sources": true
+    }
+  ]
+}

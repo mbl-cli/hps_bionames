@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=isicMqPJSjifNPLUttWS9w",
+  "input_url": null,
+  "file": "Embryology 1988_ 151.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.163057104,
+    "total_duration": 20.62278062
+  },
+  "agent": "",
+  "created": "2013-06-18T13:13:06-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "MICROINJECTION OF UNFERTILIZED S. PURPURATUS SEA URCHIN EGGS\nGENERAL DESCRIPTION: Dejellied sea urchin eggs are fixed to protamine sulfate\ncoated, plastic petri dishes and injected using a continuously flowing, glass\nmicropipette. Eggs are fertilized in situ. Details of the protocol are given\nbelow.\nEGG Female sea urchins are injected with about 1 ml of 0.5 KCI\nand shed eggs collected in a beaker filled with millipore filtered sea water\nAll manipulations of the eggs are carried out in Once\nthe eggs have settled under gravity, they are washed twice through gauze (Type\nVII, Kendall Co.) to remove adhering matter, then dejellied by swirling in pH\n5.0 for 4 min. The pH 5.0 is neutralized by the addition of 14\ndrops of 1M Tris pH 8.0 from a long-form pasteur pipette per 50 ml. The eggs\nare allowed to settle and the water changed. An aliquot of the dejellied eggs\n(eggs should lie close together if jelly coat has been successfully removed)\nis then placed in 4 ml of in a siliconized, embryological watch-\nglass.\nSPERM COLLECTION: Male sea urchins are injected with about 1 ml of 0.5 \nKCI. The concentrated sperm is collected using a long-form pasteur pipette\nand is kept at One drop of the ejaculate is mixed with 10 ml of \nand this concentrated solution used for subsequent fertilization. The\nsperm in this solution generally remain viable over the period of injection.\nPROTAMINE PLATE 60 mm, \"Falcon\" plastic petri-dish lids are\nfilled and treated for 1 min with a 1% protamine sulfate solution. The timing\nis critical: Too short a period and the eggs stick poorly, too long and the\neggs are unable to undergo normal elevation of the vitelline membrane on\nfertilization. The hardened fertilization membrane restricts subsequent\ncleavage.\nFollowing protamine coating, dishes are washed with distilled water to\nremove unadhered protamine sulfate solution, and air dried. Inefficient\nwashing of the dishes will result in the protamine in solution precipitating\nnegatively charged molecules DNA) at the needle tip. The protamine\nsulfate solution may be reused several times, if kept in the refrigerator.\nMICROINJECTION NEEDLE PREPARATION: Needles for microinjection are prepared\nfrom 1.0 mm outside diameter, 0.75 mm inside diameter, borosilicate, omega dot\n(Q) glass supplied by Frederick Haer and Co., Brunswick, Maine (No. 30-30-\n0). It is essential that the glass is thoroughly cleaned by placing in a hot,\n35% nitric acid solution for 1 hr, washing through several times with\ndistilled, water, and finally distilled. water filtered 0.2 mn through. a\n\"Gelman\" filter. Cleaned glass is placed in a screw-cap test tube and dried\nin an oven. Fine-tipped micro injection needles are pulled on a Brown-Flaming\nmicropipette puller and just prior to injection, are brushed up against a\n\"breaking pipette\" (see below) to open the tip to a diameter of ~0.4-0.9 um.\nPREPARATION GLASS PIPETTES FOR EGG TRANSFER AND FILLING INOECTION\nPIPETTES: Long-form pasteur pipettes are drawn-out in a bunsen flame and\nbroken off at the end with a gloved-hand. Pulled pipettes are siliconized by\ndrawing up a solution of 1% \"Prosil\" and then 0.2 Lm filtered distilled H20 to\nrinse. They are dried in a 110? oven.\n\n"
+}

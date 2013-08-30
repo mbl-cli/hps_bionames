@@ -1,0 +1,195 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=h7bhyGlcRQqq1fNfh7wVkA",
+  "input_url": null,
+  "file": "58_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.177963179,
+    "resolve_names_duration": 0.764752582,
+    "total_duration": 28.804596935
+  },
+  "agent": "",
+  "created": "2013-06-18T12:37:53-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Arbacia.",
+      "scientificName": "Arbacia",
+      "offsetStart": 584,
+      "offsetEnd": 591,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Qipleurula",
+      "scientificName": "Qipleurula",
+      "offsetStart": 1580,
+      "offsetEnd": 1589,
+      "identifiedName": "Qipleurula"
+    },
+    {
+      "verbatim": "Echinoidea,",
+      "scientificName": "Echinoidea",
+      "offsetStart": 2086,
+      "offsetEnd": 2096,
+      "identifiedName": "Echinoidea"
+    },
+    {
+      "verbatim": "Ophiuroidea",
+      "scientificName": "Ophiuroidea",
+      "offsetStart": 2098,
+      "offsetEnd": 2108,
+      "identifiedName": "Ophiuroidea"
+    },
+    {
+      "verbatim": "HoloThoidea",
+      "scientificName": "HoloThoidea",
+      "offsetStart": 2114,
+      "offsetEnd": 2124,
+      "identifiedName": "HoloThoidea"
+    },
+    {
+      "verbatim": "Arbacia.",
+      "scientificName": "Arbacia",
+      "offsetStart": 2404,
+      "offsetEnd": 2411,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "..8..\nBlasTula:\nEvenTually (lO~l2 hours posT TerTilizaTion) The cells arrange Themselves\nas an epiThelial wall enclosing The blasTocoele. The surface cells acquire cilia,\nand The blasTula roTaTes wiThin The viTeliine membrane. The Two polar bodies are\nsTill visible, eiTher aTTached To The animal pole, or deTached from The embryo. The\nembryo haTches in The late blasTula sTage. NoTe ThaT The cells aT The vegeTal\npole are Thicker Than Those aT The animal pole. NoTe also ThaT There is no\n\"ingression\" of cells aT The vegeTal pole, There being no primary \ncomparable To ThaT found in Arbacia. Mesoderm formaTion in sTarfishes occurs afTer\ngasTrulaTion, ie., afTer formaTion of The archenTeron.\nGasTrula:\nEarly gasTrula: The vegeTal pole area Thickens and flaTTens and invaginaTion\nbegins. The blasTopore is desTined To become The anus. The larva elongaTes along\nThe animal-vegeTal axis. NoTe The large space beTween The archenTeron and The\nouTer wall of The gasTrula.\nMiddle and laTe  ooi gasTrula becomes pear~shaped ca 20 hours afTer\nferTilizaTion. The blind inner end of The archenTeron becomes Thin-walled and ex~\npands. From This end cells wander ouT inTo The blasTocoele. ln a\nlaTer sTage, Two ouTpockeTings of The disTal end become disTincT, The\nprimordia of The coelomic sacs. AT The same Time, The archenTeron bends Towards\none side which is The fuTure venTral side. This is The firsT sign of The change\nof radial inTo bilaTeral symmeTry. NoTe The ciliaTion in The archenTeron, and\nThaT The archenTeron exTends only abouT halfway Trom The vegeTal Toward The\nanimal Pole.\nQipleurula Larva:\n1 TransiTion To Dipleurula>>larva: The blind end of The archenTeron bends sharply\nTowards The venTral body wall, makes conTacT wiTh an ecTodermal depression, The\nsTomodaeum, and The mouTh breaks Through. The Two coelomic vesicles have been\nconsTricTed off from The archenTeron. The leTT one is larger from early sTages on.\nlT forms a Tubular ouTgrowTh To The dorsal body wall which opens To The ouTside.\nThis is The pore-canal.\nlarva represenTs an\nearly larval Type common To AsTeroidia, Echinoidea, Ophiuroidea and HoloThoidea\n(see KorschelT, vol. l, p. 499, or Bell, l948). STudy a venTral, dorsal\nand laTeral (preferably lefT) view.\nObserve The following; -\nShape of larva. NoTice convexiTy of venTral side and mouTh opening underneaTh\nThe overhanging oral lobe. Compare wiTh The TlaTTened oral lobe of Arbacia.\nLocomQTion: WhaT parT of The larva is direcTed forward in swimming?\nCiliaTion. Small cilia cover The enTire surface. The ciliary band is aT firsT con-\nTinuous, a longiTudinal band wiTh Two cross bars. The longiTudinal band above The\nupper cross bar loops Towards The midline. EvenTua|ly The loops meeT in The mid-\nline, and a fronTal field, The pre;oral ciliary band is separaTed in The upper\nvenTral parT of The larva, overhanging The oral field. This separaTe fronTal field\nis characTerisTic of AsTeroid larvae. Observe carefully The course of The enfire\nlongiTudinal hand. Observe The beaT of The cilia in dark field illuminaTion.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Qipleurula"
+    },
+    {
+      "supplied_name_string": "Echinoidea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "79466e27-3a49-568d-b979-fb1ff50b5bb4",
+          "name_string": "Echinoidea",
+          "canonical_form": "Echinoidea",
+          "classification_path": "Animalia|Echinodermata|Echinoidea",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2362508|2362536",
+          "taxon_id": "2362536",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "79466e27-3a49-568d-b979-fb1ff50b5bb4",
+          "name_string": "Echinoidea",
+          "canonical_form": "Echinoidea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103231",
+          "local_id": "1971",
+          "url": "http://eol.org/pages/1971",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ophiuroidea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "26383d5a-f518-590e-af34-44afe34da95a",
+          "name_string": "Ophiuroidea",
+          "canonical_form": "Ophiuroidea",
+          "classification_path": "Animalia|Echinodermata|Ophiuroidea",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2362508|2363627",
+          "taxon_id": "2363627",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "26383d5a-f518-590e-af34-44afe34da95a",
+          "name_string": "Ophiuroidea",
+          "canonical_form": "Ophiuroidea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103079",
+          "local_id": "2036",
+          "url": "http://eol.org/pages/2036",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "HoloThoidea"
+    }
+  ]
+}

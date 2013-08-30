@@ -1,0 +1,175 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=vl21i8xPSUiYJC9ZwRLM8A",
+  "input_url": null,
+  "file": "Embryology 1988_ 6.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.137557713,
+    "resolve_names_duration": 0.981458796,
+    "total_duration": 27.14052888
+  },
+  "agent": "",
+  "created": "2013-06-18T13:22:58-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 184,
+      "offsetEnd": 194,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Alicia",
+      "scientificName": "Alicia",
+      "offsetStart": 251,
+      "offsetEnd": 256,
+      "identifiedName": "Alicia"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 459,
+      "offsetEnd": 469,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Patricia",
+      "scientificName": "Patricia",
+      "offsetStart": 2340,
+      "offsetEnd": 2347,
+      "identifiedName": "Patricia"
+    }
+  ],
+  "content": "HANLEY, Jeanene\nGraduate student (since 1986) at University of Oklahoma in the Department of\nBiochemistry and Molecular Biology. Working on the gene regulation of a\nretinal protein in Drosophila. Recommended by Robert Broyles and Sara Tobin.\nHIDALGO, Alicia\nA Spanish national studying (since 1986) for a degree with the\nDevelopmental Biology Unit of the Imperial Cancer Research Fund at Oxford\nUniversity. Working with the segment polarity gene \"patched\" in Drosophila.\nAdvisor: P.W. Ingham. \nJARZEM, Jacquelyn (Jackie)\nA senior graduate student at the University of Texas (Austin) with Antone\nJacobson with whom she is finishing a thesis (for June of an\nultrastructural study (SEM) of the origin of the pronephric duct in chick\nembryos. Highly recommended by Jacobson and Matt Winkler.\nKELLY, Christopher\nA graduate student since 1987 of the Committe on Evolutionary Biology at the\nUniversity of Chicago. Is interested in the developmental aspects of\nevolution and wants to do a research thesis in that area. Recommended by\nDavid Jablonski and Michael LaBarbera. It was felt that he would add\ninteresting diversity to the student group.\nLANE, Mary\nA student at University of Iowa (since 1982) in laboratory of Michael Solursh\nwhere she has ben working on cell~matrix interactions during cell migration in\nthe sea urchin embryo. \nMATRANGA, Valeria\nDr. Matranga is a junior faculty member in the Department of Cellular and\nDevelopmental Biology at the University of Palermo (Sicily). She is \"The\nAlberto Monroy Fellow\" to the Embryology Course with funds provided by several\nItalian foundations to encourage Italian students to study embryology at the\nMBL. Highly recom ended by Giovanni Guidice in whose Department she works.\nMAYOR, Roberto\nA student in the cell biology program at the University of Chile in\nSantiago since 1986. At present works with cytoskeleton in mouse embryos but\nwished to learn about other developmental systems. Recommended by William\nJeffery and Joseph Sanger who taught him in a short workshop (the Cytoskeleton\nand Developmental BiolOgY) in Santiago.\nPECULIS, Brenda\nA second year graduate student at Johns Hopkins, who will be doing her thesis\nwork with Joe Gall at the Carnegie Lab. Interested in gene control problems\nin development; most of her previous background has been in molecular biology.\nPESAVENTO, Patricia \nSecond year graduate student at Harvard in the laboratory of Larry Goldstein.\nWill be doing a thesis on microtubule associated proteins and the role of the\ncytoskeleton in development. \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Alicia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "abc7df5e-4d7c-5387-8825-e28750cec686",
+          "name_string": "Alicia",
+          "canonical_form": "Alicia",
+          "classification_path": "Animalia|Cnidaria|Anthozoa|Actiniaria|Aliciidae|Alicia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363436|2363573|2363609|2435614",
+          "taxon_id": "2435614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "abc7df5e-4d7c-5387-8825-e28750cec686",
+          "name_string": "Alicia",
+          "canonical_form": "Alicia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "41341560",
+          "local_id": "10066",
+          "url": "http://eol.org/pages/10066",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Patricia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "aadb5dc0-039a-5c89-bda8-8f8fb116b335",
+          "name_string": "Patricia",
+          "canonical_form": "Patricia",
+          "classification_path": "Animalia|Arthropoda|Insecta|Lepidoptera|Lepidoptera|Nymphalidae|Patricia",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362873|2362896|2364641|2382296",
+          "taxon_id": "2382296",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "aadb5dc0-039a-5c89-bda8-8f8fb116b335",
+          "name_string": "Patricia",
+          "canonical_form": "Patricia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29094224",
+          "local_id": "19014",
+          "url": "http://eol.org/pages/19014",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    }
+  ]
+}

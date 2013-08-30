@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=gIwr2B9qQXi9AIDc29T21A",
+  "input_url": null,
+  "file": "Embryology 1988_ 98.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.110033236,
+    "total_duration": 21.279241624
+  },
+  "agent": "",
+  "created": "2013-06-18T13:30:33-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Niisslein-Volhard,\n\n57. \n$25\n\nin \nar 3\nlluld Ill!\nC. (1987) mag 238, 1675-1681.\nTable 1: Internal genes affecting the anteropoaterior pattern of the\ncuss asus\nINDI\nAITERIOB oicoid (bed)\nexupersntia (exu)\n[1 swallow (sus)\n  >>1?>>uus1 (uc)\nllcaudal'D (dlob)\nllcaudal?C (BlcC)\nGB \nosksr (oak)\nvass (vas)\ntudor (tud)\nstaufen (stau)\nI valols (val)\nnanos (nos)\nPUIXIXO (pul)?\nTERMINAL torso (tor)\ntrunk (trk)\n\ntorsollke (tsl)\nfs(1) polehole (fs(1)ph)\nfs(1) lasrat (fs(l)N)\ni .\n\nMAP PHEIOTYPE\n\nIll deletion of head and\nthorax, ecron - telson\nSTE\nweak anterior deletions\nSE\nsen: \n1 large anterior deletion\n36C and duplication of\n1 posterior abdoaen and\ntelson\nass \nSSC deletion of abdoaen\n(excluding telson)\nSTB-D and pole plasa\n\n\n92A deletion of aodoaen,\npole plasa present\nBSC \nl3E \n31|-c\ndeletion of acron\n932 and telson\nSCD\n218\n\neaor1o?\nIEHIIKS\nlocalized activity\nat anterior pole \naffect hgd* localization\nlov \nanterior dopllcatlon of\nposterior activity\nrecessive feasle sterile\nlocalisation of posterior\nactivity in posterior pole\nplesa\nalso\nanterior defect\nI\nlocalised activity?\nalgnal transaission?\nalso feaale\nsterile alleles\n\n\n"
+}

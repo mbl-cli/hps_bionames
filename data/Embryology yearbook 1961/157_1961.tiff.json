@@ -1,0 +1,94 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=SBNhyp8BRzG8s7AwtHUoFg",
+  "input_url": null,
+  "file": "157_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.170614196,
+    "resolve_names_duration": 0.670369254,
+    "total_duration": 28.208948931
+  },
+  "agent": "",
+  "created": "2013-06-18T12:16:00-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Ophiurcias",
+      "scientificName": "Ophiurcias",
+      "offsetStart": 590,
+      "offsetEnd": 599,
+      "identifiedName": "Ophiurcias"
+    },
+    {
+      "verbatim": "PLUTEUS",
+      "scientificName": "Pluteus",
+      "offsetStart": 1315,
+      "offsetEnd": 1321,
+      "identifiedName": "Pluteus"
+    }
+  ],
+  "content": "\n-11- \n\nLarge, heavily yclkea eggs typically gastrulate by epibtly, furm\na schizccuelcus bccy cavity, sevelcp eirectly er with mere sr less abridged larval\nphase, and tend tc be vivi>>arcus. Hy contrast, small eggs typically\ngastxulate by invaginaticn, form an body cavity, develop. insirectly\nvia more or less pretreated larval phases, ana tend tc be oviperbus. Only Eehinoids\nare preccminautly incirect developers. In all ether grcups, one cevelupmental type\nis as \"typical\" as the other. Mcreover, beautifully graded series cf intermediate\ntypes can be uistinguished, particularly among Ophiurcias. Indirect, larval de~\nvelcpment is almost certainly primitive.\nThe first three types of larvae described below uevelcp from the gastrula in\nroughly the same manner. The becsmes the a mcuth breaks thruugh\nseparately, and the ciliaticn of the bastula disappears, except for a continuous\nrectangular band cn the presmuptive ventral side, where the cilia become longer and\nstronger. This band, growing acre rapicly than the rest of the ectcderm, becomes\ninto so prcducing larval arms. The manner of growth, relative size,\nana the arrangement of the arms is characteristic fur each echinoderm\nclass, so that several larval types can be Qistinguished.\n\n\n\n\"early larva\"\nv' 1 \n\nif-frpluteus   \n\n'nk auricularia\nbipinnaria\nPLUTEUS \nCharacteristic cf some of the Ophiurcias ane all Echincias. The post~\nanal pcrticn of the \"early larva\" (described above) beccmes elcngated and cenical,\nand the ciliatec bend cn the ventral side comes tu burcer 2 to 8 larval arms, the\nnumber deyending un the age of the larva. The arms are supported by internal\ncalcarecus rods. In Ophiurciae, in different species has been shawn\nto uccur at different larval stages. forms late, 8-armed.\nlarvae being common. Large-egged farms early, ane 2-armed cr even\nno-armee larvae are In the extreme, there is ne larval pericc at all, and\nright after gastrulaticn. These extremely large-eggec furme\nare \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ophiurcias",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Pluteus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5bf70207-60e8-56ac-83cd-1aa08380655f",
+          "name_string": "Pluteus",
+          "canonical_form": "Pluteus",
+          "classification_path": "Fungi|Basidiomycota|Agaricomycetes|Agaricales|Pluteaceae|Pluteus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2365755|2365756|2365764|2365800|2365880|2385494",
+          "taxon_id": "2385494",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5bf70207-60e8-56ac-83cd-1aa08380655f",
+          "name_string": "Pluteus",
+          "canonical_form": "Pluteus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27894468",
+          "local_id": "16481",
+          "url": "http://eol.org/pages/16481",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=QUKwjxrTRjChW5w0PEmsvA",
+  "input_url": null,
+  "file": "Embryology 1988_ 52.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.186143332,
+    "resolve_names_duration": 0.439757676,
+    "total_duration": 25.477931885
+  },
+  "agent": "",
+  "created": "2013-06-18T13:21:30-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Hydractinia",
+      "scientificName": "Hydractinia",
+      "offsetStart": 59,
+      "offsetEnd": 69,
+      "identifiedName": "Hydractinia"
+    }
+  ],
+  "content": " \nInstructions -or ritz dycrattxnia ~cn;nata\nThe cnidarian Hydractinia is frequently found on the shells of small hermit\ncrabs. This animal exists as a colony which is composed of three kinds of individuals:\n1) feeding polyps, 2) stinging polyps and 3) reproductive polyps. The sexes are\nseparate in Hvdractinia; some colonies are male while others are female. Ripe\nfemales can be distinguished because the reproductive individuals have gonophores\nwith large opaque eggs while the males have \nGametes are obtained from these animals by spawnings. The timing of spawning\nis controlled by the light cycle. Normally the animals are maintained in a lab with\nthe light on at all times. Animals are prepared for spawning by putting them in the\ndark for 3-A hours. Spawning takes place about one hour after subsequent re-exposure\nto light. Generally the males and females are maintained in separate bowls and the\neggs are fertilized at will by adding or 2 drops of seawater from a male bowl to a\nculture of eggs. In oocytes the germinal vesicle breaks down soon after exposure to\nlight, the meiotic reduction divisions occur just before spawning.\nSpawned eggs are covered with a jelly coat which swells on exposure to sea water.\nFertilization of these eggs takes place at the site of polar body formation. The\negg produces a chemoatractant which causes the sperm to swim toward it. The first\ncleavage begins about one hour after fertilization. Cleavage is unipolar. Over the\nnext two days this embryo will transform into a ciliated non-feeding planula larva.\nThis larvae is radially sylnetrical. It has an ectodermal and an endodermal cell\nlayer. There are several cell tgnes in both tissue layers. After a larval period which\ncan be as short as two days the larvae settles and undergoes metamorphosis. During\nthe process of metamorphosis the larvae attaches at its anterior end and its posterior\nend transforms into the hydranth of the polyp.\ni \n4* \n4\n.\nLaboratory directionsj 4\n\nl) Watch the process of sperm chemotaxis and fertilization:\nCoat a siliclad treated slide with albumin. The albumin prevents the sperm from\nsticking to the slide and allows the sea water to form a large flat drop. Place or\n2 eggs in the drop, Find the eggs using your 10x objective (use dark feild illumination\nor stop your condensor down). Add sperm some distance from the eg; so that their\naeproach to the egg and subsequent behavior can be observed. (Note: you oi ht rant\nto an unfertilized een in dal? so that one half has the site of polar body formation\nand one half does not, and examine sperm behavior around each half.)\nZ)Mark parts of the early embryo so that the presumptive fate of different regions\ncan be traced:\nEarly embryos can be marked with a 1% solution of the dye nile blue which has\nbeen imobilized in agar in a micropipette. Nile blue A is made up as a 1% solution\nin distilled water. Agar is added and the solution is heated to dissolve the aiar.\nEnough agar is used anywhere between 2 and a lOl solution) so that when the solution\ncools gel will form. A short piece of capillary tueinj is partly filled by im# rein\"\none end in a hot solution of agar. When tke agar has cooled, the part of the :nba\nwhich has no aiar is heated with a microflame and pulled out to the desired hors. Tb?\nother and of the tube is then sealed off and the fieroflahe applied to the part o' \nr- rw\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Hydractinia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Hydractiniidae|Hydractinia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366629|2381288",
+          "taxon_id": "2381288",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327897",
+          "local_id": "23448",
+          "url": "http://eol.org/pages/23448",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    }
+  ]
+}

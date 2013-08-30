@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=73gm1NtVSi2gVPyxEwNHrw",
+  "input_url": null,
+  "file": "Embryology 1988_ 141.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.101887641,
+    "total_duration": 22.344483701
+  },
+  "agent": "",
+  "created": "2013-06-18T13:11:16-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "a\nI\ndel\n183\narI 235\n 911 245 indux 399\nPVLII 276 'phI 405\n\n all 417\nbaI 423\n- 445239\n4461 hal 459\ncoRI 501\nXIHDI 4133 -  \nscar 4021  ufllgee 565\n  Su: 594\n  LacZ \n\n\nTK \nBglI 3657   AMP\nig 5% coRI 888\n\nCAT\n4 1 1 \n4530 bP    31201115389\ncal 1303\n\n40Af1111 2650  \"4   \n\n2288 4 2136\n2288 i\nKpnI 2282 \nSmal 2278\nAval 2278\nClaI 2271\n\n"
+}

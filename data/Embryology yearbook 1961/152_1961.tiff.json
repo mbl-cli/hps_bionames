@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=S2hWDB9VSwqmvVlO1qBs7w",
+  "input_url": null,
+  "file": "152_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.171190498,
+    "resolve_names_duration": 0.550933053,
+    "total_duration": 27.60332282
+  },
+  "agent": "",
+  "created": "2013-06-18T12:14:37-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Pilidium",
+      "scientificName": "Pilidium",
+      "offsetStart": 1754,
+      "offsetEnd": 1761,
+      "identifiedName": "Pilidium"
+    }
+  ],
+  "content": "\ndiversity of coelenterates, and it probably also represents the starting point\nof flatworm evolution.\nLatvian\nMULLER LARVA\nOnly one order among free-living flatwor s, the polyclads, are fully marine;\nand only the polyclads feature indirect, larval development. In all other\norders development is direct. Moreover, the direct developers start from\n\"ectolecithal\" eggs, they do not possess yolk inside them but are\nsurrounded by yolky nurse cells inside the egg shell. Thus the food supply is\nrelatively large, and development can be direct. On the other hand, the polyclads\nhave \"endolecithal\" eggs, where (some) yolk is within the egg cytoplasm. Here\ndevelopment includes a free-swimming larval phase, the so-called Mu1ler's larva.\nThis larva could well have been derived from a planula. A third germ layer\nis represented by cells between ectoderm and endoderm. As in\ncoelenterates, a single gastral opening forms in Muller's larva and this opening\ncomes to be situated ventrally. It is surrounded by a fold of tissue, which will\ncontribute to the formation of an eversible pharynx in the adult. The gastral\nopening leads into the gastral cavity, which in older larvae becomes branched\nincreasingly, foreshadowing the adult condition. Externally, 2 to 12 spots\n(depending on the age of the larva) are situated anteriorly .'puThe most characteristic feature of Muller's larva is the presence of 8\npreoral ectodermal folds or arms, their margins lined with a continuous ciliated\nband, (in the diagram, the lobe is not shown -- it is situated dorsally)\nThese folds serve a function.\nMetamorphosis is gradual, involving a resorption of the ciliated folds and\na lengthening and flattening of the larva.\nIn certain features, Muller's la va resembles both the Pilidium of the\nnemertines and the Trochophore of annelids. as an exercise in speculative biology\ntry to estimate which of these resemblanoes might be fortuitous, indica~\ntive of parallel evolution, indicative of close ancestral relationships.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Pilidium",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "90c47fcb-71c9-56ee-8bea-22210347e4fe",
+          "name_string": "Pilidium",
+          "canonical_form": "Pilidium",
+          "classification_path": "Fungi|Ascomycota|Leotiomycetes|Helotiales|Not assigned|Pilidium",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2365755|2365760|2365790|2365791|2366076|2490177",
+          "taxon_id": "2490177",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "90c47fcb-71c9-56ee-8bea-22210347e4fe",
+          "name_string": "Pilidium",
+          "canonical_form": "Pilidium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28961688",
+          "local_id": "19004",
+          "url": "http://eol.org/pages/19004",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    }
+  ]
+}

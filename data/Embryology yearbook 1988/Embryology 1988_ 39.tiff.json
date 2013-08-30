@@ -1,0 +1,143 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Q3Vsa2HhTTaEIRrsgX38HQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 39.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.222061866,
+    "resolve_names_duration": 1.419699769,
+    "total_duration": 24.532681975
+  },
+  "agent": "",
+  "created": "2013-06-18T13:18:35-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 373,
+      "offsetEnd": 382,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1355,
+      "offsetEnd": 1365,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila chorion",
+      "scientificName": "Drosophila chorion",
+      "offsetStart": 1801,
+      "offsetEnd": 1818,
+      "identifiedName": "Drosophila chorion"
+    },
+    {
+      "verbatim": "Drosophila chorion",
+      "scientificName": "Drosophila chorion",
+      "offsetStart": 2107,
+      "offsetEnd": 2124,
+      "identifiedName": "Drosophila chorion"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 2315,
+      "offsetEnd": 2325,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "154. Kafatos, F.C., S.A. Mitsialis, H.T. Nguyen, N.\nSpoerel, S.G. Tsitilou and G.D. Mazur (1987). Evolution of\nStructural Genes and Regulatory Elements for the Insect Chorion.\nIn: Development as an Evolutionary Process, R. Raff and E.C.\nRaff, eds. (Alan R. Liss, New York). 8, 161-178.\n155. Delidakis, C. and F.C. Kafatos (1987). Amplification\nof a chorion gene cluster in Drosophila is subject to multiple\npig-regulatory elements and to long range position effects. J.\nMolec. Biol. 121, 11-26.\n156. Louis, C., C. Savakis, F.C. Kafatos (1987). Possibili-\nties for genetic engineering in insects of economic interest.\nIn: Fruitflies--Proceedings of the Second International\nSymposium. (ed. A.P. Economopoulos) Elsevier, Amsterdam. pp.47-\n57.\n157. Spoerel, N.A. and F.C. Kafatos (1987). Identification\nof genomic sequences corresponding to clones. In: Methods\nin Enzymology. Guide to Molecular Cloning Techniques. (S.L.\nBerger and A.R. Kimmel, eds.). 152, 588-597.\n158. Spoerel, N.A. and F.C. Kafatos (1987). Isolation of\nfull length genes: Walking the chromosome. In: Methods ip\nEnzymology. Guide to Molecular Cloning Techniques. (S.L. Berger\nand A.R. Kimmel, eds.). 152, 598-603.\n159. Mitsialis, S.A., N. Spoerel, M. Leviten and F.C.\nKafatos (1987). A short defined DNA region is sufficient for\ndevelopmentally correct expression of moth chorion genes in\nDrosophila. Proc. Natl. Acad. Sci., USA. 83, 7987-7991.\n160. Kafatos, F.C., N. Spoerel, S.A. Mitsialis, H.T.\nNguyen, C. Romano, J.R. Lingappa, B.D. Mariani, G.C. Rodakis, R.\nLecanidou and S.G. Tsitilou (1987). Developmental control and\nevolution in the chorion gene families of insects. In: Advances\nip Genetics. (J.G. Scandalios, ed.) gg, pp.223-242.\n161. Romano, C.P., B. Bienz-Tadmor, B.D. Mariani and F.C.\nKafatos (1987). Both early and late Drosophila chorion gene\npromoters confer correct temporal, tissue and sex specificity on\na reporter Adh gene. EMBO 1, 783-790.\n162. Mariani, B.D., J.R. Lingappa and F.C. Kafatos (1988).\nTemporal regulation in development: Negative and positive pip-\nregulators dictate the precise timing of expression of a\nDrosophila chorion gene. Proc. Natl. Acad. Sci., USA 85, 3029-\n3033.\n163. Loukas, M. and F.C. Kafatos (1988). Chromosomal\nlocations of actin genes are conserved between the melanogaster\nand obscura groups of Drosophila. Genetica li, 33-41.\n15\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Drosophila chorion",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Fungi|Basidiomycota|Agaricomycetes|Agaricales|Psathyrellaceae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2365755|2365756|2365764|2365800|2365865|2385456",
+          "taxon_id": "2385456",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "96449a84-7e87-5f58-b19a-a9cb93463875",
+          "name_string": "Drosophila Haldanei Buzzati-Traverso, 1940",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_8807435",
+          "local_id": "768972",
+          "url": "http://eol.org/pages/768972/names/synonyms",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

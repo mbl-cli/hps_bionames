@@ -1,0 +1,239 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=J9TOdC2RQXuNyjNyvdij0Q",
+  "input_url": null,
+  "file": "101_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.20964863,
+    "resolve_names_duration": 1.127572377,
+    "total_duration": 27.457392761
+  },
+  "agent": "",
+  "created": "2013-06-18T11:26:38-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Campanularia",
+      "scientificName": "Campanularia",
+      "offsetStart": 526,
+      "offsetEnd": 537,
+      "identifiedName": "Campanularia"
+    },
+    {
+      "verbatim": "Camganularia",
+      "scientificName": "Camganularia",
+      "offsetStart": 1375,
+      "offsetEnd": 1386,
+      "identifiedName": "Camganularia"
+    },
+    {
+      "verbatim": "Obelia,",
+      "scientificName": "Obelia",
+      "offsetStart": 1462,
+      "offsetEnd": 1468,
+      "identifiedName": "Obelia"
+    },
+    {
+      "verbatim": "LiTTorina",
+      "scientificName": "LiTTorina",
+      "offsetStart": 2183,
+      "offsetEnd": 2191,
+      "identifiedName": "LiTTorina"
+    },
+    {
+      "verbatim": "LiTTorina",
+      "scientificName": "LiTTorina",
+      "offsetStart": 2244,
+      "offsetEnd": 2252,
+      "identifiedName": "LiTTorina"
+    },
+    {
+      "verbatim": "Pagurus.",
+      "scientificName": "Pagurus",
+      "offsetStart": 2303,
+      "offsetEnd": 2310,
+      "identifiedName": "Pagurus"
+    }
+  ],
+  "content": "\nSelecT from a \"female\" colony a ganangium showing eggs in The basal gonophores\nMounT iT on a slide, sTudy under various magnificaTions of The compound microscope,\nand skeTch iT.\nSelecT and skeTch anoTher gonangium wiTh planulae showing near The Tip.\nSqueeze or open The gonoTheca wiTh needles and |iberaTe The planulae. NoTice\nTheir ciliaTed ecToderm and waTch Their movemenTs. lf The planulae are well\nmafured They are Two or Three Times longer Than broad. They show maggoT-like move~\nmenTs even while wiThin The gonoTheca.\nCampanularia is very favorable for The sTudy of planula mefamorphosis. a\nfew mafure planulae aside in sea waTer (noT more Than 2 or 3 To a waTch glass) and\ncover Them. They should aTTach To The glass in 4 To lO hpurs. Each should Then\nopen a mouTh, bud ouT TenTacles, secreTe parisarc, and become a fully formed indi-\nvidual polyp in Two or Three days. When The planulae have aTTabhed, The waTer\nshould be changed in The dish aj leasf Twice 6 day! SkeTch several sTages of\naTTachmenT and meTamorphosis.\nThe gonangia of \"male\" colonies are similar in form To The female. The gono-\nphores, when mafure, are rounded and have a Thin milky-gray color. The sperm\nbecome acTive when They are discharged inTo conTacT wiTh sea waTer, as may be seen\nby crushing a male gonophore under a cover slip while waTching iT under The\nmicroscope.\nFor illusTraTions of Camganularia developmenT (gonophores) see GoeTTe, '07\n?onoThyraea (July, AugusT)\nAs in Obelia, The medusae develop wiThin The gonofheca. When maTure, insTead\nof swi ming away They remain aTTached To The end of The blasTosTyle, projecTing\nouTside The gonoTheca in groups of Three or four, like Toy baloons. WiThin The\nbells of The medusae The eggs of \"female\" colonies are ferTilized by The sperm shed\nby \"male\" colonies. The zygoTes develop To The planula sTage before being seT\nfree, afTer which The medusae drop off.\nSkeTch planulae in various sTages of developmenT in The projecTing aTTached\nmedusae of The ripe \"female\" colony. (WulferT, \nGonoThyraea cleavage illusTraTed in WulferT, medusa developmenT in GoeTTe\nSee also TexTs of Hyman, '40 and KorscheIT, '36.\nHydracTinia (June, July, AugusT. Found on LiTTorina shells)\nColonies of This form are fairly common on LiTTorina snail shells inhabiTed\nby The small hermif crab, Pagurus. There are Three Types of individuals in The\nfully developed colony: ordinary polyps (Trophozooids), Threadlike coiling forms\nwiTh no mouTh and an apical knob of (dacTylozooids, commonesT found\naround The lip of The shell), and gonozooids. The Three Types all arise from a\nhydrorhiza neTwork covering a rusT-red, spine-sTudded crusT.\na) Gonozooids and Gonophorgg\nThe gonozooids or reproducTive individuals are usually wiThouT Tenfacles and\nhave a large knob of on The proboscis lmanubriuml; each bears a number\nof gonophores, which are medusa buds reduced To The sTaTe of sporosacs. Ripe QMale\"\nand \"Female\" colonies can be disfinguished wiTh The naked eye, since The eggs\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Campanularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5f0cb974-421f-5535-b9b8-d3b77b010c22",
+          "name_string": "Campanularia",
+          "canonical_form": "Campanularia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Leptothecata|Campanulariidae|Campanularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363465|2366699|2381260",
+          "taxon_id": "2381260",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5f0cb974-421f-5535-b9b8-d3b77b010c22",
+          "name_string": "Campanularia",
+          "canonical_form": "Campanularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327578",
+          "local_id": "18219",
+          "url": "http://eol.org/pages/18219",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Camganularia",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Obelia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Leptothecata|Campanulariidae|Obelia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363465|2366699|2394668",
+          "taxon_id": "2394668",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327602",
+          "local_id": "18217",
+          "url": "http://eol.org/pages/18217",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "LiTTorina",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "27056444-f1d3-5150-8c93-b6f97dbd206d",
+          "name_string": "Littorina",
+          "canonical_form": "Littorina",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Littorinidae|Littorina",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370194|2370223|2381094",
+          "taxon_id": "2381094",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "27056444-f1d3-5150-8c93-b6f97dbd206d",
+          "name_string": "Littorina",
+          "canonical_form": "Littorina",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20630777",
+          "local_id": "32783",
+          "url": "http://eol.org/pages/32783",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pagurus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "52e59f74-8401-5446-916b-2e6fa6cda810",
+          "name_string": "Pagurus",
+          "canonical_form": "Pagurus",
+          "classification_path": "Animalia|Arthropoda|Malacostraca|Decapoda|Decapoda|Paguridae|Pagurus",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2363112|2364736|2365250|2365341|2413594",
+          "taxon_id": "2413594",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "52e59f74-8401-5446-916b-2e6fa6cda810",
+          "name_string": "Pagurus",
+          "canonical_form": "Pagurus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "38963737",
+          "local_id": "39938",
+          "url": "http://eol.org/pages/39938",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=MJSo8vtxRpm4g7ZQ5mWRXw",
+  "input_url": null,
+  "file": "Embryology 1988_ 120.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.107787983,
+    "total_duration": 23.747274118
+  },
+  "agent": "",
+  "created": "2013-06-18T13:07:23-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "tudor mothers 152 males.\nCollect embryos as early and late gastrula (3-5 after\neggs laid)\n(Things to think about: Is staining exactly comparable\nto that observed in the otherwise 152 stock.\nDoes the absence of pole cells affect the size or\nmorphology of the posterior midgut? What happens to the\ncells that would have made germ cells, do they die or\nbecome emdoderm?)\ntudor mothers 89;05 males.\nCollect embryos as late embryos (10-14 after eggs laid)\n(Things to think about: Do gonads form without pole\ncells, can the mesodermal components differentiate in\nthe absence of germ cells? How would you test whether a\nfailure to produce a 89.03 staining pattern reflects the\nabsence of germ cells or abnormalites in the\nabdominally derived mesodermal precursors.)\nconcertina mothers 43.03 males.\nCollect embryos as blastoderms, early gastrula late\ngastrula(~3hrs after eggs laid.)\n(Things to think about: Are stripes affected by the\nmutant? What does the staining pattern in late embryos\ntell us about the morphogenetic movements in concertina\nderived embryos? Why should this remind you of the\nexperiments of Vogt (1929) on amphibian embryos\nconcertina mothers 152 males.\nCollect embryos as early and late gastrula (3-5 after\neggs laid)\n(Things to think about: Do the posterior cells stain\neven though the do not form a posterior midgut? What\ndoes this mean about the maternal effect of concertina?\nIs it a morphiogen establishing the endodermal lineage?)\nconcertina mothers 39,05 males.\nCollect embryos as late embryos (10-14 after eggs laid)\n(Things to think about: Do gonads form in the absence of\na posterior midgut? The pole cells are normally\ncarried into the interior of the embryo by the\n\n"
+}

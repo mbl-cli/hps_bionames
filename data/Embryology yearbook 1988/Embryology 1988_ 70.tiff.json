@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ZQpFIF0iRcK61oHk9voPhw",
+  "input_url": null,
+  "file": "Embryology 1988_ 70.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.130969542,
+    "total_duration": 21.862358353
+  },
+  "agent": "",
+  "created": "2013-06-18T13:24:56-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "RNA isolation from embryos\n1. Homogenize embryos in buffer 20 embryos 1ml\na with a dounce or with a pipetman 200 embryos 10 ml\n1 hour \n2. Extract 2X with phenol:chloroform VORTEX >15 secs\n3. Add 1/10th volume 3M Na acetate and 2 vols ethanol\nLeave at for 15 mins to ovenight\n4. Spin out precipitate 5,000 RPM 15 mins or 10,000 RPM 10 mins\n5. Dissolve in H20 equal to at least 25% of that used in step 1.\nAdd an equal volume of 8M LiCl.\nLeave at overnight.\n6. Spin 10,000 RPM 10 mins.\nWash precipitate with 100% ethanol.\n7. Resuspend in HQO.\nAdd 1/10th volume of 3M Na Acetate, 2 vols ethanol.\nstore at or \nBuffer 5Q \n50 mM NaCl 0EDTA, pH 8.0 0.5 ml of 0.5M\n0.5% SDS 2.5 ml of 10%\n200 ug/ml proteinase add 20 ul/ml of buffer fresh\nNOTES: For preparation of stock solutions:\nH2O, 5M NaCl, and 0.5M EDTA should be treated with 0.1% DEPC for\n2 hours then autoclaved.\n1M Tris should be autoclaved.\n10% SDS should be left at for 1 hour.\nGloves should always be worn when working with RNA.\nTubes and tips should be fresh from a bag or autoclaved or both.\n\n"
+}

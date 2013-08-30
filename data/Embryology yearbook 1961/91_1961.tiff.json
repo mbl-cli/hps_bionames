@@ -1,0 +1,396 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=H348uOjaQxOUUYQOkJvOnQ",
+  "input_url": null,
+  "file": "91_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.120118911,
+    "resolve_names_duration": 1.710906783,
+    "total_duration": 25.859017544
+  },
+  "agent": "",
+  "created": "2013-06-18T12:50:28-04:00",
+  "total": 13,
+  "names": [
+    {
+      "verbatim": "T. wiss",
+      "scientificName": "T. wiss",
+      "offsetStart": 287,
+      "offsetEnd": 293,
+      "identifiedName": "T. wiss"
+    },
+    {
+      "verbatim": "Sabella",
+      "scientificName": "Sabella",
+      "offsetStart": 371,
+      "offsetEnd": 377,
+      "identifiedName": "Sabella"
+    },
+    {
+      "verbatim": "Tugiiex rivolorum",
+      "scientificName": "Tugiiex rivolorum",
+      "offsetStart": 771,
+      "offsetEnd": 787,
+      "identifiedName": "Tugiiex rivolorum"
+    },
+    {
+      "verbatim": "Aplysia",
+      "scientificName": "Aplysia",
+      "offsetStart": 1150,
+      "offsetEnd": 1156,
+      "identifiedName": "Aplysia"
+    },
+    {
+      "verbatim": "Tubjfex rivulorum",
+      "scientificName": "Tubjfex rivulorum",
+      "offsetStart": 1344,
+      "offsetEnd": 1360,
+      "identifiedName": "Tubjfex rivulorum"
+    },
+    {
+      "verbatim": "Iubifeg riyulorum",
+      "scientificName": "Iubifeg riyulorum",
+      "offsetStart": 1489,
+      "offsetEnd": 1505,
+      "identifiedName": "Iubifeg riyulorum"
+    },
+    {
+      "verbatim": "T. wiss",
+      "scientificName": "T. wiss",
+      "offsetStart": 1563,
+      "offsetEnd": 1569,
+      "identifiedName": "T. wiss"
+    },
+    {
+      "verbatim": "T. wiss",
+      "scientificName": "T. wiss",
+      "offsetStart": 1817,
+      "offsetEnd": 1823,
+      "identifiedName": "T. wiss"
+    },
+    {
+      "verbatim": "T. wiss",
+      "scientificName": "T. wiss",
+      "offsetStart": 1934,
+      "offsetEnd": 1940,
+      "identifiedName": "T. wiss"
+    },
+    {
+      "verbatim": "Tubifex",
+      "scientificName": "Tubifex",
+      "offsetStart": 2022,
+      "offsetEnd": 2028,
+      "identifiedName": "Tubifex"
+    },
+    {
+      "verbatim": "T. wiss",
+      "scientificName": "T. wiss",
+      "offsetStart": 2044,
+      "offsetEnd": 2050,
+      "identifiedName": "T. wiss"
+    },
+    {
+      "verbatim": "Beroe,",
+      "scientificName": "Beroe",
+      "offsetStart": 2144,
+      "offsetEnd": 2149,
+      "identifiedName": "Beroe"
+    },
+    {
+      "verbatim": "Nereis.",
+      "scientificName": "Nereis",
+      "offsetStart": 2151,
+      "offsetEnd": 2157,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "nr-'f\n\nMorgan, T.H. |930 The poinT oT enTrance oT The spermaTozoon in relaTion To\nA. Tyler The orienTaTion of The embryo in eggs wiTh spiral cleavage.\nBiol. Bull. 58:59 \nMori, |932 EnTwicklung iso|ierTer BlasTomeren und Teilweise abgeToTeTer\nalTerer keime von Qlepsine.sexocu|aTa. ZeiT. T. wiss. Zool.\n1515399\nNovikoTT, A. B. |938 Embryonic deTerminaTion in The annelid, Sabella vu|garis.l.\nThe diTTerenTiaTion oT ecToderm when separaTed Through induced\nexogasTrulaTion. 2. TransplanTaTion of polar lobes and b|asTo-\nmeres. Biol. Bull. 74: l98,2l|\nNovikoTT, A.B. |939 RegulaTion in mosaic eggs . Coll. |4;l82\nNovikoTT,A.B. |940 MorphogeneTic subsTances or organizers in annelld deve|opmenT.\nJ. Exp. Zool. 84:|27\nParseval, M. |922 Die EnTwick|ung zenTriTugierTer Eier von Tugiiex rivolorum,\nRoux Archiv. QQ,\nPasTee|s, J. |93| Arch. de Biol. \nPasTeels, J. |934 Recherches sur la morphogehese eT la deTerminismo des\nsegmenTaTions iregales chez les spiralla. Arch. d'anaT. micr.\n\nPease, D. C. |940 The eTTecTs oT hydrosTaTic pressure upon The polar lobe and\ncleavage paTTern in The ChaeTogTerus egg. \nPelTrera, A |940 Le capaciTa rego|aTive de|l'uovo di Aplysia llmacina sTudi-\n. aTecon la cenTriTugazione con le reazioni viTali. Pubbl. STaz.\nZool. Napoli l8:2O\nPenners, A. |924 ExperimenTe|le UnTersuchungen zum DeTerminaTions-problem am\nkeim von Tubjfex rivulorum. Arch. mikr. AnaT. und EnTwik|. Mech.\nL92\nPenners, A. |926 ExperimenTelle UnTersuchugen zum DeTerminaTions-problem am keim\nvon Iubifeg riyulorum, ll. Die EnTwick|ung Teilweise abgeToTeTer\nkeime. ZeiT. T. wiss. Zool. |27:l\nPenners, A. Review. Verhandl. d. deuTsch. Zool. Gesell. ?4;67\nPenners, A. |934 ExperimenTe||e UnTersuchungen zum DeTerminaTions-problem an\nkeim von AbToTung der Te|oblasTen auf\nverschiedenen EnTwicklungsTadien des keimsTreiTs. ZeiT. T. wiss.\nZool. l45:22O.\nPenners, A. |936 RegulaTion am keim von nach Ausscha|Tung des\nekTodermako keimsTrelTs. ZeiT. T. wiss. Zool. (A) l49:86\nPenners, A. |938 AbhangigkeiT der Formbildung von Mesoderm in Tubifex embryo.\nZeiT. T. wiss. Zool. |50:305\nM. |947 La disTribuzione della ossidase perossidasi nella vova di\nMyzosiomes Beroe, Nereis. Publ. STaz. Zool. Napoli, 21593\nRaTTenburg \nJ.C.\nBerg |954 Embryonic segregaTion during early developmenT oT MyTi|us edulis\nJ. Morph. 95: 393-4|4\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "T. wiss"
+    },
+    {
+      "supplied_name_string": "Sabella",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "bea454e1-6f23-5f57-9039-62212219d5d7",
+          "name_string": "Sabella",
+          "canonical_form": "Sabella",
+          "classification_path": "Animalia|Annelida|Polychaeta|Sabellida|Sabellidae|Sabella",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369634|2369638|2413716",
+          "taxon_id": "2413716",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "bea454e1-6f23-5f57-9039-62212219d5d7",
+          "name_string": "Sabella",
+          "canonical_form": "Sabella",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20674307",
+          "local_id": "52365",
+          "url": "http://eol.org/pages/52365",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tugiiex rivolorum",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "a3cfad56-47fb-51ad-866e-51de289db0e4",
+          "name_string": "Tubifex rivulorum",
+          "canonical_form": "Tubifex rivulorum",
+          "classification_path": "|Tubifex rivulorum",
+          "classification_path_ranks": "kingdom|",
+          "classification_path_ids": "",
+          "taxon_id": "99513692",
+          "local_id": "urn:lsid:ubio.org:namebank:6598196",
+          "global_id": "urn:lsid:ubio.org:namebank:6598196",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=6598196",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Aplysia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cbafcfc1-eb24-5918-94e8-c4e7b50c8b79",
+          "name_string": "Aplysia",
+          "canonical_form": "Aplysia",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Anaspidea|Aplysiidae|Aplysia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370086|2370088|2453438",
+          "taxon_id": "2453438",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cbafcfc1-eb24-5918-94e8-c4e7b50c8b79",
+          "name_string": "Aplysia",
+          "canonical_form": "Aplysia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627933",
+          "local_id": "52673",
+          "url": "http://eol.org/pages/52673",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tubjfex rivulorum",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "138157f7-a2c6-5b66-a6fe-1e9d300b1ef7",
+          "name_string": "Tubifex riculorum",
+          "canonical_form": "Tubifex riculorum",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "129552330",
+          "url": "http://www.organismnames.com/details.htm?lsid=4222041",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Iubifeg riyulorum",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "a3cfad56-47fb-51ad-866e-51de289db0e4",
+          "name_string": "Tubifex rivulorum",
+          "canonical_form": "Tubifex rivulorum",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "126275754",
+          "url": "http://www.organismnames.com/details.htm?lsid=751343",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Tubifex",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "98750f5c-1d5e-56cb-b251-dea11c436ef9",
+          "name_string": "Tubifex",
+          "canonical_form": "Tubifex",
+          "classification_path": "Animalia|Annelida|Polychaeta|Not assigned|Maldanidae|Tubifex",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369670|2372221|2537143",
+          "taxon_id": "2537143",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "98750f5c-1d5e-56cb-b251-dea11c436ef9",
+          "name_string": "Tubifex",
+          "canonical_form": "Tubifex",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30068727",
+          "local_id": "3095689",
+          "url": "http://eol.org/pages/3095689",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Beroe",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "230c4eb4-68ec-5480-9770-08aff8628cc2",
+          "name_string": "Beroe",
+          "canonical_form": "Beroe",
+          "classification_path": "Animalia|Ctenophora|Nuda|Beroida|Beroidae|Beroe",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362404|2362416|2362417|2362418|2444798",
+          "taxon_id": "2444798",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "230c4eb4-68ec-5480-9770-08aff8628cc2",
+          "name_string": "Beroe",
+          "canonical_form": "Beroe",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20656073",
+          "local_id": "64678",
+          "url": "http://eol.org/pages/64678",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=RPdFYv0vQTimz5BsYBL4YA",
+  "input_url": null,
+  "file": "Embryology 1939_45.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.122772038,
+    "resolve_names_duration": 0.527927502,
+    "total_duration": 22.924990438
+  },
+  "agent": "",
+  "created": "2013-06-19T15:27:25-04:00",
+  "total": 11,
+  "names": [
+    {
+      "verbatim": "Molgula",
+      "scientificName": "Molgula",
+      "offsetStart": 22,
+      "offsetEnd": 28,
+      "identifiedName": "Molgula"
+    },
+    {
+      "verbatim": "Styela,",
+      "scientificName": "Styela",
+      "offsetStart": 87,
+      "offsetEnd": 93,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Molgula",
+      "scientificName": "Molgula",
+      "offsetStart": 335,
+      "offsetEnd": 341,
+      "identifiedName": "Molgula"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 346,
+      "offsetEnd": 350,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Molgula",
+      "scientificName": "Molgula",
+      "offsetStart": 491,
+      "offsetEnd": 497,
+      "identifiedName": "Molgula"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 566,
+      "offsetEnd": 570,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Molgula",
+      "scientificName": "Molgula",
+      "offsetStart": 596,
+      "offsetEnd": 602,
+      "identifiedName": "Molgula"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 916,
+      "offsetEnd": 921,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Amaroucium",
+      "scientificName": "Amaroucium",
+      "offsetStart": 1026,
+      "offsetEnd": 1035,
+      "identifiedName": "Amaroucium"
+    },
+    {
+      "verbatim": "Amaroucium",
+      "scientificName": "Amaroucium",
+      "offsetStart": 1210,
+      "offsetEnd": 1219,
+      "identifiedName": "Amaroucium"
+    },
+    {
+      "verbatim": "None",
+      "scientificName": "None",
+      "offsetStart": 1686,
+      "offsetEnd": 1689,
+      "identifiedName": "None"
+    }
+  ],
+  "content": "\nMolaula.\nThe eggs of Molgula follow almost exactly the pattern of\ndevelopment seen in Styela, but they do not have pigment. The\nanimals are self-fertile, A few fertvlized eggs may be obtained\nat any time by mincing the gonads in sea water, although spawning\nnormally occurs at daybreah. \nRose's method for controlling the spawning of Molgula or\nCiona is to put a few individuals in a large dish of sea water and\nstore them in the dark, for instance in a desk drawer, until eggs\nare needed. Molgula will shed lb minutes or so after being brought\nout into the light, Ciona immediately.\nStart some Molgula eggs developing, and follow the cleavage\nthrough gastrulation. If developing eggs are isolated in a watch\nglass, tadpoles and young stages of metamorphosis are obtainable.\nTadpoles are fully formed in 8 hrs. (Conklin 'O5a) (Grave \nE. COLONIAL ASCIDIANS.\nQMAROUCIUM THEIR METAMOHFHOSIS.\na) Methods.\nThe larvae of Styela and Nolgula are so small dlat study of\ntheir internal organization is difficult. The compound aseidian\nAmaroucium is viviparous, and the large tadpoles are easily obtained\nfrom parent colonies, provided the material is ripe and has been\nquite recently collected.\nSqueeze a mass of fresh Amaroucium over a little sea water in\na fingerbowl. Many highly colored fragments of the adult individual\nwill be ejected, together with eggs and embryos. Fill the bowl with\nwater and pour off the coarser particles wrirling near the top.\nWadpoles and eggs in all stages of development may presently be\nfound at the bottom.\nb) stages\nFrom the debris in the fingerbowl, select and study a series\nof embryos and.developing larvae that shew the gradual emergence\nof tadpole font. None of these squeezed tadpoles will swim immed-\niately, and few'will attach normally or develop farther. Twitching\nmovements like those of vertebrate embryos or fetuses will be ob-\nserved.\ncl Tadpole dtructure and Behayior.\nTadpoles usually leave the parent colony shortly after sunrise.\nThese undamaged and fully developed individuals can be collected\nin the laboratory, and they afford the best material fon the study\nof swimming and of metamorphosis.\nObtain an active tadpole in a watch-glass of sea water and\nwatoh it swim. How does it propel itself? What are its reactions\nto light end to gravity? Place it on a slide in a small drop of\nwater and study its anatomy under the microscope. (Grave '20, \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Molgula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a31a74e5-db77-5d08-9eb6-f8f2e9525009",
+          "name_string": "Molgula",
+          "canonical_form": "Molgula",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Molgulidae|Molgula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2363302|2373154",
+          "taxon_id": "2373154",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a31a74e5-db77-5d08-9eb6-f8f2e9525009",
+          "name_string": "Molgula",
+          "canonical_form": "Molgula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103905",
+          "local_id": "10806",
+          "url": "http://eol.org/pages/10806",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ciona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957",
+          "taxon_id": "2421957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628900",
+          "local_id": "43439",
+          "url": "http://eol.org/pages/43439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Amaroucium",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata|Ascidiacea|Enterogona|Aplousobranchia|Synoicidae|Amaroucium",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum|class|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712|7713|183770|32436|107396|107397",
+          "taxon_id": "107397",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29104026",
+          "local_id": "2994850",
+          "url": "http://eol.org/pages/2994850",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "None",
+      "results": [
+        {
+          "data_source_id": 7,
+          "data_source_title": "Union 4",
+          "gni_uuid": "8cf8696e-6ca6-5ec7-b441-e04a37ea751c",
+          "name_string": "None",
+          "canonical_form": "None",
+          "classification_path": "|Cellular life|Eukaryota|Opisthokonts|Choanoflagellates and animals|Animalia|Epitheliates|Bilateria|Ecdysozoa|Legged ecdysozoa|Arthropoda|Trilobita|Trilobites of uncertain affinities|Naraoiidae|None",
+          "classification_path_ranks": "|above family|above family|above family|above family|unranked|above family|above family|above family|above family|above family|above family|above family|family|genus",
+          "classification_path_ids": "2822864|2823207|2828118|2843765|2843766|2843767|2843768|17974913|2910040|2910041|2910042|3087979|3091755|3092341|3092342",
+          "taxon_id": "3092342",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8cf8696e-6ca6-5ec7-b441-e04a37ea751c",
+          "name_string": "None",
+          "canonical_form": "None",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5019978",
+          "local_id": "2913255",
+          "url": "http://eol.org/pages/2913255/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": false
+    }
+  ]
+}

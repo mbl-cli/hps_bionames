@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=W0an3T9LSiKnKGYWZxKVfg",
+  "input_url": null,
+  "file": "57_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.229856367,
+    "resolve_names_duration": 0.945373317,
+    "total_duration": 30.368572909
+  },
+  "agent": "",
+  "created": "2013-06-18T12:37:44-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "A.more",
+      "scientificName": "A. more",
+      "offsetStart": 640,
+      "offsetEnd": 645,
+      "identifiedName": "A.more"
+    }
+  ],
+  "content": "\nThey are suiTable for use in an experimenf. AbouT The besT ThaT can be expecTed\nof AsTerias eggs is 85-90% germinal vesicle breakdown of The eggs ThaT sponTaneously\niniTiaTe maTuraTion, nearly all should elevaTe ferTilizaTion membrane. Add sperm\nsuspension afTer germinal vesicle breakdown buT before exfrusion of firsT polar body\n(50 min. To l. hr. afTer shedding of The eggs).\nSQermaTozoa\nOne way To obTain sperm rapidly is To keep a \"dry\" TesTis in The refrig-\neraTor; when sperm are needed, a small piece of The male gonad is shaken in sea\nwaTer To make up The sTock sperm suspension, and This is added Tn small quanTiTies\nTo The egg. A.more quanTiTaTively reproducible meThod of inseminaTion is ThaT\nalready suggesTed Tor The sea urchin and The clam above. TesTes can be placed on\na square of moisT cheesecloTh which is Then gaThered by The four corners info a\nbag and pressed. Seminal fluid so obTained can be kepT in The refrigeraTor for aT\nleasT Two days and can be measured ouT dropwise as needed.\nThe sperm of The sTarfish are perhaps The besT maTerial in which To deTecT\nacrosome TilamenTs. These can be seen wiTh phase conTrasT, and perhaps even wiTh\nbrighT field. lT used To be ThoughT ThaT The filamenT which Fol (l879) and laTer\nChambers (l93O) saw Joining The sperm and egg was a producT of The egg; now, however\nThis has been shown To be The acrosomal filamenT of The sperm. As The olwins\nhave shown in Japan and Woods Hole, The egg recepTion cone climbs up The acrosome\nfilamenT afTer The laTTer aTTaches To The egg surface.\nEggs \nObserve some freshly shed Asferias eggs. NoTe The large clear germinal\nvesicle and The yolky, yeT surprisingly TransparenT and unpigmenTed cyToplasm. These\neggs conTain so much yolk ThaT iT is difficulT To sTraTiTy Them by cenTrifugaTion.\nNoTe The vesicular nucleolus. lf The oocyTe is placed on The sTage of a horozonfal\nmicroscope, The nucleolus will Tall Through The nuoleus (Gray, Harding). NoTe The\ncorTical layer of The immaTure Asferias egg. The number of corTica| granules in\nThis layer seems To increase during maTuraTion. (The origin of These granules has\nbeen sTudied in The eggs of The sea urchin by Monne and Harde and by McCulloch).\nFerTilizaTion\nWaTch The equaTor of an egg being aTTacked by only a few sperm. Remember\nThaT The chances of sperm peneTraTion in The equaTorial band ThaT you can see are\nabouT one in Three. Accordingly, make several observaTions. Can you see a recep-\nTion cone? A Tllamenf beTween The egg and sperm? iT musT be sTressed ThaT for\nexTremely fine observaTions of This sorT, clean opTics and slides are required;\nalso good illuminaTion and paTience! WaTch for deTails of The corTical reacTion\n(corTicaI granule breakdown, membrane elevaTion, dark-field color change as in The\nsea urchin.\n Qleavage:\nThe firsT Two cleavages are meridional, ThaT is, They go Through animal\nand vegeTal poles and are perpendicular To each oTher. The Third cleavage is hori-\nzonfal, The eighT cells of This sTage are approximaTely equal in size. ln The\nl6-cell sfage, no definiTe arrangemenT of cells in rows Takes place, and cleavage\nfrom now on is Jrregudar. Throughouf These early cleavage sfages The bIasTomeres\nhave a Tendency To assume a spherical shape, resulfing in a raTher loose arrange-\nmenT of cells. NoTe ThaT no micromeres are formed. Draw The early cleavage sfages.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "A. more"
+    }
+  ]
+}

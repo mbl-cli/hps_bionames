@@ -1,0 +1,233 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=DdbsDK7cTGKFSKRvq2YaBg",
+  "input_url": null,
+  "file": "134_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.179462852,
+    "resolve_names_duration": 4.187338138,
+    "total_duration": 26.056820605
+  },
+  "agent": "",
+  "created": "2013-06-18T12:09:10-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Ascidlella scabra",
+      "scientificName": "Ascidlella scabra",
+      "offsetStart": 778,
+      "offsetEnd": 794,
+      "identifiedName": "Ascidlella scabra"
+    },
+    {
+      "verbatim": "Rivista di",
+      "scientificName": "Rivista di",
+      "offsetStart": 1189,
+      "offsetEnd": 1198,
+      "identifiedName": "Rivista di"
+    },
+    {
+      "verbatim": "Ciona.",
+      "scientificName": "Ciona",
+      "offsetStart": 1423,
+      "offsetEnd": 1428,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Styela.",
+      "scientificName": "Styela",
+      "offsetStart": 1529,
+      "offsetEnd": 1535,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Ciona.",
+      "scientificName": "Ciona",
+      "offsetStart": 1705,
+      "offsetEnd": 1710,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Aecidia malaca",
+      "scientificName": "Aecidia malaca",
+      "offsetStart": 1790,
+      "offsetEnd": 1803,
+      "identifiedName": "Aecidia malaca"
+    }
+  ],
+  "content": "Gclwin, A. and\nBerrill, N.J.\n./Conklin, E.G.\n\nv/\nCrampton, H.E.\nDelcq, Ao\nDrleech, H.\nHolter, H. and\n  . Zeuthen\n  s.\nMorgan. T.H.\nNieuwkoopf P.D\n1936\nl905a\n1905b\n1951\n1897\n1952\n1938\n1895\n1963\n1944\n1951\n1910\n1958e\n1942\n1942\n1945\n1945\n1955\nlg,\nThe development of isolated blaetomeree of the\neecidian egg. J. Exp. Zool. Y4: 9l>>ll8.\nMosaic development in aecidinn eggs. J. Exp.\nZool. 2: l46>>223.\nsubstances in the eggs of aecidlene.\nBiol. Bull 8: 205-230.\nThe development of centrifuged eggs of ascidians.\nJo Expo A0010   1\"12Oc\nThe ascidlan half>>embryo. Ann. N.Y. Acad.\nSci. 10: \nEtudes des localieetlons germineles dans l'oeuf\nvierge d'Asc1die per des experiences de merogonie.\nArch. d?Anat. mlcr. 28: 223~333.\nEtude micrographique et quantitative de la\nmerogonie double chez Ascidlella scabra.\nArch. de Biol. 49: 597f568.\nVon der Entwicklung einzelner Aecidienbleetemeren.\nArch. Entw. Mech. 1: 598~415. 8\nUber Anderung der Regulatlonsfahligkeiten im\nVerlauf der Entwicklung bei Aecidien. Arch.\nEntw.Mech. 17: 54\"'65o -\nThe respiration of the egg and embryo of the\nescldian, Clone intestinalis L. C.R. Lab.\nCarlsberg, series 25: 53~65.\nSalle guaine ectoplaematiche de118ouvo dl\nAecidie. Rivista di Biologia 43: 187~197.\nThe effects of altering the position of the\ncleavage planes in egge with precocious\nspecification. Roux' Arch. f. Entw.-Mech.\n29: 205-224. \nThe genetic and physiological problems of self-\nsterility in Ciona. J. Exp. Zool. 78: 271=334;\n80: 19-80; 90: 199-228.  \nCroes~ and self~fert1l1zation in the aecidian\nStyela. Biol. Bull 82: 161-171.\nNormal and abnormal development of the eggs of\nClone. J. Exp. Zool. 100: 407-416.\nThe conditions that lead to normal or abnormal\ndevelopment of Ciona. Biol. Bull. 88: \nThe influence of the Li ion on the development\nof the egg of Aecidia malaca. Pubbl. Staz. Zool.,\nNapoli 24: 101-141.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ascidlella scabra",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "52623845-5891-5806-b850-8a27424aa645",
+          "name_string": "Ascidiella scabra (Müller, O.F., 1776)",
+          "canonical_form": "Ascidiella scabra",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Ascidiidae|Ascidiella|Ascidiella aspersa",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363377|2421958|5284818",
+          "taxon_id": "5287330",
+          "current_taxon_id": "5284818",
+          "current_name_string": "Ascidiella aspersa (Muller, 1776)",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "d37fc66c-1881-536a-a68f-7a8e3355b9dc",
+          "name_string": "Lecidella scabra (Taylor) Hertel & Leuckert 1969",
+          "canonical_form": "Lecidella scabra",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34773882",
+          "local_id": "1007564",
+          "url": "http://eol.org/pages/1007564",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Rivista di"
+    },
+    {
+      "supplied_name_string": "Ciona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957",
+          "taxon_id": "2421957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628900",
+          "local_id": "43439",
+          "url": "http://eol.org/pages/43439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Aecidia malaca",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "423da5d5-bc65-5d0a-9860-1867cfd295c3",
+          "name_string": "Ascidia malaca Traustedt, 1883",
+          "canonical_form": "Ascidia malaca",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Ascidiidae|Ascidia|Ascidia malaca",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363377|2421959|5284776",
+          "taxon_id": "5284776",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "423da5d5-bc65-5d0a-9860-1867cfd295c3",
+          "name_string": "Ascidia malaca Traustedt, 1883",
+          "canonical_form": "Ascidia malaca",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34335300",
+          "local_id": "512568",
+          "url": "http://eol.org/pages/512568",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    }
+  ]
+}

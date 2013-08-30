@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=tMXPtnj3SES3FUMTymhwwg",
+  "input_url": null,
+  "file": "9_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.177898019,
+    "resolve_names_duration": 0.726758473,
+    "total_duration": 39.291253286
+  },
+  "agent": "",
+  "created": "2013-06-18T12:53:20-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 263,
+      "offsetEnd": 270,
+      "identifiedName": "Fundulus"
+    }
+  ],
+  "content": " CE \nReferences\nJune, 1961\nBoyer, E.R.. 1892. The meooderm in teleoatas Especially its share in the formation\nof the pectoral fin. Bull. Hua. Compo Zool., Harvard,  Qs 91-134.\nBrumett, AoRo 1954. The relationships of the gem ring to the formation of the\n  bud in Fundulus as demonstrated by the carbon mrking technique.\nJo we 200]-o LQ 447?485o I\nChild, 1945. Oxidation-reduction pattern in development of a teleosto\n  me gf 297\"\"312o \nClamp,\" Sono points in obo develoyiment of uno toad-fish (peoroozmo um).\nJ. Morph. is 494-501. 1   \nDevillers, Co, 1951. Los mouvemonto superficielc dana la gastrulation des \n@a do Anite \"Gro ot d'mb1y01o Expo ?3 mme \nDevillors, Co, 1952o Synmotrization et regulation du game chez 1; truiteo\nBull.. do Amt. 41&424.\nwan, mn., 1959. Regional the of mo moot.\nme fo   ,ws \nP., 1195]-o The occurrence of twinning in Fund  \nafter Biol.   221-222 abs.\nHarrington, Lv. and J.s. noogor., 1958o Pfolonged mourn aofomooc of hatching in\nunmon. 1511. \nHisaoka, K.K., and 1957. Some effects of barbituric, acid and diotlwl\nbarbituric acid on the development of the zebra. fish, \nAmt. Roco 297-308. 1\n,and Hole Battle, 1958o The normal developmental stages of the Zebrafish,\n rorig (Hamilton-Buchanan). J. Morph. 101: 311-3$o\nand C.F.Pir1it 960? Further studios on the embryonic of\nthe Zebrafiah, rerig (Hamilton-Buchanan). J. Horpho yas 205-225\n1958. Microscopic of the ononon., nor. mor.\nSoc. 11: 240v~24-3. \n1958.. Effects of 2-Acetylamzmotluorena on the embryonic develoment of\nthe Zehrafiaho Io Morphological studios. Cancer Research 527-535.\nII.. Histochemical studies. Cancer Research 664'667o\nnooaloy, 1.. 1928. on mo localisation of aovo1opoonea1 potohcioa in the embryo of\n Jo Expo 23 7\"'44o \nHnvor, Co W. . 1956.. The relation of the cortex to the formation of a perlvitellino\nspace in the eggs of gum heteroclituso 304?\nHuver, 1960. The stage at fonuimuoo of wo ogg of @1113 \nBinlo Buno lla; 3200 \nIshida, Jo, 1944. Hatching enzymein the fresh-water fish Qgzias latigeso\nAmmt. kan JB-POD. Q3 137->>o\nJonas. RJ. 195% Analysis of the development of fish embryos by moans of the\n:mono indoor. v. The of early organs in\n1 I~'undu1ue heteroclituao Trans. Amor. Micro Soc. 2: 1-23.\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=GS5fglG1RT6Tqc1H6nC9cQ",
+  "input_url": null,
+  "file": "156_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.056185825,
+    "resolve_names_duration": 1.761416882,
+    "total_duration": 23.384160138
+  },
+  "agent": "",
+  "created": "2013-06-18T12:15:52-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Nauplius.~;",
+      "scientificName": "Nauplius",
+      "offsetStart": 216,
+      "offsetEnd": 226,
+      "identifiedName": "Nauplius"
+    },
+    {
+      "verbatim": "Viviparuus",
+      "scientificName": "Viviparuus",
+      "offsetStart": 252,
+      "offsetEnd": 261,
+      "identifiedName": "Viviparuus"
+    },
+    {
+      "verbatim": "Nauplius",
+      "scientificName": "Nauplius",
+      "offsetStart": 280,
+      "offsetEnd": 287,
+      "identifiedName": "Nauplius"
+    },
+    {
+      "verbatim": "Vivaparwus",
+      "scientificName": "Vivaparwus",
+      "offsetStart": 301,
+      "offsetEnd": 310,
+      "identifiedName": "Vivaparwus"
+    }
+  ],
+  "content": "~lO~ \nADULT: ab&umina1 appendages mature.\nQxamnlgi newly hatuheG fresh-water shrimp\nThe following su marizes the typical larval mf the different\ncrustaoean classes:\n?ganchinpgda\nOstracoggs\n\nQigrinedggz\n\nMalauustr ca\nNauplius.~; Metanauplii~~? Auult ur Viviparuus adults\niQgohnig)\nNauplius-5 Adult; Ur Vivaparwus adults\n(Zuaea-uiu}-EUR' Adult\nAqult\nhatthing at all larval stages, and otmplete larval series in\nsome, abb?eviate& Series in others.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nauplius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "41ce42a4-9b77-548e-aa6b-ef8ef5ae977d",
+          "name_string": "Nauplius",
+          "canonical_form": "Nauplius",
+          "classification_path": "Plantae|Magnoliophyta|Magnoliopsida|Asterales|Asteraceae|Nauplius",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2362540|2362541|2370936|2370937|2521905",
+          "taxon_id": "2521905",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "41ce42a4-9b77-548e-aa6b-ef8ef5ae977d",
+          "name_string": "Nauplius",
+          "canonical_form": "Nauplius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30147593",
+          "local_id": "5119507",
+          "url": "http://eol.org/pages/5119507",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Viviparuus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Vivaparwus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

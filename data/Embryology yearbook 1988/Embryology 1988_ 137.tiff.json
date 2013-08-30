@@ -1,0 +1,124 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=VWZrTuk6Scu9hwsqqFoSlg",
+  "input_url": null,
+  "file": "Embryology 1988_ 137.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.126975049,
+    "resolve_names_duration": 0.8451991,
+    "total_duration": 22.175118382
+  },
+  "agent": "",
+  "created": "2013-06-18T13:10:08-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 481,
+      "offsetEnd": 488,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Blennius pholis:",
+      "scientificName": "Blennius pholis",
+      "offsetStart": 614,
+      "offsetEnd": 629,
+      "identifiedName": "Blennius pholis"
+    }
+  ],
+  "content": "J.P. Trinkaus\nMarine Biological\nEmbryology Course\nJuly 25,1988\nTrinkaus, J.P. 1984 Cells into Organs. The Forces That Shape the\nEmbryo. Prentice Hall, Englewood Cliffs, N.J. pp.543.\nTrinkaus, J.P. 1985. \"Protrusive activity of the cell surface and\nthe initiation of cell movement during morphogenesis. Exp. Biol.\nand Med. lg: 130-173.\nKeller, R.E. and J.P. Trinkaus, 1987. \"Rearrangement of enveloping\ncells without disruption of the epithelial permiability\nbarrier as a factor in Fundulus epiboly\". Devel. Biol.. 120: 12-24\nTrinkaus, J.P. l988a. \"Directional cell movement during early\ndevelopment of the teleost Blennius pholis: I. Formation of\nepithelial cell clusters and their pattern and mechanism of\nmovement. J. Exp. Zool. 245: 157-186.\nTrinkaus, J.P. l988b. II. \"Transformation of the cells of epithelial\nclusters into dendritic melanocytes, their dissociation from\none another, and their migration to and invasion of the pectoral\nfin buds.\" J. Exp. Zool., in press.\nLab\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Blennius pholis",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e08a843-48ac-57e5-987c-e635ce274b18",
+          "name_string": "Blennius pholis",
+          "canonical_form": "Blennius pholis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35671143",
+          "local_id": "10377825",
+          "url": "http://eol.org/pages/10377825",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e08a843-48ac-57e5-987c-e635ce274b18",
+          "name_string": "Blennius pholis",
+          "canonical_form": "Blennius pholis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35671143",
+          "local_id": "10377825",
+          "url": "http://eol.org/pages/10377825",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

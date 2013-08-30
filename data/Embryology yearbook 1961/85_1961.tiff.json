@@ -1,0 +1,48 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=bFntLSwqSDuqQPaEjUVpAw",
+  "input_url": null,
+  "file": "85_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.059351095,
+    "resolve_names_duration": 2.908376904,
+    "total_duration": 25.074033901
+  },
+  "agent": "",
+  "created": "2013-06-18T12:47:48-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Chaetonterus",
+      "scientificName": "Chaetonterus",
+      "offsetStart": 206,
+      "offsetEnd": 217,
+      "identifiedName": "Chaetonterus"
+    }
+  ],
+  "content": "\nReferences\nBeraneck, 1894\nEnders H. A . 1909\nLillie, F. R. 1906\nM9361 Ao Ds\nwilson, E.\n1897\n1883\n5-\nQuelques staues larveiree d*un Cheteptere. Rei. Suisse de Zool\nA stuuy uf the life-history ann habits of Chaetonterus\n  - Murph- ?Qi\nObservetiuns and experiments uuneerning the elementary\nphenemena of embryenic develo ment in Cheetogtergg. Q.\nThe early development uf marine annelids. J. Murph. \nobeervetiens on the early developmental stages uf sums\ngelychaetus annelies. Stud. Biel. Lab. Johns Hupkins Univ.\nll-\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Chaetonterus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

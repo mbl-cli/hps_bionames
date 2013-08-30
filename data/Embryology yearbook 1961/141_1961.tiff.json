@@ -1,0 +1,368 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=6p1swHXzSRiS6cvnBTtLSA",
+  "input_url": null,
+  "file": "141_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.214055603,
+    "resolve_names_duration": 1.039656587,
+    "total_duration": 22.108470985
+  },
+  "agent": "",
+  "created": "2013-06-18T12:11:37-04:00",
+  "total": 11,
+  "names": [
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 788,
+      "offsetEnd": 797,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Cliona",
+      "scientificName": "Cliona",
+      "offsetStart": 803,
+      "offsetEnd": 808,
+      "identifiedName": "Cliona"
+    },
+    {
+      "verbatim": "Halichondria)",
+      "scientificName": "Halichondria",
+      "offsetStart": 814,
+      "offsetEnd": 826,
+      "identifiedName": "Halichondria"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 979,
+      "offsetEnd": 988,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Cliona",
+      "scientificName": "Cliona",
+      "offsetStart": 1703,
+      "offsetEnd": 1708,
+      "identifiedName": "Cliona"
+    },
+    {
+      "verbatim": "Sycon",
+      "scientificName": "Sycon",
+      "offsetStart": 1809,
+      "offsetEnd": 1813,
+      "identifiedName": "Sycon"
+    },
+    {
+      "verbatim": "Ascon,",
+      "scientificName": "Ascon",
+      "offsetStart": 1910,
+      "offsetEnd": 1915,
+      "identifiedName": "Ascon"
+    },
+    {
+      "verbatim": "Sycon",
+      "scientificName": "Sycon",
+      "offsetStart": 1917,
+      "offsetEnd": 1921,
+      "identifiedName": "Sycon"
+    },
+    {
+      "verbatim": "Leucon",
+      "scientificName": "Leucon",
+      "offsetStart": 1926,
+      "offsetEnd": 1931,
+      "identifiedName": "Leucon"
+    },
+    {
+      "verbatim": "Leucosolenia",
+      "scientificName": "Leucosolenia",
+      "offsetStart": 2153,
+      "offsetEnd": 2164,
+      "identifiedName": "Leucosolenia"
+    },
+    {
+      "verbatim": "Halichondria",
+      "scientificName": "Halichondria",
+      "offsetStart": 2262,
+      "offsetEnd": 2273,
+      "identifiedName": "Halichondria"
+    }
+  ],
+  "content": " Sponges 3.\ng) To observe TurTher difTerenTiaTion of The masses, They will have To have\naccess To running sea waTer. They should be quiTe well aTTached by now. lnverT a\nsyracuse dish in The sea Table (aT The back where iT is deep) and carefully lay a\nslide and several coverslips wiTh aTTached aggregaTes on iT. AT inTervals in The\nnexT day or so, waTch The aggregaTes. FlagellaTed chambers, canals, escula,\nspicules, eTc. develop in abouT Three days. Rounded, unaTTached masses may live\nfor weeks, buT never develop inTo sponges (for deTails of developmenT see Wilson\nand Penney, l93O; Huxley, l9l2 and GalTsoff, l925b). lf The masses are cared for\nThey may be kepT for weeks and aTTain a high degree of organizaTion\n?i?P@?cl fi? \na) Observe dishes no. 3, comparing colors wiTh Those of Microciona and Cliona\n(or Halichondria) aggregaTes; nofe The colors of The aggregaTes in The \"mixed\"\ndishes. Are They uniform in color?\nb) Taking inTo accounT The facT ThaT only half as much Microciona Tissue is used\ncompare The sizes of The aggregaTes here wiTh Those in dish no. l.\nc) in sTender dish 4 is The same resulT obTained as in no. 3?\nFor discussion of These resulTs see papers by de Laubenfels (1926-l928); Wilson\nand Penney, l93O; GalTsoff, i923 and Spiegel, l954. when you are finished wiTh\nyour maTerial clean iT up or life will be unbearable for The resT of us.\nThe observaTional parTs of The laboraTory may be done aTTer The aggregaTes\nare sTarTed.\nDeTails of sponge sTrucTure may be found in Hyman's TreaTise, The 1nverTebraTes\"\nThe species found in The woods Hole region and meThods for observing Them are\ndescribed in The monograph of Laubenfels (l949).\nThe following species will be available: Cliona celaTa, Halichondriagpanjcea,\nLeycosolenia canceljaTa, Microciong prolifera, and is\nreferred To as Sycon and as GranTia in older liTeraTure. ldenTify These sponges,\nand deTermine wheTher They are The Ascon, Sycon or Leucon Type.\nUsing a razor blade, make Thin cross-secTions of \nPlace These secTions on a slide, cover wiTh a cover slip and examine under high\npower. NoTice The arrangemenT of The cells, The spicules and Their disTribuTion.\nln Leucosolenia and IQQK for embryos in The cross-secTions. lT may\nalso be possible To Tind embryonic sTages in Halichondria by looking down Through\nThe osculum. \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Microciona",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Porifera|Demospongiae|Ceractinomorpha|Poecilosclerida|Microcionina|Microcionidae|Microciona",
+          "classification_path_ranks": "|superkingdom||kingdom|phylum|class|subclass|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6040|6042|6048|27925|283498|27926|27927",
+          "taxon_id": "27927",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992018",
+          "local_id": "2544604",
+          "url": "http://eol.org/pages/2544604",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cliona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "8c34d247-4ac3-54b6-b3b1-9322170ef4a8",
+          "name_string": "Cliona",
+          "canonical_form": "Cliona",
+          "classification_path": "Animalia|Porifera|Demospongiae|Hadromerida|Clionaidae|Cliona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2364203|2366793|2366803|2420225",
+          "taxon_id": "2420225",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8c34d247-4ac3-54b6-b3b1-9322170ef4a8",
+          "name_string": "Cliona",
+          "canonical_form": "Cliona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20731946",
+          "local_id": "34915",
+          "url": "http://eol.org/pages/34915",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Halichondria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "edd3e3b4-2bbd-596f-a1df-63bc64edb9c5",
+          "name_string": "Halichondria",
+          "canonical_form": "Halichondria",
+          "classification_path": "Animalia|Porifera|Demospongiae|Halichondrida|Halichondriidae|Halichondria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2364203|2366787|2366789|2420160",
+          "taxon_id": "2420160",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "edd3e3b4-2bbd-596f-a1df-63bc64edb9c5",
+          "name_string": "Halichondria",
+          "canonical_form": "Halichondria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40913095",
+          "local_id": "2545149",
+          "url": "http://eol.org/pages/2545149",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Sycon",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6ec20bf2-191c-5a61-a1b5-da58e51b7042",
+          "name_string": "Sycon",
+          "canonical_form": "Sycon",
+          "classification_path": "Animalia|Porifera|Calcarea|Leucosolenida|Sycettidae|Sycon",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2366827|2367870|2367871|2420826",
+          "taxon_id": "2420826",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6ec20bf2-191c-5a61-a1b5-da58e51b7042",
+          "name_string": "Sycon",
+          "canonical_form": "Sycon",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992332",
+          "local_id": "42867",
+          "url": "http://eol.org/pages/42867",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ascon",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "3fdb28f0-1a6b-56d5-bd4e-beadec623236",
+          "name_string": "Ascon",
+          "canonical_form": "Ascon",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97242302",
+          "local_id": "urn:lsid:ubio.org:namebank:4080422",
+          "global_id": "urn:lsid:ubio.org:namebank:4080422",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4080422",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Leucon",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "333c2b55-01e1-57b2-a947-d5042ea4aa67",
+          "name_string": "Leucon",
+          "canonical_form": "Leucon",
+          "classification_path": "Animalia|Arthropoda|Insecta|Coleoptera|Coleoptera|Curculionidae|Leucon",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362602|2362836|2365690|2460903",
+          "taxon_id": "2460903",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "333c2b55-01e1-57b2-a947-d5042ea4aa67",
+          "name_string": "Leucon",
+          "canonical_form": "Leucon",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33475245",
+          "local_id": "65223",
+          "url": "http://eol.org/pages/65223",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Leucosolenia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "12b16244-49c9-53b3-9d6d-f6c5ca77f5b8",
+          "name_string": "Leucosolenia",
+          "canonical_form": "Leucosolenia",
+          "classification_path": "Animalia|Porifera|Calcarea|Leucosolenida|Leucosoleniidae|Leucosolenia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2366827|2367870|2367873|2420378",
+          "taxon_id": "2420378",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "12b16244-49c9-53b3-9d6d-f6c5ca77f5b8",
+          "name_string": "Leucosolenia",
+          "canonical_form": "Leucosolenia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20730958",
+          "local_id": "34599",
+          "url": "http://eol.org/pages/34599",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

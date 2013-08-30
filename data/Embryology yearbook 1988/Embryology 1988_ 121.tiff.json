@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=WeNbyhKBSgi4eS2kfj0YPQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 121.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.082318949,
+    "total_duration": 24.584560669
+  },
+  "agent": "",
+  "created": "2013-06-18T13:07:29-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "invaginating posterior midgut? How do they get there in\nits absense?.\nfolded gastrulation /152 mothers 152 males.\nCollect embryos as early and late gastrula (3-5 after\neggs laid)\n(Things to think about: Do the posterior cells stain\neven though they do not form a posterior midgut? What\ndoes this mean about the zygotic effect of folded\ngastrulation.? Is it a selector gene which responds to\nsome maternal morphogen and establishes the endodermal\nlineage? What does the result say about the mechanism\ncontrolling 152 expression?\nKruppel/ 43.03 mothers males.\nhairy/ 43.03 mothers hairy/43.03 males.\nCollect embryos as blastoderms, early gastrula\n(Things to think about: Both these zygotically active\ngenes affect affect the segmentation pattern. In what\nways do the effects of the gap mutation (Kruppel) differ\nfrom those of the pair rule mutation (hairy), judging\nfrom cuticle preparations of late embryos and\nftz/galactosidase staining at the blastoderm stage? In\nwhat way is the Kruppel pattern similar to that produced\nby Bicaudal? (Are some stripes expanded and others\ncompressed? How are the patterns on the dorsal and\nventral sides of the embryo different and what might\nthis mean?) What doe this say about the relationship\nbetween Kruppel and Bicaudal. How is hairy different in\nits effects?\nWhat is the relationship of all these genes to fushi\ntarazu?)\n\n"
+}

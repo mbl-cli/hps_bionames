@@ -1,0 +1,122 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=xwGdiLd0SBGxhKkhxub7uA",
+  "input_url": null,
+  "file": "11_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.139988958,
+    "resolve_names_duration": 0.810034021,
+    "total_duration": 34.404558544
+  },
+  "agent": "",
+  "created": "2013-06-18T13:03:07-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Fundulus heteroclitus",
+      "scientificName": "Fundulus heteroclitus",
+      "offsetStart": 21,
+      "offsetEnd": 41,
+      "identifiedName": "Fundulus heteroclitus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 799,
+      "offsetEnd": 806,
+      "identifiedName": "Fundulus"
+    }
+  ],
+  "content": " 1937. The normal of Fundulus heteroclitus. Amt. Rec. l-15.\n1938. Poteucies for differentiation in the teleostean germ ring.\nJo Expo Z001o 12|  \n1  Organiaation of the teleoet blaetodem. Rev. Bi01o    \nPasteele, J., 1934. Repartition dee territoires et mouvementa morphogenetiqnes de\nla g..uul.t1.n ae lweuf a. truite (\"Selmo lrldaenv). comp. neu. a.\nl'A.seoo. Anat.  gg 451-458.\nPasteele, ., 1936. Etudes sur la gaetrulation dee V621/6bl(68 meroblaatiques.\n1. Teleosteenn. Arch. a. Biol. 51. 205-308.\nRooeen-Runge, ac., 1938. on the early aewlepmenz blpelu alfferennatlen .ma\ncleavage -- of zebra fish,  Biol. Bull. liz 119-135.\nnuanlek, 1955. Tamer. .na bm.. stem.. vl, chap. 2 in 9; newly\nment (vlillier et' al., I pp. 297-314.\nScott, G.G.. 1906. Further notes on the regeneration of the fins of Fundulus\n?g  Biol. Bull. lg: 385-400.\nSumner, Francis B. 1904. A study of early fish development. Arch. f. Entw.  us 92-147\nTrinkaus, J.P.. 1949. The surface gel layer of  ggulg eggs in relation to epiboly.\nhte A?8de S?io 23 \n,1951. Astudyof  \n Jo we 20010   269\"5m?\nand JJ. Drake, 1956. control of merphegeneais in isolated\nblaetodeme by nutrient chemical factors. J. Exp. Zool. \n311-348. 9\nand J.W. Drake, 1956. S1@lif1Q8Il?9 of mass of tissue and volume of\nmedim in the differentiation of isolated BEQILIB bluetodeme. Amt.\n. R|?e 3750 \nomg, mug, .na Tung, 1945. mpeflmeete on tn. developer-mtal\npotenciee of blaetodecrm and fragments' ol' teleoetean eggs separated\nlatitudinally. Proc. Zool. Soc. Loud. 175-.\nTung, T.-C., and I.-I.-H. Tung, 1944. The development of isolated\nblaetomereo and fused 9868 in the goldfish. Proc. Zool. Soo. Loud.\n\nWilson, 1I.V., 1889. The embryolc.;.;y of the sea baee (Serranue Bull.\nUnited States Fish. Com. 2: 209-278. \nYamamoto, T. 1931. Studie; of the movements Ol the early embryos of\nwg Egg. I. General description. J. Fee. Soi. Imp. Univ. Tokyo\n gs 147-152. I\n1931. II. Relation between teapemture and the fregualcy\nof the contractions. J. Fac. Sci. Imp. Univ. Tokyo gs 153-161.\n1955. Temperature and the amplitude of the contraction\nwavee. . Fac. Sci. Imp. Univ., Tokyo is 105-110.  \n1953. IV. Temgberature constants for the velocity of the\nwave and for the pause. J. Pac. Sci. Imp. Univ., Tokyo 2: 11.1-115.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus heteroclitus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "b4e4dfca-4136-5fc1-8688-53af51190898",
+          "name_string": "Fundulus heteroclitus",
+          "canonical_form": "Fundulus heteroclitus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Elopocephala|Clupeocephala|Euteleostei|Neognathi|Neoteleostei|Eurypterygii|Ctenosquamata|Acanthomorpha|Euacanthomorpha|Holacanthopterygii|Acanthopterygii|Euacanthopterygii|Percomorpha|Smegmamorpha|Atherinomorpha|Cyprinodontiformes|Cyprinodontoidei|Fundulidae|Fundulus|Fundulus heteroclitus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||class||||||||||||||superorder|||||order|suborder|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|7898|186623|41665|32443|186624|186625|32447|186839|123365|123366|123367|123368|123369|123370|32455|129947|32485|129949|32456|28738|8087|28756|8077|8078",
+          "taxon_id": "8078",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b4e4dfca-4136-5fc1-8688-53af51190898",
+          "name_string": "Fundulus heteroclitus",
+          "canonical_form": "Fundulus heteroclitus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39163140",
+          "local_id": "1157172",
+          "url": "http://eol.org/pages/1157172",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

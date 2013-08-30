@@ -1,0 +1,186 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=JcDZojv2RIWtX38AFTLKfw",
+  "input_url": null,
+  "file": "161_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.17667234,
+    "resolve_names_duration": 1.033815301,
+    "total_duration": 28.187240526
+  },
+  "agent": "",
+  "created": "2013-06-18T12:17:26-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Porifera",
+      "scientificName": "Porifera",
+      "offsetStart": 1314,
+      "offsetEnd": 1321,
+      "identifiedName": "Porifera"
+    },
+    {
+      "verbatim": "Piliuium",
+      "scientificName": "Piliuium",
+      "offsetStart": 1441,
+      "offsetEnd": 1448,
+      "identifiedName": "Piliuium"
+    },
+    {
+      "verbatim": "Artemia",
+      "scientificName": "Artemia",
+      "offsetStart": 1668,
+      "offsetEnd": 1674,
+      "identifiedName": "Artemia"
+    },
+    {
+      "verbatim": "Cerebratulus,",
+      "scientificName": "Cerebratulus",
+      "offsetStart": 1750,
+      "offsetEnd": 1762,
+      "identifiedName": "Cerebratulus"
+    }
+  ],
+  "content": " \n.15~\nREFERENCES\nThe following books eontain textbeuk cn invertebrate larvae. Meet\nof these books also cite references tu the uriginal descriptive papers (the majori-\nty of which is written in Mittelhcehdeutseh). The in the elder bucks are\ngenerally mere reliable and more accurately illustrated than these in the later ones\nFollowing the list of banks is a selected gruup of key references on particu-\nlar phases of invertebrate larval biology.\nGeneral Beuks\nBALFOUR, F. M. 1855 A treatise un ecmparative embryolegy. Macmillan, \nKORSOH3LT HEIDER 1895, 1900 of embryology of invertebrates. Macmillan,\nNew Yerk \nMACBRIDE, E. 1914 Textboek of Invertebrates, MacMillan, Londcn.\nRIGHARDS, A. 1931 Outline uf cenparative embryelegy. Wiley, New York\n(gocd on bibliography but net mush else)\nIBORRADAILE, et al. 1932, 1951. The invertebrate. 2nd, ea. Cambridge Univ. Press.\n.\nHYMAN, LIBBIE The series uf vclumes un invertebrates. \nSgeeial references\nBERRILL, N. J. 1950 The Tnnieata. Ray Scciety Mtnegraph, Landon.\nBERRILL, N. J. 1955 The crigin ef the vertebrates. 0xferu~C1arendcn Press.\nCOE, W. R. 1899 On the aevelepment uf the pilidium uf certain nemerteans.\nTransact. Connecticut Acad. \nFELL, H. B. 1945 A revision of the current-thecry of echinederm embryelogy.\nTrans. Roy. Soc. New Zeal. 15\nMINCHIN, E. 1900 The Porifera and Goelenterata. in Lankester's Treatise on\n4 Zuulufgy, pt. 2. Bleek, Lunmlun.\nSALENSKY 1886 Bau und Metamephess des Piliuium, Zeitsch. f. wise. Zccl.\n2 \nSGHULZ3, F. E. 1875 Untersuehungen uber een Ban und die Entwieklung der\nSpengien., Zeitsch. f. wiss. Zeal. gg (Suppl).\nWEISZ, P. B. 1947 The histelegical pattern cf metameric aevelepment in\nArtemia saline. J. Murph. \nWILSON, C. B. 1900 The habits ana early development of Cerebratulus, Q. J. M.\nS. QQ.\nWGLTERECK, R. 1898 Beitrage zur praktisehen Analyse der \nlung. Arch. Entw. Mech. 1\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Porifera",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "99981e2d-6c30-54b3-9230-5416603c5a58",
+          "name_string": "Porifera",
+          "canonical_form": "Porifera",
+          "classification_path": "Animalia|Porifera",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2364202",
+          "taxon_id": "2364202",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "99981e2d-6c30-54b3-9230-5416603c5a58",
+          "name_string": "Porifera",
+          "canonical_form": "Porifera",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40913760",
+          "local_id": "11143412",
+          "url": "http://eol.org/pages/11143412",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Piliuium",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Artemia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "53e607b0-4b27-589d-9e3d-5aaa0fcad0c5",
+          "name_string": "Artemia",
+          "canonical_form": "Artemia",
+          "classification_path": "Animalia|Arthropoda|Branchiopoda|Anostraca|Artemiidae|Artemia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2368143|2368164|2368172|2379281",
+          "taxon_id": "2379281",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7c3869b2-a383-5a9c-ac99-2cb68cf74d33",
+          "name_string": "Artemia Leach, 1819",
+          "canonical_form": "Artemia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30120057",
+          "local_id": "42108",
+          "url": "http://eol.org/pages/42108",
+          "match_type": 2,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cerebratulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "90a44ae5-050e-567e-b275-18a9f90498d4",
+          "name_string": "Cerebratulus",
+          "canonical_form": "Cerebratulus",
+          "classification_path": "Animalia|Nemertea|Anopla|Not assigned|Cerebratulidae|Cerebratulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2370535|2370546|2370547|2371800|2433649",
+          "taxon_id": "2433649",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "90a44ae5-050e-567e-b275-18a9f90498d4",
+          "name_string": "Cerebratulus",
+          "canonical_form": "Cerebratulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29005543",
+          "local_id": "59079",
+          "url": "http://eol.org/pages/59079",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

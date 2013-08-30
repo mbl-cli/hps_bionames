@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=N29aA8zZSL2f3oMZaAUi2g",
+  "input_url": null,
+  "file": "Embryology 1988_ 142.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.0439917,
+    "total_duration": 22.591077027
+  },
+  "agent": "",
+  "created": "2013-06-18T13:11:23-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "T7X556 kD\n\n410 440\n\n470\n\n500 530\n\nT7X525 MW 15 kD\n\n410 1 440\nVLTCEG DCI \n470 500\nIQQATAG RL\n\n"
+}

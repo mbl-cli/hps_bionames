@@ -1,0 +1,315 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=H1XX2741Tf2ZeaBh9hiBDg",
+  "input_url": null,
+  "file": "136_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.126635505,
+    "resolve_names_duration": 1.111608096,
+    "total_duration": 25.445380978
+  },
+  "agent": "",
+  "created": "2013-06-18T12:10:06-04:00",
+  "total": 7,
+  "names": [
+    {
+      "verbatim": "Clavelina huntsmani",
+      "scientificName": "Clavelina huntsmani",
+      "offsetStart": 918,
+      "offsetEnd": 936,
+      "identifiedName": "Clavelina huntsmani"
+    },
+    {
+      "verbatim": "Amaroucium constellatum",
+      "scientificName": "Amaroucium constellatum",
+      "offsetStart": 1116,
+      "offsetEnd": 1138,
+      "identifiedName": "Amaroucium constellatum"
+    },
+    {
+      "verbatim": "Ascidla nigra",
+      "scientificName": "Ascidla nigra",
+      "offsetStart": 1343,
+      "offsetEnd": 1355,
+      "identifiedName": "Ascidla nigra"
+    },
+    {
+      "verbatim": "Polyandrocarpa.",
+      "scientificName": "Polyandrocarpa",
+      "offsetStart": 1372,
+      "offsetEnd": 1386,
+      "identifiedName": "Polyandrocarpa"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 1448,
+      "offsetEnd": 1453,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Ascidia",
+      "scientificName": "Ascidia",
+      "offsetStart": 1572,
+      "offsetEnd": 1578,
+      "identifiedName": "Ascidia"
+    },
+    {
+      "verbatim": "Polyandrocarpa.",
+      "scientificName": "Polyandrocarpa",
+      "offsetStart": 1601,
+      "offsetEnd": 1615,
+      "identifiedName": "Polyandrocarpa"
+    }
+  ],
+  "content": "Bell, L.G.E.\n.fBerr111, N.J.\nBradways W. \nGlaser, 0.0. and\nAnslow, G.A.\nCloney, R.A.\nGrave, G.\nGrave, C. and\nKlcoll, P.A.\nGrave, C. and\nRiley, G.\n1939\n1940\n1951\ndes Keimes Ven Seeigsln, Amphibian, und\nAszidlen. Biol. Zentralb. 58: \nUber die Entwicklung von Ascidienlarven nach\nfruhzeltiger Entfernung der einzelnen organ~\nbildenden Keimbezirke. Arch. Entw. Mech. 139:\n738-492.\nWeitere Untersuchungen uber Regulation und\nDetermination in Ascidienkelme. Arch. Entw.\nMech. 140: 1-24.\nGibt es organisatoren oder lnduktoren in\nAscldienkeim. Acta Biotheoretlca 9: 185=196.\nTUNICATE TADPOLES AND THEIR METAMORPHOSIS\n1955\n1955\n1947\n1936\n1949\n1961\n1920\n1935\n1940\n1944\n1939\n1955\nEffect of chloretone on tunicate embryos.\nNature 175: 1048.\nProduction of abnormal metamorphosis in a\ntunicate. Nature 175: 1001.\nMetamorphosis in ascleians. J. Morph. 81:\n\nThe experimental alteration of the rate of\nmetamorphosis in the tunicate, Clavelina\nhuntsmani (Van Name). J. Exp. Zqol. 72: 213~225.\nCopper and ascidian metamorphosis. J. Exp.\nZool. 111: 117-139.\nObservations on the mechanism of tall resorption\nin Am. Zoologist 1: 67-87.\nAmaroucium constellatum. 1. The activities and\nreactions of the tadpole larvae. J. Exp. Zool.\n30: 239-258.\nMetamorphosis of ascidian larvae. Carnegie Inst.\nPapers, ihrtugas Lab. 29: \nStudies of larval life and metamorphosls in\nAscidla nigra and species of Polyandrocarpa.\nCarnegie Inst., Papers Tortugas Lab. 32: 1=46.\nThe larva of Styela partlta. Structure,\nactivities and duration of life. J. Morph.\n75 2     \nStudies of larval life and metamorphosis in\nAscidia nlgra and species of Polyandrocarpa.\nCarnegie Inst., Paper, Tortugas Lab. 32: l=46.\nDevelopment of the sense organs of the larva of\nschlosseri. J. Morph. 57: l85=2ll.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Clavelina huntsmani",
+      "results": [
+        {
+          "data_source_id": 7,
+          "data_source_title": "Union 4",
+          "gni_uuid": "36ed50af-b220-58cb-bf37-b780abf51fab",
+          "name_string": "Clavelina huntsmani",
+          "canonical_form": "Clavelina huntsmani",
+          "classification_path": "|Cellular life|Eukaryota|Opisthokonts|Choanoflagellates and animals|Animalia|Epitheliates|Bilateria|Deuterostomia|Chordata|Urochordata|Ascidia|Aplousobranchia|Clavelinidae|Clavelina|Clavelina huntsmani",
+          "classification_path_ranks": "|above family|above family|above family|above family|unranked|above family|above family|above family|above family|above family|above family|above family|family|genus|species",
+          "classification_path_ids": "2822864|2823207|2828118|2843765|2843766|2843767|2843768|17974913|2843770|2844251|2906670|2906692|2906693|2906694|2906695|2906696",
+          "taxon_id": "2906696",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "36ed50af-b220-58cb-bf37-b780abf51fab",
+          "name_string": "Clavelina huntsmani",
+          "canonical_form": "Clavelina huntsmani",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35327998",
+          "local_id": "512654",
+          "url": "http://eol.org/pages/512654",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Amaroucium constellatum",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7989e3ce-6ea5-5aad-817e-60646656d90c",
+          "name_string": "Amaroucium constellatum",
+          "canonical_form": "Amaroucium constellatum",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Polyclinidae|Aplidium|Aplidium constellatum",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2368563|2445172|5285804",
+          "taxon_id": "5287429",
+          "current_taxon_id": "5285804",
+          "current_name_string": "Aplidium constellatum (Verrill, 1871)",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7989e3ce-6ea5-5aad-817e-60646656d90c",
+          "name_string": "Amaroucium constellatum",
+          "canonical_form": "Amaroucium constellatum",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_9034338",
+          "local_id": "513595",
+          "url": "http://eol.org/pages/513595/names/synonyms",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ascidla nigra",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "d0f7a456-b9f6-579a-8941-e000f2719a41",
+          "name_string": "Ascidia nigra (Savigny, 1816)",
+          "canonical_form": "Ascidia nigra",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Ascidiidae|Ascidia|Ascidia nigra",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363377|2421959|5284786",
+          "taxon_id": "5284786",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f502481b-eb7c-5d97-9c5b-02a4920d32d2",
+          "name_string": "Ascidia nigra",
+          "canonical_form": "Ascidia nigra",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37498394",
+          "local_id": "512578",
+          "url": "http://eol.org/pages/512578",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Polyandrocarpa",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b74af90b-ce98-5ac0-895b-aa3786c1f9a4",
+          "name_string": "Polyandrocarpa",
+          "canonical_form": "Polyandrocarpa",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Polyandrocarpa",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2374106",
+          "taxon_id": "2374106",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b74af90b-ce98-5ac0-895b-aa3786c1f9a4",
+          "name_string": "Polyandrocarpa",
+          "canonical_form": "Polyandrocarpa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103807",
+          "local_id": "11868",
+          "url": "http://eol.org/pages/11868",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ascidia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "67ef4142-9496-570e-bda6-a771e8e2e6d8",
+          "name_string": "Ascidia",
+          "canonical_form": "Ascidia",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Ascidiidae|Ascidia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363377|2421959",
+          "taxon_id": "2421959",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "67ef4142-9496-570e-bda6-a771e8e2e6d8",
+          "name_string": "Ascidia",
+          "canonical_form": "Ascidia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27908482",
+          "local_id": "43441",
+          "url": "http://eol.org/pages/43441",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

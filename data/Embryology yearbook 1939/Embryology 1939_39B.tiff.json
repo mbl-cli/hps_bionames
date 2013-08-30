@@ -1,0 +1,373 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=9fcyeoy5TjOTNeuFyXEhNQ",
+  "input_url": null,
+  "file": "Embryology 1939_39B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.191423501,
+    "resolve_names_duration": 0.863493529,
+    "total_duration": 21.778215853
+  },
+  "agent": "",
+  "created": "2013-06-19T15:25:59-04:00",
+  "total": 10,
+  "names": [
+    {
+      "verbatim": "Eudendrium.",
+      "scientificName": "Eudendrium",
+      "offsetStart": 90,
+      "offsetEnd": 100,
+      "identifiedName": "Eudendrium"
+    },
+    {
+      "verbatim": "Pennaria tiarella",
+      "scientificName": "Pennaria tiarella",
+      "offsetStart": 181,
+      "offsetEnd": 197,
+      "identifiedName": "Pennaria tiarella"
+    },
+    {
+      "verbatim": "Pennaria",
+      "scientificName": "Pennaria",
+      "offsetStart": 300,
+      "offsetEnd": 307,
+      "identifiedName": "Pennaria"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 313,
+      "offsetEnd": 322,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Polypodium hydriforme",
+      "scientificName": "Polypodium hydriforme",
+      "offsetStart": 574,
+      "offsetEnd": 594,
+      "identifiedName": "Polypodium hydriforme"
+    },
+    {
+      "verbatim": "Gonionemus",
+      "scientificName": "Gonionemus",
+      "offsetStart": 637,
+      "offsetEnd": 646,
+      "identifiedName": "Gonionemus"
+    },
+    {
+      "verbatim": "Pennaria tiarella",
+      "scientificName": "Pennaria tiarella",
+      "offsetStart": 777,
+      "offsetEnd": 793,
+      "identifiedName": "Pennaria tiarella"
+    },
+    {
+      "verbatim": "Gonothyraea loveni",
+      "scientificName": "Gonothyraea loveni",
+      "offsetStart": 876,
+      "offsetEnd": 893,
+      "identifiedName": "Gonothyraea loveni"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 1471,
+      "offsetEnd": 1480,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 1689,
+      "offsetEnd": 1698,
+      "identifiedName": "Tubularia"
+    }
+  ],
+  "content": "\nBibliography\nHargitt, C. W. 1904. Zool. Jahrb. 20, pp. 257-277. The early\ndevelopment of Eudendrium.\nHargitt, G. T. 1900. Contributions to the natural history and de~\nvelopment of Pennaria tiarella. Amer. Nat. vol. 54, pp.\nasv-415.\nHargitt, G. T. 1909. Maturation, fertilization and segmentation of\nPennaria and Tubularia. Bull. Mus. Corp. Zool., Harvard,\n  \nJoseph, H. 1925. Zur Morphologie und Entwicklungsgeschichte von\nHalenemita und Gonicnemus. f. wiss. Zool.,\nsd, 125, s. 574-454. A\nZipin, L. 1911. Zool. Jahrb. Anat. 51 pp. 517-426. Die Morphologie\nund Biologie von Polypodium hydriforme.\nPerkins, H. F. 1902. The development of Gonionemus murhachii. Prod.\nAcad. Nat. Sci. (Philadelphia) pp. 750~790. \nGmallwood, W. M. 1899. Am. Nat. 35, pp. 861-870. The morpholcgy\nof Pennaria tiarella.\nWulfert J. 1902. f. wiss. Zocl. 71, pp. 296-527, Die\nembryonale Entwicklung von Gonothyraea loveni.\nisolation of Hydrozoan Blastomeres.\nMaas 1895. f. wise. Zool. 82, pp. 60l~6l0, Experimene\ntelle Beitrage zur Entwicklungsgeschichte der Medusen.\n(isolated blastomeres)\nLoja, R. 1895, Lrch. f. Entw. d. Org. 1 pp. 578-595; 2 pp. l~57.\nSullo sviluppo dei blastomeri isolati dalle uova di alcuno\n11163 C1118 6 0\nEURas2?a.2a Hr@r92Qa1\nWarth, L. G. 1954. Physiol. Zool. 7 pp. 565-599. The direction and\nmagnitude of potential differences in certain hydroids.\nBarth, L. G. 1958. Biol. Bull. 74, pp. 155-177. Quantitative\nstudies of the factors governing the rate of regeneration\nin Tubularia.\nBarth, L. G. 1958. Physiol. Zool. 11, pp. l79~186, 0xygen as a\ncontrolling factor in the regeneration of Tuhularia.\nChild, C. M. 1907. Archiv. f. Entwicklungsmech. vol. 25. Ln analysis\nof form~regu1ation in Tubularia. I. Sto1on~formaticn and\npolarity, pp. 596-414. II. Differences in proportion\nin the primordia, pp. 4l5~444. Regicwal and polar\ndifferences in the relation between primordium and\nhydranth, pp. 445-456.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Eudendrium",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ea6b4d96-be64-5e1e-a185-588de5364505",
+          "name_string": "Eudendrium",
+          "canonical_form": "Eudendrium",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Eudendriidae|Eudendrium",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366651|2394452",
+          "taxon_id": "2394452",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ea6b4d96-be64-5e1e-a185-588de5364505",
+          "name_string": "Eudendrium",
+          "canonical_form": "Eudendrium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327785",
+          "local_id": "23439",
+          "url": "http://eol.org/pages/23439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pennaria tiarella",
+      "results": [
+        {
+          "data_source_id": 159,
+          "data_source_title": "CU*STAR",
+          "gni_uuid": "1d3e3fd2-36ef-59a5-84a7-630441a2d5da",
+          "name_string": "Pennaria tiarella",
+          "canonical_form": "Pennaria tiarella",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "106240563",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4411762f-dadf-52d2-a886-0bef7cb97de9",
+          "name_string": "Pennaria tiarella (Ayres, 1852)",
+          "canonical_form": "Pennaria tiarella",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30650956",
+          "local_id": "2547029",
+          "url": "http://eol.org/pages/2547029",
+          "match_type": 2,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pennaria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Pennariidae|Pennaria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2363486|2488405",
+          "taxon_id": "2488405",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26328107",
+          "local_id": "100988",
+          "url": "http://eol.org/pages/100988",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Polypodium hydriforme",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "93373331-7080-582e-aada-6e063a855eff",
+          "name_string": "Polypodium hydriforme",
+          "canonical_form": "Polypodium hydriforme",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Cnidaria|Hydrozoa|Trachylina|Narcomedusae|Polypodiidae|Polypodium|Polypodium hydriforme",
+          "classification_path_ranks": "|superkingdom||kingdom||phylum|class|order|suborder|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|6073|6074|37521|43184|168711|43185|43186",
+          "taxon_id": "43186",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "93373331-7080-582e-aada-6e063a855eff",
+          "name_string": "Polypodium hydriforme",
+          "canonical_form": "Polypodium hydriforme",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28993181",
+          "local_id": "204202",
+          "url": "http://eol.org/pages/204202",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gonionemus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "9bb907e5-8209-53cf-82ec-132fb2b9bedd",
+          "name_string": "Gonionemus",
+          "canonical_form": "Gonionemus",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Limnomedusae|Olindiasidae|Gonionemus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363468|2363469|2394684",
+          "taxon_id": "2394684",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "9bb907e5-8209-53cf-82ec-132fb2b9bedd",
+          "name_string": "Gonionemus",
+          "canonical_form": "Gonionemus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28551714",
+          "local_id": "23672",
+          "url": "http://eol.org/pages/23672",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gonothyraea loveni",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "6d65fb90-c9d6-5c38-bab1-8aa065b7a840",
+          "name_string": "Gonothyraea loveni",
+          "canonical_form": "Gonothyraea loveni",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Cnidaria|Hydrozoa|Hydroida|Leptomedusae|Campanulariidae|Gonothyraea|Gonothyraea loveni",
+          "classification_path_ranks": "|superkingdom||kingdom||phylum|class|order|suborder|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|6073|6074|37516|6097|27800|314521|314522",
+          "taxon_id": "314522",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6d65fb90-c9d6-5c38-bab1-8aa065b7a840",
+          "name_string": "Gonothyraea loveni",
+          "canonical_form": "Gonothyraea loveni",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992870",
+          "local_id": "203213",
+          "url": "http://eol.org/pages/203213",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

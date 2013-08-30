@@ -1,0 +1,294 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=iCuJyT8lTe6jUulRjlsg5Q",
+  "input_url": null,
+  "file": "47_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.135860416,
+    "resolve_names_duration": 1.965950135,
+    "total_duration": 28.136563353
+  },
+  "agent": "",
+  "created": "2013-06-18T12:33:38-04:00",
+  "total": 15,
+  "names": [
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 552,
+      "offsetEnd": 559,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 626,
+      "offsetEnd": 633,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "(Fundulus)",
+      "scientificName": "Fundulus",
+      "offsetStart": 717,
+      "offsetEnd": 726,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "(Serranus",
+      "scientificName": "Serranus",
+      "offsetStart": 1012,
+      "offsetEnd": 1020,
+      "identifiedName": "Serranus"
+    },
+    {
+      "verbatim": "Salmo,",
+      "scientificName": "Salmo",
+      "offsetStart": 1179,
+      "offsetEnd": 1184,
+      "identifiedName": "Salmo"
+    },
+    {
+      "verbatim": "Fundulus.",
+      "scientificName": "Fundulus",
+      "offsetStart": 1312,
+      "offsetEnd": 1320,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "(Gobio",
+      "scientificName": "Gobio",
+      "offsetStart": 1454,
+      "offsetEnd": 1459,
+      "identifiedName": "Gobio"
+    },
+    {
+      "verbatim": "Qygrinus",
+      "scientificName": "Qygrinus",
+      "offsetStart": 1486,
+      "offsetEnd": 1493,
+      "identifiedName": "Qygrinus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1661,
+      "offsetEnd": 1668,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus.",
+      "scientificName": "Fundulus",
+      "offsetStart": 1822,
+      "offsetEnd": 1830,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1919,
+      "offsetEnd": 1926,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 2057,
+      "offsetEnd": 2064,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 2144,
+      "offsetEnd": 2151,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 2486,
+      "offsetEnd": 2493,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 2655,
+      "offsetEnd": 2662,
+      "identifiedName": "Fundulus"
+    }
+  ],
+  "content": "\nBibliography\nDEVELOPMENT OF THE TELEOST\nThe references below represenT only a small parT of The very exTensive liTeraTure\non The normal developmenT of, and experimenTal procedures performed on, TeleosT\nmaTerial. lmporTanT older liTeraTure is ciTed in some of The papers below.\ngeneral References\nRuTh, R. |948 ExperimenTal Embryology, A Manual of Techniques and Procedures (pp.\n36O~4l8 conTain useful summaries of many of The procedures noTed above and\ndescripTions of developmenT of several TeleosT species).\nj. ,Normal DevelopmenT.(STage Series) of Fundulus and OTher;TeleosTS\nOppenheimer, J. M. l937. The normal sTages oT Fundulus heTerocliTus, AnaT. Rec. QQ,\nSolberg, A. N., l93B. The developmenT of a bony fish (Fundulus) Prog. Fish.\nCulTur. DepT. of Comm. Bur. of Fish., WashingTon, D. C.\nTavolga, W. N., l949. Embryonic developmenT of The p|aTyfish (PlaTypoecilus), The\nswordTail (XighoghorQus) and Their hybrids, Bull. of Amer. Mus. HisT.,\n25, l65-229\nWilson, H. V. l89l. The embryology of The sea-bass (Serranus aTrarius)., Bull. U.S.\nFish, Comm., vol. 9.\nLl. ReproducTive Cycles, Qoqenesis and SpermaTogegesis\nGrodzinski, Z., l949. drops in The yolk oT The Sea TrouT, Salmo, TruTTa L.,\nBull. de l' Acad. Pol. Sci. eT Ser. B. I949, QQ,\nGuThrie, M. J., l928. FurTher observaTions on The ovarian eggs of Fundulus. AnaT.\nRec., Qi, 64.\nKonopacka, B., l955. Recherches hisTochimiques sur le developmenT des poissons.\nLa viTellogenese chez le Goujon (Gobio TluviaTalis)eT la Carpe (Qygrinus pig),\nBull. de l'Acad. Pol. Sci. eT LeTTres, Classe Sci. eT MaTh. Ser. B., QQ, l63\nMarza, V. D., E. V. Marza, and M. J. GuThrie, l937. HisTochemisTry ol The ovary of\nFundulus heTerocliTus, wiTh special reference To The differenTiaTing oocyTes,\nBiol. Bull., ZQD 67-92.\nMaTThews, S. A., I938. The seasonal cycle in The gonads of Fundulus. Biol. Bull.\nZQ, 66-74 \nNewman, H. H., l907. Spawning behavior and sexual dimorphism of Fundulus heTeroc|i-\nTus and allied Tish. Biol. Bull., LZ,\nThe GameTes and,FerTLLizaTlon\nBancrofT, F. W. l9l2. HerediTy of pigmenTaTion in Fundulus hybrids. J.Exp.Zool. 12,\nForsThoeTel, P., l95l. The occurrence of Twinning in Fundulus heTerocliTus aTTer\ncenTriTugaTion. Biol. Bull., LQL, 22l.\nGuThrie, N. J. l925. CyToplasmio inclusions in cross~acTivaTed eggs of TeleosTs.\nT. u. Mikr. AnaT., Z, 347.\nHinrichs, M. A., l938. Physiol. Zool., li, l55.\nHinrichs, M. A. and l. T. GenTher, l93l. Physiol. Zool 4:46l\nKagan, B. M. l935. The ferTilizable period of The eggs of Fundulus heTerocliTus\nand some associaTed phenomena, Biol. Bull., 69.\nKao, Chien-Yuan, RobT. Chambers and E. L. Chambers, l95l. The inTernal hydrosTaTic\npressure of The Fundulus egg acTivaTed by puncTure. Biol. Bull. LQL, 2lO,2ll/\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Serranus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4f362b43-3520-59e8-9432-bf39761b1684",
+          "name_string": "Serranus",
+          "canonical_form": "Serranus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Perciformes|Serranidae|Serranus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2365601|2365623|2375724",
+          "taxon_id": "2375724",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4f362b43-3520-59e8-9432-bf39761b1684",
+          "name_string": "Serranus",
+          "canonical_form": "Serranus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20670933",
+          "local_id": "23804",
+          "url": "http://eol.org/pages/23804",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Salmo",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a9176642-0303-5cf1-8ca8-c6b60bb34a64",
+          "name_string": "Salmo",
+          "canonical_form": "Salmo",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Salmoniformes|Salmonidae|Salmo",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2365574|2365575|2393868",
+          "taxon_id": "2393868",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a9176642-0303-5cf1-8ca8-c6b60bb34a64",
+          "name_string": "Salmo",
+          "canonical_form": "Salmo",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305815",
+          "local_id": "19745643",
+          "url": "http://eol.org/pages/19745643",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gobio",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6f64b903-977a-517d-b3f0-1be9185af2d8",
+          "name_string": "Gobio",
+          "canonical_form": "Gobio",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cypriniformes|Cyprinidae|Gobio",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369367|2369371|2394901",
+          "taxon_id": "2394901",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6f64b903-977a-517d-b3f0-1be9185af2d8",
+          "name_string": "Gobio",
+          "canonical_form": "Gobio",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29117122",
+          "local_id": "25244",
+          "url": "http://eol.org/pages/25244",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Qygrinus"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=OcMmPzygSBquJQ2Cxt9hxQ",
+  "input_url": null,
+  "file": "90_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.207951948,
+    "resolve_names_duration": 1.197567794,
+    "total_duration": 25.156724502
+  },
+  "agent": "",
+  "created": "2013-06-18T12:50:18-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Tubifex.",
+      "scientificName": "Tubifex",
+      "offsetStart": 501,
+      "offsetEnd": 508,
+      "identifiedName": "Tubifex"
+    },
+    {
+      "verbatim": "Tubifex",
+      "scientificName": "Tubifex",
+      "offsetStart": 687,
+      "offsetEnd": 693,
+      "identifiedName": "Tubifex"
+    },
+    {
+      "verbatim": "T. wiss",
+      "scientificName": "T. wiss",
+      "offsetStart": 1065,
+      "offsetEnd": 1071,
+      "identifiedName": "T. wiss"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1437,
+      "offsetEnd": 1442,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1492,
+      "offsetEnd": 1497,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "\nLehman0,F.E.\nLehmann, F. E.\nLehmann, F.E.\nLehmann, F.E.\nLehmann, F.E.\nR. Bliss\nLehmann, F.E.\nWahli\nLeopoldseder,F\nLillie, F. R.\nLillie, F. R.\nLillie, F. R.\n\nLillie, F. .\nLillie, F. R.\nMead, A. D.\nMead, A. D.\nMorgan, T. H.\nMorgan, T. H.\nMorgan, T. H.\nMorgan, T. H.\nMorgan. T. H.\n|94l\n|948\n|950\n|950\n|949\n|954\nl93|\n|902\n|906\nl909\nl9ll\nl9l2\n|897\n|896\n|9lO\nl9lO\nl933\n|935\n|957\n\nDie Lagerung der polplasmen des Tubifexeies in ihrer\nAbhangigkeiT von der Eirinde. Die NaTurwiss. lOl.\nZur der polplasmen von Tubifex.\nRev. Suisse Zool. \nGiobulare ParTikel als submikroskopische E|emenTe des\nTierischen ZyToplasmas. ExperienTia ?;382\nElekTronenmikroskopische UnTersuchungen an der Polpiasmen\nvon Tubifex und den Mikromeren von ParacenTroTus. Archiv.\nKlaussTiTTig. \nE|ekTronenopTische UnTersuchungen an P|asmasTrukTuren des\nTubiTex~EieS. Rev. Suisse Zool. 561264\nHisTochemische und elekTronmikroskopische UnTerscheide im\ncyTop|asma der beiden SomaToblasTen des Tublfexkeimes.\nT. Zellforsch. 22: 6l8-629\ndes Eies von Clegsine nach EnTfernung des\nvegeTaTiven Polplasmas. ZeiT. T. wiss. Zool. 1?2f2Ol.\nDifferenTiaTion wiThouT cleavage in The egg of The annelid\nQhaeToQTerus. Arch. EnTw. l?;477\n0bservaTions and experimenTs concerning The elemenTary\nphenomenon of embryonic deveiopmenT in ChaeTogTerus.\nJ. Exp. Zool. 3:l53\nPolariTy and bi|aTeraliTy of The annelid egg. ExperimenTs\nwiTh cenTriTugal force. Biol. Bull. l?;54\nSTudies of TerTilizaTion in Nereis l. J. Morph 22;36l.\nSTudies of +erTiilzaTion in Nereis J. Exp. Zool.\nl;;4|3\nThe early developmenT of marine annelids. J. Morph \nThe early deve|opmenT of marine annelids. J. Morph. li.\nThe eTfecTs of alTering The posiTion of The cleavage planes\nin eggs wiTh precocious specificaTion. Arch. EnTwick.\nMech. 225205\nCyTo|ogical sTudies of cenTrifuged eggs. J. Exp. Zool.\n9:593\nThe formaTion of The anTipolar lobe in llyanassa. J. Exp.\nZool. ?i;433\nThe separaTion of The egg of llyanassa inTo Two parTs by\nBiol. Bull. \nThe facTors |ocaTing The firsT cleavage plane in The egg of\nChaeToQTeQg?, CyTologia \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Tubifex",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "98750f5c-1d5e-56cb-b251-dea11c436ef9",
+          "name_string": "Tubifex",
+          "canonical_form": "Tubifex",
+          "classification_path": "Animalia|Annelida|Polychaeta|Not assigned|Maldanidae|Tubifex",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369670|2372221|2537143",
+          "taxon_id": "2537143",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "98750f5c-1d5e-56cb-b251-dea11c436ef9",
+          "name_string": "Tubifex",
+          "canonical_form": "Tubifex",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30068727",
+          "local_id": "3095689",
+          "url": "http://eol.org/pages/3095689",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "T. wiss"
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

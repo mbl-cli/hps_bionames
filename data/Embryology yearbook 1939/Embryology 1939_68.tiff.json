@@ -1,0 +1,143 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=PMQswF7GQiaUmJ3tEB4faw",
+  "input_url": null,
+  "file": "Embryology 1939_68.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.176572217,
+    "resolve_names_duration": 0.73287715,
+    "total_duration": 23.065531084
+  },
+  "agent": "",
+  "created": "2013-06-19T15:32:10-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Nereis,",
+      "scientificName": "Nereis",
+      "offsetStart": 1189,
+      "offsetEnd": 1195,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Chaetopterus",
+      "scientificName": "Chaetopterus",
+      "offsetStart": 1786,
+      "offsetEnd": 1797,
+      "identifiedName": "Chaetopterus"
+    },
+    {
+      "verbatim": "Nereis,",
+      "scientificName": "Nereis",
+      "offsetStart": 1975,
+      "offsetEnd": 1981,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 2184,
+      "offsetEnd": 2189,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 2211,
+      "offsetEnd": 2216,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "\nafter fertilization the egg wrinkles and distorts and becomes quite\nirregular in somewhat amoeboid fashion. The entrance cone has al-\nready flattened considerably, but is still present, and although the\nsperm is obscured from view, the\nis not completed until some time\nentrance of its head into the egg\nlater (Bib. ref. 6, 9).\nAfter another l0 minutes at about 50 minutes) the egg\nrounds up again, but\nas the time approaches for the polar body to\nfonn, his egg elongates in a direction perpendicular to the polar\naxis. If no eggs lie so that the forming polar body is on the horizon\nthe dish should be shaken. The first polar body may form at about\n56-40 minutes, and it lies in the space between the egg and the vitel~\nline membrane. This\nthan elsewhere. The\nand commonly does so\nthus lifted into the\nspace is wider in the region of the animal pole\nsecond polar body often forms at about 50 minutes\nimmediately under the first polar body, which is\nperivitelline space. At perhaps 80 minutes the\neggs will begin to divide to two unequal sized blastomeres. Observe\n2nd and 5rd cleavages alse, if time pennits. The 5rd division, from\n4 to 8 cells, produces 4 micromeres by spiral cleavage.\nNereis, part two: Place some very recently fertilized eggs in\na drop of thick chinese ink suspension in the center of the bottom of\na Syracuse dish. As\nthe jelly is secreted, the attached sperm causes\na canal to form in the secreted jelly into which particles of ink will\npenetrate. ihe ink thus marks the entrance point of the sperm. After\nthe canal has filled with ink, add sea water and, if time pemnits, ob-\nserve in a number of\nthe polar bodies and\nink (Bib, ref. 6, 9,\nGhaetopterusr\neggs the relation of the first cleavage plane to\nthe entrance point of the spemn as marked by the\nll). \nThe Chaetopterus egg is rather dark and granular. It is \nmore than l00 microns in diameter, but before fertilization the eggs\nare often not quite spherical. The polar bodies are larger than in\nNereis, and the egg divides to form two unequal cells by means of a\npolar lobe at the vegetal pole.\nwhen the e'g is\ntaken from the female it contains a large im~\nmature nucleus %germinal vesicle), as does the Nereis egg, but unlike\nthe Nereis egg, it partly matures when placed in sea water even if it\nis not fertilized. A number of species of eggs partly mature when\nthey come into sea water and Pgsteels (Bib. ref. l2) has shown that 5\nthis\nis dependent upon the presence of Calcium in the sea water.\nChaetopteggs eggs develop quite rapidly. If eggs are fertilized\njust\nthey\nwhen\nized\nafter the partial maturation in sea water has been completed,\ndevelop as rapidly as eggs inseminated l2-l5 minutes earlier\nfirst placed in sea water (Bib. ref. 14). When eggs are fertile\nafter having been in sea water for l5 minutes or longer, the\nfollowing schedule applies to aof of the eggs in a population reared\nat 210 C. (Bib. ref.\nl4) (time counted from fertilization): polar\nbody, l4.5 minutes; 2nd polar body, 27 minutes; \"pear shaped\" stage,\n46 minutes; polar lobe bulge, 52 minutes; cleavage with polar lobe\nattached, 58 minutes; completed cleavage with polar lobe resorbed into\none blastomere, 62 minutes; 4 cell stage, 82 minutes. lf the labora-\ntory air temperature\nis about 24O C., the development will be more\nrapid, and about at the rate indicated in the descriptive text below.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Chaetopterus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "731a221e-25f7-551b-8b46-b377bd15d759",
+          "name_string": "Chaetopterus",
+          "canonical_form": "Chaetopterus",
+          "classification_path": "Animalia|Annelida|Polychaeta|Spionida|Chaetopteridae|Chaetopterus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369624|2369631|2525102",
+          "taxon_id": "2525102",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "731a221e-25f7-551b-8b46-b377bd15d759",
+          "name_string": "Chaetopterus",
+          "canonical_form": "Chaetopterus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40913590",
+          "local_id": "489401",
+          "url": "http://eol.org/pages/489401",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

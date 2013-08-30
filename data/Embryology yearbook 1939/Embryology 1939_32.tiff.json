@@ -1,0 +1,168 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=FLZ7kqISSn2ZAJCR8P5vWA",
+  "input_url": null,
+  "file": "Embryology 1939_32.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.197811931,
+    "resolve_names_duration": 0.696573959,
+    "total_duration": 24.42649421
+  },
+  "agent": "",
+  "created": "2013-06-19T15:25:00-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Obelia",
+      "scientificName": "Obelia",
+      "offsetStart": 1096,
+      "offsetEnd": 1101,
+      "identifiedName": "Obelia"
+    },
+    {
+      "verbatim": "Obelia geniculata",
+      "scientificName": "Obelia geniculata",
+      "offsetStart": 1856,
+      "offsetEnd": 1872,
+      "identifiedName": "Obelia geniculata"
+    },
+    {
+      "verbatim": "Obelia commissuralis",
+      "scientificName": "Obelia commissuralis",
+      "offsetStart": 1921,
+      "offsetEnd": 1940,
+      "identifiedName": "Obelia commissuralis"
+    }
+  ],
+  "content": "-5-\nObclig. (June, July, August)\nThe gonosomes are several times as large as the hydranths.\nexamine specimens and see if they are located at random along the\nstalks, or in regular places.\nAn Ubelia gonosome has an enlarged transparent covering, the\ngonangium, with a blastostyle extending thru it from base to tip.\nThe outer end, or tip, of the blastostyle expands to make a loose\nplug for the gonangium.when mature.\nGn the blastostyle are borne the cluster of gonophores. These\nmature as medusae and break loose, escaping past the blastostyle\nplug thru the opening of the gonangium. Their free-swimming life\nlasts l-2 months. They are commonly caught in tow nets.\nSee if you can tell which of the gonophores on a blastostyle\nthe older. Determine the general structure and position of the\ntentacles on one of the older gonephores; \n9.196\nwith needles open the gonangium of a well-matured gonoseme and\nexamine the gonophores that are relaesed. If any are practically\nmature they may show swimming movements. Some that show earlier\nstages of development may be liberated by teasing and studied.\nIf Obelia colonies are kept overnight in a dish of sea water\non the desk (remember not to crowd them), mature swimming medusae can\nusually be found in it next day. Examine some of them when available\nand note that their structure is imperfect (compared with\nthat of Bougainvillea).\nThe velum is reduced to a narrow and somewhat lobed membrane\nnear the bases of the tentacles. This makes possible an eversion\nof the bell when the medusa comes to rest, so that the manubrium\nsticks out from the center of the convex side, like the handle of\na post~hurricane umbrella. Watch the swimming movements, and see\nhow this happens. ln the everted condition, the manubrium is still\nmorphologically sub~umbrella, though the term has lost its appro-\npriateness.\nThe medusa of Obelia geniculata has 24 tentacles when\nliberated, while that of Obelia commissuralis has 16. Beth forms\nmay be available in the laboratory. Neither has the gonads developed\nwhen liberated.\nTennaria. (July, \nGonephores bud off singly around lower portion of the\nhydranth. They form reduced medusae with rudimentary\ntuft-like tentacles. Before opening out as transparent bell-shaped\nforms they suggest cocoanuts. A single colony bears gonophores\nof one sex only, but in the living individuals, sex can bc diagnosed\nonly with difficulty until they mature, when the pinkness of eggs and\nthe whiteness of sperm appear. (Smallwood \n9\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Obelia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Leptothecata|Campanulariidae|Obelia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363465|2366699|2394668",
+          "taxon_id": "2394668",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327602",
+          "local_id": "18217",
+          "url": "http://eol.org/pages/18217",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Obelia geniculata",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "fd90700a-9278-53f1-9776-59a4c261b72c",
+          "name_string": "Obelia geniculata",
+          "canonical_form": "Obelia geniculata",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Cnidaria|Hydrozoa|Hydroida|Leptomedusae|Campanulariidae|Obelia|Obelia geniculata",
+          "classification_path_ranks": "|superkingdom||kingdom||phylum|class|order|suborder|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|6073|6074|37516|6097|27800|32569|185004",
+          "taxon_id": "185004",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "fd90700a-9278-53f1-9776-59a4c261b72c",
+          "name_string": "Obelia geniculata",
+          "canonical_form": "Obelia geniculata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992839",
+          "local_id": "203229",
+          "url": "http://eol.org/pages/203229",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Obelia commissuralis",
+      "results": [
+        {
+          "data_source_id": 159,
+          "data_source_title": "CU*STAR",
+          "gni_uuid": "d4c5a29b-34ae-5895-a01c-36bb87881485",
+          "name_string": "Obelia commissuralis",
+          "canonical_form": "Obelia commissuralis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "106242344",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "27eb80bb-2a43-5061-a98a-79a7407092e5",
+          "name_string": "Obelia commissuralis McCrady 1859",
+          "canonical_form": "Obelia commissuralis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_11964986",
+          "local_id": "203232",
+          "url": "http://eol.org/pages/203232/names/synonyms",
+          "match_type": 2,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=3ksBBIzJTpaXiGfZ8EJv3w",
+  "input_url": null,
+  "file": "Embryology 1988_ 90.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.232590794,
+    "resolve_names_duration": 1.55580684,
+    "total_duration": 23.871726301
+  },
+  "agent": "",
+  "created": "2013-06-18T13:28:53-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Amonium",
+      "scientificName": "Amonium",
+      "offsetStart": 888,
+      "offsetEnd": 894,
+      "identifiedName": "Amonium"
+    }
+  ],
+  "content": "The next morning dry gel for about lhr. When\ncompletely dry, place gel over X-RAY film, and under\nfilm place a Cronex intensifying screen. Wrap\ntogether preferrably between stiff plates\nof some kind, wrap in aluminum foil, and place in\n-70 to expose film (note: intensifying screens do\nnot work much above -70, if they are not used the\nfilm can be exposed at room temperature.\nIntensifying screens speed exposure by about 3 fold)\nSDS PAGE Pellet protein precipitate from previous day. Discard\nthe radioactive and dry the pellet under\nvacuum\nSet up vertical gel form, making sandwich by using\nspacers to separate two glass plates. Determine the\ninternal volume off the sandwich. From stock\nsolutions (which will have been pre-made) prepare a\nsuuficiently large gel of: 25 mM Tris pH 6.8, 0.1%\nSDS, and 15% Acrylamide/Bisacrylamide (take up\nremaining volume with H20). Add a pinch of solid\nAmonium persulfate, and mix:(note: be very careful\nhandling acrylamide as it is a known neurotoxin\nuntil it has polymerized). Place flask under vacuum\nfor about 2 min (acrylamide will not polymerize in\nair). Add about 50 ul of TEMED (this is the catalyst\nthat will drive polymerization; the speed of\npolymerization can be controlled by varying the\namounts of TEMED and Ammonium Persulfate). Pour gel\ninto gel form leaving about l-2 cm form the bottom\nof where wells will reach (measure this ahead of\ntime and mark with a pen). When gel is poured top\nit off with a thin layer of butanol. Pour remaining\nacrylamide solution into disposable glass tubes and\ntop these off with butanol (this will allow you to\nmonitor when the gel has hardened).\nPrepare stacking gel of about 10 ml that is 3%\nacrylamide, 25mM Tris pH 8.8, 0.1% SDS. Add\nammonium persulfate, mix and put under vacuum. When\nthe other gel has hardened, add 20 ul TEMED, mix,\nand fill the remainig volume of the gel form with\nstacking gel (remember to first pour off butanol).\nAdd comb and treat remaining acrylamide as before.\nAllow gel to harden.\nWhen stacking gel has polymerized, remove comb, and\nadd the gel form to vertical gel tank. Fill upper\nand lower buffer chambers with running buffer.\nAdd 100 ul of SDS-Sample buffer, and boil for 2 min.\nRemove 10 ul and count in ACS on scintillation\ncounter. Transfer smple to microcentrifuge tube.\nAdd 10 ul bromophenol blue. Add samples to wells.\nRun gel at 30 mAmps until bromophenol blue has run\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Amonium",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

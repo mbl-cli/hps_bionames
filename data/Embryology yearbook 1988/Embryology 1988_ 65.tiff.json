@@ -1,0 +1,86 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=9CpMkxfzTbOmH4s5GEyXVQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 65.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.217344565,
+    "resolve_names_duration": 0.801924514,
+    "total_duration": 26.882114755
+  },
+  "agent": "",
+  "created": "2013-06-18T13:23:41-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 991,
+      "offsetEnd": 1000,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "A.functional",
+      "scientificName": "A. functional",
+      "offsetStart": 1460,
+      "offsetEnd": 1471,
+      "identifiedName": "A.functional"
+    }
+  ],
+  "content": "  0 Qi 12 #9 0123 i\\     \nAnderson, B.R, Stevenson, L.A, Jesaitis, D.A. Goodenough,\nand M.S. Mboseker 1988 Characterization of Z0-1, a protein\ncom onent of the tight junction from mouse liver and Madin-Darby\ncanine kidney cells. J. Cell Biol. 106:1141-1149\nAtkinson, A.S. Menko, R.G. Johnson, J.R. Sheppard, and J.D.\nSheridan 1981 Rapid and reversible reduction of junctional\npermeability in cells infected with a temperature-sensitive mutant\nof avian sarcoma virus. J. Cell Biol. 91:573-578\nAzarnia, R. and.W.R. Loewenstein 1984 Intercellular communication\nand the control of growth: X. Alteration of junctional\npermeability by the gene. A study with temperature-sensitive\nmutant Rous sarco a virus. J. Membrane Biol. 82:l91-205\nBaker, T.S., D.L.D. Caspar, C.J. Hollingshead, and D.A. Goodenough\n1983 Gap junction structures IV. Asymmetric features revealed by\nlow~irradiation.microscopy. J. Cell Biol. 96:204-216\nBangiello, T.A., L. Saez, Baylies, G. Gasic, Young, and\nD.C. Spray 1987 The Drosophila clock gene per affects\nintercellular junctional communication. Nature (Lond.) 328:686-691\nBeyer, EC, DL Paul, and DA Goodenc gh 1987 Connexin43: a protein\nfro  rat heart hom logous to a gap junction protein from liver. J.\nCell Biol. lO5:262l-2629\nDahl, G., T. Muller, D. Paul, R. Voellmy, and R. Werner 1987\nExpression of functional cell-cell channels fr cloned rat liver\ngap junction co plementary DNA. Science 236:l29O-1293\nGumbiner, B. and K. Simons 1986 A.functional assay for proteins\ninvolved in establishing an epithelial occluding barrier:\nidentification of a uvomorulinflike polypeptide. J. Cell Biol.\n1022457-468\nHertzberg, E.L. an  R.V. Skibbens 1984 A protein homologous to the\n27,000 dalton liver gap junction protein is present in a wide\nvariety of species and tissues. Cell 39:61-69\nHertzberg, E.L., D.C. spray, and Bennett 1985 Reduction of\ngap junctional conductance by microinjection of antibodies against\nthe 27-kDa liver gap ju ction polypeptide. Proc. Natl. Acad. Sci.\n(USA) 82:2412-2416\nKachar, B. and T.S. Reese 1982 Evidence for the lipidic nature of\ntig junction strands. Nature (Lon .) 296:464-466\nKistler, J, Christie, and Bullivant 1988 ologies between\ngap junction proteins in lens, heart and liver. Nature 331:721-723\nKu ar, and N.B. Gilula 1986 Cloning and characterization of\nhu an and rat liver cD As coding for a gap junction protein. J.\nCell Biol. 1032767-776\n\nA   ii If W.  \nfj)w%EUR\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "A. functional"
+    }
+  ]
+}

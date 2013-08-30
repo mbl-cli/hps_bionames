@@ -1,0 +1,122 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=RY86dCHhQt6EGxVWknm45A",
+  "input_url": null,
+  "file": "Embryology 1988_ 35.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.125936525,
+    "resolve_names_duration": 1.618471728,
+    "total_duration": 26.249365676
+  },
+  "agent": "",
+  "created": "2013-06-18T13:18:07-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Pluteus",
+      "scientificName": "Pluteus",
+      "offsetStart": 89,
+      "offsetEnd": 95,
+      "identifiedName": "Pluteus"
+    },
+    {
+      "verbatim": "Strongylocentrotus purpuratus pluteus",
+      "scientificName": "Strongylocentrotus purpuratus pluteus",
+      "offsetStart": 573,
+      "offsetEnd": 609,
+      "identifiedName": "Strongylocentrotus purpuratus pluteus"
+    }
+  ],
+  "content": "L/ws R. 1\n6/.hifi\nSeparation of Ectoderm and Endoderm/Mesoderm\nof Sea Urchin Embryos and Pluteus Larvae\nThe dissociation and isolation procedures described here are based on the presence\nof a basal lamina that lines the blastocoel wall of the post-hatching embryo and on a\ndifferential effect of glycine-EDTA on the germ layers of the developing embryo. The\nprotocol as outlined is adopted from several sources (references listed below), and it\nshould be noted that optimal times for glycine-EDTA treatment will vary with species of\nurchin (McClay and Marchose, 1979).\nThe Strongylocentrotus purpuratus pluteus larvae that we utilize here are at\n65 72 hr of development. The method works as well for earlier embryonic stages (Harkey\nand Whitely, l980).\nWash plutei several times by gentle centrifugation and resuspension in ice-cold\nMFSW.\nlr\nWash the final pluteus pellet very briefly by resuspension in 4-5 vol ice-cold\nglycine-EDTA, followed by centrifugation. Immediately aspirate off (pour off) the\nsupernatant (discard).\nResuspend the pellet in 4-5 vol glycine-EDTA. NOTE: For species that are\nparticularly susceptible to dissociation in glycine-EDTA, omit Step2 and use\n40 vol glycine-EDTA in Step 3. \nlncubate on ice for 4 min.\nSediment the plutei and quickly aspirate off the supernatant.\nResuspend the pellet in vol ice-cold NOTE: The plutei are not\ndissociated by the brief glycine-EDTA treatment which extracts hyalin. They\nshould be intact, the ectoderm cells remaining attached to the basal lamina lying\nbeneath the ectoderm layer, but should have a \"loose\" appearance that is due to the\nabsence of the hyalin layer.\nDissociate the plutei by pulling the suspension syringe (without a needle) 20 times or by pipetting up and down using a Pasteur\npipette. This removes the ectoderm cells and leaves the basal lamina as an intact\n\"bag\" covering the skeleton and endoderm. NOTE: After the plutei are removed\nfrom glycine and resuspended in dissociation should be begun within several\nminutes, as they become increasingly difficult to dissociate with longer delays due\nto regeneration of the hyalin layer.\nSediment the bags out of the plutei suspension. They pellet\nwith gentle centrifugation, for example, 20 sec in a clinical tabletop centrifuge, or\nat 250><g for 1+ min (Harkey and Whitely, l980). Save the supernatant which\ncontains the ectoderm cells. Wash the bag pellet 2-3 times with FSW. Monitor the\nbag fraction until it is free of ectoderm cells.\nFilter the ectoderm supernatant through Nitex-28 um. The filtrate contains\nectoderm cells, and the retentate contains contaminating bags. Collect the\nectoderm cells by centrifuging the filtrate at 650><g for 10 min, and resuspend the\ncells in MFSW.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Pluteus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5bf70207-60e8-56ac-83cd-1aa08380655f",
+          "name_string": "Pluteus",
+          "canonical_form": "Pluteus",
+          "classification_path": "Fungi|Basidiomycota|Agaricomycetes|Agaricales|Pluteaceae|Pluteus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2365755|2365756|2365764|2365800|2365880|2385494",
+          "taxon_id": "2385494",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5bf70207-60e8-56ac-83cd-1aa08380655f",
+          "name_string": "Pluteus",
+          "canonical_form": "Pluteus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27894468",
+          "local_id": "16481",
+          "url": "http://eol.org/pages/16481",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Strongylocentrotus purpuratus pluteus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "d120b4c4-a920-59c5-81ea-256e5ce9ab25",
+          "name_string": "Strongylocentrotus purpuratus (Stimpson, 1857)",
+          "canonical_form": "Strongylocentrotus purpuratus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Strongylocentrotidae|Strongylocentrotus|Strongylocentrotus purpuratus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362619|2442206|6847035",
+          "taxon_id": "6847035",
+          "match_type": 4,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "53f53c09-6546-50a0-9b07-de0af452bf30",
+          "name_string": "Strongylocentrotus purpuratus",
+          "canonical_form": "Strongylocentrotus purpuratus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20633061",
+          "local_id": "598175",
+          "url": "http://eol.org/pages/598175",
+          "match_type": 4,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

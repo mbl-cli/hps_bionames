@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=lAnz0ubwQV2wfrftyjtQZQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 14.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.090290703,
+    "resolve_names_duration": 0.467248847,
+    "total_duration": 21.395376207
+  },
+  "agent": "",
+  "created": "2013-06-18T13:11:01-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 95,
+      "offsetEnd": 99,
+      "identifiedName": "Ciona"
+    }
+  ],
+  "content": "Although cytochalasin prevents cytokinesis, it does not stop\nnuclear divisions. Fertilize some Ciona eggs. When they reach\nthe 2-cell Stage place some in a (provided) cytochalasin solution.\nYou will be able to watch the nuclei dividing under your compound\nmicroscopes during the next hour.\n5. Metamorphosis of the ascidian larva\nYou will be provided with some attractive orange colonies of a\ncolonial ascidian, digense. This Southern California\nspecies is now endemic in Cape waters as a marine fouling\norganism: it has been given the common name of Freeman's Blight in\nhonor of Gary Freeman, who first released it into Eel Pond about\n15 years ago.\nIf you tease these colonies apart with needles, you will release\nsome very large and interesting orange larvae. The species has a\nform of development in which large eggs are sequestered and\nnurtured in brood pouches; they release larvae (at dawn) rather\nthan form of development called viviparous. The larvae\nlook like small Hoover vacuum cleaners. While they are\nunfortuntely quite opaque, they start to undergo metamorphosis\nquickly (within 20 minutes) and are extremely hardy. While these\nlarvae are unfortunately relatively opaque, you can nonetheless\nsee many features of their metamorphosis. Watch the process of\nlarval tail resorption: it happens fast. Isolate some of the\nlarvae into clean sea water dishes (before they metamorphose) and\nyou will find small zooids in your dishes tomorrow.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ciona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957",
+          "taxon_id": "2421957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628900",
+          "local_id": "43439",
+          "url": "http://eol.org/pages/43439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

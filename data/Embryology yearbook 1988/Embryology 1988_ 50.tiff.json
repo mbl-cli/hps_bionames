@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=9Wtb5nRXRf2pGvQVMy4lRQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 50.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.19134595,
+    "total_duration": 28.621211959
+  },
+  "agent": "",
+  "created": "2013-06-18T13:21:14-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "CaMg free sea water, 1 part sea water). Transfer the successful cases to a linbro dish\nwith sterile sea water. Place several whole eggs from the same capsule into another dish\nof the same type and rear under the same conditions. These will s?ve as controls.\n2) The removal of blastomeres and the separation of blastomeres from early cleavage\nstage embryosz, The blastomeres that make up the embryo have different presumptive fates.\nOne way to getat the extent to which they have already been specified is by removing them.\nA) The AB blastomere can be separated from the CD blastomere at the 2 cell stage and the\nBC and AD blastomeres can be separated from each other at the fouqcell stage (see figure).\nThe best time to do these separations is just as the next division is about tqoccur. The\nseparation can be done by pressing between the blastomeres with a glass needle. The\nseparated blastomeres should be raised in different linbro dishes so that they can be\nunambiguously identified. B) Removal of individual first quartet micromeres (la-ld) at\nthe 8 cell stage (see figure). Individual blastomeres may be eliminated by puncturing\nthem with a glass needle. Jab or prick the cell to be removed just before its next cleavage\nUpon injury it will quickly swell. After a few minutes it may be pulled away with a glass\nneedle. /Inj\n,fl f/ Reflected light is necessary\n\n\\q in order to see the micromeres\n6 1 of the 8-cell stage embryoCentrifugation experiments: Centrifugation can be used to create egg fragments\nwith different cytoplasmic compositions. By studying the development of these fragments\none can make a statementabout the developmental role of different cytoplasmic components\nand egg regions. llyanassa eggs orient in a gravitational field with the vegetal pole\ndown. When eggs which have just completed second polar body are centrifuged in a raffinose\nsolution (7g/25 ml water) the eggs are frequently separated into light nucleated animal\nfragments and heavy enucleated vegetal fragments. The centrifugation is done by slowly\nincreasing the centrifugal force to 2000g over a 3 minute period and then continuing to\ncentrifuge at this speed for an additional three minutes. This treatment does not always\nbring about fragmentation but in at least some cases the eggs are pulled into approximately\nequal parts. Immediately after centrifugation the light and heavy halves are washed in\nseveral changes of sterile sea water to dilute out the raffinose and the development of\nbothh?\\ves is monitored.\nReferences\nClement, A. C. 1952 Experimental studies on germinal localization in llyanassa. 1. The\nrole of the polar lobe in determination of the cleavage pattern and its influence in\nlater development. J. Exp. Zool. 121:593-626.\nClement, A. C. 1956 Experimental studies on germinal localization in llyanassa. ll The\ndevelopment of isolated blastomeres. J. Exp. Zool. 132:427-446.\nClement, A. C. 1967 The embryonic value of the micromeres in llyanassa as\ndetermined by deletion experiments. 1 The first quartet cells. J. Exp. Zool. 166:77-88.\nClement, A. C. 1968 Development of the vegetal half of the llyanassa egg after removal\nof most of the yolk by centrifugal force, compared with the development of animal\nhalves of similar visible composition. Develop. Biology 17:165-186.\nMorgan, T. H. 1933 The formation of the intipolar lobe in llyanassa. J. Exp.Zool. 64:433-\n467.\n\n"
+}

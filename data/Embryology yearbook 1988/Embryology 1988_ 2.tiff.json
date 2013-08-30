@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=rr6e5HQGQIqYhloUNmYsLQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 2.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.095399575,
+    "resolve_names_duration": 1.037964392,
+    "total_duration": 23.774704417
+  },
+  "agent": "",
+  "created": "2013-06-18T13:14:58-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Laboratorium",
+      "scientificName": "Laboratorium",
+      "offsetStart": 735,
+      "offsetEnd": 746,
+      "identifiedName": "Laboratorium"
+    }
+  ],
+  "content": "EMBRXOLOGY Course Students, Faculty and Assistants, Sum er 1988\nStudents:\nALLENDE, Miguel\nMolecular Biology\nGraduate Group\nUniversity of \n216 Goddard Labs.\nPhiladelphia, PA 19104\n(215) 386-6885\nCARNER, Kristin P.\nScripps Institute\nof Oceanography A-008\nLa Jolla, CA 92093\n(619) 534-2146\nDAUGHTERY, Wayne F.\nDepartment of Biology\nSan Diego State University\nSan Diego, CA 92182\n(619) 594-2396\nDENEGRE, James M.\nWesleyan University\nBox BIO A\nMiddletown, CT 06457\n(203) 347-9411 ext. 2306\nDING, Dali\nDivision of Biology 156-29\nCalifornia Institute of Technology\nPasadena, CA 91125 \n(818) 449-8171\nEVANS, Janice P.\nDepartment of Biology\nUniversity of North Carolina\nBox 3280 Coker Hall\nChapel Hill, NC 27514\n(919) 942-6516\nGEYSEN, Johan J.\nLaboratorium voor Experimentele\nGeneeskunde em Endocrinologie\n(Legendo)\nOnderwijs en *avorsing\nGaxhvisberg, Herestraat\nB-3000 Leuven\nBelgium\n32-16-215970//32-16-26036\nGLICKSMAN, Neal R.\nBiology Department\nUnlyersity of North Carolina\n32802 Coker Hall\nChapel Hill, NC 27599\n(919) 962-2250'\nHAHN, Jill K.\nBoston University Marine Program\nMarine Biological Laboratory\nWoodsvHole, MA 02543\n(508) 548-3705 ext. 505\n\nJeanene P.\nDepartment of Biochemistry\nMolecular Biology\nUniversity of Oklahoma\nP.O. Box 26901 \nBiomed Science Building\nOklahoma City, OK 731905\n(405) 271-2227/ (405) 842-6756\n\n\nUnit A\nDepartment of Zoology\nUniversity\"oflOxford\ns?\"th $999\nQ?ford`OX1 3PS\nE?Sla?d\n0865-59977 ext. 200\nJARZEMJ, Jacque \nDepartment of Zoology\nCenter for Developmental Biology\nUniversity of Texas\nAmatin, TX 78712\n(512) 282-0131\nKELLY, Christopher J.\nCom ittee of Evolutionary Biology\nUniversity of Chicago\n1025 E. 57th Street\nChicago, IL 60637\nLANE, Connie\nDepartment of Biology\nUniversity of Iowa\nIowa City, IA 52242\n(319) 335-1057\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Laboratorium"
+    }
+  ]
+}

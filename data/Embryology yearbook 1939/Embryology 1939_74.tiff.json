@@ -1,0 +1,291 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=bJIOML7yTfiOYTLj2NCcog",
+  "input_url": null,
+  "file": "Embryology 1939_74.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.177475087,
+    "resolve_names_duration": 0.630897963,
+    "total_duration": 24.825999317
+  },
+  "agent": "",
+  "created": "2013-06-19T15:34:29-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Lepas,",
+      "scientificName": "Lepas",
+      "offsetStart": 173,
+      "offsetEnd": 178,
+      "identifiedName": "Lepas"
+    },
+    {
+      "verbatim": "Menippe.",
+      "scientificName": "Menippe",
+      "offsetStart": 248,
+      "offsetEnd": 255,
+      "identifiedName": "Menippe"
+    },
+    {
+      "verbatim": "Macroura.",
+      "scientificName": "Macroura",
+      "offsetStart": 317,
+      "offsetEnd": 325,
+      "identifiedName": "Macroura"
+    },
+    {
+      "verbatim": "Cirripedia.",
+      "scientificName": "Cirripedia",
+      "offsetStart": 439,
+      "offsetEnd": 449,
+      "identifiedName": "Cirripedia"
+    },
+    {
+      "verbatim": "Balanus crenatus",
+      "scientificName": "Balanus crenatus",
+      "offsetStart": 549,
+      "offsetEnd": 564,
+      "identifiedName": "Balanus crenatus"
+    },
+    {
+      "verbatim": "Artemia",
+      "scientificName": "Artemia",
+      "offsetStart": 814,
+      "offsetEnd": 820,
+      "identifiedName": "Artemia"
+    }
+  ],
+  "content": "\nln the nauplius notice the appendages, the labrum, the median\neye, paired ganglia or brain, the digestive tract.\nLiterature List on Grustacea\neigelow, Early development of Lepas, Bull. Mus. Comp. Zool.\nHarvard, l902, 40.\nBinford, Fertilization in Menippe. J. Morph. 1915, 24.\nErooks, Embryology and Metamorphosis of Macroura.\nDavydoff, Traits d'Embryologie compares des Invertebres (with good\nliterature list)\nGroom, Early development of Cirripedia. Phil. Trans. Roy. Soc.\nLend. 1894, 185. \nHerz, L. E., 1955. The Morphology of his later stages of Balanus\ncrenatus. Biol. Bull., ea, 452.\nKorschelt and Heider, Textbook of Embryology'\nMaceride, Textbook of Embryology.\nMuller, Fur Darwin.\nRichards, Aute, 1951. Outline of Comparative Embryology, p. 162,\nand Chapter (hecapitulation dneory). John Riley, New York.\n\nArtemia (crustacean)s\nThe \"brine sarimp\" Artemis is a primitive cmista~\ncean which is found thronghout those parts of the world which are\nsufiiciently arid to have lakes and other bodies of water vmich\nare more saline than tie sea. The adults are about half an inch\nlong and are very abundant in such saline bodies as the Great Salt\nLake (Utah) (7 to ll times as salty as the sea), Mono Lake (Calif.),\netc. They also occur in abundance in salterns in.which sea water\nis evaporated in the sun to manufacture salt, as on the margins\nof San Francisco Bay, where Use used in the laboratory were\nobtained.\nArtemis develop and live well in sea water, but they are rarely\nfound in the sea in nature, probably because they are defenseless\nand are eaten. Their tolerance for salt is so great that they can\nthrive in strong brines in which they have no enemies.\nThe or \"eggs\" as they are sometimes called, are pro-\nduced in great numbers at certain seasons and float on the brine\nso that they may be blown in windrows on the shore by wind. These\nare actually nauplii in a dried and resting condition within\nthe original egg shell. They keep for years. When placed in a\nsuitable medium, such as sea water, they absorb water and hatch\nin QU-45 hours, depending on temperature, etc.\nExamine some of the dried under the microscope. They\nare dark brown or sepia colored and do not transmit light. When\ndry, they ara the shape of a sphere whidi has been caved in on one\nside. After soaking in sea water for an hour or two they absorb\nenough water in round out. Examine some embryos in the process\nof hatching. The hard; outer shell cracks, and the nauplius\nemerges in a quiescent state within a delicate membrane or sac\nwhich remains attached to the shell for some hours. The nauplius\nbegins to move and finally breaks out of the sac to swim about.\nExamine some recently hatched nauplii. They are so active that it \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Lepas",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "371d4e73-950b-5552-87ae-36f709263ca3",
+          "name_string": "Lepas",
+          "canonical_form": "Lepas",
+          "classification_path": "Animalia|Arthropoda|Maxillopoda|Pedunculata|Lepadidae|Lepas",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2363653|2363851|2363857|2456174",
+          "taxon_id": "2456174",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "371d4e73-950b-5552-87ae-36f709263ca3",
+          "name_string": "Lepas",
+          "canonical_form": "Lepas",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29034305",
+          "local_id": "43714",
+          "url": "http://eol.org/pages/43714",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Menippe",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "f02750b9-c05f-534e-ada3-442bb35930e8",
+          "name_string": "Menippe",
+          "canonical_form": "Menippe",
+          "classification_path": "Animalia|Arthropoda|Malacostraca|Decapoda|Decapoda|Menippidae|Menippe",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2363112|2364736|2365214|2366737|2514922",
+          "taxon_id": "2514922",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f02750b9-c05f-534e-ada3-442bb35930e8",
+          "name_string": "Menippe",
+          "canonical_form": "Menippe",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20631064",
+          "local_id": "39756",
+          "url": "http://eol.org/pages/39756",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Macroura",
+      "results": [
+        {
+          "data_source_id": 7,
+          "data_source_title": "Union 4",
+          "gni_uuid": "4808fda2-2609-54af-931d-e41bc6b98f57",
+          "name_string": "Macroura",
+          "canonical_form": "Macroura",
+          "classification_path": "|Cellular life|Eukaryota|Opisthokonts|Choanoflagellates and animals|Animalia|Epitheliates|Bilateria|Ecdysozoa|Legged ecdysozoa|Arthropoda|Hexapods|Insecta|Pterygota|Coleoptera|Polyphaga|Cucujoidea|Nitidulidae|Macroura",
+          "classification_path_ranks": "|above family|above family|above family|above family|unranked|above family|above family|above family|above family|above family|above family|above family|above family|above family|above family|above family|family|genus",
+          "classification_path_ids": "2822864|2823207|2828118|2843765|2843766|2843767|2843768|17974913|2910040|2910041|2910042|2913524|2913525|2922935|2932506|2936299|2947118|2948451|2948583",
+          "taxon_id": "2948583",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cirripedia",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "2429a74f-a19c-509d-9b07-fc3091d352f9",
+          "name_string": "Cirripedia",
+          "canonical_form": "Cirripedia",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Maxillopoda|Thecostraca|Cirripedia",
+          "classification_path_ranks": "|superkingdom||kingdom|||||||phylum|||subphylum|class|subclass|infraclass",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206794|88770|6656|197563|197562|6657|72037|116172|6675",
+          "taxon_id": "6675",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "2429a74f-a19c-509d-9b07-fc3091d352f9",
+          "name_string": "Cirripedia",
+          "canonical_form": "Cirripedia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29034272",
+          "local_id": "2630893",
+          "url": "http://eol.org/pages/2630893",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Balanus crenatus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "f1bc7db5-a52d-5cb9-a185-498c5d4c668b",
+          "name_string": "Balanus crenatus",
+          "canonical_form": "Balanus crenatus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Crustacea|Maxillopoda|Thecostraca|Cirripedia|Thoracica|Sessilia|Balanidae|Balanus|Balanus crenatus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||||phylum|||subphylum|class|subclass|infraclass|superorder|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206794|88770|6656|197563|197562|6657|72037|116172|6675|6676|116167|37806|6677|164412",
+          "taxon_id": "164412",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f1bc7db5-a52d-5cb9-a185-498c5d4c668b",
+          "name_string": "Balanus crenatus",
+          "canonical_form": "Balanus crenatus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29034374",
+          "local_id": "339614",
+          "url": "http://eol.org/pages/339614",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Artemia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "53e607b0-4b27-589d-9e3d-5aaa0fcad0c5",
+          "name_string": "Artemia",
+          "canonical_form": "Artemia",
+          "classification_path": "Animalia|Arthropoda|Branchiopoda|Anostraca|Artemiidae|Artemia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2368143|2368164|2368172|2379281",
+          "taxon_id": "2379281",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7c3869b2-a383-5a9c-ac99-2cb68cf74d33",
+          "name_string": "Artemia Leach, 1819",
+          "canonical_form": "Artemia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30120057",
+          "local_id": "42108",
+          "url": "http://eol.org/pages/42108",
+          "match_type": 2,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

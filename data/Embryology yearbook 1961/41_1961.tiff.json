@@ -1,0 +1,90 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=WMNQzXaOQbecAwJ97eN9ow",
+  "input_url": null,
+  "file": "41_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.194248226,
+    "resolve_names_duration": 0.742891046,
+    "total_duration": 27.377724999
+  },
+  "agent": "",
+  "created": "2013-06-18T12:31:11-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1603,
+      "offsetEnd": 1610,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1683,
+      "offsetEnd": 1690,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus.",
+      "scientificName": "Fundulus",
+      "offsetStart": 2680,
+      "offsetEnd": 2688,
+      "identifiedName": "Fundulus"
+    }
+  ],
+  "content": " \nOnly glass-clear eggs are suiTable Tor sTudy; if The eggs show The slighTesT opaciTy\nThey are eiTher immaTure or dead. IT biTs of Tissue are clinging To The eQ9>> iT is\nimmaTure and should be discarded. The periviTelline space appears immediaTely\naTTer TerTilizaTion; Time should noT be wasTed in observing eggs which do noT de-\nvelop such a space wiThin a Tew minuTes. For observing The TormaTion of polar\nbodies, The blasTodisc, and early cleavage, iT is advanTageous To place The micro-\nscope in a horizonTal posiTion so ThaT The blasTodisc may be observed in profile.\nlT is diTTiculT To see The polar bodies by any oTher meThod. They appear 5 To IO\nminuTes aTTer TerTilizaTion as small clear beads on The surface of The blasTodisc.\nCleavage is rapid, occuring approximaTely once every 20 min. aT a TemperaTure of\nl6 To l8?C. The cleaving eggs are There are no obscuring oil\ndropleTs; and The nuclei appear as pinkish objecTs for a shorT Time beTween divisions\nlf neuTral red is used Tor ouTlining The cleavage spindles, iT should be exTremely\ndiluTe.' Too much sTain will sTop cleavage or make The paTTern irregular.\nCunner embryos may be kepT alive for several days if care is Taken noT To crowd\nThem and The waTer is changed TrequenTly. IT is suggesTed ThaT noT more Than 3 To\n6 eggs be placed in each Tinger-bowl, ThaT They be Transferred To clean sea waTer\nmorning and nighT, and ThaT The bowls be covered and kepT in The sea waTer Table.\nOpaque (dead) eggs should always be removed. The embryos usually haTch wiThin 4\nor 5 days aTTer TerTilizaTion.\nIll. ObservaTions on Normal Develogm?nT of Fundulus and SuggesTions for Experi-\nmenTal.ProceduCQ\nThe normal developmenT oT Fundulus heTerocliTus has been described by Oppenheimer\n('37  and Solberg ReprinTs of These papers will be available for individual\nuse. The papers of Sumner and Wilson are also highly recommended, Tor\ncomparaTive purposes.\nATTenTion is called below To some special TeaTures of The various developmenTal\nsTages, and some suggesTions Tor uTilizing Them in experimenTal procedures are\nincluded. Because of The varieTy and inTeresT of The various procedures available,\niT is suggesTed ThaT individuals personally observe The resulTs of oThers' experi-\nmenTs. individual sTudenTs may wish To apply procedures of special inTeresT To\nThem To The TeleosT maTerial available. Special equipmenT or reagenTs necessary\ncan be made available To a limiTed number of The class in such cases.\n;aboraTory;Records -These will very largely be a maTTer of individual choice.\nDeTailed records should, of course, be kepT of all experimenTal resulTs.\nNewman has described The spawning behavior and sexual dimorphism in Fundulus.\nThe seasonal cycle in The gonads has been sTudied by MaThews DeTails of\nThe hisTology and hisTochemisTry oT The ovary can be Tound in GuThrie \nand Marza, Marza, and GuThrie Ovarian and oviducal eggs may be obTained\nby dissecTion. \nB. The GameTes and Fe,rTiglgizaTiong\ni. UnTerTilized Eggs - STrip The eggs from a female inTo diluTed sea waTer (70%\nTresh waTer, 30% sea waTer). NoTe The deTails oT egg sTrucTure, such as The\ncorTjcal alveoli, oil drops, membranes, and The laTTer sTrucTure musT\nbe observed on eggs which have noT had The chorionic jelly removed. AT TirsT iT\nwill be diTTiculT To see, buT wiTh pracTice iT can be Tound aTTer The egg has been\nproperly orienTed. NoTe The presence of immaTure ova among The maTure eggs.\n2. ?g?gg - Examine a drop of sperm suspension under a cover slip wiTh high power.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

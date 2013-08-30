@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=gJyRuy4GSc6iJMC2CTJNOQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 92.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.055540161,
+    "total_duration": 19.527812507
+  },
+  "agent": "",
+  "created": "2013-06-18T13:29:07-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "OR2: Stock A (1OX)\n\nStock (1OOX)\n5X TBE:\n5X MOPS:\n\nLGB\nHa \nRECIPES\nHepes 11.9g\nl.42g Per Liter\nNaCl 48.1g\n1.87g (adjust to pH 7.8)\n7.4g Per 500 ml\n10.15g\nTris Base 54g\nBoric acid 27.5g (per liter)\n20ml 0.5M EDTA\n(0.2M) MOPs 20.93g (pH 7.0)\n3.4g (per 500ml)\n5m1 0.5M EDTA (pH 8.0)\nRNA Or DNA\nLoading Buffer\n12.5ml Glycerol \n12.5m1 H20 \n50u1 0.5M EDTA (1mM)\nO.1g Xylene Cyanol (0.4\nO.1g Bromphenol Blue \n\n6)\nProtein\nSample Buffer:\n62.5mM Tris pH\n2% SDS\n6.8\n10% Glycerol\n5% B-Mercaptoethanol\n12\n\n"
+}

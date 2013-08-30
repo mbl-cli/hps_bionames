@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=yDT6vuXcRvuTBraUq6XqZA",
+  "input_url": null,
+  "file": "Embryology 1988_ 44.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.140130737,
+    "total_duration": 21.610172696
+  },
+  "agent": "",
+  "created": "2013-06-18T13:19:48-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "\n\n\n-'lgo /525;&\n937607\n864663\n823751\n784774\n747642\n712267\n678565\n646458-\n615871\n586730\n558969\n532520\n507324\n483320\n460451\n438664\n417908\n398135\n379297\n361350\n344252\n327964\n312446\n297662\n283578\n270161\n257378\n245200\n233598\n222545\n212015\n201983\n192426\n183322\n174648\n166384\n158511\n151011\n143866\n137059\n130574\n124395\n118510\n112902\n107560\n102471\n097623\n093003\n088603\n084411\n080417\n076612\n072987\n069533\n066243\n063109\n060123\n057278\n054568\n051986\n@1181\n    \n0.6137 -\n\n("
+}

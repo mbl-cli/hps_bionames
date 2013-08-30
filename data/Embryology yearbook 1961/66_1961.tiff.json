@@ -1,0 +1,182 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=u77nSDwNTaqgVlL8VhlhmQ",
+  "input_url": null,
+  "file": "66_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.164198795,
+    "resolve_names_duration": 0.739594838,
+    "total_duration": 26.695180324
+  },
+  "agent": "",
+  "created": "2013-06-18T12:40:50-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Unio,",
+      "scientificName": "Unio",
+      "offsetStart": 472,
+      "offsetEnd": 476,
+      "identifiedName": "Unio"
+    },
+    {
+      "verbatim": "(Arbacia lixula)",
+      "scientificName": "Arbacia lixula",
+      "offsetStart": 1117,
+      "offsetEnd": 1132,
+      "identifiedName": "Arbacia lixula"
+    },
+    {
+      "verbatim": "Mazia,",
+      "scientificName": "Mazia",
+      "offsetStart": 1159,
+      "offsetEnd": 1164,
+      "identifiedName": "Mazia"
+    },
+    {
+      "verbatim": "Mazia,",
+      "scientificName": "Mazia",
+      "offsetStart": 1258,
+      "offsetEnd": 1263,
+      "identifiedName": "Mazia"
+    },
+    {
+      "verbatim": "Mazia,",
+      "scientificName": "Mazia",
+      "offsetStart": 1315,
+      "offsetEnd": 1320,
+      "identifiedName": "Mazia"
+    }
+  ],
+  "content": "\nLorch, l. J. and J. F. Danielli. Nuclear Transp|anTaTion in Amoebae. ll. The\nimmediaTe resulTs of Transfer of nuclei beTween A, QroTeus and A, discoides.\nQ. J. Micr. Sole., 94:46l-480. |953 2\nLorch, l. J., J. F. Danielli and S. HorsTadius. The efTecT of enucleaTion on\nThe developmenT of sea urchin eggs. l. Enuc|eaTion of once cell aT The 2-4\nor 8-cell sTage. ll. EnucleaTion oi animal or vegeTal halves. ECR, 4:253-274\n|953\nLillie, F. R. The organizaTion oi The egg of Unio, based on a sTudy of iTs\nmaTuraTion, TerTi|izaTion and cleavage. J. Morph. l7:227-286. l90|\nLillie, F. R. ObservaTions and experimenTs concerning The elemenTary phenomena of\nembryonic developmenT in ChaeTogTerus. J.E.Z., 3: |53-268. l906.\nLillie, F. R. On The specific graviTy of consTiTuenT parTs of The egg of\nChaeToQTerus and The efTecT of cenTriTuging on The polariTy oT The egg.\nScience, N.S., 27: |908\nLillie, F. R. PolariTy and BilaTeraliTy of The annelid egg. Ex erimenTs wiTh\ncenTriTugal force. l6:54-79. |909\nMarsland, D. and J. V. Landau. TemperaTure-pressure measuremenTs of The corTical\nge|aTion reacTion in dividing egg cells (Arbacia lixula), AnaT. Rec. ll3:76.\n|952\nMazia, D. Desoxyribonucleic acid and resoxyribonuclease in deve|opmenT. GrowTh\n|949\nSymp., 9: 5-3\n\nMazia, D. Cell Division. ScienTiTic Amer., |89: 63. |953\nMazia, D. and K. Dan. lsolaTion and Chemical sTudies of miToTic apparaTus from\nsea urchin eggs. PNAS, 38: 826. |952\nMcClendon, J. F. Chemical sTudies on The effecTs of cenTriTugal force on The eggs\nof The sea urchin, Arbacig puncTu|aTa. Amer. J. Physiol., 22: 460-466. |909\nMcMasTer, R. The desoxyribonucleic acid conTenT of nuclei in The sea urchin,\nLyTeghinus.variegaTus, during deve|opmenT. AnaT. Rec. ll3: 36. |952\nMiTchison, J. M. and M. M. Swann. MeasuremenTs on sea urchin eggs wiTh inTerfer~\nence microscope. Q. J. Micr. Scie., 94: 38| 389. |953\nMoore, A. R. AcTion of on The eggs EC R, 2:\n284-287. |95l\nMoore, A. R. SasTru|aTion in embryos of DendrasTer, J.E.Z. ll9:37-46 |952\nMoore, A. R. AlTeraTion of developmenTa| paTTerns in PaTiria miniaTa by means of\nJ. E. Z., 123: 56|-567. |953\nMorgan, T. H. The\n28: l-4. |908\nMorgan, T. H. The\nP. Amer. Ass.\nMorgan, T. H. and\nlocaTion of embryo-forming regions in The egg. Scienc\neffecT produced by cenTriTuging eggs before and during\nAnaT., 3: |55-l5l. |909\nE. P. Lyon. The relaTion of The subsTances of The egg\nby a sTrong cenTriTugal force To The locaTion of The embryo. Arch. \nEnTwicklungs., 24: l4-l59. |907\nMorgan, T. H. and\nA. Tyler. The poinT of enTrance of The spermaTozoa in\nTo The orienTaTion of The embryo in eggs wiTh spiral cleavage. Biol\n58: 59. |930\ne, N.S.,\ncleavage.\nseparaTed\nrelaTion\n. Bull.,\nMoTomura, l. ArTiTicia| a|TeraTion of The embryonic axis in The cenTriTuged eggsv\nof sea urchins. Sci. Rep. Tokyho Univ., Ser. 4, l8: ll7-l25. |949\nOhman, L. On The lipids of The sea urchin egg. Ark. Zool., 36A: Nr7, l-95. |945\nOkada, K. ExperimenTal sTudies on The environmenTal condiTions To The early de-\nvelopmenT of sea urchin eggs. Bull. Exp. Biol., l95l (ln Japanese)\nGkasaki, K. and K. Dan. The meTamorphosis of parTia| larvae of PerQnel|a japogipa \nMorTensen, a sand dollar. Biol. Bull., IO6: 83-99. |954\nPasTeeis, U, Recherches sur le deTerminisme de l'enTres en maTuraTion de l'oeuT\nA chez divers inverTebres marines. Arch. Biol., 46:229. |935\nPerlman, P., Soluble anTigens in sea urchin gameTes and developmenTa| sTages.\nEGR, 5: 394-399. |933\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Unio",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "41dd71e7-1ebe-5aa9-9f4b-e62f3cdc8bc9",
+          "name_string": "Unio",
+          "canonical_form": "Unio",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Lophotrochozoa|Mollusca|Bivalvia|Palaeoheterodonta|Unionoida|Unionoidea|Unionidae|Unioninae|Unio",
+          "classification_path_ranks": "|superkingdom||kingdom||||||phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206795|6447|6544|47520|47521|47522|47526|293139|55836",
+          "taxon_id": "55836",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "41dd71e7-1ebe-5aa9-9f4b-e62f3cdc8bc9",
+          "name_string": "Unio",
+          "canonical_form": "Unio",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20686100",
+          "local_id": "2979542",
+          "url": "http://eol.org/pages/2979542",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia lixula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "68fbf94c-e3d3-546f-99bf-50b8aec4d227",
+          "name_string": "Arbacia lixula",
+          "canonical_form": "Arbacia lixula",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia|Arbacia lixula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372|6847003",
+          "taxon_id": "6847003",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "68fbf94c-e3d3-546f-99bf-50b8aec4d227",
+          "name_string": "Arbacia lixula",
+          "canonical_form": "Arbacia lixula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39146662",
+          "local_id": "598184",
+          "url": "http://eol.org/pages/598184",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Mazia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "fb6d6daa-0f0f-536a-bbec-80c90140c7ee",
+          "name_string": "Mazia",
+          "canonical_form": "Mazia",
+          "classification_path": "Animalia|Arthropoda|Insecta|Lepidoptera|Lepidoptera|Nymphalidae|Mazia",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362873|2362896|2364641|2383110",
+          "taxon_id": "2383110",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "fb6d6daa-0f0f-536a-bbec-80c90140c7ee",
+          "name_string": "Mazia",
+          "canonical_form": "Mazia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29092665",
+          "local_id": "19680",
+          "url": "http://eol.org/pages/19680",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    }
+  ]
+}

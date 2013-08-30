@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=lIV0wV0uTQGUlbVOqkVsHA",
+  "input_url": null,
+  "file": "Embryology 1988_ 126.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.133754621,
+    "resolve_names_duration": 0.687820028,
+    "total_duration": 21.311323581
+  },
+  "agent": "",
+  "created": "2013-06-18T13:08:02-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Midguz invaginazions",
+      "scientificName": "Midguz invaginazions",
+      "offsetStart": 227,
+      "offsetEnd": 246,
+      "identifiedName": "Midguz invaginazions"
+    }
+  ],
+  "content": "in the germ\ndorsal side\n1 and serosa\nhe cap of\nsurface.\nThe cor-\nying yolk.\nE. Wiexc/iczus and \nFigure 4. k/arsichl embryos during cellularization and gastrulation.\nmid-Stage min).\nmid-Stage 6; Early gastrulationmint.\nStage 7: Midguz invaginazions (3 35 min to 3 45 min). the arrow -) indicates the anterior midgut invagi-\nnation.\nearly-Stage 8: Germ band extension (3 45 min to 4 30 min).\nIn the compound microscope the individual nuclei are visible and their density and pack-\ning can be used to determine the particular cleavage cycle. As the nuclei enter each\nmitosis. the nuclear membrane breaks down, the cortical cytoplasm becomes more hom-\nogeneous and then a wave-like contraction pulls the cytoplasm to the two poles of the\negg and then back again.\n4.5 Stage 5: cell formation (2 30 min to 3 15 min)\nAlmost immediately after the last cleavage division. the nuclei begin elongation. Cell\nmembranes move down between adjacent nuclei. partitioning them into individual cells.\nThe advancing front of this infolding is visible as a line cutting through the nuclei and\n207\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Midguz invaginazions"
+    }
+  ]
+}

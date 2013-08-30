@@ -1,0 +1,203 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=8IbzbDTNSyeMWU28nvVcaw",
+  "input_url": null,
+  "file": "Embryology 1988_ 82.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.145001629,
+    "resolve_names_duration": 0.697471751,
+    "total_duration": 26.386008798
+  },
+  "agent": "",
+  "created": "2013-06-18T13:27:08-04:00",
+  "total": 8,
+  "names": [
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 139,
+      "offsetEnd": 145,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Strongylocentrotus purpuratus",
+      "scientificName": "Strongylocentrotus purpuratus",
+      "offsetStart": 334,
+      "offsetEnd": 362,
+      "identifiedName": "Strongylocentrotus purpuratus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 462,
+      "offsetEnd": 468,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 684,
+      "offsetEnd": 690,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus laevis",
+      "scientificName": "Xenopus laevis",
+      "offsetStart": 856,
+      "offsetEnd": 869,
+      "identifiedName": "Xenopus laevis"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1158,
+      "offsetEnd": 1164,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus laevis",
+      "scientificName": "Xenopus laevis",
+      "offsetStart": 1543,
+      "offsetEnd": 1556,
+      "identifiedName": "Xenopus laevis"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1669,
+      "offsetEnd": 1675,
+      "identifiedName": "Xenopus"
+    }
+  ],
+  "content": "Dennis Smim\nLecruai\nooeENEs1s 6-uw ,qgg\nI\nBaum, E. Z. and Normington, W. M. (1985) Coordinate expression of ribosomal\nprotein genes during Xenopus development. Qpv. Biol. 111, 488-498.\nCalzone, F. J., Lee, J. J., Le, N., Britten, R. J. and Davidson, E. (1988)\nA long, nontranslatable Doly (A) RNA stored in the egg of the sea urchin.\nStrongylocentrotus purpuratus. Genes and Develop .2, 305-318.\nCrawford, D. R. Richter, J. D. (1987) An RNA-binding protein from Xenopus\noocytes is associated with specific message sequences. Develop. 101, 741-749.\nForbes, D. J., M. N. Newport, J. N. (1983) Spontaneous formation\nof nucleus-like structures around bacteriophaze DNA microinjected into Xenopus\neggs. Cell ?4, 13-23.\nGalili, G., Kawata, E. E., Smith, L. D., and Larkins, B. A. (1988)\nRole of the 3'-3 poly (A) sequence in translational regulation of MRNAs in\nXenopus laevis oocytes. J. Biol. Chem 263, 5764-5770.\nGrainger, J. L. and Winkler, M. M. (1987) Fertilization triggers unmasking of\nmaternal MRNAs in sea urchin eggs. Mol. Cell. Biol. 7, 3947-3954.\nKick, D., Barrett, P., Cummings, A. and Sommerville, J. (1987) Phosphorylation\nof a 60 polypeptide from Xenopus oocytes blocks messenger RNA translation\nNuc. Acids Res. 15, 4099-4109.\nNewport, J. and Spann, T. (1987) Disassembly of the nucleus in mitotic\nextracts: Membrane vesicularization, lamin disassembly, and chromosome\ncondensation are independent processes. Cell 48, 219-230\nRichter, J. D. and Smith, L. D. (1983) Developmentally regulated RNA binding\nproteins during oogenesis in Xenopus laevis. J. Biol. Chem. 258, 4864-4869.\nRichter, J. D. and Smith, L. D. (1984) Reversible inhibition of translation\nby Xenopus oocyte - specific proteins. Nature Lond. 309, 378-380.\nRichter, J. D., Smith, L. D., Anderson, D. M. and Davison, E. H. (1984)\nInterspersed, poly (A) RNAs of amphibian oocytes are not translatable.\nJ. Mol. Biol. 173, 227-242.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Strongylocentrotus purpuratus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "53f53c09-6546-50a0-9b07-de0af452bf30",
+          "name_string": "Strongylocentrotus purpuratus",
+          "canonical_form": "Strongylocentrotus purpuratus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Echinodermata|Eleutherozoa|Echinozoa|Echinoidea|Euechinoidea|Echinacea|Echinoida|Strongylocentrotidae|Strongylocentrotus|Strongylocentrotus purpuratus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum||superclass|class|subclass|superorder|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7586|133551|7624|7625|7638|7674|7675|31181|7664|7668",
+          "taxon_id": "7668",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "53f53c09-6546-50a0-9b07-de0af452bf30",
+          "name_string": "Strongylocentrotus purpuratus",
+          "canonical_form": "Strongylocentrotus purpuratus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39146635",
+          "local_id": "598175",
+          "url": "http://eol.org/pages/598175",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Xenopus laevis",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "22a6df90-1cc9-5462-a5d9-144a006cf030",
+          "name_string": "Xenopus laevis",
+          "canonical_form": "Xenopus laevis",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Xenopus|Xenopus laevis",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|8287|32523|8292|41666|8342|30319|8352|8360|8353|262014|8355",
+          "taxon_id": "8355",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "22a6df90-1cc9-5462-a5d9-144a006cf030",
+          "name_string": "Xenopus laevis",
+          "canonical_form": "Xenopus laevis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29126132",
+          "local_id": "1038993",
+          "url": "http://eol.org/pages/1038993",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    }
+  ]
+}

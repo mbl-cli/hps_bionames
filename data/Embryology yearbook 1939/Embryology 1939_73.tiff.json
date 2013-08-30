@@ -1,0 +1,168 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Tnt2WgQ7R1e6yiwqndO8iw",
+  "input_url": null,
+  "file": "Embryology 1939_73.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.192444969,
+    "resolve_names_duration": 25.938673877,
+    "total_duration": 48.251004861
+  },
+  "agent": "",
+  "created": "2013-06-19T15:33:05-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Megalops",
+      "scientificName": "Megalops",
+      "offsetStart": 1145,
+      "offsetEnd": 1152,
+      "identifiedName": "Megalops"
+    },
+    {
+      "verbatim": "Balanus",
+      "scientificName": "Balanus",
+      "offsetStart": 1380,
+      "offsetEnd": 1386,
+      "identifiedName": "Balanus"
+    },
+    {
+      "verbatim": "Lamella",
+      "scientificName": "Lamella",
+      "offsetStart": 1456,
+      "offsetEnd": 1462,
+      "identifiedName": "Lamella"
+    }
+  ],
+  "content": "\nGrustacea\nLihinia, The Spider Crab\nlxamine female crahs'whidl are carrying eggs. The color of\nthe eggs gives some indication of their stage of develotment, the\nyoungest eggs being bright vermillion while older stages are hright\nred. The eldest chocolate colored eggs are not suitable for study.\nWith forceps remove a few hundred eggs (each student should\ntake them from his own secinen) and place them in a finger howl\nfrom which the rest of dr; class may take samples.\nThe earliest stages of division cannet he seen in the living\negg. Protoplasmic division occurs after the fourth nuclear division\nat which time the nuclei have migrated to the periphmev. Find\nseveral stages of cleavage. Are the nuclei visible?\nLater stages of development can hest he seen after the eggs\nhave been ylaced in strong HgCl2 which whitens the embryonic area.\nFind embryos which slow: \na) the 5 embryenic rudiments\nb) the nauylius stage with the first 5 pairs of atpendages.\nAre any hiramous at U;is thee?\nc) later stages having 5 or more pairs of atpendages. In these\nthe stomodeum, ventral fold, dorsal shield, telson, and\nganglia may he found.\nd) the Zoaea and Megalops stages (from cultures nretared by\nthe instructor). Quiet the larvae with or other\nanaesthetic. 'Under the high tower, details of muscles,\nthe compound eyes, the contractile heart and intestine\ncan he ohserved.>>\nThe Farnacle, Balanus ehurneus.\nWith a strong knife hreak open the smell and find nie egg\nLamella at the hase. If the eggs are ripe and in the nrocess of\ndevelopment, the lamella is firm and can he taken out entire. Place\nit in a of sea water and tease out a few eggs with a\nneedle.\nFertilization is internal. ln the youngest stages available\nyou can observe the yolar bodies, and the aptroach of the germ\n0 a \nnuclei. This is hest seen in treparations that have dried a little\nso that the eggs are tressed`bv the cover glass.\nStudy the cleaving egg up to the ld-cell stage. These eggs\nare delicate; usually the same lot cannot he watched through all of\nthese cleavages. lf Uney die, find other eggs in stage that\nyou need. \nLater staees of interest are: a) gastrula; h) the 5 segment\nMJ\nstage; c) the 5 segment stage; d) the nauplius just hatched;\ne) the napulius after the first and second moult.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Megalops",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "c47e2ae0-b629-5c3c-89d4-5734f829b4bc",
+          "name_string": "Megalops",
+          "canonical_form": "Megalops",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Elopiformes|Megalopidae|Megalops",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369351|2369353|2397560",
+          "taxon_id": "2397560",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "c47e2ae0-b629-5c3c-89d4-5734f829b4bc",
+          "name_string": "Megalops",
+          "canonical_form": "Megalops",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20631015",
+          "local_id": "23987",
+          "url": "http://eol.org/pages/23987",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Balanus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "393784e9-ab24-5494-9d1a-a0e1e4c6ad11",
+          "name_string": "Balanus",
+          "canonical_form": "Balanus",
+          "classification_path": "Animalia|Arthropoda|Maxillopoda|Sessilia|Sessilia|Balanidae|Balanus",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2363653|2363719|2363731|2363800|2440673",
+          "taxon_id": "2440673",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "393784e9-ab24-5494-9d1a-a0e1e4c6ad11",
+          "name_string": "Balanus",
+          "canonical_form": "Balanus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27903415",
+          "local_id": "10953711",
+          "url": "http://eol.org/pages/10953711",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Lamella",
+      "results": [
+        {
+          "data_source_id": 9,
+          "data_source_title": "WoRMS",
+          "gni_uuid": "4a6eb3fe-424e-5e72-bbf3-5c75d9775d49",
+          "name_string": "Lamella",
+          "canonical_form": "Lamella",
+          "classification_path": "Animalia|Arthropoda|Malacostraca|Decapoda|Gecarcinucidae|Lamella",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "gn:3uL60ncMV0CLLRfxOOBRdQ|gn:7mudPMOMXACvWyG7FSG59w|gn:mXcg2w6CXKKienyndA0Bvw|gn:JE4-PzgAUM66YqYSUuHOyw|gn:e2zOzTNkWpe7qmaOaiKNoQ|gn:AdqOFmSRVPeYValJNWxqsg",
+          "taxon_id": "gn:AdqOFmSRVPeYValJNWxqsg",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4a6eb3fe-424e-5e72-bbf3-5c75d9775d49",
+          "name_string": "Lamella",
+          "canonical_form": "Lamella",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "24940823",
+          "local_id": "6961988",
+          "url": "http://eol.org/pages/6961988",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    }
+  ]
+}

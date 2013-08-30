@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=OneCnuRPT3yre6RoHLHLcg",
+  "input_url": null,
+  "file": "Embryology 1939_27B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.100283796,
+    "total_duration": 23.263314914
+  },
+  "agent": "",
+  "created": "2013-06-19T15:23:21-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "\nA. \nFol, H. Recherches sur la fecondation et le commencement\nde l'hemogonie Mem. Soc. Phys. et Rist. Rat. Geneve\nVol. 26, l879.\nBoveri Th. Die Entwickluns disoermer Seeifel Eier. Ein\n0 \nEeitrag zur Befruchtungslehre und sur Rieorie des Kerns.\nJenaische Vol. 45, l907.\nLillie, F. R. ann Just, E. E. Rertilization (in General\nCytology) University of Chicago Press. lQ24.\nChambers, Robert. The manner of sperm entry in the starfish\negg. Biol. Bull. Vol. 68, l93C.\nA general study on the cytological aspects of fertiliza~\ntion is found in\nWilson, E. B. The cell in eevelopment and heredity. New York.\nlQ25.\n- GF Eeeifli   IO QF   \nLyon, E. P., Results of Centrifugalizing Eggs. >>Arch. f. Entw\nIMTQ  Xrol \nMorgan, T. R. and Lyon, E. P. The relation of the Substances\nof the egg separated by strong centrifugal force, to the\nlocation of the Embryo. Arch. f. Entw. Mech. Vol. 24,\nl907.\nTennent Ta lor and Whitaker. An investi>>ation on orsanization\n1 0 1 \nin sea urchin egg. Carnegie Inst. Rubl. Wash. No. 591.\nlQ29.\nMarx Wilh. Zum Problem der Bilateralitat im Seeigelkeim.\nRoux farch, vol. l25, 1951.\nvon Ubisch, L. Studien an\nSeeigelkeimen\nI. f. Wissensch. Zool. vol. l2e, 1925.\n1! -J  \naw \nLindahl, P. E. and Stordal, A. Uber die Determination der\nRichtung der ersten Rurche im Seeigelei. Roux. Arch.\nVol. 136, l95V.\n\nFaure-Rremiet. La cinetique du development. Rsris l925.\n(Consult for further bibliography.)\nWilson, E. F. A cytological stuey of artificial Eartheno-\ngenesis in Sea~Urchin eggs. Arch. f. Entw Vol l\"\n. ss,1so1.\nI\n\n"
+}

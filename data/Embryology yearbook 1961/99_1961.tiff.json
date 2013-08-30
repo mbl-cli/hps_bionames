@@ -1,0 +1,110 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=k6oJ4MGQQoSOebfV0gI9tQ",
+  "input_url": null,
+  "file": "99_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.283858119,
+    "resolve_names_duration": 0.760920227,
+    "total_duration": 28.980824012
+  },
+  "agent": "",
+  "created": "2013-06-18T12:53:10-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Tubularia",
+      "scientificName": "Tubularia",
+      "offsetStart": 182,
+      "offsetEnd": 190,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tenella)",
+      "scientificName": "Tenella",
+      "offsetStart": 1420,
+      "offsetEnd": 1427,
+      "identifiedName": "Tenella"
+    }
+  ],
+  "content": "  \n..6-\nseveral cleavage sfages if found.\nll|usTraTions of medusa developmenT in GoeTTe, of cleavage in HargiTT,\nC. W., Also Hyman \nTubulana(June, July)\nThe embryonic developmenf of Tubularia is figured in an accompanying plaTe.\nThe gonophores of a maTure specimen form long racemes or clusTers, crowding and\ndrooping from The region beTween The Two circles of TenTacles on a hydrahfh.\nThe gonophores are quiTe severely reduced medusae which never become free-swimming\nusually have no evidenT radial or circular canals, and develop noThing buf buds\nfor TenTacles. Severeal differenf species occur in The Woods Hole region, Two of\nwhich have apparenTly never been classified. There is a possibilify ThaT They\nare inTroduced via The hulls of ships, however, and are indigenous To oTher parTs\nof The world. These species differ in Their color, The presence or absence of\nlaTeral branches on The main body of The sfem, The heighT which individual polyps\naTTain, and The morphology and number of The Tenfacle buds or \"apical processes\"\nof The gonophores. The unbranched forms are larger and wiThsTand laborafory\ncondiTions beTTer, buf These are The apparenTly unclassified species. They\npossess four or eighf laferally compressed apical processes per gonophore,\n1, crocea, The form which is commonesT in early summer, is branched and possesses\nfour nipple-shaped apical processes per gonophore. AnoTher species, (probably\n1, Tenella) is very shorT, possesses hydranThs or a vivid, deep orange color, and\nhas, like I, crocea, four nipple shaped apical processes on each gonophore. This\nis The leasT saTisfacTory species for your observaTions because of iTs exTremely\nlow TemperaTure Tolerance.\nMale and female gonophores occur in separafe colonies. Occasionally a colony\nmay be found possessing gonophores of boTh sexes (on differenf individuals), buf\nThis is noT a True \"colony\". RaTher if has been formed by The seTTling of more\nThan one acTinula, of differenf sex, near one anoTher. Diagnosis of sex by sighT\nis impossible in The immafure specimens, buT gonophores ThaT confain embryos are\neasy To disTinguish from Those filled wiTh a cloudy mass of sperm. Early sfages\nof developing embryos are found by Teasing wiTh needles; Those near The hafching\nsfage (acfinulae) are visible ig siTu.\nExamine a ripe male gonophore, considering iT as a very degenerafe medusa.\nNoTice and skefch iTs mode of aTTachmenT, iTs shape, The sTrucTure of iTs free end\nand The posiTion of The sperm surrounding The dark red manubrium. Crush iT on a\nslide and examine The sperm under high power of your compound microscope.\nExamine and skeTch a ripe female gonophore. DeTermine The shape and number \nof The TenTacles (apical processes) on iTs disTal end. The eggs come from favored\noocyfes ahaT progressively swallow up Their neighbors. They lie in The space\naround The spadix (manubrium).\nwhen ripe The egg is very large and somewhaf irregular in shape (Allen,'OO;\nLowe, AfTer ferTilizaTion, cleavage is ofTen chaofic. ApparenTly a\ncoeloblasfula (hollow) or a morula (solid) may be formed (Lowe, and gasfru-\nlaTion of The former has been described as a mixTure of delaminaTion and mulTi-\npolar proliferafion. The embryos develop To The acTinula sTage wiThin The\ngonophore. The acTinula larva is To be considered as a procociously mefamor-\nphosing form, parT planula and parT polyp.\nTease some femal gonophores open wiTh needles and collecT and skeTch eggs and\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tenella",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "c02cbe52-f094-580d-834f-1c831850e0c9",
+          "name_string": "Tenella",
+          "canonical_form": "Tenella",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "98290590",
+          "local_id": "urn:lsid:ubio.org:namebank:5330639",
+          "global_id": "urn:lsid:ubio.org:namebank:5330639",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=5330639",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    }
+  ]
+}

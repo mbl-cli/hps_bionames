@@ -1,0 +1,221 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=oTd1AONzR1GqTKlpuZJIoA",
+  "input_url": null,
+  "file": "Embryology 1939_7.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.07885047,
+    "resolve_names_duration": 0.760303895,
+    "total_duration": 19.093997557
+  },
+  "agent": "",
+  "created": "2013-06-19T15:32:29-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Asterias",
+      "scientificName": "Asterias",
+      "offsetStart": 343,
+      "offsetEnd": 350,
+      "identifiedName": "Asterias"
+    },
+    {
+      "verbatim": "Nereis.",
+      "scientificName": "Nereis",
+      "offsetStart": 359,
+      "offsetEnd": 365,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Annelida.",
+      "scientificName": "Annelida",
+      "offsetStart": 467,
+      "offsetEnd": 475,
+      "identifiedName": "Annelida"
+    },
+    {
+      "verbatim": "Annelida",
+      "scientificName": "Annelida",
+      "offsetStart": 543,
+      "offsetEnd": 550,
+      "identifiedName": "Annelida"
+    },
+    {
+      "verbatim": "Mollusca.",
+      "scientificName": "Mollusca",
+      "offsetStart": 556,
+      "offsetEnd": 564,
+      "identifiedName": "Mollusca"
+    }
+  ],
+  "content": "July\nJuly\nJuly\nJuly\nJuly\nJuly\nJuly\nJuly\nJuly\nJuly\nJuly\nJuly\nJuly\nJuly\nJuly\nJuly\nJuly\nWed\nThu\nFri\nMon\nTue\nWed\nThu\nFri\nSat\nMon\nTue\nWed\nThu\nFri\nMon\nTue\nWed\nThe feather as a develop~\nmental system.\nExperimental bryology of\nEchinoderms I.\nExperimental embryology of\nEchinoderms II.\nFertilization.\nof centrifuf\nSome effects\ngal force on the eggs of\nAsterias and\nof Nereis.\nCell lineage and spiral\ncleavage.\nExperimental studies on the\npigmentation of birds.\nDevelopment of Annelida.\nExperiments on Amphibian\nreproduction.\nExperimental Embryology of\nAnnelida and Mollusca.\nThe Potencies of regenera-\nting tissue.\nThe Embryology of Crustaoea\nMicroscopic Observation of\ncertain embryological Pro-\ncesses in the living adult\nMam al.\nPolarity problems in\nCoelenterate Developmenti\nGenes and Cytoplasm.\nGeneral Embryology of\nTunicates.\nAscidian Metamorphosis.\n\n\n\n\n\n\nR. Lillie\nSchotte\nSehotte\nP. Costello\nP. Costello\nP. Costello\nMary E. Rawles\nV. Hamburger\nRoberts Hugh\n\n\n\n\n\nA\n\nHamburger\nSchotte\nP. Costello\nR. Clark\nW0 B8.11a.I'd. \nH. Sturtevant\nW. Ballard\nCaswell Grave\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Asterias",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7b1ac17d-35ba-58e2-b65c-2ab566742b47",
+          "name_string": "Asterias",
+          "canonical_form": "Asterias",
+          "classification_path": "Animalia|Echinodermata|Asteroidea|Forcipulatida|Asteriidae|Asterias",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362716|2362745|2371692|2535287",
+          "taxon_id": "2535287",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7b1ac17d-35ba-58e2-b65c-2ab566742b47",
+          "name_string": "Asterias",
+          "canonical_form": "Asterias",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628080",
+          "local_id": "72957",
+          "url": "http://eol.org/pages/72957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Annelida",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "d231efa8-876a-5feb-8b9c-d2884cd86bc7",
+          "name_string": "Annelida",
+          "canonical_form": "Annelida",
+          "classification_path": "Animalia|Annelida",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2369613",
+          "taxon_id": "2369613",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "d231efa8-876a-5feb-8b9c-d2884cd86bc7",
+          "name_string": "Annelida",
+          "canonical_form": "Annelida",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39139806",
+          "local_id": "36",
+          "url": "http://eol.org/pages/36",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Mollusca",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "85d45ea9-bfb0-523a-9717-94de71abbb08",
+          "name_string": "Mollusca",
+          "canonical_form": "Mollusca",
+          "classification_path": "Animalia|Mollusca",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2362382",
+          "taxon_id": "2362382",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "85d45ea9-bfb0-523a-9717-94de71abbb08",
+          "name_string": "Mollusca",
+          "canonical_form": "Mollusca",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "36496225",
+          "local_id": "2195",
+          "url": "http://eol.org/pages/2195",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 22,
+      "in_curated_sources": true
+    }
+  ]
+}

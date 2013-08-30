@@ -1,0 +1,90 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=GGmmSCLtROmg2R049vrfFw",
+  "input_url": null,
+  "file": "Embryology 1988_ 55.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.085293084,
+    "resolve_names_duration": 0.654634381,
+    "total_duration": 22.587709846
+  },
+  "agent": "",
+  "created": "2013-06-18T13:21:51-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Xenopus\"",
+      "scientificName": "Xenopus",
+      "offsetStart": 144,
+      "offsetEnd": 151,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus\"",
+      "scientificName": "Xenopus",
+      "offsetStart": 226,
+      "offsetEnd": 233,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus\"",
+      "scientificName": "Xenopus",
+      "offsetStart": 305,
+      "offsetEnd": 312,
+      "identifiedName": "Xenopus"
+    }
+  ],
+  "content": "LECTURE \ncounsz II\nWhitman Auditorium\nTuesday! June 28\n'm\n10:00 a.m. - J. Gerhart Lecture I \"Cytoplasmic localization and axis\ndetermination in Xenopus\"\n7:30 p.m. - J. Gerhart Lecture II \"Gastrulation and Self-organization\nin Xenopus\" \nWednesday, June 29 \n10:00 a.m. - M. Lecture I \"Mesoderm induction in Xenopus\"\nThursday, June 30 \n10:00 a.m. - M. Lecture II \"What about Microtuhules?\"\nFriday, July 1 -\na.m. Symposium (no lecture)\np.m. Symposium (no lecture)\nSaturday, July 2 \na.m. Symposium (no lecture)\n7:30 p.m. - J.-P. Thierry Lecture I \"The role of the extracellular matrix\nI in development\"\nSunday, July 3 \n10:00 a.m. - J.-P. Thierry Lecture II \"The ontogeny of the immune system\"\nMonday, July 4 INDEPENDENCE DAY (no lecture)\nTuesday) July 5 \n10:00 a.m. - E. Lazarides Lecture I \"0ntogeny and differentiation of the\nhemopoetic system\" \nWednesday, July 6 I\n10:00 a.m. - E. Lazarides Lecture II \"Structural differentiation of the\ncell, and its evolution\"\nThursday, July 7\n10:00 a.m. - D. Goodenough Lecture I \"The role of gap junctions in development'\nFriday, July 8\n10:00 a.m. Tentative lecture - to be announced.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

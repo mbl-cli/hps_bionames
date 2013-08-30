@@ -1,0 +1,177 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Nm72upqUQPyndOFQjDQrnw",
+  "input_url": null,
+  "file": "153_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.119822829,
+    "resolve_names_duration": 0.781135246,
+    "total_duration": 25.49929564
+  },
+  "agent": "",
+  "created": "2013-06-18T12:15:25-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "PILIDIUM",
+      "scientificName": "Pilidium",
+      "offsetStart": 11,
+      "offsetEnd": 18,
+      "identifiedName": "Pilidium"
+    },
+    {
+      "verbatim": "Heteronemertini",
+      "scientificName": "Heteronemertini",
+      "offsetStart": 87,
+      "offsetEnd": 101,
+      "identifiedName": "Heteronemertini"
+    },
+    {
+      "verbatim": "(Lineus;",
+      "scientificName": "Lineus",
+      "offsetStart": 272,
+      "offsetEnd": 279,
+      "identifiedName": "Lineus"
+    },
+    {
+      "verbatim": "Pilidium",
+      "scientificName": "Pilidium",
+      "offsetStart": 1837,
+      "offsetEnd": 1844,
+      "identifiedName": "Pilidium"
+    }
+  ],
+  "content": "-7.\nLARVAQ\nPILIDIUM\nIn most proboscis worms development is direct. Two families of the\nHeteronemertini feature a larval phase, the Piliuium. This larva may either he\nfree~swimming and planktonic (ggrehratglug), or modified for creeping, hence\nwithout locomotor appendages (Lineus; \"Desor's larva\").\nThe larva is helmet-shaped and the margin of the base is drawn out into two\ncharacteristic lappets, The entire margin of the base carries a ciliated hand,\nthe protctroch. A tuft of long cilia arises from an apical sensory plate. ln\nearly larvae, two ectodermal cells migrate into the blastocoele and give rise to\nloose A wide mouth forms at the base of the larva, between the\nlappets. It leads into a blind-ended gastral cavity. (Note that the larva still,\nfeatures the 2-way alimentary system cf coelenterates and flatworms, while the\nadult nemertean possesses a onequay system, with mouth and separate anus).\n\ne' \nf'\ndashed: asophagus, stomach\n s   amnivn\na       adult esfvfisrm\nfl*mins-px, i I  f \niff.; -   ., A. \n4 ..-J     \nl`   I:   na- wiltMetamorphosis is remarkable and complicated. Five ectodermal invaginations\n(their deep parts representing \"imaginal discs\") sink belsw the surface and even~\ntually fuse one with the other, closing off a double-walled cavity deep within\nthe larva. The outer wall is larval tissue, the so-called \"amnion\". The inner\nwall is formed from the tissue of the imaginal discs, and this is the ectoderm of\nthe future adult. The adult mesoderm is represented by cells which have\ncome to be included within the cavity, And the adult endoderm is the larval\nstomach, around which the amniotic chamber is formed. When the adult worm has\nmatured it breaks out of the amnion, and the pilidium, having lost its stomach\nand unable to nourish itself, soon dies.\nIn its mesoderm and its alimentary system, the Pilidium resembles Mul1er's\nlarva. The main evolutionary advance of the nemertines was apparently made in the\nadult, not in the larva, and the resemblance of the two larval types could indicate\nancestral relationship. On the other hand, both larval types also resemble the\nTrochophore in ectodermal ciliation, and this could well be a matter of parallel\nevolution\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Pilidium",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "90c47fcb-71c9-56ee-8bea-22210347e4fe",
+          "name_string": "Pilidium",
+          "canonical_form": "Pilidium",
+          "classification_path": "Fungi|Ascomycota|Leotiomycetes|Helotiales|Not assigned|Pilidium",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2365755|2365760|2365790|2365791|2366076|2490177",
+          "taxon_id": "2490177",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "90c47fcb-71c9-56ee-8bea-22210347e4fe",
+          "name_string": "Pilidium",
+          "canonical_form": "Pilidium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28961688",
+          "local_id": "19004",
+          "url": "http://eol.org/pages/19004",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Heteronemertini",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "12690e2b-21e0-5a58-a170-ec8001f4fd33",
+          "name_string": "Heteronemertini",
+          "canonical_form": "Heteronemertini",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5166230",
+          "local_id": "2857",
+          "url": "http://eol.org/pages/2857/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "12690e2b-21e0-5a58-a170-ec8001f4fd33",
+          "name_string": "Heteronemertini",
+          "canonical_form": "Heteronemertini",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5166230",
+          "local_id": "2857",
+          "url": "http://eol.org/pages/2857/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Lineus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "9d341fdd-7798-5934-aad0-c3d75e532084",
+          "name_string": "Lineus",
+          "canonical_form": "Lineus",
+          "classification_path": "Animalia|Nemertea|Anopla|Not assigned|Lineidae|Lineus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2370535|2370546|2370547|2370556|2379271",
+          "taxon_id": "2379271",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "9d341fdd-7798-5934-aad0-c3d75e532084",
+          "name_string": "Lineus",
+          "canonical_form": "Lineus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26326658",
+          "local_id": "50768",
+          "url": "http://eol.org/pages/50768",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

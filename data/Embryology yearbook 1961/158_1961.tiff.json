@@ -1,0 +1,126 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=J81XsvzhTf6swA9jQ4o4bg",
+  "input_url": null,
+  "file": "158_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.149997527,
+    "resolve_names_duration": 1.398740644,
+    "total_duration": 24.785407691
+  },
+  "agent": "",
+  "created": "2013-06-18T12:16:48-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Aurioularia",
+      "scientificName": "Aurioularia",
+      "offsetStart": 418,
+      "offsetEnd": 428,
+      "identifiedName": "Aurioularia"
+    },
+    {
+      "verbatim": "VITELLARIA",
+      "scientificName": "Vitellaria",
+      "offsetStart": 535,
+      "offsetEnd": 544,
+      "identifiedName": "Vitellaria"
+    },
+    {
+      "verbatim": "Ophiuroids, ani",
+      "scientificName": "Ophiuroids ani",
+      "offsetStart": 589,
+      "offsetEnd": 603,
+      "identifiedName": "Ophiuroids ani"
+    }
+  ],
+  "content": "7--f\n~l2-\nBIPIHNARIA \nCharacteristic of Asteroios, In the early larva pair of outgrowths de-\nvelops posteriorly, giving rise to the \"bipinnete\" oonlitisn. These \"arms\" are\nbordered by the oiliatee bane. Anteriorly, sorties of the band nips off and\ncomes to border a separate preorel lobe.\nAURICULILRIA  \nGharaeteristie of some of the Holothursiss. This larva resembles the\nBipinneria in all essential respeots. In the Aurioularia, however, the oiliated\nborder of the preorel lobe remains continuous with the rest of the cilieted band.\nVITELLARIA\nCharaeteristis of all known Grinoios, some Ophiuroids, ani some Holothuroids.\nwhereas all other eohinoderm larvae are derivable from common \"early larval form,\nthe Vitellarie on the contrary derives indepeuoently from the gastrule. As the\nname suggests, this larva secure in species with (mooerately) yolky eggs. The\nlarva is berrel~shapeo, ana it possesses separate oilieteo bands. These banos\n4 develop in situ fxum the general oilietion of the blastula. The larval elimentery\nsystem is inoompleiely issued sr is may develop very late, as might be expected\nin a yelky organism..-\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Aurioularia",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Vitellaria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "da12065e-efdb-5e6e-9fa1-855931e82d22",
+          "name_string": "Vitellaria",
+          "canonical_form": "Vitellaria",
+          "classification_path": "Plantae|Magnoliophyta|Magnoliopsida|Ericales|Sapotaceae|Vitellaria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2362540|2362541|2367980|2367981|2500033",
+          "taxon_id": "2500033",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a8e0c33d-e8cd-5c89-b7b7-5a799e65fd22",
+          "name_string": "Vitellaria Gaertner f.",
+          "canonical_form": "Vitellaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "36433240",
+          "local_id": "44476",
+          "url": "http://eol.org/pages/44476",
+          "match_type": 2,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ophiuroids ani",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "a05ad6ea-6cbe-576f-bffb-a6767348358a",
+          "name_string": "Ophiuroids",
+          "canonical_form": "Ophiuroids",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "127713331",
+          "url": "http://www.organismnames.com/details.htm?lsid=2363124",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    }
+  ]
+}

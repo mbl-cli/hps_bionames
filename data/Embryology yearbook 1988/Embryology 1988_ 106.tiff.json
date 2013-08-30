@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=HdJWIZRdRxqiQLM1cUMdTw",
+  "input_url": null,
+  "file": "Embryology 1988_ 106.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.151560893,
+    "resolve_names_duration": 0.647820381,
+    "total_duration": 22.161857288
+  },
+  "agent": "",
+  "created": "2013-06-18T13:04:34-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1138,
+      "offsetEnd": 1147,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "l\\ti?SH HTL. $0717 W. \nWHOLE-MOUNT B-GAL STAINS OF EMBRYOS\n(after Hiromi et al. (1985) Cell 43, 603-613; modified by C. Dearolf J. Topol)\n1. Dechorionate on double-stick tape or in 2.5% Na hypochlorite (lzl\nbleach:H2O). Transfer embryos to \"deep well\" depression slide\nfilled with heptane solution described in next step.\n2. Fix with heptane saturated with [25% glutaraldehyde, 50mM cacodylate\nbuffer, pH 7.3] 15' with gentle shaking.\n3. Sucl< off all fixative, or allow it to care that embryos\nare not exposed to the air for more than a few seconds.)\n4. Add 3.5% ficoll in lx Ringer solution. Sink embryos. Devitellinize.\n5. Suck off iicoll/Ringers and add staining solution. (Alternative: Use\ndissecting needles to lift embryos individually into a depression slide\nalready containing staining solution.) \n6. Allow to develop in chamber humidified with lx Ringers Room Temperature for as long as 24 hours.\n7. After staining, use dissecting needles to transfer embryos to drop of\n100% glycerol placed between two mounted coverslips. Carefully place\na third coverslip over the glycerol so that it is supported by the\nother two.\nSOLUTIONS:\nDrosophila Ringer (10x):\n15 NaCl\n0.7 \n0.42 CaCl;\nadd ddH2O to 200 ml. pH should be 7.2\nStaining Solution (for 1 ml):\n850 |11 35% ficoll in lx Ringers\n60 ul 5% X-gal in DMF\n(vortex)\n50 ul 200 mM buffer, pH 8\n(vortex(.007g for 200ul)\n(vortex)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

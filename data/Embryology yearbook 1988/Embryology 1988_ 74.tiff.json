@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=j7NvxpCMSEeC6oYsi4vBUg",
+  "input_url": null,
+  "file": "Embryology 1988_ 74.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.063317216,
+    "total_duration": 20.405489575
+  },
+  "agent": "",
+  "created": "2013-06-18T13:25:26-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "MMR\n0.1M NaCl 233.76g\nMQSO4 Hepes 200 ml\n0.1 mM EDTA 40 ml\nBring to 4 liters. Final pH should be 7.8\nof 1M stock\nof 1M stock\nof 2M stock\nof 1M stock pH 7.8\nof 0.1M stock pH 7.8\n\n"
+}

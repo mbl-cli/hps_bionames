@@ -1,0 +1,48 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=wmfvMzz0T0e2ObwnIn5T3w",
+  "input_url": null,
+  "file": "34_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.175898862,
+    "resolve_names_duration": 1.090763597,
+    "total_duration": 26.462893222
+  },
+  "agent": "",
+  "created": "2013-06-18T12:29:23-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Kallius",
+      "scientificName": "Kallius",
+      "offsetStart": 2133,
+      "offsetEnd": 2139,
+      "identifiedName": "Kallius"
+    }
+  ],
+  "content": "2\nGasseling, M. Te, and Saunders, J. Wa, Jr. (l96l)e Effects of the\napical ectodermal ridge on growth of the verseneestripped chick\n  budo D9V?10pe B?.01o 59 l??25o\nGlacksmann, An (l95l)? Cell deaths in normal vertebrate cntogenye Biole\nRevss Cambridge Phils Soce 26, 59~86.\nGluecksohn>>Sohoenheimer, Se (1942)? The morphological manifestation of a\ndominant mutation affecting tail and urogenital systems Genetics\n28, 541-348?\nGluecksohn~Sohcenheimer, So (l945)? The embryonic development of mutants of\nthe Sdestrain 1n.mice? Genetics 50, 29-38?\nGraper, L. (1935)? Erkennung von Stellen besonderer Entwicklungsenergie\ndurch Vitalfarbung (Induktion?)? Verhandlungen der anatomischen\n45, 125-129.\nGi?noberg, Ho (1956). Hereditary lesions of the labyrinth in the mousse\nBritish Medical Journal 12, 153-157.\nGr5neberg, Ho (1957). Genetioal studies on the skeleton of the mouses\nXIX. Vestiga1 ta1l? J. Genetics 55, 181-194s\nGrnneberg, He (l958a)? Genetical studies on the skeleton of the mouseo\nXXIIQ The development of Danforth?s short~tail? J. Embryole\nExpe Morphol. 6, 124~148? \nGr?neberg, Ho (l958b)? Genetioal studies on the skeleton of the mouseo\nThe development of braehyury and anurye J. Embryole Exp.\nMorphole 6, 424>>443?\nHamburger, Vo (l958)eV Regression versus peripheral control of differentiation\nin Ame Jo     \nHamburger, V., and Hamilton, H, L9 (1951), A series of normal stages in\ndevelopment of the chick embryos Jo Morphola 88, 49-92.\nHamburger, V., and Levi<Montalcini, Ro (1949). Proliferation, differentiation\nand degeneration in the spinal ganglla of the chick embryo under\nnonmal and experimental conditionss J. Exptl. Zool. 111, 45?-502?\nHhmpei A. (l956}? Sur la topographie dos ebauches presomptives du membre\nposterieur du Poulet. Compt. rend. acad. soles 243, 970-975?\nHampe, An (l959)s Contribution a l?e;ude du dereloppement et de la reeulation\ndes defioienoes et des excedents dans la pette de l'embryon de\nPoulete Arch. anato et morphole 48, 347-4745\nJacobson, wr, and Fell, He Be (l94l)e The a?v@1?pmenta1 mechanics and\npotoncies of the undifferentiated of the mandiblee\nQuart. J. Micro Soie 82, 563=586?\nKallius, Ee (l95l)? Der Zelluntergang als Mechanismms bei der Histioe und\nMorphogenesee Verhe gusto Geso 40, l0~21?\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Kallius",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=uKszPMSMTXyQ4oRLjcLOMw",
+  "input_url": null,
+  "file": "71_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.257735626,
+    "resolve_names_duration": 0.665047964,
+    "total_duration": 27.757681001
+  },
+  "agent": "",
+  "created": "2013-06-18T12:43:16-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Spisula,",
+      "scientificName": "Spisula",
+      "offsetStart": 519,
+      "offsetEnd": 526,
+      "identifiedName": "Spisula"
+    },
+    {
+      "verbatim": "Crepidula,",
+      "scientificName": "Crepidula",
+      "offsetStart": 555,
+      "offsetEnd": 564,
+      "identifiedName": "Crepidula"
+    }
+  ],
+  "content": " AND \nRepresenTaTive molluscs and annelids commonly used for experimenTal and\ndescripfive embryological sTudies will be supplied. Our inifial laboraTory work\nwill be concerned wiTh descripTive developmenT of Type forms - or forms which are\nreadily available aT This Time. IT may be well To remind sTudenTs ThaT cleavage\nin These forms is characTerized by parTial roTaTion of The micromeres so-called\nspiral cleavage. The spiral paTTern is noT observed wiTh equal ease in all of\nThe forms, Thus iT is obscure in eggs of Spisula, buT very clear in Those of\nCrepidula, eTc. In addifion To The precise paTTern of cleavage The eggs and early\nembryos of molluscs and annelids are noTed Tor Their lack of abilify To regulafe.\nwhen blasTomeres are isolaTed, under mosT circumsTances They conTinue To develop\nas Though sTill parT of The whole embryo. They exhibiT a mosaicism (or\ndeTerminaTive cleavage) which has frequenTly been conTrasTed wiTh The regulaTive\n(Tendency of parTs To form a whole) behavior of The eggs of oTher forms. Finally\na sTrucTure which is unique To These eggs (and a few relaTed forms) is encounTered\nThis is The polar lobe, a large mass of non-nucleaTed ooplasm which frequenTly\nresembles a blasTomere. The polar lobe forms and reTracTs in wiTh The\nfirsT few cleavages.\nThe handling of The eggs and embryos of molluscs and annelids, like Those\nof oTher marine forms, requires a reasonable degree of care (see JusT, l939,\nBasic MeThods for ExperimenTs on Eggs of Marine Animals). The eggs are sensifive\nTo adverse condiTions and in order To avoid high TemperaTures, evaporaTion, eTc.,\na sTock baTch of eggs or embryos should be kepT in a covered finger bowl or\nsTendor dish on The sea waTer Table. Samples of The embryos may be Taken ouT aT\ninTervals for microscopic observafion. Glassware should be Thoroughly washed\nTo avoid conTaminaTion.\nFor observing rapidly moving larval sTages iT is necessary To immobilize\nThem wiThouT causing excessive harm. Polyvinyl alcohol may be used for This pur-\npose (l parT polyvinyl alcohol To parT sea waTer conTaining The larvae). This\nsoluTion is very viscous and slows down larval movemenT wiThouT apparanT damage.\nA l:2 soluTion of ChlorobuTanol (MS 222) may also be used.\nEMBRYOLOGY oF MoLLuscA\n?pisula sglidjssima (Pelecypod)\nl. ObTaining Eggs. Remove hinge of The clam, breaking The ovary and forcing The\neggs To exude inTo a beaker of TilTered sea waTer. DecanT 4 Times in The firsT\nhalf hour, leave The heavier more maTure eggs on The boTTom of The beaker.\nAdd Two drops of a sperm suspension (one drop of dry sperm in IO ml. sea waTer) To\neggs conTained in 40-50 ml. of waTer in The beaker. LimiT egg concenTraTion so\nThaT There are no more Than 20-26 in a lower power field since They are very\nsuscepTible To overcrowding. Dry ovaries and TesTes may be kepT overnighT in a\nrefrigeraTor. Washed eggs may be kepT for 4 66 6 hours.\n2. The unferTili;ed egg; ObTain a sample of unferTilized eggs in a sTendor dish\nand Transfer To~a depression slide for sTudy. when shed, The eggs are irregular\nin shape due To pressure wlThin The ovary, buT They become spherical on sTanding.\nThey are small (56 micra) and The cenTer is almosT compleTely filled by The\nenormous germinaL yesicle wiTh iTs prominenT nucleolus. Unless eggs are\ninseminafed They will mainTain This appearance for many hours. The eggs are\nferTilizable unTil The germinal vesicle breaks down, alThough The capaciTy for\nnormal ferTilizaTion and developmenT is impaired wiTh long sfanding.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Spisula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6154bc52-c653-5bd3-878d-347c80947761",
+          "name_string": "Spisula",
+          "canonical_form": "Spisula",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Veneroida|Veneroida|Mactridae|Spisula",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2369911|2369975|2370006|2370007|2419156",
+          "taxon_id": "2419156",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6154bc52-c653-5bd3-878d-347c80947761",
+          "name_string": "Spisula",
+          "canonical_form": "Spisula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20679194",
+          "local_id": "57515",
+          "url": "http://eol.org/pages/57515",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Crepidula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Calyptraeidae|Crepidula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370194|2370205|2410985",
+          "taxon_id": "2410985",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44534464",
+          "local_id": "404808",
+          "url": "http://eol.org/pages/404808",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

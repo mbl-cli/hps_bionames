@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=DdX3gVGSTZe9IpuZGICh1Q",
+  "input_url": null,
+  "file": "116_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.156463043,
+    "resolve_names_duration": 0.958292953,
+    "total_duration": 26.659379312
+  },
+  "agent": "",
+  "created": "2013-06-18T11:33:16-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 2563,
+      "offsetEnd": 2568,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "..4..\npreparaTions ThaT have been kepT on The sTage of The microscope, as TemperaTure\nand possibly oTher TacTors may be operaTing To make These culTures abnormal. A\nconvenienT way To keep consTanT observaTions on normal maTerial is To remove a drop\nof eggs, place iT on a slide under a cover glass supporTed aT The Tour corners by\nscraping each corner over soTT plasTicens. ObservaTions should be made on The\neggs in The cenTer oT The preparaTion; an occasional look aT eggs near The edge\nof The cover-glass will Tell when The preparaTion should be renewed. All powers\nof Th? microscope can be used wiTh such a preparaTion, and manipulaTions of various\nkinds (sorTing of eggs, isolaTion of b|asTomeres, eTc.) can be carried ouT under\nsuch plasTicene-supporTed cover glasses.\nyou have become familiar wiTh The morphology of The unferTilized egg, look\nclosely aT sperm under The oil immersion objecTive. You will see The mosT deTail\nif you parTially dark~adapT your eyes and use low lighT inTensiTies. NoTe The\nhead, middle-piece and Tail regions of The sperm and Their characTerisTic move-\nmenTs. Draw a sperm cell To scale, noTing especially The acrosome in TronT. NexT\nobserve some of The \"rejecTed sperm\" aTTached To The exTruded jelly of TerTilized\neggs. ls Their shape The same? NoTe especially The fronT.\nFind Two eggs ThaT are Touching one anoTher and inseminaTe Them. NoTe how They\nare pushed aparT by jelly exTruded from Their corTices. The margin of The jelly\nlayer can be seen by The ring of rejecTed sperm aTTached To iT. By 5 or 6\nminuTes aTTer TerTilizaTion, The \"TerTilizaTion membrane\" has raised from\nThe sunace. Find an egg showing a TangenTial view of sperm aTTachmenT; by 8 To IO\nminuTes an enTrance cone begins To form. The sperm head becomes hidden from view\nwiThin The nexT Ten minuTes, buT does noT enTer for some Time (how long?) when iT\nTinally peneTraTes (or is drawn in), The middle piece and Tail are leTT ouTside.\nThe TirsT developmenTal changes To follow inseminaTion are Those involved in The\nmeioTic divisions. The dissoluTion of The germinal vesicle is followed by The\nexTrusion of The firsT and second polar bodies. These esTable The animal gole of\nThe egg. WhaT relaTion has The polar axis To The plane of cleavage? AT 2l C. half\nof The eggs in a developing culTure will Torm The firsT polar body aT 45 min.,\nThe second polar body aT 60 minuTes, and will cleave aT 95 minuTes. lf Time per-\nmiTs observe The second and Third cleavages. The Third division, from 4 To 8\ncells, produces 4 micromeres by spiral cleavage.\nCenTriTuq?d Nereis eggs\nFill 2 cenTrifuge Tubes half way wiTh 0.95 sucrose (made wiTh glass-disTi|led\nwaTer) and layer eggs in sea waTer carefully over Them. Shake one of The Tubes\nlaTerally so ThaT a sea waTer-sucrose gradienT is esTablished and mark The Two\nTubes suiTably. Spin The eggs preferably in an air-Turbine cenTrifuge (ask for\ninsTrucTor's help in This), or in The Emerson elecTric cenTriTuge. The former will\ngive forces up To 200,000 graviTy, whereas The laTTer will apply only abouT\nl0,000X Q. AbouT ThirTy minuTes wiTh The air-Turbine cenTriTuge aT 65lbs. pressure\nshould give good sTraTiTicaTion. An hour wiTh The Emerson cenTriTuge does almosT\nas well. ls There a difference beTween The eggs in The Two Tubes? NoTe The\nposiTion of The oil drops, yolk; where has The corTical maTerial gone? WhaT new\nsTrucTures can be see inside The germinal vesicle. NoTe The \"vorTex\" near The\ncenTriTugal pole; why did This form? Wash away The sucrose and inseminaTe To ob~\nserve jelly exTrusion. Does all The corTical maTerial disappear in This process?\n(To observe jelly exTrusion, rub some chinese ink in The sea waTer, buT remove\niT again as iT will dlsinTegraTe compleTely)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

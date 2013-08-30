@@ -1,0 +1,194 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=WSZ2YKbOR8m5yXQIU0saYQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 57.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.21139922,
+    "resolve_names_duration": 0.662002016,
+    "total_duration": 25.059035777
+  },
+  "agent": "",
+  "created": "2013-06-18T13:22:06-04:00",
+  "total": 14,
+  "names": [
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 152,
+      "offsetEnd": 158,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Laevis",
+      "scientificName": "Laevis",
+      "offsetStart": 160,
+      "offsetEnd": 165,
+      "identifiedName": "Laevis"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 793,
+      "offsetEnd": 799,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Laevis",
+      "scientificName": "Laevis",
+      "offsetStart": 801,
+      "offsetEnd": 806,
+      "identifiedName": "Laevis"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 968,
+      "offsetEnd": 974,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Laevis\"",
+      "scientificName": "Laevis",
+      "offsetStart": 976,
+      "offsetEnd": 982,
+      "identifiedName": "Laevis"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1079,
+      "offsetEnd": 1085,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1276,
+      "offsetEnd": 1282,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Laevis",
+      "scientificName": "Laevis",
+      "offsetStart": 1284,
+      "offsetEnd": 1289,
+      "identifiedName": "Laevis"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1440,
+      "offsetEnd": 1446,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1631,
+      "offsetEnd": 1637,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Laevis",
+      "scientificName": "Laevis",
+      "offsetStart": 1639,
+      "offsetEnd": 1644,
+      "identifiedName": "Laevis"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1878,
+      "offsetEnd": 1884,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Laevis\"",
+      "scientificName": "Laevis",
+      "offsetStart": 1886,
+      "offsetEnd": 1892,
+      "identifiedName": "Laevis"
+    }
+  ],
+  "content": "John Gerhart\nEmbryology Course\nMarine Biological Laboratory\nWoods Hole, MA 02543\nJune 28 - June 29, 1988\nP. D. Nieuwkoop and J. Faber, \"Normal Table of Xenopus Laevis (Daudin)\"\nNorth-Holland Publishing Company. Amsterdam. Second Edition (1967)\nMarc W. and John C. Gerhart, \"Spatial and Temporal Changes in\nthe Amphibian Egg\" \nBio Science Vol. 31 No. 5 381-388 (1981)\nJ. Gerhart, S. Black, S. Scharf, R. Gimlich, J.-P. Vincent, M. Danilchik,\nB. Rowning and J. Roberts, \"Amphibian Early Development\"\nBio Science Vol. 36 No. 8 541-549 (1986)\nJohn Gerhart and Ray Keller, \"Region-Specific Cell Activities in Amphibian\nGastrulation\"\nAnn. Rev. Cell Biology 2:201-229 (1986)\nKenneth R. Kao and Richard P. Elinson \"The Entire Mesodermal Mantle Behaves\nas Spemann's Organizer in Dorsoanterior Enhanced Xenopus Laevis Embryo's\"\nDevelopmental Biology 127 64-77 (1988)\nChester M. Regen and Richard A. Steinhardt, \"Lithium Dorsalizes but also\nMechanically Disrupts Gastrulation of Xenopus Laevis\"\nDevelopment 102 677-686 (1988)\nJean-Paul Vincent and John C. Gerhart, \"Subcortical Rotation in Xenopus Eggs\nAn Early Step in Embryonic Axis Specification\"\nDevelopmental Biology 123 No. 2 526-539 (1987)\nMichael V. Danilchik and John C. Gerhart, \"Differentiation of the Animal-\nVegetal Axis in Xenopus Laevis Oocytes\"\nDevelopmental Biology 122 101-112 (1987)\nJean-Paul Vincent, George F. Oster, and John C. Gerhart, \"Kinematics of\nGray Crescent Formation in Xenopus Eggs: The Displacement of Subcortical\nCytoplasm Relative to the Egg Surface\"\nDevelopmental Biology 113 484-500 (1986)\nSteven D. Black and John C. Gerhart, \"High-Frequency Twinning of Xenopus\nLaevis Embryos from Eggs Centrifuged before First Cleavage\"\nDevelopmental Biology 116 228-240 (1986)\nR. E. Keller, Michael Danilchik, Robert Gimlich and John Shih, \"The Function\nand Mechanism of Convergent Extension During Gastrulation of Xenopus Laevis\"\nJ. Embryol. exp. Morph. 89, Supplement 185-209 (1985)\nRobert L. Gimlich and Jochen Braun, \"Improved Fluorescent Compounds for\nTracing Cell Lineage\"\nDevelopmental Biology 109 509-514 (1985)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Laevis",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "9a42c08f-7241-5791-b373-d08f3754948c",
+          "name_string": "Laevis",
+          "canonical_form": "Laevis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97701148",
+          "local_id": "urn:lsid:ubio.org:namebank:4557477",
+          "global_id": "urn:lsid:ubio.org:namebank:4557477",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4557477",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    }
+  ]
+}

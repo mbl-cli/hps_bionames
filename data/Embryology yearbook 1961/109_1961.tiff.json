@@ -1,0 +1,247 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=vGOEcoBQS66ffG2xREaFuQ",
+  "input_url": null,
+  "file": "109_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.089536262,
+    "resolve_names_duration": 1.161721082,
+    "total_duration": 24.296609311
+  },
+  "agent": "",
+  "created": "2013-06-18T11:28:46-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Tubularia",
+      "scientificName": "Tubularia",
+      "offsetStart": 306,
+      "offsetEnd": 314,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Aurelia aurita",
+      "scientificName": "Aurelia aurita",
+      "offsetStart": 404,
+      "offsetEnd": 417,
+      "identifiedName": "Aurelia aurita"
+    },
+    {
+      "verbatim": "Rurelia aurita",
+      "scientificName": "Rurelia aurita",
+      "offsetStart": 548,
+      "offsetEnd": 561,
+      "identifiedName": "Rurelia aurita"
+    },
+    {
+      "verbatim": "Invertebrata.",
+      "scientificName": "Invertebrata",
+      "offsetStart": 661,
+      "offsetEnd": 673,
+      "identifiedName": "Invertebrata"
+    },
+    {
+      "verbatim": "Aurelia",
+      "scientificName": "Aurelia",
+      "offsetStart": 711,
+      "offsetEnd": 717,
+      "identifiedName": "Aurelia"
+    }
+  ],
+  "content": "  \nTorrey, H. B. 1910\nZwilling, E. 1939\nON \nFriedemann, 0. 1902\nHargitt, 1910\n\nHargitt, G.T.\nHein, U, 1900\nKorschelt, E. 1936\nMacBriue, 1914\nPercival, E. 1923\n\n0\n\n\nBiulugieal Stuuias on 1V. and fissiun in\nheteromorphic pieces and the of polarity. Bigl.\nThe effect uf remuval uf perisarc on regeneratiun in\nTubularia crucea. Biol. Bull., ZQ: 90-103.\nHber die pustemhryunsle Eutwicklung vun\nUntersuehungen\nAurelia aurita. Zeit. f. wiss. Zuul., 21; 227-267.\nStuuies in the aevelopment of Jour. Morph.,\ngl I   1\nUntersuchungen hber mia Entwicklung von Rurelia aurita.\n  fg Zflfilg,  \nVergleiuhenue Entuicklungsgeschichte mer Tiere. Jena.\nTextbuuk of Embryology. 1. Invertebrata. Macmillan.\nOn the strobilizatiun of Aurelia. Quart. Jour. Mior. Sci.,\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Aurelia aurita",
+      "results": [
+        {
+          "data_source_id": 2,
+          "data_source_title": "Wikispecies",
+          "gni_uuid": "b753164b-01b4-5fad-ac7e-2bacd26c1b35",
+          "name_string": "Aurelia aurita",
+          "canonical_form": "Aurelia aurita",
+          "classification_path": "Animalia|Periphylla|Medusozoa|Scyphozoa|Discomedusae|Semaeostomeae|Aurelia aurita",
+          "classification_path_ranks": "||||||",
+          "classification_path_ids": "80|4431|241346|107158|253938|149097|166057",
+          "taxon_id": "166057",
+          "url": "http://species.wikimedia.org/wiki/Aurelia_aurita",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b753164b-01b4-5fad-ac7e-2bacd26c1b35",
+          "name_string": "Aurelia aurita",
+          "canonical_form": "Aurelia aurita",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "31032153",
+          "local_id": "203484",
+          "url": "http://eol.org/pages/203484",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Rurelia aurita",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "daa932b0-600a-5b28-a2d0-2383c7026696",
+          "name_string": "Aurelia aurita (Linnaeus, 1758)",
+          "canonical_form": "Aurelia aurita",
+          "classification_path": "Animalia|Cnidaria|Scyphozoa|Semaeostomeae|Ulmaridae|Aurelia|Aurelia aurita",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2363435|2363461|2363484|2368678|2394749|5382820",
+          "taxon_id": "5382820",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b753164b-01b4-5fad-ac7e-2bacd26c1b35",
+          "name_string": "Aurelia aurita",
+          "canonical_form": "Aurelia aurita",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628136",
+          "local_id": "203484",
+          "url": "http://eol.org/pages/203484",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Invertebrata",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "8e7bb9c0-c8f6-5919-88cf-1ba726941ad7",
+          "name_string": "Invertebrata",
+          "canonical_form": "Invertebrata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "125561523",
+          "url": "http://www.organismnames.com/details.htm?lsid=1105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Aurelia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "05ac3998-238b-5b98-b8c1-31985b13f307",
+          "name_string": "Aurelia",
+          "canonical_form": "Aurelia",
+          "classification_path": "Animalia|Cnidaria|Scyphozoa|Semaeostomeae|Ulmaridae|Aurelia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363461|2363484|2368678|2394749",
+          "taxon_id": "2394749",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "05ac3998-238b-5b98-b8c1-31985b13f307",
+          "name_string": "Aurelia",
+          "canonical_form": "Aurelia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628135",
+          "local_id": "23740",
+          "url": "http://eol.org/pages/23740",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=pDQGwF2JSbe72u2U0zwlWA",
+  "input_url": null,
+  "file": "Embryology 1988_ 95.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.383434332,
+    "resolve_names_duration": 0.694255457,
+    "total_duration": 31.366524042
+  },
+  "agent": "",
+  "created": "2013-06-18T13:30:10-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 372,
+      "offsetEnd": 381,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "5. CUTICLE PREPARATIONS\nrv 1 \n1. Following an egg collection, incubate embryos for 24 at 250C.\n2. Then remove chorion by gently rolling the eggs on \"double-stick\"\nscotch tape.\n3. Transfer embryos to a drop of Hoyer's Mounting Media (diluted with\nlactic acid, 1:1) and then apply a coverslip.\n4. Place slide ovemight on a warming plate.\nReferences:\nvan der Meer, J. (1977) Drosophila I nf, 52, 160.\nWieschaus, E., and Niisslein-Volhard, C. (1986) Looking at Embryos. \n a practical approach, D. B. Roberts IRL Press, Oxford, pp. 199-\n227. (see below).\nThe following procedures for making cuticle prepartions are all minor variants of the\noriginal technique described by van der Meer (24). The choice among procedures\ndepends on a balance between the desired quality of the preparation and the number\nof different stocks and embryos to be examined.\n5.1 Quick preparations of undechorionated eggs\nThis method may be used for determining hatch rates, embryonic phenotypes, etc.\nCollect embryos and allow them to develop until all nonnal individuals have\nhatched.\n(ii) Determine the number of hatched eggs by counting the empty chorions on the\nagar surface.\nPick the unhatched eggs from the plate with a forceps and transfer to a drop\nof Hoyer's mountant on a glass slide.\n(iv) Cover the drop with a small 10 mm) coverslip and incubate the preparation\novemight at \nithough the embryo is still covered by the chorion and some adherent yeast. it clears\n.te well and the chorion pattern, although still visible, often does not interfere with\nthe analysis of the cuticular phenotype. The major advantage of this procedure is that\nit is quick and no embryos are lost.\n5.2 Standard preparations in the vitelline membrane\nRemove the unhatched embryos from the plate with a small spatula or brush\nand transfer to a wire basket made from stainless steel mesh. When embryos\nfrom a number of stocks are to be processed at the same time, 'nets' with pos-\nitions for seven stocks are convenient and time saving (see Section 7.2 for con-\nstruction of nets and baskets).\n(ii) Dechorionate the eggs by transfening the net or basket to sodium hypochlorite\n(commercial bleach, undiluted) in a 35-mm plastic Petri dish. The chorion has\nbeen removed when the shiny surface of the vitelline membrane is visible and\nthe eggs have become hydrophobic when removed and retumed to the bleach,\nthey float on the surface due to surface tension).\nRemove the net from the bleach, dry briefly on a paper towel, wash with a few\ndrops of water and retum to the emptied 35-mm Petri dish.\n(iv) Add sufficient glycerinezacetic acid (l fixative to the dish to cover the eggs\nbut not enough to cause them to float up out of the basket.\nCover the Petri dish. place it inside a larger Petri dish to reduce evaporation,\nand incubate for at \n(vi) Remove the dish from the oven and allow it to cool to room temperature.\nTransfer the basket to a paper towel to remove excess fixative.\nScoop the eggs from the individual positions using a fute-tipped brush and transfer\nthem to a drop of Hoyer's mountant on a glass slide.\n(ix) Cover them with a 10-mm or 18-mm coverslip and incubate at until the\nintemal tissue clears (generally ovemight).\n\n(vii)\n\nTo obtain better resolution 'pop` the vitelline membrane by pressing on the coverslip\nafter the embryos have cleared but before the Hoyer's mountant becomes too hard.\nThis is best done under a stereomicroscope. Retum the preparations to the oven to harden\nflatten by wrapping them in aluminium foil and placing two or three weights\non the coverslip for 3 days. This procedure yields preparations of very high quality,\nbut it is cmcial that the preparation has cleared before the weights are added.\n5.3 Embryos removed from their vitelline membranes\nThe greatest resolution of detail and the mos photogenic preparations are obtained when\nthe embryos are removed from the vitelline membrane prior to embedding. 'l'he following\nprocedure is particularly useful when all of the progeny from a cross must be examin-\ned regardless of whether or not they hatch.\nCollect embryos at l2 intervals and allow them to develop an additional 6 \nat Dechorionate in a stainless steel net in bleach and transfer to a plastic\nPetri dish by inverting the net over the dish and gently squirting water through\nthe net. If the chorion has been completely removed the vitelline membrane will\nPetridish.\n(ii) Retum the Petri dish with the embryos still under water to for another\nI8 -24 to allow all embryos to complete embryonic development. First instar\nlarvae that hatch remain in the water and eventually drown. After 24 h, remove\nthe vitelline membrane from embryos that do not hatch using a fine tungsten\nor glass needle.\nincubate larvae and hatched embryos in water for 30 min at before fix-\nation, remove the water and add 1:4 glycerinezacetic acid. Fix larvae in this sol-\nution for l5-60 min at Best results are obtained when preparations are\nallowed to continue fixation at room temperature for at least 24 in the glycerine;\nacetic acid.\n(iv) Transfer the larvae individually to I-loyer's solution on a slide using a drawn\nout mouth pipette or brush.\nAdd coverslips of the desired size and allow the preparations to clear at \ntypically for 24 although they can usually be scored much earlier.\n5.4 Other tricks for especially llat preparations of high contrast\nWhen the coverslip is added, capillary action pulls the Hoyer's solution out over the\nentire area covered. If exactly enough Hoyer's is used, this causes the embryo to flatten\ngently under the coverslip without bursting. The Hoyer's mountant should not be too\nviscous. Mount the embryos rapidly to prevent the I-loyer's from drying out on the\nslide before the coverslip is added. Hoyer's which is too thick can be diluted with a\nfew drops of water. Peeled embryos can also be flattened with weights following the\nprocedures outlined in Section 5.2. lt is cmcial that the embryos first clear in the moun-\ntant for several hours at before adding the weights.\nFor higher contrast, dilute the Hoyer's mountant 1:1 with lactic acid. Clearing time\nis then reduced to at This procedure yields high contrast preparations par-\nticularly useful when the dorsal hair patterns must be analysed in detail. Unfortunate-\nly, the preparations tend to develop \n5.5 Analysis of cuticle patterm .\nExamine cuticle preparations using a compound microscope equipped with objectives\nfor both dark field and phase contrast optics. As a simple substitute for true dark field\noptics use low power objectives with the condenser in the phase contrast position (6.3\nobjectives with the condenser set at Ph 2; 10X or l6>< with the condenser in the Ph\n3 position). Useful landmarks and aensilla in the external cuticle (25) and head (26.27)\nare shown in Figures I0 and 11.\n5.6 Photographing cuticle preparations\nA high contrast film such as Kodak Technical Pan Film is most useful for photographing\ndetails of the dorsal hair and denticle pattem as observed in phase contrast optics. For\ndark field pictures of whole embryos, a lower contrast film like Kodak Panatomic-X\ngives the best detail, although when using an automatic exposure meter the DIN setting\nshould be set higher than recommended, i.e. 23 rather than l6.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

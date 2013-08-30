@@ -1,0 +1,136 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=bBtSbhBCQsKA2EeXnX9wnA",
+  "input_url": null,
+  "file": "Embryology 1988_ 5.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.282176216,
+    "resolve_names_duration": 0.593046463,
+    "total_duration": 24.840513462
+  },
+  "agent": "",
+  "created": "2013-06-18T13:20:35-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1102,
+      "offsetEnd": 1111,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1224,
+      "offsetEnd": 1230,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1456,
+      "offsetEnd": 1466,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1637,
+      "offsetEnd": 1643,
+      "identifiedName": "Xenopus"
+    }
+  ],
+  "content": "STUDENTS IN THE MBL EMBRYOLOGY COURSE, SUMMER 1988\n\nALLENDE, Miguel\nA first year graduate student in the Molecular Biology Graduate Group at U.\nPenn. An undergraduate from Chile. Highly recommended by Eric Weinberg and\nRobert Perry. Has not selected a thesis topic but will probably do work on\nsea urchin nuclear protein genes with Weinberg.\nCARNER, Kristin R. \nA first year graduate student in Vic Vaquier's lab at Scripps working with\neffects of cyclic-AMP dependent kinase activity on DNA replication in early\nsea urchin embryos. Primary interest is regulation of gene expression during\ndevelopment. Worked previously in Robert Tjian's lab at Berkeley.\nDAUGHTERY, Wayne F.\nIs a Professor of Biology at San Diego State University where he teaches\nEmbryology and Developmental Biology. Johns Hopkins in 1966. Wishes to\nget research oriented again. Well recommended by several of his faculty peers\nand by Eric Davidson whom he knew previously.\nDENEGRE, James\nIntermediate level\nproject in Michael\ngraduate student at Wesleyan University working on a thesis\nDanilchick's lab. Has a strong background in Drosophila\nmolecular genetics. Presently doing a thesis project on expression of a\nvegetal hemisphere-specific protein in Xenopus oocytes. \nDING, Dali (male)\nA graduate student at Caltech since 1986 from mainland China. Works in the\nlaboratory of Howard Lipshitz, an instructor in our course. Is studying\nexpression of the genes that specify the axis in Drosophila.\nEVANS, Janice\nAdvanced level graduate student from University of North Carolina at Chapel\nHill studying with Brian Kay on the expression of two cytoskeletal proteins in\nXenopus oocytes. Recommended by Albert Harris.\nGEYSEN, Johan\nA postdoctoral student from the Zoological Institute at the Catholic\nUniversity of Leuven, Belgium; 1988. A student of Arnold De Loof.\nThesis work the moleclar cytology of insect ovaries. Author of a number of\npapers in good journals. Recommended also by Spence Berry at Wesleyan.\nGLIKSMAN, Neal\nSecond year graduate student from Ted Salmon's lab at the University of North\nCarolina (Chapel Hill). Interested in microtubules and in factors regulating\nthe cytoskeleton. Also recommended by George Langford.\nHAHN, Jill I \nA Boston University Marine Program student since 1986, interested in the\nfunctional morphology of marine larvae. Former Harvard/Radcliffe under-\ngraduate; worked there with Karl Liem who wrote her an excellent letter.\nPresently studying with Rudi Strickler at BU.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

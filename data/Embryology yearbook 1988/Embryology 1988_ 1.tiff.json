@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=iDI019E6SW2PqgnMn9CTMg",
+  "input_url": null,
+  "file": "Embryology 1988_ 1.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.145405211,
+    "resolve_names_duration": 0.605033884,
+    "total_duration": 27.657482896
+  },
+  "agent": "",
+  "created": "2013-06-18T13:03:20-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Drosophila,",
+      "scientificName": "Drosophila",
+      "offsetStart": 508,
+      "offsetEnd": 518,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "\nas\nit?  \n\nxx 4395  sis       \n      22 :af   \n    \n\nEmbryology: Celi\nDifferentiation and\nGene Expression in\nEarly Development\njune 19 |u|y 30\nThis is an advanced level course intended for\ngraduate students, postdoctoral fellows, and\nresearch scientists who wish a current treat-\nI  .it of major issues in the experimental analysis\nof developmental biology of the embryo, and\nthe diverse intellectual approaches now useful in\nthis field.\nA number of different embryonic systems will be\nconsidered, including Drosophila, nematode, am-\nphibian, echinoderm, ascidian, and other marine\norganisms. The course will run for six weeks.\nThere will be four modular units each consisting\nof lectures from Course Faculty and other invited\nspeakers, discussions, and workshop demonstra-\ntion laboratories, as follows;\nI (june 2(}june 27) Current andfe prospective\nsystems for the study of embryijngicjsdevelop\nment. Faculty; Gary Freeman, judith Kimble,\nRichard Whittaker, Eric Davidsojy \n28-july 8) Cytoskeleton in development. 'Facultyf 1\njohn Gerhart, Mark Elias Lazarides. Ill\n(july 11-july 18) Oogenesis Faculty; Dennis\nSmith, Anthony Mahowald, Howard Lipshitz  IV\n(july 19-july 30) Gene control of spatial differen-\ntiation in the embryo. Faculty: Eric Wieschaus,'\nEric Davidson and additional faculty membet to\"\nbe named. s,    \nI \nStaff       \nEric H. Davidson, California \n\nTechnology, Director; Gary Freeman, University\nof Texas at Austin; john C. of\nCalifornia, Berkeley; ludith Kimble, ,Ljniversityof\nWisconsin; Mark University of Califor- \nnia, San Francisco; Elias Lazarides,\"lCalifornia Inf-\nstitute of Technology; Howard \nnia Institute of Technology; Antheiny Mahowald,?\nCase Western Medical Center; L-i7Dennis smifhe-\nUniversity of California, Irvine; Richard Whit-\ntaker, Marine Biological Laboraftery, Assistant\nDirector; Eric Wieschaus, \nand additional faculty mernber to be narhed.\n., \n\n.\n\n.\n\n\n\nThis course is intended for graduate and postdoctoral   hlighly qualified  \nundergraduates are sometimes accepted. Financial aid is* available from a variety of sj\nsources, includin National Institutes of Health traininnl* rants, ort from   \n8 8 8 \nother federal a encies, and from rivate funds awarded the Laborator in \nsupport of education. For further information and application Ag A i\nforms, contact: Office of Sponsored Programs, Marine A 91                 \n.       fi I \nBiological Laboratoiy, Woods Hole, MA 02543, 'l 9            66;         \nTel. (617) 548-3705, ext. 216 0 i             \nt ififf ",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

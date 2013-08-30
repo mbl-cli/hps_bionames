@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=o2ptLaRhQUSeTYScSKGVuw",
+  "input_url": null,
+  "file": "Embryology 1988_ 80.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.173452954,
+    "resolve_names_duration": 0.42213895,
+    "total_duration": 20.004506529
+  },
+  "agent": "",
+  "created": "2013-06-18T13:26:54-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 143,
+      "offsetEnd": 149,
+      "identifiedName": "Xenopus"
+    }
+  ],
+  "content": "Embryology Course - Module \nMonday July ll\n10:00 AM D. Smith Lecture I \"0ogenesis: the storage of\ndevelopmental information\"\nPM D. Smith Lab I Xenopus oocytes\nTuesday July 12\n10:00 AM D.\nWednesday July 13\n10:00 AM A. Mahowald\nLipshitz/Mahowald Lab\nThursday July 14\n10:00 AM H. Lipshitz\nLipshitz/Mahowald Lab\nFriday July 15\n10:00 AM H. Lipshitz\nLipshitz/Mahowald Lab\nSaturday July 16\nSmith Lecture II \"Oocyte maturation and regulation\nof cell cycle\"\nLecture I \"Developmental and genetic aspects\nof ovarian development\"\nI Female sterile mutations; methods\nof study\nLecture I \"Control of anterior~posterior\npolarity of embryo\"\nII Female sterile mutations\nLecture II \"Control of dorsal-ventral\npolarity of embryo\"\nFemale sterile mutations\n10:00 AM A. Mahowald Lecture II \"Role of essential genes during\noogenesi?\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=5VAarGoIQ22pTXJ6nSfoxw",
+  "input_url": null,
+  "file": "Embryology 1988_ 7.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.465213671,
+    "resolve_names_duration": 0.593034401,
+    "total_duration": 23.75025117
+  },
+  "agent": "",
+  "created": "2013-06-18T13:24:48-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 692,
+      "offsetEnd": 701,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1331,
+      "offsetEnd": 1340,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "RICHARDSON, Wendy\nPresently a first year graduate student at Baylor College of Medicine with\nCostas studying expression of the sea urchin gene. Worked\npreviously for a Masters degree with Stephen Benson (Cal State, Hayward) on\nexpression of the embryonic spicule matrix gene of sea urchin.\nSMITH, Susan\nFirst year graduate student at Rensselaer Polytechnic in plant developmental\nbiology. Worked previous in industry for three years as a biologist at the\nSandoz Crop Protection Corp. Will probably be doing a plant embryogenesis\nthesis in relation to flowering. Wants broad background in animal systems of\ndevelopment.\nTANAKA, Elly\nFirst year graduate student at UCSF. Has some background in Drosophila and\nnematode genetics. Presently interested in problems of early develop ent and\nmight do thesis on mechanisms of establishing early polarity in embryos.\nRecommended by Timothy Mitchison and Kenyon. \nTILLINGHAST, Henry \nAn Associate Professor of Biology at the US Air Force Academy. Has a from\nOxford (1985), with a thesis on cell communication during aggregation and\ndevelopment in slime mold. Will soon have completed his required years in the\nAir Force and plans a research oriented career thereafter.\nWATSON, Kellie \nA Canadian student at UC Irvine since 1987, with a Masters degree (Kansas)\nafter having previously studied Drosophila melanotic tumor genetics. Working\npresently on a thesis with Peter Bryant studying growth-control mutants.\nWICKRAMASINGHE, Dineli\nA Ceylonese (BA Mount Holyoke) graduate student since 1986 at Tufts University\nSchool of Medicine. Working in David Albertini's lab on molecular and\nstructural problems associated with the acquisition of meiotic competence in\nmouse oocytes.\nZAHNER, Joseph\nA first year graduate student in Developmental Biology at Johns Hopkins where\nhe did laboratory rotations during his first year but has not yet selected a\nthesis problem. Is interested in molecular aspects of development. Here for\nthe diversity of exposure. Recom ended by William Busa and Chris Cheney.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

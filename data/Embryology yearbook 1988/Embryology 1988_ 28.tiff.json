@@ -1,0 +1,185 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=UhVP5sQbSTmIUKoajAlD7g",
+  "input_url": null,
+  "file": "Embryology 1988_ 28.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.213720005,
+    "resolve_names_duration": 1.566813686,
+    "total_duration": 23.90900688
+  },
+  "agent": "",
+  "created": "2013-06-18T13:16:39-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Strongylacentrotus purpuratus",
+      "scientificName": "Strongylacentrotus purpuratus",
+      "offsetStart": 845,
+      "offsetEnd": 873,
+      "identifiedName": "Strongylacentrotus purpuratus"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2028,
+      "offsetEnd": 2034,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "S. purpuratus",
+      "scientificName": "S. purpuratus",
+      "offsetStart": 2040,
+      "offsetEnd": 2052,
+      "identifiedName": "S. purpuratus"
+    },
+    {
+      "verbatim": "Lytechinus,",
+      "scientificName": "Lytechinus",
+      "offsetStart": 2071,
+      "offsetEnd": 2081,
+      "identifiedName": "Lytechinus"
+    },
+    {
+      "verbatim": "Lytechinus",
+      "scientificName": "Lytechinus",
+      "offsetStart": 2348,
+      "offsetEnd": 2357,
+      "identifiedName": "Lytechinus"
+    }
+  ],
+  "content": "L, /ig \"Tw Q,   \n0/if/$7\nProcedures for Sea Urchin Material\nCollection and Care of Animals\nAnimals should be collected and transported with a minimum of mechanical\nagitation or temperature shock to avoid undesired spawning. Since spawning in sea\nurchins is often epidemic any spawning individual should be removed immediately from\nthe Collection or storage containers.\ni Determination of the Sex\nThe sea urchins are dioecious and the two sexes of most species cannot be\ndistinguished by external examination. Therefore, sexes must be determined by\nexamination of the gonads or gametes (see below). On rare occasions an hermaphrodite\nsea urchin may be found.\nTemperature\nThe seasonal variation of surface water temperature is, of course, locale-\ndependent. In general, handling of eggs and embryos should be done at sea water table\ntemperatures. Strongylacentrotus purpuratus should be handled at ~l5?C.\nSpawning Induction\nTwo methods are in general use. The method of choice will vary depending upon\nthe amount of gametes required and the purpose for which they are intended.\nMethod l: This depends upon the fact that isotonic KCI (0.5 M) causes contraction of the\nmuscles of the gonads, with consequent shedding of gametes through the duct system.\nDraw up about 0.75-1.0 ml of KCI in a syringe and inject into the perivisceral cavity\nthrough the peristomeal membranes. Inject in two or three sites, 0.25-0.5 ml to a site.\nQuickly invert females over a beaker of clean Millipore filtered sea water (MFSW) to\ncollect eggs. (NCTE: The filters should be first rinsed with distilled water to remove\nthe detergent used as a wetting agent.) The eggs should not be permitted to come into\ncontact with air. Collect sperm \"dry\", without dilution, as extruded, using a Pasteur\npipette. Fertilizable life of sperm of echinoderms decreases as semen is diluted with sea\nwater. Transfer sperm to a test tube on ice.\nMethod 2: Sea urchins are induced to shed by electrical stimulation. The effectiveness\nof the method varies with the species. Arbacia and S. purpuratus respond readily.\nLytechinus, poorly. Place electrodes (from 10-25 A.C. source) on the test of the sea\nurchin in the aboral ectoderm region. In 0.5-l minute gametes will flow from the\nonadopores and may be drawn up in a pipette. The animal may be exposed to air\ngpreferable for males) (Cautionl Lytechinus are very susceptible to drying in air and\nshould be kept wet) or emersed in sea water (females) during this procedure. This is the\nmethod of choice for routine sexing or when a small amount of material is needed, for\nthe animals shed only while the current is passing through them.\nEHD:Franks2 (6/9/88)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Strongylacentrotus purpuratus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "d120b4c4-a920-59c5-81ea-256e5ce9ab25",
+          "name_string": "Strongylocentrotus purpuratus (Stimpson, 1857)",
+          "canonical_form": "Strongylocentrotus purpuratus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Strongylocentrotidae|Strongylocentrotus|Strongylocentrotus purpuratus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362619|2442206|6847035",
+          "taxon_id": "6847035",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "53f53c09-6546-50a0-9b07-de0af452bf30",
+          "name_string": "Strongylocentrotus purpuratus",
+          "canonical_form": "Strongylocentrotus purpuratus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20633061",
+          "local_id": "598175",
+          "url": "http://eol.org/pages/598175",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "S. purpuratus"
+    },
+    {
+      "supplied_name_string": "Lytechinus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ee6c54fc-8612-5f8c-bcbf-41168fda37cb",
+          "name_string": "Lytechinus",
+          "canonical_form": "Lytechinus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Temnopleuroida|Toxopneustidae|Lytechinus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362537|2362538|2417858",
+          "taxon_id": "2417858",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ee6c54fc-8612-5f8c-bcbf-41168fda37cb",
+          "name_string": "Lytechinus",
+          "canonical_form": "Lytechinus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103348",
+          "local_id": "36466",
+          "url": "http://eol.org/pages/36466",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

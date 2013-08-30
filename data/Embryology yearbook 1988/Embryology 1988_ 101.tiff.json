@@ -1,0 +1,248 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=IdNnKCsMTAumvbirShmOlQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 101.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.212855352,
+    "resolve_names_duration": 1.630677236,
+    "total_duration": 24.145269901
+  },
+  "agent": "",
+  "created": "2013-06-18T13:03:37-04:00",
+  "total": 14,
+  "names": [
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 88,
+      "offsetEnd": 110,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 380,
+      "offsetEnd": 402,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 524,
+      "offsetEnd": 534,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 684,
+      "offsetEnd": 694,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 829,
+      "offsetEnd": 851,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 1029,
+      "offsetEnd": 1051,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1180,
+      "offsetEnd": 1189,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "M. 1982. dicephalic",
+      "scientificName": "M. 1982dicephalic",
+      "offsetStart": 1279,
+      "offsetEnd": 1297,
+      "identifiedName": "M. 1982. dicephalic"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1303,
+      "offsetEnd": 1312,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 1551,
+      "offsetEnd": 1573,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila chorion",
+      "scientificName": "Drosophila chorion",
+      "offsetStart": 1778,
+      "offsetEnd": 1795,
+      "identifiedName": "Drosophila chorion"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1913,
+      "offsetEnd": 1922,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 2094,
+      "offsetEnd": 2116,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 2310,
+      "offsetEnd": 2320,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "Allis, C. D., Underwood, E. M., Caulton, J. H., and Mahowald, A. P.\n1979. Pole cells of Drosophila melanogaster in culture. Dev. Biol. 49;\n425-437. \nvon Brunn, A., and Kalthoff, K. 1983. Photoreversible inhibition by UV\nlight of germ line development in Smitta. Deve. Biol. 100: 426-439.\nPerrimon, N., Mohler, J. D., L., and Mahowald, A. P. 1986. X-\nlinked female-sterile loci in Drosophila melanogaster. Genetics 113:\n695-712.\nGarcia-Bellido, A., and.Moscoso del Prado, J. 1979. Genetic analysis of\nmaternal information in Drosophila. Genetics 103:235-247.\nSchupbach, T., and Wieschaus, E. 1986. Germline autonomy of maternal-\neffect mutations altering the embryonic body pattern of Drosophila.\nDeve. Biol. 113: 443-448. \nBreen, T. R., and Duncan, I. M. 1986. Maternal expression of genes that\nregulated the bithorax compelx of Drosophila melanogaster. Deve. Biol.\n118: 442-456.\nWieschaus, E., Marsh, L. J. and Gehring, W. J. 1978. fs(1)K10, a germ-\nline dependent female sterile mutation causing abnormal chorion\nmorphology in Drosophila melanogaster. Roux's Arch. 184: 75-82.\nHaenlin, M., Roos, C., Cassab, A., and Mohier, E. 1987. Oocyte-specific\ntranscription of fs(1)K10: a Drosophila gene affecting dorsal-ventral\ndevelpmental polarity. EMBO J. 6: 801-807.\nLohs-Schardin, M. 1982. dicephalic - a Drosophila mutant affecting\npolarity in follicle organization and embryonic patterning. Roux's Arch\n191: 28-36. \nPerrimon, N., L., and Mahowald, 1985. A pupal lethal mutation\nwith a paternally influenced maternal effect on embryonic development in\nDrosophila melanogaster. Dev. Biol. 110: 480-491.\nMariani, B. D., Lingappa, J. R., and Kafatos, F. C. 1988. Temporal\nregulation in development: negative and positive cis regulators dictate\nthe precise timing of expression of a Drosophila chorion gene. PNAS 85:\n3029-3033.\nParks, S., and Spradling, A. 1987. Spatially regulated expression of\nchorion genes during Drosophila oogenesis. Genes and Devel. 1: 497-509.\nSchupbach, T. 1987. Germ line and soma dooperate during oogenesis to\nestablish the dorsoventral pattrn of egg shell and embryo in Drosophila\nmelanogaster. Cell 49: 699-707.\nLehmann, R., and Nusslein-Volhard, C. 1986. Absdominal segmentation,\npole cell formation, and embryonic polarity require the localized\nactivity of oskar, a maternal gene in Drosophila. Cell 47:141-152.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila melanogaster",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Brachycera|Muscomorpha|Eremoneura|Cyclorrhapha|Schizophora|Acalyptratae|Ephydroidea|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophiliti|Drosophila|Sophophora|||Drosophila melanogaster",
+          "classification_path_ranks": "|superkingdom||kingdom|||||||phylum|||superclass|class|||subclass|infraclass|order|suborder|infraorder|||||superfamily|family|subfamily|tribe|subtribe||genus|subgenus|species group|species subgroup|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7147|7203|43733|480118|480117|43738|43741|43746|7214|43845|46877|46879|186285|7215|32341|32346|32351|7227",
+          "taxon_id": "7227",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39022287",
+          "local_id": "733739",
+          "url": "http://eol.org/pages/733739",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 22,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "M. 1982dicephalic"
+    },
+    {
+      "supplied_name_string": "Drosophila chorion",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Fungi|Basidiomycota|Agaricomycetes|Agaricales|Psathyrellaceae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2365755|2365756|2365764|2365800|2365865|2385456",
+          "taxon_id": "2385456",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "96449a84-7e87-5f58-b19a-a9cb93463875",
+          "name_string": "Drosophila Haldanei Buzzati-Traverso, 1940",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_8807435",
+          "local_id": "768972",
+          "url": "http://eol.org/pages/768972/names/synonyms",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

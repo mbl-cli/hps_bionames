@@ -1,0 +1,108 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=UrMaysH5RviLIPT5iY0nyQ",
+  "input_url": null,
+  "file": "72_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.177735479,
+    "resolve_names_duration": 0.575774142,
+    "total_duration": 29.360368744
+  },
+  "agent": "",
+  "created": "2013-06-18T12:43:24-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Crepidula",
+      "scientificName": "Crepidula",
+      "offsetStart": 1394,
+      "offsetEnd": 1402,
+      "identifiedName": "Crepidula"
+    },
+    {
+      "verbatim": "Dreissensia",
+      "scientificName": "Dreissensia",
+      "offsetStart": 1942,
+      "offsetEnd": 1952,
+      "identifiedName": "Dreissensia"
+    }
+  ],
+  "content": ".2 \nFerTilize eggs and immediaTely Transfer a\nsample To a depression slide. A few minuTes afTer inseminaTion The ouTline of\nThe germinal vesicle sTarTs To become indisTincT, and in l5-20 minuTes There is\nonly a lighTer area in The cenTer of The egg, marking iTs former posifion. A\nThin ferTilizaTion,membrane is raised, buT This is noT lifTed far from The egg\nsurface, and iT is besT seen in The region of The polar bodies or spanning The\ncleavage furrows. The firsi poia; body forms shorfly afTer germinal vesicle\nbreakdown, and The second polar body follows direcTly beneaTh The firsT. BoTh\npolar bodies are usually formed wiThin 3G-35 minuTes afTer inseminaTion. NoTe The\nposiTion of The polar bodies, for They mark The piane of The coming cleavage.\n4. Early cleavage: AbouT 50 minufes afTer inseminaTion Two nuclei will be\nvisible, The male and female prpnucjei. Can you see Them approach and fuse?\nCleavage occurs abouf l5 minuTes affer They firsT appear. The is\nunequal, and The firsT Two blasTomeres differ greaTly on size. The \nage follows in abouT half an hour. ln The case of The larger cell, cleavage is\nagain unequal, resulTing in one larger cell and Three smaller ones. The following\ncleavages are rapid, perhaps only Ten minuTes inTervening beTween The 4 and 8 cell\nsTages. The cleavage is undoubTedly of a spiral Type, buT This characTerisTic is\nmore difficulT To deTecT Than in Crepidula because of The size differences of The\nblasTomeres.\n4. Time japle gi deyelQpmenT: There isinuch variaTion in The developmenfal rafe\ndepending on TemperaTure and oTher environmenTal condiTions, buT The following\nTables (SchechTer, l94l) will give some idea of The chronology aT 2500. Times\nare recorded from inseminaTion:\nIO minuTes Germinal vesicle reacTion\n30 Polar bodies formed\n50 Pronuclei visible\nhr. 5 min. FirsT cleavage\nhr. 35 min. Second cleavage\n5 hrs. Swimming blasTula\n5. LaTe;gdevelopmenT: (The figures of The developmenT of Dreissensia (Meisen-\nheimer, l900} will prove helpful)\nQasirulajign and early Igochophore sTages: Remove samples 4-9 hours afTer\ninseminaTion. lf forms are moving Too rapidly, add a drop of polyvinyl alcohol,\nln The younger sTages, noTe ThaT The smaller, more rapidly dividing ecTodermal\ncells are spreading over The larger, yolk-filled endodermal cells. This Type of\ngasTrulaTion is known as egiboly. The uncovered region is The blasTopore. When\nThe larva sTarTs To swim (5-6 hours afTer inseminafioni a plaTe of large cells\nwhich will form The is visible on The fuTure dorsal surface. lnTern-\nally, Two large dark cells, The mesodermal TeloblasTs are ofTen visible. By 9\nhours The embryos have losT Their somewhaT barrel-shape and are pyramidal, The\nexpanded base of The pyramid being The region in which The velum will form. The\ncilia are noT marked aT This Time. The sheli gland is visible as a conspicuous\nconcavify on The dorsal surfac e. By l4 hours The shell gland will have evaginafed\nand This concaviTy will no longer be visible. The cilia of The velum and The\napic al flagellum will be visible aT This sTage.\nObfain samples of culTures abouT l8-I9 hours affer inseminaTion.\nNoTe: a. General Shape\nb. The Tworvalved shell wiTh iTs sTraighT hinge line. How much\nof The body is enclosed by The shell?\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Crepidula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Calyptraeidae|Crepidula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370194|2370205|2410985",
+          "taxon_id": "2410985",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44534464",
+          "local_id": "404808",
+          "url": "http://eol.org/pages/404808",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Dreissensia",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "3267af5f-e6d5-5ec4-9890-05cb1126f894",
+          "name_string": "Dreissensia",
+          "canonical_form": "Dreissensia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "128384429",
+          "url": "http://www.organismnames.com/details.htm?lsid=3052292",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    }
+  ]
+}

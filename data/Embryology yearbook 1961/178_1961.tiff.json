@@ -1,0 +1,139 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=tDga5uKYSBuQTSDNAEh5DA",
+  "input_url": null,
+  "file": "178_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.248870805,
+    "resolve_names_duration": 0.994782909,
+    "total_duration": 26.995113925
+  },
+  "agent": "",
+  "created": "2013-06-18T12:22:47-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Cumingia",
+      "scientificName": "Cumingia",
+      "offsetStart": 131,
+      "offsetEnd": 138,
+      "identifiedName": "Cumingia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 381,
+      "offsetEnd": 387,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Cumingia",
+      "scientificName": "Cumingia",
+      "offsetStart": 765,
+      "offsetEnd": 772,
+      "identifiedName": "Cumingia"
+    },
+    {
+      "verbatim": "B. discgin",
+      "scientificName": "B. discgin",
+      "offsetStart": 2368,
+      "offsetEnd": 2377,
+      "identifiedName": "B. discgin"
+    }
+  ],
+  "content": " \n\nis a general phenomenon.\nHowever, in AsTerias There is essenTially no change on TerTilizaTion (Borei\nl948). ln ChaeTopTerus and Cumingia (WhiTaker l953), The raTe acTually decreases\nTo half The preTerTilizaTion value.\nin This laTTer case, The raTe of preTerTilizaTion oxygen upTake is harder\nTo explain. The raTe aTTer TerTilizaTion is abouT The same as The raTe Tor\nferTilized Arbacia eggs (iT calculaTed on The basis of cell mass), so This raTe\nis abouT wh@T. is required To supply energy for normal developmenT. The raTe of\noxygen upTake in The unTerTilized egg requires eiTher ThaT very rapid \nand break down are Taking place in The resTing or ThaT There is no energy\nsTorage connecTed wiTh This oxidaTion.\nThe cause of This rapid upTake in ChaeTopTerus and Cumingia\neggs was To be The subjecT of my invesTigaTion. However, neiTher oT These were\navailable. WhiTaker sTaTes, on The basis of These Two animals, ThaT all eggs\nwhich are laid in The germinal vesicle sTage and rapidly go To The meTaphase\nof The TirsT reducTion division show This oxidaTive perTormance. MyTilus edulis\nshowed This cyTological performance. However, have had Trouble obTaining\nferTilized eggs and have noT been able To show The oxidaTive performance of This\nanimal, on TerTilizaTion. lT appears ThaT The germinal vesicle failed To\nbreak down in mosT of The eggs. Thus resulTs obTained on These eggs are on\nimmaTure eggs.\nThe resulTs obTained are These: The raTe of oxygen upTake is consTanT\nfor as*much as five hours aiTer laying, The raTe is noT aTTecTed in any way by\ni no \"fm DNP, The rave as inhibiTed Trom vsfiooz by Cyanide. This means insi-\nThe oxidaTion is Thru a meTalio-enzyme of some kind and perhaps Through The\ncyTochromes. However, The raTe of a coupled oxidaTion is usually acceleraTed by \nDNP. This may be a naTurally occuring uncoupled oxidaTive phosphorylaTion.\nSince MyTiius could noT be TerTilized, changed To CiasTenides gouldi.\nThis animal shows The same changes. However, iT has so few eggs ThaT all work\nhad To be done in The CarTesian diver. Again have noT obTained a high level\nof TerTilizaTion. The greaTesT percenT obTained so Tar has been 25% of The eggs\ndividing. The germinial vesicle does break down in The greaT majoriTy of The\neggs. Only iniTial experimenTs have been done on The changes of ferTilizaTion.\nNo resulTs can yeT be presenTed.\nJR., SIDNEY B. discgin\nMeTridium dianThus\nThe reconsTiTuTion of an enTire acTinian polyp'from an isolaTed TragmenT\nof The basal disc was TirsT reporTed by Andres Since Then several people,\nprincipally Carlgren and Cary have sTudied The process in The\ngenus AipTasia and CylisTa. However, mosT of Their observaTions were of a general\nnaTure. ln mosT cases The process was noT sTaged and hisTological sTudy of The\nprocess was lacking. ln The following sTudy, 'pie-shaped' secTions (I-2 mm2) were\ncuT from The margin of The basal disc, placed in sTerile sea waTer, and allowed To\nregeneraTe BT l8?C. The changes in exTernal morphology were noTed and specimens\nwere removed each day and fixed for hisTological sTudy. Several secTions were pre-~\npared and sTained in DelaTield's haemaToxylin and counTer-sTained wiTh eosin. Due\nTo a lack of Time, a criTical sTudy of The secTions could noT be made. Therefore,\nonly The gross sTrucTural changes will be relaTed.\n..\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Cumingia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "32f9a1db-2ee0-5298-96d1-0b5ad4650247",
+          "name_string": "Cumingia",
+          "canonical_form": "Cumingia",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Veneroida|Veneroida|Semelidae|Cumingia",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2369911|2369975|2369994|2370017|2451720",
+          "taxon_id": "2451720",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "32f9a1db-2ee0-5298-96d1-0b5ad4650247",
+          "name_string": "Cumingia",
+          "canonical_form": "Cumingia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30285945",
+          "local_id": "62762",
+          "url": "http://eol.org/pages/62762",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "B. discgin"
+    }
+  ]
+}

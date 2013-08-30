@@ -1,0 +1,129 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Hf7bayWFSs66GgyMKSmDVQ",
+  "input_url": null,
+  "file": "70_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.229600381,
+    "resolve_names_duration": 0.737107973,
+    "total_duration": 27.825504121
+  },
+  "agent": "",
+  "created": "2013-06-18T12:42:19-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Psammechinus miliaris",
+      "scientificName": "Psammechinus miliaris",
+      "offsetStart": 1424,
+      "offsetEnd": 1444,
+      "identifiedName": "Psammechinus miliaris"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1906,
+      "offsetEnd": 1912,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2921,
+      "offsetEnd": 2927,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": ".2 \nHarvey, E. B., GrowTh and meTamorphosis of Arbaci? punciulaTa pluTeus. Biol. Bull.\n97:287. l949.\nHarvey, E. B. ElecTrical meThod of 'sexing'-Arbacia and obTaining small quanTiTies\nOf Bull.,       \nHarvey, E. B. and G. l. Lavin. The eggs and half-eggs of \npluTei as phoTographed by ulTra-violeT, visible and infra-red lighT. ECR, 2:\n393-397. l95l.\nHarvey, E. B. The cyTology of and cleavage of Arbaoia puncjulaTa.\nTurTox News, l9: (no.7) l94l\nHorsTadius, S. Uber die EnTwicklung von AsTropecTen,auranciacu?, STaz. Zool.\n(Publ)., Nap., l7. l939.\nMacBride, E. W. DevelopmenT of ?chigus`esculenTus. Philos Trans. Roy. Soc.\n(Ser. B), l95: |903\nMeade, A. D. The early developmenT of marine annelids. J. Morph.l3:27l. l897.\nMorTensen, Th. ConTribuTions To The sTudy of The developmenT amd larval forms of\nEchinoderms. l-lV. Mem. de l'Acad. des Sci., Copenhaven, SecT. de Sci., Ser. 9\nVols. 4-7. l93l-38\nMuller, J. Uber die Larven und die MeTamorphose der Echinodermen. Konigl. Aka.\nWiss. Berlin l84B~55.\nSchmidT, H. Zur KennTnis der LarvenenTwicklung von gchinus mic?ojuberculaTgs.\nVerh. Phys-Med. Wurzburg. 36. l904.\nTennenT, D. H. and T. lTo. A sTudy of The Oogenesis of Me?gillig globulu; (Linne)\nJ. Morph., 69: 347-382. l94l.\nTyier, A. A simple, non-injurious meThod for inducing repeaTed spawning of sea\nurchins and sand dollars. Coll. l9:l9-20. l949.\nvonUbisch, L. Die normale SkeleTTbildung bei Echinocymu? ggsijlu? und Psammechinus\nmiliaris. Wiss. Zool., l49. l937.\n?;pe;jmenTal Analysis, embryonic mejaboljsmi eTc.\nAbrams, R. (STudies on radioacTive of RNA and DVA from sea urchin\nblasTulae). ECR, 2: 235. l95l.\nS. and T. GusTafsson. LiThium sensiTiviTy in The sea urchin in relaTion\nTo The sTage of developmeni. Ark. Zool., 6: l954.\nS. STudies on The animalizing acTion of iodosobenzoic acids in sea\nurchin developmenT. Ark. Zool., Ser. 2, 4:485-49l. i953\nBarneTT, R. C. Cell division inhibiTion of Arbacia and ChaeTopTerus eggs and iTs\nreversal by Krebs cycle inTermediaTes and cerTain phosphaTe compounds. Biol.\nBull., IO4: 262-274. |953\nChevremonT-Comhaire, S. AcTion au liThium sur la croissance eT la miTose dans\nles culTures de TibroblasTes eT myobiasTes. Arch. Biol., 64:295-3lO. |953\nChild, C. M. DiTferenTial inhibiTion and modificaTion of Echinoderm developmenT\nby MeThylebe Blue. Phys. Zool., 23:269. i950\nChild, C. M. DifTerenTial modificaTions of sand dollar developmenT in relaTion\nTo TemperaTure. Phys. Zool., 23: l4O. l95O\nChild, C. M. ExogasTrulaTion and diTferenTial ell dissooiaTion by sodium azide\nin DendrasTer,excenTricus1and PaTiria miniaTa. Phys. Zool 26:28-58. i953\nDan, J. C. On The mechanism of asTral cleavage. Phys. Zool. 2l:l9l-2lB. i948\nDan, K. Behavior of cell surface during cleavage. V. PerforaTion experimenT. J.\nFac. Sci., Tokyo Imp. Univ., Ser. Vi, Vol l6, 297-32i. l943. lbid Vl.\nOn The mechanism of cell division. lbid 323-368.\n,Dan, K. The movemenT of The corTical layer of Arbacia eggs in Ca-free medium Througi\ncleavage and The resTing sTage, as revealed by The shifT of pigmenT granules.\nBiol. Bull., lOl, 208. i95l\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Psammechinus miliaris",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "1f2d6feb-f859-55ab-97c4-b47152465d64",
+          "name_string": "Psammechinus miliaris",
+          "canonical_form": "Psammechinus miliaris",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Echinidae|Psammechinus|Psammechinus miliaris",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362622|2493651|6847025",
+          "taxon_id": "6847025",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "1f2d6feb-f859-55ab-97c4-b47152465d64",
+          "name_string": "Psammechinus miliaris",
+          "canonical_form": "Psammechinus miliaris",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39146582",
+          "local_id": "599663",
+          "url": "http://eol.org/pages/599663",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

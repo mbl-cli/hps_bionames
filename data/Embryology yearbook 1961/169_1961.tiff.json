@@ -1,0 +1,153 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=bku4TKbXR3CJ4M19vcPJgA",
+  "input_url": null,
+  "file": "169_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.249564108,
+    "resolve_names_duration": 0.969379416,
+    "total_duration": 29.295871658
+  },
+  "agent": "",
+  "created": "2013-06-18T12:19:54-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Perophora viridis",
+      "scientificName": "Perophora viridis",
+      "offsetStart": 2123,
+      "offsetEnd": 2139,
+      "identifiedName": "Perophora viridis"
+    },
+    {
+      "verbatim": "Eerophora yiridis",
+      "scientificName": "Eerophora yiridis",
+      "offsetStart": 2260,
+      "offsetEnd": 2276,
+      "identifiedName": "Eerophora yiridis"
+    },
+    {
+      "verbatim": "Perophora",
+      "scientificName": "Perophora",
+      "offsetStart": 3365,
+      "offsetEnd": 3373,
+      "identifiedName": "Perophora"
+    }
+  ],
+  "content": "\nsomewhaT on The amounT of maTerial presenT and The amounT of injury To This.\nA covering maTerial or perisarc appeared wiThin 24 hours. AfTer The excess\nperisarc was cuT away, Three aggregaTes formed parTial hydranThs wiTh several\nproximal and disTal TenTacles and a hyposTome. These showed normal movemenTs\nand conTracTion and circulaTion wiThin The coelenTeron. WiTh feeding, They\nprobably would have nof regressed buT developed inTo compleTe hydranThs. These\nhydranThs formed in dishes ThaT had been leTT undisTurbed for several days,\nsuggesfing ThaT The aggregaTes had Time To develop a polariTy needed Tor\nhydranTh TormaTion. The hydranThs developed from a bud or lobe in conTrasT To\ndevelopmenT in regeneraTion by conversion of a coenosarc area wiTh laTer emer-\nsion from The perisarc.\nMosT of The smooTh, spherical or lobed masses remained healThy and\naiive for more Than a week. The conTinuous perisarc may have creaTed a\npressure Tending To inhibiT ouTgrowTh from The cenTral mass. SomeTimes maTerial\nwiThdrew from a lobe and became more concenTraTed. Debris usually occupied The\ncenTer of The sphere wiTh cells locaTed around The circumference. HisTological\nwork would be necessary To see The kind and arrangemenT of cells; in living\nTissue They seem To be in Two layers as are The ecToderm and endoderm.\nWilson and HargiTT boTh describe a despecializaTion of cells during The\nfirsT few hours. lT was observed here ThaT some of The large brown endodermal\ncells, each having large granules and a flagellum, moved shorT disTances and\nappeared To break up. lT was noT possible To deTermine wheTher The flagellum\nwas The means of movemenT. BacTerial and proTozoan conTaminaTion prevenTed\nsTudies of The cells for exTended periods so ThaT possible changes in inTersTi-\nTial cells could noT be followed.\nThe daT@ indicaTe ThaT dissociaTed coelenTeraTe cells have a very\n|imiTed capaciTy for movemenT buT ThaT resTiTuTion of The fully organized\nhydranTh can proceed if suTTicienT mass is presenT and The original organizaTion\nhas noT been Too disrupTed.\nGARRISON, HENRY QbservaTipns on puncTure effecTs on The\nsioionyof Perophora viridis.\nThe purpose of Those experimenTs was fb observe The efTecTs of various\nsimple operaTions carried ouT on The sTolon oT Eerophora yiridis. ln all\nexperimenTs, glass rods were used To press off The circulaTion in The sTolon\nwhile leaving The proToplasmic connecTion inTenT. ln various experimenTs The\nsTolon was puncTured in order To deTermine The effecT, if any, on The growTh\npaTTern of The sTolon.\nFresh Peroghora were used in all experimenTs. SegmenTs, approximaTely\na cenTimeTer in lengTh, were cuT and fasTened To The surface of Syracuse waTch\nglasses wiTh a small amounT of vaseline. The secTions chosen were generally\nTaken from The porTion of The sTolon which appeared To be growing well. AbouT\nsix secTions were placed in each dish. The Peroghora were Then placed in\nrunning sea waTer aT abouT |90 C, and This medium was used ThroughouT The\nexperimenT. The sTolons grew ouT well in 4*5 days. A problem early encounTered\nwas The disposiTion of a layer of debris on The surface of The dishes, a facT\nThaT inTerfered wiTh The experimenT. IT was parTially circumvenTed by wrapping\nThe racks (used To hold The Syracuse dishes) in four Thicknesses of cheesecloTh.\nThis eliminaTed mosT of The dirT, and in mosT, cases, The Perophora remained\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Perophora viridis",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "74cbc329-14ee-5059-af8d-1e283eaa324c",
+          "name_string": "Perophora viridis",
+          "canonical_form": "Perophora viridis",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata|Ascidiacea|Enterogona|Phlebobranchia|Perophoridae|Perophora|Perophora viridis",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum|class|order|suborder|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712|7713|183770|7716|111866|111867|201964",
+          "taxon_id": "201964",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "74cbc329-14ee-5059-af8d-1e283eaa324c",
+          "name_string": "Perophora viridis",
+          "canonical_form": "Perophora viridis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103965",
+          "local_id": "513390",
+          "url": "http://eol.org/pages/513390",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Eerophora yiridis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "bff5a216-bd42-5837-9107-1659b0c3c0e0",
+          "name_string": "Perophora viridis Verrill, 1871",
+          "canonical_form": "Perophora viridis",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Perophoridae|Perophora|Perophora viridis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2368560|2445157|5285599",
+          "taxon_id": "5285599",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Perophora",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "0b9736d1-ec72-5d22-badb-ab11c8c0b758",
+          "name_string": "Perophora",
+          "canonical_form": "Perophora",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Perophoridae|Perophora",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2368560|2445157",
+          "taxon_id": "2445157",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0b9736d1-ec72-5d22-badb-ab11c8c0b758",
+          "name_string": "Perophora",
+          "canonical_form": "Perophora",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103963",
+          "local_id": "65033",
+          "url": "http://eol.org/pages/65033",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

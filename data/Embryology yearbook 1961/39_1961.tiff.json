@@ -1,0 +1,159 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=lJyF2pm1TTOU9D0eVFWrKQ",
+  "input_url": null,
+  "file": "39_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.229361528,
+    "resolve_names_duration": 1.834049282,
+    "total_duration": 30.257563012
+  },
+  "agent": "",
+  "created": "2013-06-18T12:30:46-04:00",
+  "total": 9,
+  "names": [
+    {
+      "verbatim": "Fundulus,",
+      "scientificName": "Fundulus",
+      "offsetStart": 107,
+      "offsetEnd": 115,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 309,
+      "offsetEnd": 316,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Taujoqolabrus adapersus",
+      "scientificName": "Taujoqolabrus adapersus",
+      "offsetStart": 402,
+      "offsetEnd": 424,
+      "identifiedName": "Taujoqolabrus adapersus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 488,
+      "offsetEnd": 495,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 669,
+      "offsetEnd": 676,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "A",
+      "scientificName": "Fundulus",
+      "offsetStart": 1260,
+      "offsetEnd": 1260,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1263,
+      "offsetEnd": 1270,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1564,
+      "offsetEnd": 1571,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "E. maialis",
+      "scientificName": "E. maialis",
+      "offsetStart": 2042,
+      "offsetEnd": 2051,
+      "identifiedName": "E. maialis"
+    }
+  ],
+  "content": "l,\n\nThe maTerial available for sTudy and experimenfafion will be mainly eggs and de-\nvelopmenTal sTages of Fundulus, The killfish or brackish-wafer minnow, F. hefero-\nclifus (and E, maialis) will be available Throughouf The period of sfudy, and\npossibly ofher species may come inTo The laborafory. The egg of Fundulus is a\ndemersal, or non-pelagic egg.\nlf available, The eggs of The cunner or chogseT (Taujoqolabrus adapersus) will be\nsfudied as an example of The pelagic egg Type.\nSince Fundulus eggs are in beTTer condiTion and more abundanf during June and The\nearly parT of July, iT is a good plan To commence experimenTs wiTh Them as soon as\npossible. Culfures of Fundulus of various ages will be available on The cenfral\nwafer Table af all Times.\nl. Eguigmenf - ln addifion To The usual iTems of glassware, The following will be\nfound useful in handling eggs and embryos: hair-loope (available in Laboraforyi I\nwaTchmaker's forceps (available aT Supply Depf.; N.B. Do noT allow These To\ncorrode; They musf be wiped free of sea-waTer affer each use);depression slides\n(l.7-l.8 mm. depression). Solufions for preservafion of embryos and special\nreagenfs for cyTochemical Techniques will also be available.\nll. Technique of Preparing and Handling Maferialz\nA. Fundulus\nl. Alfhough fish are usually broughf To The laboraTory in mixed loTs of males and\nfemales iT is advisable To segregafe The sexes To prevenT spawning. Males and\nfemales should be placed in separafe Tanks unTil needed and afTer sTripping removed\nTo a discard Tank. The sexes of bofh species of Fundulus are easily idenfified.\nThe mafure female, E. heTerocliTusi is pale olive in color and usually possesses\nno disTincT bars or spofs, alThough The youn females have indisTincT, dark, Trans-\nverse bars on The sides. The dorsal fin is non-pigmenTed. The adulT male of This\nspecies is a dull, dark-green, The sides bearing narrow, ill-defined Transverse\nbars composed of silvery spofs. Thedorsal fin possesses black pigmenT arranged\nin a moTTled paTTern. The bodymarkings of E. maialis are more conspicuous. The\npale olive female has a paTTern of heavy black longiTudinal sTripes on The sides\nand a non~pigmenTed dorsal fin. The sides of The darker male bear a dozen\nbroad, dark, Transverse bars. The black pafch on The dorsal fin is sfriking.\n2. PrQgurinq GameTes\nBoTh eggs and sperm are procured by sfripping. The fish is held firmly wiTh The\nlefT hand while genTle pressure is applied To The abdomen using The Thumb and fore\nfinger of The righT hand. As These fingers are pushed Towards The anus, The\npressure forces ouT The gamefes. lf The fish is held againsf The lighT while\nsfripping, The eggs may be seen passing Through The oviducT which runs along The\napal fin. \n3. -PreparaTion of culTures\nSfrip eggs i?To a clean finger bowl which has been moisfened wiTh sea wafer. STrip\nmilf in wifh eggs, and allow To sfand for 5 To lO minufes. Neifher eggs nor sperm\nshould be allowed To sTand more Than a few minufes before ferTilizing. AfTer 5 To\nlO mlnufes wash eggs wiTh sea wafer, Then leave The eggs in l/4 To l/2 inch of\nsea wafer. Keep bowl covered wiTh glass plaTe. Do noT allow eggs To clump or\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Taujoqolabrus adapersus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e5c3a839-be71-59cc-b254-1ccbb2429fe8",
+          "name_string": "Tautogolabrus adspersus (Walbaum, 1792)",
+          "canonical_form": "Tautogolabrus adspersus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Perciformes|Labridae|Tautogolabrus|Tautogolabrus adspersus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2365430|2365601|2365711|2400903|8585035",
+          "taxon_id": "8585035",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "E. maialis"
+    }
+  ]
+}

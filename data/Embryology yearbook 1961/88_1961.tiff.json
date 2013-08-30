@@ -1,0 +1,255 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=SojOkIqpRKGsqMRlivvwvg",
+  "input_url": null,
+  "file": "88_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.191777828,
+    "resolve_names_duration": 2.650355109,
+    "total_duration": 28.651582895
+  },
+  "agent": "",
+  "created": "2013-06-18T12:49:05-04:00",
+  "total": 9,
+  "names": [
+    {
+      "verbatim": "Mollus",
+      "scientificName": "Mollus",
+      "offsetStart": 483,
+      "offsetEnd": 488,
+      "identifiedName": "Mollus"
+    },
+    {
+      "verbatim": "Qumingia",
+      "scientificName": "Qumingia",
+      "offsetStart": 800,
+      "offsetEnd": 807,
+      "identifiedName": "Qumingia"
+    },
+    {
+      "verbatim": "Cregidula glana",
+      "scientificName": "Cregidula glana",
+      "offsetStart": 1350,
+      "offsetEnd": 1364,
+      "identifiedName": "Cregidula glana"
+    },
+    {
+      "verbatim": "Phila",
+      "scientificName": "Phila",
+      "offsetStart": 1387,
+      "offsetEnd": 1391,
+      "identifiedName": "Phila"
+    },
+    {
+      "verbatim": "Cregidula",
+      "scientificName": "Cregidula",
+      "offsetStart": 1458,
+      "offsetEnd": 1466,
+      "identifiedName": "Cregidula"
+    },
+    {
+      "verbatim": "Qrepidgla plana",
+      "scientificName": "Qrepidgla plana",
+      "offsetStart": 1630,
+      "offsetEnd": 1644,
+      "identifiedName": "Qrepidgla plana"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1744,
+      "offsetEnd": 1749,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1848,
+      "offsetEnd": 1853,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1900,
+      "offsetEnd": 1905,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "\nBerg, W. E.\nBoycoTT, B. \neT al\n8racheT, Jean\nBracheT, Jean\nBrowne, E. N.\nC|emenT, A. \nC|emenT, A.C.\nClemenT,A.C.\nConklin, E. \nConklin, E.G.\nConklin, E.G.\nConklin, E.G.\nConklin, E. \nCosTel|o, D.P\nCosTello, D.P\nCosTe|lo, D.P\nCosTello,D.P.\n|930\n|937\n|936\n\n|935\n|938\n|952\nl9|O\n|9|2\n|9|6\n|9|7\n|938\n|938\n|940\n|940\n|945\n-2-\nLarge scale consTricTion and segregaTion of polar lobes\nfrom The eggs of MyTilus edulis. Exp. Cell Research \nl7|\nThe inheriTance of sinisTraliTy in Eimgaeggperarea (Mollus~\nca; PulmonaTa). Phil. Trans. Roy. Soc. London, Ser. B,\n2l9 5| l3l\nLa diTferenciaTion sans clivage dans |'oeuf de CheTopTere\nenvisages aux poinTs de vue cyTologique eT meTabolique.\nArch. de Biol. ??;56l\nThe oxygen consumpTion of arTificia|ly acTivaTed and Ter~\nTilized ChaeTogT?gg? eggs. Biol. \nof pressure on Qumingia eggs. Arch. T. EnTwick~Mech\n29.\nThe TormaTion of gianT polar bodies in cenTriTuged eggs\nof llyanassa. Biol. Bull. ?2;403\nThe sTrucTure and deve|opmenT of cenTriTuged eggs and\negg TragmenTs of Jour. Exp. Zool.\n125435\nl. The role of The polar lobe in deTerminaTion of The\ncleavage paTTern and iTs influence in laTer developmenT.\nJ. Exp. Zool. l2l.\nThe effecTs of cenTrifugal force upon The organizaTion and\ndeve|opmenT of The eggs of fresh waTer pulmonaTes. J. Exp.\nZool. Q;4l7\nExperimenTal sTudies in nuclear and cell division in The\neggs of Cregidula glana. J. Acad. NaT'l Sci. Phila. LQ,\nEfTecTs of cenTrifugal force on The polariTy of The eggs\nof Cregidula. Proc. Acad. Sci. ;;87\nEfTecTs of cenTrifugal force on The sTrucTure and developmenT\nof The eggs of Cregidula. J. Exp. Zool. QQ.\nDisorienTaTion of developmenT in Qrepidgla plana produced\nby low TemperaTures. Proc. Amer. Philo. Soc. 79:|79.\nSTudies on TragmenTs of cenTrifuged Nereis eggs. Biol.\nBull. \nThe TerTi|izabiliTy of nucleaTed and non~nucleaTed Trag-\nmenTs of cenTrifuged Nereis eggs. J. Morph. \nDevelopmenT of fragmenTs of Nereis eggs. AnaT. Record \nSegregaTion oT oopiasmic J. Elisha MiTche||\nSci. Soc. ?1;277\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Mollus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Qumingia",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Cregidula glana",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a15802b6-ad0c-55a6-b58e-b3548518d012",
+          "name_string": "Crepidula plana Say, 1822",
+          "canonical_form": "Crepidula plana",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Calyptraeidae|Crepidula|Crepidula plana",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362382|2362383|2370194|2370205|2410985|6940193",
+          "taxon_id": "6940193",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Phila",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "2f21aa7e-2115-52f8-89d5-db496c4d2e9d",
+          "name_string": "Phila",
+          "canonical_form": "Phila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97446735",
+          "local_id": "urn:lsid:ubio.org:namebank:4292909",
+          "global_id": "urn:lsid:ubio.org:namebank:4292909",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4292909",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cregidula",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Qrepidgla plana",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "a15802b6-ad0c-55a6-b58e-b3548518d012",
+          "name_string": "Crepidula plana Say, 1822",
+          "canonical_form": "Crepidula plana",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Calyptraeidae|Crepidula|Crepidula plana",
+          "classification_path_ranks": "Kingdom|Division|Class|Order|Family|Genus|Species",
+          "classification_path_ids": "202423|69458|69459|566851|72611|72619|72627",
+          "taxon_id": "72627",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6ebe832a-4815-5f1a-a620-7ca8352a6853",
+          "name_string": "Crepidula plana T. Say, 1822",
+          "canonical_form": "Crepidula plana",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30740845",
+          "local_id": "404808",
+          "url": "http://eol.org/pages/404808",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

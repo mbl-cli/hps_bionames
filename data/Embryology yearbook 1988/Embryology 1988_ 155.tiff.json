@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=TIGwg2cvT0OIIwcshrxTPQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 155.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.14928415,
+    "total_duration": 24.278901271
+  },
+  "agent": "",
+  "created": "2013-06-18T13:13:36-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Embryology 1988\nDetermining relative affinities of protein-DNA interactions\nRelative affinities of a protein for different DNA\nsequences are readily measured using the gel retardation assay.\nTwo labeled DNA fragments one wild type and the other mutant)\nwith\nwith\nin a\nthat\nDNA.\ndistinct eletrophoretic mobilities are mixed and incubated\nprotein, allowing an assessment of binding to both fragments\nsingle reaction. The quantitative determinations require\nthe reaction proceed to equilibrium in the presence of excess\nUnder these conditions, the protein distributes between the\ntwo DNA species as a function of its affinites for each. The\nproportion of each DNA fragment that is bound versus free is\ndirectly quantitated by densitometry or scintilation counting,\nyielding a measurment of relative affinity. Although not part\nof our lab excercise, it is important to note that the gel retar-\ndation assay can also be used to determine the fraction of\nprotein that is active for DNA binding, as well as its absolute\nequilibrium binding constant for a given DNA fragment (see\nauxiliary handouts).\nProcedure\n1)\nIn each of five eppendorf tubes, mix ul (10-llM) of the\ntwo labeled fragments to be tested.\nTo each tube add\npoly dI/dC).\n2)\nl7 ul of binding buffer(with lmg/ml\n3) Add protein (we will use the DNA-binding domain of the\nglucocorticoid receptor):\nprotein\nprotein\nprotein\nprotein\ntemperature for 5 min.\ntube -- no protein\ntube 2 -- 0.2 ng\ntube 3 -- 2 ng\ntube 4 -- 20 ng\ntube 5 -- 50 ng\n4) Incubate at room\n5) To each tube add\n2 ul of sample buffer and immediately\nlead onto a nondebturing polyacryamide gel\n\n"
+}

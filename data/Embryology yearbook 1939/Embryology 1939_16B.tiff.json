@@ -1,0 +1,275 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=9X6z8NH7TuuHpUaIonB87A",
+  "input_url": null,
+  "file": "Embryology 1939_16B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.23870441,
+    "resolve_names_duration": 3.243011704,
+    "total_duration": 26.020869115
+  },
+  "agent": "",
+  "created": "2013-06-19T15:22:05-04:00",
+  "total": 12,
+  "names": [
+    {
+      "verbatim": "Fundulus heteroclitus",
+      "scientificName": "Fundulus heteroclitus",
+      "offsetStart": 304,
+      "offsetEnd": 324,
+      "identifiedName": "Fundulus heteroclitus"
+    },
+    {
+      "verbatim": "Eundulus",
+      "scientificName": "Eundulus",
+      "offsetStart": 403,
+      "offsetEnd": 410,
+      "identifiedName": "Eundulus"
+    },
+    {
+      "verbatim": "Fundulus heteroclitus",
+      "scientificName": "Fundulus heteroclitus",
+      "offsetStart": 572,
+      "offsetEnd": 592,
+      "identifiedName": "Fundulus heteroclitus"
+    },
+    {
+      "verbatim": "Eundulus\nheteroclitus",
+      "scientificName": "Eundulus heteroclitus",
+      "offsetStart": 925,
+      "offsetEnd": 945,
+      "identifiedName": "Eundulus heteroclitus"
+    },
+    {
+      "verbatim": "Haemichromis bimaculata",
+      "scientificName": "Haemichromis bimaculata",
+      "offsetStart": 1192,
+      "offsetEnd": 1214,
+      "identifiedName": "Haemichromis bimaculata"
+    },
+    {
+      "verbatim": "Fundulus heteroclitus",
+      "scientificName": "Fundulus heteroclitus",
+      "offsetStart": 1394,
+      "offsetEnd": 1414,
+      "identifiedName": "Fundulus heteroclitus"
+    },
+    {
+      "verbatim": "Eundulus",
+      "scientificName": "Eundulus",
+      "offsetStart": 1445,
+      "offsetEnd": 1452,
+      "identifiedName": "Eundulus"
+    },
+    {
+      "verbatim": "Perca).",
+      "scientificName": "Perca",
+      "offsetStart": 1458,
+      "offsetEnd": 1464,
+      "identifiedName": "Perca"
+    },
+    {
+      "verbatim": "Meroblas~\ntiques",
+      "scientificName": "Meroblas tiques",
+      "offsetStart": 1823,
+      "offsetEnd": 1838,
+      "identifiedName": "Meroblas~ tiques"
+    },
+    {
+      "verbatim": "Eundulus heteroclitus",
+      "scientificName": "Eundulus heteroclitus",
+      "offsetStart": 2063,
+      "offsetEnd": 2083,
+      "identifiedName": "Eundulus heteroclitus"
+    },
+    {
+      "verbatim": "Studium der kataphoresear",
+      "scientificName": "Studium der kataphoresear",
+      "offsetStart": 2299,
+      "offsetEnd": 2323,
+      "identifiedName": "Studium der kataphoresear"
+    },
+    {
+      "verbatim": "Protoplasma",
+      "scientificName": "Protoplasma",
+      "offsetStart": 2414,
+      "offsetEnd": 2424,
+      "identifiedName": "Protoplasma"
+    }
+  ],
+  "content": "Hoadley, L.\nHeadley, L.\nHyman, L. H.\nKagan, B. M.\nKopsch, Er.\nKopsch, Er.\nLewis, W, H.\nLewis, W. H.\nLuther, W.\nLuther, W.\nMcEwen, R. \nMorgan, T. \nMorgan, T. \nOppenheimer,\nOppenheimer,\nOppenheimer,\nOppenheimer,\nOppenheimer,\nPasteels, J.\n1959 5.\nOn the localization of developmental potencies in\nembryo of Fundulus heteroclitus Jour. Exp. Zool. 52,\nl922.\nViscosity changes during early cleavage stages of\nEundulus eggs. Science 69 (pp 4O 9) l928\nThe metabolic gradients of vertebrate embryos. I.\nTeleost embryos. Biol. Bull. 4O, l92l.\nThe fertilizable period of the eggs of Fundulus\nheteroclitus and some associated phenomena. Eiol.\nBull. 69, l955\nlS96 Bxperimentalle Untersuchungen liber Keimhautrand\nder Salmoniden Vert Anat. Geo. Berlin \nl927 Orteiches Vitalarbung, bei zeit\nfur Mikros Anat. forsch lOl 1927\nExperimental production of cyclopia in the fish embryo\nAnat. Rec. 5, l909\nExperiments on localization in the egg of Eundulus\nheteroclitus. Anat. Rec. 6, l9l2.\nPotenzprufungen an isolierten Teirlstuken der Eorellen~\nkeimscheibe. Zool. Anz. Suppl. 9, l956.\nAustausch von prasumptiver epidermis und medullarplatte\nbeim Eorellenkeim. Arch. Ent. Mech. l55, l956.\nThe early development of Haemichromis bimaculata with\nspecial reference to factors determining the embryonic\naxis Jour. Morph. and Physiol. 49, l95O.\nThe formation of the\n1896\nExperimental studies\nS, IS95\nJ. M. The development\nFundulus heteroclitus.\nJ. M. Transplantation\nosts (Eundulus and Perca). J. Exp. Zool. 72, 1956.\nJ. M. Processes of localization in developing Eundulus\nJ. Exp. Zool. 75, 1956.\nJ. M. Structures developed in amphibians by implanta~\ntion of living fish organizer. Proc. Soc. Exp. Biol.\nMed. 54, l956.\nJ. M. Potencies for differentiation in the teleos-\ntean germ ring. J. Exp. Zool. 79, l95S.\nEtudes sur la gastrulation des Vertebres Meroblas~\ntiques. I. Teleosteens. Arch. Biol. 47, l956.\nfish embryo. Jour. Morph. lO,\nin the teleost ea:s.' Anat. Anz.\n\nof isolated blastoderms of\nJ. Exp. Zool. 72, l956.\nexperiments on developing tele-\nSolberg, A. N. The susecptibility of Eundulus heteroclitus embryos\nSpek, Josef,\nStockard, O.\nStockard, C.\nto X-radiation. J. Exp. Zool. 72, l958.\nDie bipolare Differenzierung des ?Protoplasmas des\nTeleosteer-Eies und ihre Entstehung. (Weitere ex~\nperimentelle Beitrage zum Studium der kataphoresear-\ntigen Erscheinungen in Lebenden Zellen und der Bestim-\nmung des pH der lebenden Zelle.) Protoplasma, l8, l955\nH. The effects of alcohol and other anaesthetics on\nembryonic development. Am. Jour. Anat. lO, l9lO\nH. Development rate and structural expression. Am.\nJour.Anat. 28, l92l.\nVandebroek, G. Les mouvements morphogenetiques au cours de la gas-\ntrulation chez canicula cuv. arch. de Biol,\n47, less.\nWorley, L. G. Development of the egg of the mackerel at different\n\nconstant temperatures. Jour. Gen. Physiol., l6, '55\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus heteroclitus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "b4e4dfca-4136-5fc1-8688-53af51190898",
+          "name_string": "Fundulus heteroclitus",
+          "canonical_form": "Fundulus heteroclitus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Elopocephala|Clupeocephala|Euteleostei|Neognathi|Neoteleostei|Eurypterygii|Ctenosquamata|Acanthomorpha|Euacanthomorpha|Holacanthopterygii|Acanthopterygii|Euacanthopterygii|Percomorpha|Smegmamorpha|Atherinomorpha|Cyprinodontiformes|Cyprinodontoidei|Fundulidae|Fundulus|Fundulus heteroclitus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||class||||||||||||||superorder|||||order|suborder|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|7898|186623|41665|32443|186624|186625|32447|186839|123365|123366|123367|123368|123369|123370|32455|129947|32485|129949|32456|28738|8087|28756|8077|8078",
+          "taxon_id": "8078",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b4e4dfca-4136-5fc1-8688-53af51190898",
+          "name_string": "Fundulus heteroclitus",
+          "canonical_form": "Fundulus heteroclitus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39163140",
+          "local_id": "1157172",
+          "url": "http://eol.org/pages/1157172",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Eundulus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Eundulus heteroclitus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "f9e69441-e5c2-51ff-ab8c-fc7710bdb611",
+          "name_string": "Fundulus heteroclitus (Linnaeus, 1766)",
+          "canonical_form": "Fundulus heteroclitus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus|Fundulus heteroclitus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458|8543726",
+          "taxon_id": "8543726",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8d82da05-0162-5c3d-b180-4e3b803d6524",
+          "name_string": "Fundulus heteroclitis",
+          "canonical_form": "Fundulus heteroclitis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "36918044",
+          "local_id": "13977985",
+          "url": "http://eol.org/pages/13977985",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Haemichromis bimaculata",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "787ee042-a06f-58b3-aec9-ccfe9ae66985",
+          "name_string": "Hemichromis bimaculatus Gill, 1862",
+          "canonical_form": "Hemichromis bimaculatus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Perciformes|Cichlidae|Hemichromis|Hemichromis bimaculatus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2365430|2365601|2366872|2395455|8604753",
+          "taxon_id": "8604753",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Perca",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e745ffe3-9014-53bf-8d03-355e3f5e7c33",
+          "name_string": "Perca",
+          "canonical_form": "Perca",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Perciformes|Percidae|Perca",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2365601|2365652|2395830",
+          "taxon_id": "2395830",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e745ffe3-9014-53bf-8d03-355e3f5e7c33",
+          "name_string": "Perca",
+          "canonical_form": "Perca",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20631873",
+          "local_id": "24007",
+          "url": "http://eol.org/pages/24007",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Meroblas tiques"
+    },
+    {
+      "supplied_name_string": "Studium der kataphoresear"
+    },
+    {
+      "supplied_name_string": "Protoplasma"
+    }
+  ]
+}

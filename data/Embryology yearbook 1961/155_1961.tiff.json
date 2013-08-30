@@ -1,0 +1,217 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=hRswI2IaSMGRflyDhz3yjA",
+  "input_url": null,
+  "file": "155_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.193950173,
+    "resolve_names_duration": 1.030006476,
+    "total_duration": 23.324985526
+  },
+  "agent": "",
+  "created": "2013-06-18T12:15:43-04:00",
+  "total": 10,
+  "names": [
+    {
+      "verbatim": "NAUPLIUS",
+      "scientificName": "Nauplius",
+      "offsetStart": 124,
+      "offsetEnd": 131,
+      "identifiedName": "Nauplius"
+    },
+    {
+      "verbatim": "Nauplius",
+      "scientificName": "Nauplius",
+      "offsetStart": 786,
+      "offsetEnd": 793,
+      "identifiedName": "Nauplius"
+    },
+    {
+      "verbatim": "Nauplius",
+      "scientificName": "Nauplius",
+      "offsetStart": 840,
+      "offsetEnd": 847,
+      "identifiedName": "Nauplius"
+    },
+    {
+      "verbatim": "Nauplius",
+      "scientificName": "Nauplius",
+      "offsetStart": 1054,
+      "offsetEnd": 1061,
+      "identifiedName": "Nauplius"
+    },
+    {
+      "verbatim": "Metanauplius",
+      "scientificName": "Metanauplius",
+      "offsetStart": 1066,
+      "offsetEnd": 1077,
+      "identifiedName": "Metanauplius"
+    },
+    {
+      "verbatim": "Zcaeae",
+      "scientificName": "Zcaeae",
+      "offsetStart": 1497,
+      "offsetEnd": 1502,
+      "identifiedName": "Zcaeae"
+    },
+    {
+      "verbatim": "\"Cypris\"",
+      "scientificName": "Cypris",
+      "offsetStart": 1754,
+      "offsetEnd": 1761,
+      "identifiedName": "Cypris"
+    },
+    {
+      "verbatim": "NAUPLIUS:",
+      "scientificName": "Nauplius",
+      "offsetStart": 1895,
+      "offsetEnd": 1903,
+      "identifiedName": "Nauplius"
+    },
+    {
+      "verbatim": "Metanauplius",
+      "scientificName": "Metanauplius",
+      "offsetStart": 2038,
+      "offsetEnd": 2049,
+      "identifiedName": "Metanauplius"
+    },
+    {
+      "verbatim": "Qranchipus",
+      "scientificName": "Qranchipus",
+      "offsetStart": 2125,
+      "offsetEnd": 2134,
+      "identifiedName": "Qranchipus"
+    }
+  ],
+  "content": "CRUOTACEAU LARVAE \nThe development of certain decepoc crustaceans inoluoes the following series\nof sequential larval stages\nNAUPLIUS PROTOZOAEA MYSIS (ADJLT) \nThis sequence may be regaruec as the basic larvil seiies for Cru tacea as a whole\nbut only in relatively few species is the entire series plicit\nHatohing may occur at any of the abcve stages, in Qifferent species In\nune extreme the egg is shea, ans such forms are truly ovipaxcus In the other\nextreme, small auults hatch viviparuusly I\n2 Abridged cevelupment may occur either befcre or after hatching If hatch~\ning occurs at the Protozoaea stage, for example, some or all of the preceuing\nstages may be indistinet, may be abbreviated in various ways, and some may be\nskipped altogether. Most crustaceans however pass through a Nauplius phase, either\nin cvo or pelagisally, and the Nauplius may be regarded as the basic larval form\noi the gioup Post~hatching larval phases may also be skipped or abbreviated\nin various ways In primitive ciustaceans (Branchicpoas), hatching tencs to occur\nin the Nauplius or Metanauplius stage, with later gradual transformation into the\nadult and without other Qistinct larval stages In advanced types (Decapods), scme\nor all of the later larval stages do tend to become cistinct, regareless uf whether\nhatching occurs early or late\n3. or retareed development of some structures may obscure the\ntypical laival series further: thus Ostracou Nauplii already possess an adult bi-\nvalved carapacc. In decapcd Zcaeae, thoracic cevelcpment lags behinc abdominal\noevelopment, Moreover, many larval types differ in minor ways \"typical\"\nlarval stages, and uiffereut unique uesignatitns have been applieu here the\nzoaea-like \"cyclops\" larva of ccpepues, or the zoaea-like \"Cypris\" larva of\ncirripedsEach stage of the basic larval series is defined by features not yet present\nin the preceding stage, as fellows:-\nNAUPLIUS: 3 pairs cf appendages present (lst antennae, and manoibles);\nnon-segmented; median ocellus.\nnewly hatched ggtegia (lst molt precuoes Metanauplius)\nMATANAUPLIUS: 2nd maxillae present; segmentation starting.\nnewly hatched Qranchipus\nPROTGZOAEA: ana 2nd maxillipeds present; compoune eyes begin to uifferentiate.\nExample: newly hatched Sqnilla\nZOAEA: 3rd maxillipecs ana variable number of thoracic appenaages present;\ncumpound eyes fully uevelcpee.\nnewly hatched crab\nSIS: all thoracic appendages present, plus variable number of abdominal\nappendages; segmentation complete.\nnewly hatched lobster\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nauplius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "41ce42a4-9b77-548e-aa6b-ef8ef5ae977d",
+          "name_string": "Nauplius",
+          "canonical_form": "Nauplius",
+          "classification_path": "Plantae|Magnoliophyta|Magnoliopsida|Asterales|Asteraceae|Nauplius",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2362540|2362541|2370936|2370937|2521905",
+          "taxon_id": "2521905",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "41ce42a4-9b77-548e-aa6b-ef8ef5ae977d",
+          "name_string": "Nauplius",
+          "canonical_form": "Nauplius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30147593",
+          "local_id": "5119507",
+          "url": "http://eol.org/pages/5119507",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Metanauplius",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "8f66e6a7-bac0-5a1e-bb72-680208b8cbe7",
+          "name_string": "Metanauplius",
+          "canonical_form": "Metanauplius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "128326537",
+          "url": "http://www.organismnames.com/details.htm?lsid=2994169",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Zcaeae"
+    },
+    {
+      "supplied_name_string": "Cypris",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cae6abac-1fef-5c05-9f5b-a00ed5c42c87",
+          "name_string": "Cypris",
+          "canonical_form": "Cypris",
+          "classification_path": "Animalia|Arthropoda|Ostracoda|Podocopida|Podocopida|Cyprididae|Cypris",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2363389|2363390|2363404|2363442|2452139",
+          "taxon_id": "2452139",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cae6abac-1fef-5c05-9f5b-a00ed5c42c87",
+          "name_string": "Cypris",
+          "canonical_form": "Cypris",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30120140",
+          "local_id": "14512",
+          "url": "http://eol.org/pages/14512",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Qranchipus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

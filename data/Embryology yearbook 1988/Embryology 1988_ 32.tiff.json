@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=HZxf2juSQJi8fqwvGwr2NA",
+  "input_url": null,
+  "file": "Embryology 1988_ 32.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.114006548,
+    "total_duration": 23.460992146
+  },
+  "agent": "",
+  "created": "2013-06-18T13:17:45-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Crowther, R.J. and J.R. Whittaker (1983) Developmental autonomy of muscle fine\nstructure in muscle lineage cells of ascidian embryos. Dev. Biol. 96: 1-10.\nCrowther, R.J. and J.R. Whittaker (1984) Differentiation of histotypic\nultrastructural features in cells of cleavage-arrested early ascidian embryos.\nWilhelm Roux's Arch. Dev. Biol. 194:87-98.\nCrowther, R.J. and J.R. Whittaker (1986) Differentiation without cleavage:\nmultiple cytospecific ultrastructural expressions in one-celled ascidian\nembryos. Dev. Biol. 117:114-126.\nCrowther, R.J. and J.R. Whittaker (1986) Developmental autonomy of presumptive\nnotochord cells in partial embryos of an ascidian. Intl. J. Invert. Reprod.\nDev. 9:253-261.\nJeffery, W.R. (1984) Pattern formation by ooplasmic segregation in ascidian\neggs. Biol. Bull. 166:277-298.\nJeffery, W.R. (1985) Identification of proteins and in isolated yellow\ncrescents of ascidian eggs. J. Embryol. exp. Morph. 89:275-287.\nJeffery, W.R. and S. Meier (1983) A yellow crescent cytoskeletal domain in\nascidian eggs and its role in early development. Dev. Biol. 96:125-143.\nMeedel, T.H. (1983) Myosin expression in the developing ascidian embryo. J.\nExp. Zool. 227:203-211.\nMeedel, T.H., R.J. Crowther and J.R. Whittaker (1987) Determinative properties\nof muscle lineages in ascidian embryos. Development 100:245-260.\nMeedel, T.H. and J.R. Whittaker (1983) Development of translationally active\nfor larval muscle during ascidian embryogenesis.\nProc. Natl. Acad. Sci. USA 80:4761-4765.\nMeedel, T.H. and J.R. Whittaker (1984) Lineage segregation and developmental\nautonomy in expression of functional muscle in the\nascidian embryo. Dev. Biol. 105:479-487.\nNakauchi, M. and T. Takeshita (1983) Ascidian one-half embryos can develop\ninto functional adult ascidians. J. Exp. Zool. 227:155-158.\nNishida, H. (1987) Cell lineage analysis in ascidian embryos by intracellular\ninjection of a tracer enzyme. Up to the tissue restricted stage. Dev.\nBiol. 121:526-541.  p\nNishida, H. and N. Satoh (1983) Cell lineage analysis in ascidian embryos by\nintracellular injection of a tracer enzyme. I. Up to the 8-cell stage. Dev.\nBiol. 99:382-394.\nNishida, H. and N. Satoh (1985) Cell lineage analysis in ascidian embryos by\nintracellular injection of a tracer enzyme. II. The 16- and 32-cell stages.\n\n"
+}

@@ -1,0 +1,302 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=07D1KC1hT1W5te0o1SXbkA",
+  "input_url": null,
+  "file": "Embryology 1988_ 38.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.229550176,
+    "resolve_names_duration": 2.196112471,
+    "total_duration": 24.152838759
+  },
+  "agent": "",
+  "created": "2013-06-18T13:18:28-04:00",
+  "total": 9,
+  "names": [
+    {
+      "verbatim": "Drosophila chorion",
+      "scientificName": "Drosophila chorion",
+      "offsetStart": 653,
+      "offsetEnd": 670,
+      "identifiedName": "Drosophila chorion"
+    },
+    {
+      "verbatim": "Vicia faba",
+      "scientificName": "Vicia faba",
+      "offsetStart": 943,
+      "offsetEnd": 952,
+      "identifiedName": "Vicia faba"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 1195,
+      "offsetEnd": 1217,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "B. mori",
+      "scientificName": "B. mori",
+      "offsetStart": 1372,
+      "offsetEnd": 1378,
+      "identifiedName": "B. mori"
+    },
+    {
+      "verbatim": "Drosophila:",
+      "scientificName": "Drosophila",
+      "offsetStart": 1773,
+      "offsetEnd": 1783,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Chromosoma",
+      "scientificName": "Chromosoma",
+      "offsetStart": 1883,
+      "offsetEnd": 1892,
+      "identifiedName": "Chromosoma"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 2057,
+      "offsetEnd": 2079,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Chironomus thummi",
+      "scientificName": "Chironomus thummi",
+      "offsetStart": 2238,
+      "offsetEnd": 2254,
+      "identifiedName": "Chironomus thummi"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 2424,
+      "offsetEnd": 2434,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "Fotis C. Kafatos\n143. Kafatos, F.C., S.A. Mitsialis, N. Spoerel, B. Mariani,\nJ.R. Lingappa and C. Delidakis (1985). Studies on the\ndevelopmentally regulated expression and amplification of insect\nchorion genes. Cold Spring) Harbor Symposia on Quantitative\nBioloQY, Cold Spring Harbor Laboratory, Vol. L, pp. 537-547.\n144. Pustell, J. and F.C. Kafatos (1986). A convenient and\nadaptable microcomputer environment for DNA and protein\nmanipulation and analysis. Nuc. Acids Res. 14, 479-488.\n145. Kafatos, F.C., C. Delidakis, W. Orr, G. Thireos, K.\nKomitopoulou and Y-C. Wong (1986). Studies on the\ndevelopmentally regulated amplification and expression of\nDrosophila chorion genes. In: Molecular Developmental Biology.\n43rd Sympos. of the Soc. for Developmental Biology L. Bogorad,\ned. (Alan R. Liss, Inc., New York) PP.85-101.\n146. Baumlein, H., U. Wobus, J. Pustell and F.C. Kafatos\n(1986). The legumin gene family: Structure of a type gene of\nVicia faba and a possible legumin gene specific regulatory\nelement. Nucl. Acids Res. 14, 2707-2720.\n147. Snyder, P.B., V.K. Galanopoulos and F.C.  Kafatos\n(1986). Trans-acting amplification mutants and other eggshell\nmutants of the third chromosome in Drosophila melanogaster.\nProc. Natl. Acad. Sci. USA 83, 3341-3345.\n148. Spoerel, N., H.T. Nguyen, and F.C. Kafatos (1986).\nGene regulation and evolution in the chorion locus of B. mori:\nStructural and developmental characterization of four eggshell\ngenes and their flanking DNA regions. J. Mol. Biol. 120, 23-35.\n149. Lecanidou, R., G.C. Rodakis, T.H. Eickbush and F.C.\nKafatos (1986). Evolution of the silkmoth chorion gene\nsuperfamily: The CA and CB gene families. Proc. Natl. Acad.\nsci. USA 81. 6514-6518.\n150. Loukas, M. and F.C. Kafatos (1986). The actin loci in\nthe genus Drosophila: Establishment of chromosomal homologies\namong distantly related species by in situ hybridization.\nChromosoma 94, 297-308.\n151. Komitopoulou, K., S. Kouyanou, S. and F.C. Kafatos\n(1986). A temperature sensitive mutant affecting the process of\nchorion gene amplification in Drosophila melanogaster. Dev.\nGenetics 1, 75-80.\n152. Baumlein, H., J. Pustell, U. Wobus, S.T. Case and F.C.\nKafatos (1986). The 3' ends of two genes in the Balbiani Ring \nlocus of Chironomus thummi. J. Mol. Evol. 24, 72-82.\n153. Loukas, M. and F.C. Kafatos. (1986). Genomic blot\nhybridization as a tool of phylogenetic analysis: evolutionary\ndivergence in the genus Drosophila. J. Mol. Evol. 24, 174-188.\n14\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila chorion",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Fungi|Basidiomycota|Agaricomycetes|Agaricales|Psathyrellaceae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2365755|2365756|2365764|2365800|2365865|2385456",
+          "taxon_id": "2385456",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "96449a84-7e87-5f58-b19a-a9cb93463875",
+          "name_string": "Drosophila Haldanei Buzzati-Traverso, 1940",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_8807435",
+          "local_id": "768972",
+          "url": "http://eol.org/pages/768972/names/synonyms",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Vicia faba",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "1ac64bf7-4ffd-5f72-998f-10d68eeaa806",
+          "name_string": "Vicia faba",
+          "canonical_form": "Vicia faba",
+          "classification_path": "|Eukaryota|Viridiplantae|Streptophyta|Streptophytina|Embryophyta|Tracheophyta|Euphyllophyta|Spermatophyta|Magnoliophyta|||||Fabales|Fabaceae|Papilionoideae|Fabeae|Vicia|Vicia faba",
+          "classification_path_ranks": "|superkingdom|kingdom|phylum|||||||||subclass||order|family|subfamily|tribe|genus|species",
+          "classification_path_ids": "131567|2759|33090|35493|131221|3193|58023|78536|58024|3398|71240|91827|71275|91835|72025|3803|3814|163743|3904|3906",
+          "taxon_id": "3906",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "1ac64bf7-4ffd-5f72-998f-10d68eeaa806",
+          "name_string": "Vicia faba",
+          "canonical_form": "Vicia faba",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28921672",
+          "local_id": "703202",
+          "url": "http://eol.org/pages/703202",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Drosophila melanogaster",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Brachycera|Muscomorpha|Eremoneura|Cyclorrhapha|Schizophora|Acalyptratae|Ephydroidea|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophiliti|Drosophila|Sophophora|||Drosophila melanogaster",
+          "classification_path_ranks": "|superkingdom||kingdom|||||||phylum|||superclass|class|||subclass|infraclass|order|suborder|infraorder|||||superfamily|family|subfamily|tribe|subtribe||genus|subgenus|species group|species subgroup|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7147|7203|43733|480118|480117|43738|43741|43746|7214|43845|46877|46879|186285|7215|32341|32346|32351|7227",
+          "taxon_id": "7227",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39022287",
+          "local_id": "733739",
+          "url": "http://eol.org/pages/733739",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 22,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "B. mori"
+    },
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Chromosoma",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Chironomus thummi",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "3fbae1cf-bf8f-5e4d-8ada-0aef1cb31530",
+          "name_string": "Chironomus thummi",
+          "canonical_form": "Chironomus thummi",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Nematocera|Culicimorpha|Chironomoidea|Chironomidae|Chironominae|Chironomini|Chironomus|Chironomus|Chironomus thummi",
+          "classification_path_ranks": "|superkingdom||kingdom|||||||phylum|||superclass|class|||subclass|infraclass|order|suborder|infraorder|superfamily|family|subfamily|tribe|genus|subgenus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7147|7148|43786|41828|7149|54970|72530|7150|72537|7154",
+          "taxon_id": "7154",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3fbae1cf-bf8f-5e4d-8ada-0aef1cb31530",
+          "name_string": "Chironomus thummi",
+          "canonical_form": "Chironomus thummi",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29065410",
+          "local_id": "7006051",
+          "url": "http://eol.org/pages/7006051",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    }
+  ]
+}

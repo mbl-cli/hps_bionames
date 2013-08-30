@@ -1,0 +1,88 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=vFuFtH8CS72PgT8qztlQsA",
+  "input_url": null,
+  "file": "Embryology 1939_26B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.096536248,
+    "resolve_names_duration": 1.31411543,
+    "total_duration": 23.708948271
+  },
+  "agent": "",
+  "created": "2013-06-19T15:23:11-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Strongylooentrotns lividus",
+      "scientificName": "Strongylooentrotns lividus",
+      "offsetStart": 605,
+      "offsetEnd": 630,
+      "identifiedName": "Strongylooentrotns lividus"
+    },
+    {
+      "verbatim": "Horstedius",
+      "scientificName": "Horstedius",
+      "offsetStart": 1259,
+      "offsetEnd": 1268,
+      "identifiedName": "Horstedius"
+    }
+  ],
+  "content": "C4\nI  \n\nBIBLIOGRAFHY GN\nECEINODERM \nI- QUREAL \nMohride, E. W. Text~hooh of Embryology, Vol. I. (see there fox\nfurther literature on normal develooment). London. 1914.\nJ.\nDewydoff, G. Emhryologle oomperee ees lnvertehres. Peris.l928.\nJenkinson, L. W. On the origin of the ooler QHQ bilateral\nstructure of the egg of the see urchin. Roux 'Aroh.\nvol. 52, lUll. I\nKorsohelt, E. Tergleiohende Entwloklungsgesohlohte der Tiere.\nFischer Jens, \nWilson, E. B. and Mathews, A. P.t Fortilisstion\nand polarity in the Eehinoderm egg. Jonrn. Moryh.\nVol. IG, l3Q5.\nBoveri, Th. Die PoleritHt von Oooyte, Ei uno Lerve nes\nStrongylooentrotns lividus. Zool, Jehrh. Abt. T. Anet.\nII.\n\nVol. le, l9Ol. \nNEIAMQERHQSIQ\nBury, H. Metemorohosis in Eohinooerms. Quart. Jour. hier. I\nSo. Vol. 58, 1395.\nMortensen, Th. Contributions to the study of the development\nand larval forms of Eohinooerms. I end II Dansk. Vid.\nSeslk. Vol. 4, l@5G,\nMcBride E. W. Several osoers on oevelooment eno metsmorohosis\n0 \nof Ophiurides, Eohinids end Grinoides in Qnert. MICT, So.\nfrom l8Q6~l9l% (Vol. 58, 42, 51 one 59.)\nGrave, Caswell, Embryology of eohinots. Mem. Biol. I\nJohns Hopkins Univ, Vol. 45, l900.\nGoto. Metamorphosis of Asteries pallioe Journ. Coll. Se. Univ,\nTokyo, Vol. lO one Vol. l2, l95S,\nHorstedius, Sven, von Astropeoten. nets Zool.\nVol. l8 1926\n.7 \n. \nI A very good general bibliography on experiments performed\non Eohinooerm eggs up to lQ29 can he found in I\nSohleip, W. Die Determination der Primitiventwioklung Leipzig,\nl929, o. 542,\nSome other fnndementel papers:\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Strongylooentrotns lividus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "c483f7b4-e534-503b-a83d-007045fa8e62",
+          "name_string": "Strongylocentrotus lividus",
+          "canonical_form": "Strongylocentrotus lividus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Echinidae|Paracentrotus|Paracentrotus lividus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362622|2493650|6847019",
+          "taxon_id": "7018525",
+          "current_taxon_id": "6847019",
+          "current_name_string": "Paracentrotus lividus",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "c483f7b4-e534-503b-a83d-007045fa8e62",
+          "name_string": "Strongylocentrotus lividus",
+          "canonical_form": "Strongylocentrotus lividus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_12023982",
+          "local_id": "599658",
+          "url": "http://eol.org/pages/599658/names/synonyms",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Horstedius"
+    }
+  ]
+}

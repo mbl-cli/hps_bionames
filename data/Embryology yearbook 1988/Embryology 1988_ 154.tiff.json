@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=91zFgIOkTcCjA7fiWBby6Q",
+  "input_url": null,
+  "file": "Embryology 1988_ 154.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.090557671,
+    "total_duration": 23.687951146
+  },
+  "agent": "",
+  "created": "2013-06-18T13:13:27-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "4\nTable 1\nPostinjection culture of sea urchin embryos\n0 ll 0 Feeding schedule 0\nCulture volume in Rodomonas/ml of Maximum no. of\nDays postinjection erlenmyers embryos in volume\n4 50 ml in 125 ml flask 3000 every other day 150 3/flask 3000 every day 125 1/flask 3000 every day flask 3000 every day 40\n35 metamorphosis chamber\n2 mo post-metamorphosis feed with kelp\n\nMg*\n\n"
+}

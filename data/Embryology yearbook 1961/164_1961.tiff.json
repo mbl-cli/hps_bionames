@@ -1,0 +1,203 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=3P9MHo1ATC2A4iqp9a0QYg",
+  "input_url": null,
+  "file": "164_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.142464298,
+    "resolve_names_duration": 1.887109502,
+    "total_duration": 26.095104883
+  },
+  "agent": "",
+  "created": "2013-06-18T12:18:32-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Acoela,",
+      "scientificName": "Acoela",
+      "offsetStart": 3,
+      "offsetEnd": 9,
+      "identifiedName": "Acoela"
+    },
+    {
+      "verbatim": "Anaperus gardineri",
+      "scientificName": "Anaperus gardineri",
+      "offsetStart": 164,
+      "offsetEnd": 181,
+      "identifiedName": "Anaperus gardineri"
+    },
+    {
+      "verbatim": "Qhilgia spinosa",
+      "scientificName": "Qhilgia spinosa",
+      "offsetStart": 289,
+      "offsetEnd": 303,
+      "identifiedName": "Qhilgia spinosa"
+    },
+    {
+      "verbatim": "Iubularia crgcea",
+      "scientificName": "Iubularia crgcea",
+      "offsetStart": 2957,
+      "offsetEnd": 2972,
+      "identifiedName": "Iubularia crgcea"
+    }
+  ],
+  "content": " \n\nAcoela, Two species were obTained by regularly sampling and from The boTTom\noff The pump dock in GreaT Harbor beTween June 30 and July 20. One species,\nprobably Anaperus gardineri, was noT seen in The adulT sTage alThough many\nimmafure individuals were found. AnoTher species, probably Qhilgia spinosa,\nwas found in various sTages of maTuriTy. when kepT on The sea Table in finger\nbowls in sea waTer which was changed once a day, The few adulTs of This species\nlaid Their eggs mosTly in The early morning hours. BeTween 5 and 20 eggs were\nlaid, generally enclosed in a sac surrounded by a jelly mass. The eggs\nwere heavily pigmenTed and quiTe opaque To reflecTed lighT. Only peripheral\ndefails such as ciliary movemenf and bleb formafion were visible by reflecTed\nlighT; all oTher observaTions were made by dark field lighfing. The eggs\nmeasured in diameTer and lay 25-30 inside a viTelline membrane.\nThe Time of firsT cleavage was noT deTermined buT probably occurred l-2\nhours afTer laying. IT occurs among normal eggs in a sac. lT was\nequal, holoblasTic, and characTerized by disTorTion of The enTire egg surface\nby large blebs and cyfoplasmic projecTions, some 25-30 in diameTer, which\nformed immediaTely afTer The appearance of The furrow. Second cleavage occurred\n2.5-3 hours (aT room TemperaTure) or 3-5.5 hours (aT afTer The firsf.\nln The one clear observaTion made on a normal egg, second cleavage appeared To be\nradial and unequal. Secondarily, The micromeres appeared To move To give The\nnormal \"spiral-cleavage-by-duefs\" paTTern. Third cleavage occured abouT 5 hours\naffer The second and was also characTerized, as was The second, by exTensive\nsurface blebbing.\nThe nexT visible developmenT, besides reducTion in cell size, was The\nappearance of cilia which occurred beTween 60 and 72 afTer The approximaTed\nTime of egg laying. The ciliary beaT aT This Time was weak and appeared rafher\nrandom raTher Than wave~like. Muscular movemenT of The embryos inside The\nmembrane did noT appear unTil ll3-|34 hours afTer egg-laying, while haTching\noccurred beTween l32 and l5l hours.\nThe haTching process consisTed of very sTrong and regular ciliary beaTing\nby The embryo; franTic clipflops inside The membrane; vigorous buTTing againsT\nThe membrane, which aT firsT was sTiff and gradually became elasTic; and The\nfinal bursT from The membrane inTo The egg sac. WiTh phase microscopy aT\n200x magnificaTion, The membrane was seen To become wrinkled afTer buTTing\nbefore The final rupTure. Generally, The break Through The egg sac membrane\nrequired an addiTional efforT from The worm.\nThe newly haTched worm was fully pigmenfed buT confained only Three adulT\nsTrucTures: cilia, moufh, and sTaTocysT. No gonopore or gonadal sTrucTures\nwere visible in The living animal.\nCLEARY, T., S. J. EffecT of imolanTaTion pfgregenerafing hvdranThs\nregeneraTion Time in Tubulariagcrogea\nThe original aim of This projecf was To defermine wheTher The primary\nfacTor in Iubularia crgcea regeneraTion is cell mass or polariTy. The preliminary\nresulTs seemed To indicaTe ThaT some inTernal facTor of inhibiTion; laTer experi-\nmenTs wiTh surer Technique, however, show no manifesT effecf of increased cell\nmass upon regeneraTion raTe.\nThe experimenfal plan was To injecf a mass of cells inTo boTh The proximal\nand disTal ends of freshly cuT sTems and To deTermine The Time and place of\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Acoela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "d3e98c9a-efb8-503d-ab32-2df9b4f8807f",
+          "name_string": "Acoela",
+          "canonical_form": "Acoela",
+          "classification_path": "Animalia|Platyhelminthes|Acoela",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2364008|2369203",
+          "taxon_id": "2369203",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "d3e98c9a-efb8-503d-ab32-2df9b4f8807f",
+          "name_string": "Acoela",
+          "canonical_form": "Acoela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "36483654",
+          "local_id": "3076",
+          "url": "http://eol.org/pages/3076",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Anaperus gardineri",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "deaa744c-a59b-5f7a-9644-00819914db2e",
+          "name_string": "Anaperus gardineri",
+          "canonical_form": "Anaperus gardineri",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Acoelomata|Platyhelminthes|Turbellaria|Acoelomorpha|Acoela|Anaperidae|Anaperus|Anaperus gardineri",
+          "classification_path_ranks": "|superkingdom||kingdom||||phylum|class||order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33214|6157|166384|147099|31265|84065|84066|188020",
+          "taxon_id": "188020",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "deaa744c-a59b-5f7a-9644-00819914db2e",
+          "name_string": "Anaperus gardineri",
+          "canonical_form": "Anaperus gardineri",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29000258",
+          "local_id": "3036388",
+          "url": "http://eol.org/pages/3036388",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Qhilgia spinosa",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "1463faf8-5a85-5d74-aa4a-58357fbf4fe5",
+          "name_string": "Ghinia spinosa (Sw.) Britton & P. Wilson",
+          "canonical_form": "Ghinia spinosa",
+          "classification_path": "Plantae|Viridaeplantae|Streptophyta|Tracheophyta|Spermatophytina|Angiospermae|Magnoliopsida|Asteranae|Lamiales|Verbenaceae|Tamonea|Tamonea boxiana",
+          "classification_path_ranks": "Kingdom|Subkingdom|Infrakingdom|Division|Subdivision|Infradivision|Class|Superorder|Order|Family|Genus|Species",
+          "classification_path_ids": "202422|846492|846494|846496|846504|846505|18063|846535|31632|32064|500583|505432",
+          "taxon_id": "514006",
+          "current_taxon_id": "505432",
+          "current_name_string": "Tamonea boxiana (Moldenke) R.A. Howard",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "67f5392c-f4c6-554b-9018-1a2f4e8537c0",
+          "name_string": "Ilia spinosa Miers, 1881",
+          "canonical_form": "Ilia spinosa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20656673",
+          "local_id": "2950115",
+          "url": "http://eol.org/pages/2950115",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Iubularia crgcea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5b57cba7-31a7-5690-8726-b0bed9a411f5",
+          "name_string": "Tubularia crocea",
+          "canonical_form": "Tubularia crocea",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Tubulariidae|Ectopleura|Ectopleura crocea",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2368676|2472082|5379315",
+          "taxon_id": "5383465",
+          "current_taxon_id": "5379315",
+          "current_name_string": "Ectopleura crocea (Agassiz, 1862)",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": true
+    }
+  ]
+}

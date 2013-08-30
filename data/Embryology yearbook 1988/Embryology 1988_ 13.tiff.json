@@ -1,0 +1,122 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=pKcSqcr7Sd6q2eZl60szmw",
+  "input_url": null,
+  "file": "Embryology 1988_ 13.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.120695768,
+    "resolve_names_duration": 0.485962811,
+    "total_duration": 25.08236912
+  },
+  "agent": "",
+  "created": "2013-06-18T13:09:10-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Styela clava",
+      "scientificName": "Styela clava",
+      "offsetStart": 117,
+      "offsetEnd": 128,
+      "identifiedName": "Styela clava"
+    },
+    {
+      "verbatim": "Ciona.",
+      "scientificName": "Ciona",
+      "offsetStart": 790,
+      "offsetEnd": 795,
+      "identifiedName": "Ciona"
+    }
+  ],
+  "content": "The St ela partita species studied by Conklin (see attached\nsheets? has been displaced along the eastern seaboard by Styela\nclava (a Korean was import) which we will use in a demonstration\n5f Erescent formation and segregation. we will follow the first\nfew cleavages, up to about the 32-cell stage during the afternoon.\n3. Histospecific enzyme markers of muscle and endoderm:\nand alkaline phosphatase\nThe use of simple histochemical markers of certain histotypic\nenzymes, including an characteristic of\nmuscle cell differentiation and alkaline phosphatase indicative of\nendodermal development, served to open up ascidian embryos to a\nrealm of molecular analysis that was previously closed. We will\ndemonstrate current versions of these two reactions using 12-hour\n(early tailbud) stages of Ciona. These embryos are provided at\nthe front of the room. Set up the two stainings as described in\nthe attached methods sheets. Both stains can be used sequentially\non the same specimens if you fix with the formalin fixative (15\nmin) and do the alkaline phosphatase stain first. You should try\nthe double stain: the result is striking!\nSession II: 7:30pm-12:OOmn\n4. Cholinesterase expression in cleavage-arrested embryos\nOne of the most exciting findings of classical experimental\nembryology techniques with ascidians is the extreme autonomy of\ndevelopment which the earliest blastomeres have. This autonomy\nfollows the Conklin fate map exactly and invariably and is why\nsuch development was originally called \"mosaic,\" because it\nappreared to be a patchwork (mosaic) of predetermined parts. Eric\nDavidson has referred to modern studies of ascidian development as\n\"neo-preformationism.\" The usual \"classic\" study was based on\nblastomere isolations which are difficult, to say the least. A\npotent parallel demonstration is a similar finding in embryos\nwhich have been cleavage-arrested with the inhibitor of\nmicrofilament assembly, cytochalasin B.\nSome cytochalasin treated 8-cell stages are provided at the front\nof the room. These were treated with 2 micrograms/ml cytochalasin\nfor 14 hr after the 8-cell stage. These are permanently arrested\n8-cell stages which have differentiated MANY specialized proteins\nand structures in the appropriate lineage blastomeres- it may\njust look like an 8-cell stage to you; you are merely too sinful\nsee what is there. Try the cholinesterase stain on a sample of\nthese embryos. You might also try the alkaline phosphatase stain,\nboth work equally well to show variously that muscle lineages and\nendodermal lineage cells continue to differentiate in the absence\nof cell division and display thereby \"mosaic\" development.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Styela clava",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "58d4d733-0736-5560-a93f-e3a63858a331",
+          "name_string": "Styela clava",
+          "canonical_form": "Styela clava",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata|Ascidiacea|Stolidobranchia|Styelidae|Styela|Styela clava",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum|class|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712|7713|7720|7721|7724|7725",
+          "taxon_id": "7725",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "58d4d733-0736-5560-a93f-e3a63858a331",
+          "name_string": "Styela clava",
+          "canonical_form": "Styela clava",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103812",
+          "local_id": "503609",
+          "url": "http://eol.org/pages/503609",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ciona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957",
+          "taxon_id": "2421957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628900",
+          "local_id": "43439",
+          "url": "http://eol.org/pages/43439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

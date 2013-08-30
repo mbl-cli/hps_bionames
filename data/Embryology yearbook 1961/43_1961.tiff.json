@@ -1,0 +1,90 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=vVFtLZZVQLCwKPVKFaXflw",
+  "input_url": null,
+  "file": "43_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.218718233,
+    "resolve_names_duration": 0.665216176,
+    "total_duration": 28.78944872
+  },
+  "agent": "",
+  "created": "2013-06-18T12:32:15-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Fundulus.",
+      "scientificName": "Fundulus",
+      "offsetStart": 616,
+      "offsetEnd": 624,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 2110,
+      "offsetEnd": 2117,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 2873,
+      "offsetEnd": 2880,
+      "identifiedName": "Fundulus"
+    }
+  ],
+  "content": " \nmarginal uncleaved area, called The periblasT, are easily visible. The \narea aT The border of The blasTodisc is The marginal geriblasT; ThaT beneaTh The\nblasTodisc is The cenTral.periQjasT (noTice ThaT The laTTer is a conTradicTion\nin Terms). lf observed closely iT can be seen ThaT The nuclei of The marginal\nrow of cells become free of cell ouTlines, conTinue Their divisions and migraTe\ninTo The marginal periblasT. lmporTanT physical and chemical properTies have been\naTTribuTed To This layer (Cordier, '4l; Lewis, '49; Devillers, and\nTrinkaus ConsulT Oppenheimer ('36c) for deTails of The cleavage paTTern\nin Fundulus.\nExperimenTaj Analysis of Early Deve|qpmenT -CerTain simple Techniques can be\nuTilized on a raTher large scale wiThouT a greaT deal of previous experience wiTh\nThe maTerial Procedures which require manipulaTive skill and special pre-\ncauTions mighT be aTTempTed by Those willing To spend proporTionaTely greaTer\namounTs of Time \na) SensiTiye periods in The morphoqenesis of various orqan svsTems: by The appli-\ncaTion of various inhibiTing agenTs aT various sTages and sTudying The develop-\nmenTal eTTecTs one can ofTen geT valuable indicaTions of The course oT deTerminaTion\nof various organ primordia. Many agenTs in The pasT have proved useful in such\nsTudies; liThium and magnesium (STockard, '06, anesTheTics such as alcohol\nand chloreTone (STockard, 'lO) and low TemperaTure (STockard, These experi-\nmenTs may be readily repeaTed. \nb) Axial gradienTs: TeleosT maTerial has proved useful for sfudies of The relaTion\nof gradienTs of meTabolic acTiviTy To laTer diTTerenTiaTion (Child, Using\nThe diTTerenTial`reducTion\nsuggesTive correlaTions of\nc) RelaTiongof respiraTory\nby The blasToderm of various viTal dyes one may make\nThis sorT. WhaT is The significance of These correlaTions\nacTiviTy To Enzyme inhibiTors wiTh a\nhigh degree OT speciTiciTy\nare imporTanT Tools in sTudies of The relaTion beTween\nmeTabolic acTiviTy and morphogenesis. Do morphogeneTic movemenTs oT gasTrulaTion\ndepend upon oxidaTive meTabolism, e. c. cyTochrome sysTem? Oxygen consumpTion may\nbe inhibiTed in Fundulus eggs wiTh Na azide monoiodoaceTaTe or parachloromercuri-\nben2oaTe.\ndi Qerminal localizaTiQn;; Oppenheimer has described The Technique of viTal\ndye marking as applied To The TeleosT embryo. A general review of experimenTal\nwork showing The deve|opmenTal capaciTies of The TeleosT blasToderm will be found\nin Oppenheimer A summary of The procedure Tor viTal sTaining of fish\nblasToderms will be found in Rugh, Manual OT ExperimenTal Embryoloqy, p. 596.\nFor sTudies on morphogeneTic movemenTs in which greaTer precision is desired\ncarbon marking Technique is superior. The\nmeThod To The sTudy of surface behavior in\nscribed by Trinkaus \nei Analysis oT prospecTivegpoTency5 DefecT\nNicholas and Oppenheimer This Type\nThe\napplicaTion of The carbon marking\nThe Fundulus blasToderm has been\n\nde-\nand by BrummeTT\nexperimenTs have been described by.\nof experimenT should be Tried only\nafTer experience in The manipulaTion of embryos. The mosT pracTicable procedure\nis Through The chorion, since dechorionaTion wiThouT injury To The blasToderm\nTakes considerable pracTice. DesTrucTion of blasTomeres in The 2-4 cell sTage is\nprobably easiesT. Those ThaT wish To aTTempT dechorinaTion will find Techniques\ndescribed in Nicholas and Trinkaus P. 272-273.\nT) The role of yolk in morphogenesisr, The eTTecTs of yolk removal have been de-\nscribed by Morgan He describes a simple Technique, buT one which is diffi-\nculT To conTrol. ExplanaTion of isolafed blasToderms has been described by\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

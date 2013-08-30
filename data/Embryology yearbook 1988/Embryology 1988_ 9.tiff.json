@@ -1,0 +1,138 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=qLzZAG1AQsym4RF5Ot1JdQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 9.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.078587171,
+    "resolve_names_duration": 1.111613358,
+    "total_duration": 24.522023697
+  },
+  "agent": "",
+  "created": "2013-06-18T13:28:46-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Caenorhabditis elegans",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 931,
+      "offsetEnd": 952,
+      "identifiedName": "Caenorhabditis elegans"
+    },
+    {
+      "verbatim": "C. elegans\"",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 1028,
+      "offsetEnd": 1038,
+      "identifiedName": "C. elegans"
+    },
+    {
+      "verbatim": "C. elegans",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 1040,
+      "offsetEnd": 1049,
+      "identifiedName": "C. elegans"
+    },
+    {
+      "verbatim": "C. elegans",
+      "scientificName": "C. elegans",
+      "offsetStart": 1119,
+      "offsetEnd": 1128,
+      "identifiedName": "C. elegans"
+    }
+  ],
+  "content": "\nLECTURE CHEDULE\nEMBRYOLOGY COURSE - MODULE I\nAuditorium - 10:00 a.m.\nJune 20\nAM E. Davidson Lecture I\nPM I R. Whittaker Lab\nTuesday June 21\n10:00 AM E. Davidson Lecture ll\nPM R. Franks Lab I\nWed. June 22\n10:00 AM R. Whittaker Lecture\nR. Franks Lab I1\nThurs. June 23\n11:00 AM Fotis Kafatos Lecture\n(Harvard University)\nPM R. Franks Lab \nFriday June 24\n10:00 AM J. Kimble Lecture 1\nPM J. Kimble Lab\nJune 25\n10:00 AM J. Kimble Lecture ll\n\"Some comparative aspects of the\nmolecular biology of the embryo\"\nAscid ian Lab\n\"Cell lineage and cell specification in the\nsea urchin embryo\"\nProcedures for sea urchin material\n\"Ascidian development: A model of cell\nlineage and early cell determination\"\nSeparation of ectoderm and\nendoderm/mesoderm of sea urchin\nembryos and pluteus larvae\n\"Development and evolution: The insect\nchorion\"\nI Single-stranded probe excess titration of\nspecific embryonic transcripts\n\"Introduction to the nematode,\nCaenorhabditis elegans. Analysis of cell\nlineage and cell interactions during the\ndevelopment of C. elegans\"\nC. elegans lab\n\"Identification and analysis of genes that\ncontrol cell fate in C. elegans\"\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Caenorhabditis elegans",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "642c0c40-8323-52dd-85fc-7578cebc6958",
+          "name_string": "Caenorhabditis elegans",
+          "canonical_form": "Caenorhabditis elegans",
+          "classification_path": "Animalia|Nematoda|Secernentea|Rhabditida|Rhabditidae|Caenorhabditis|Caenorhabditis elegans",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2370385|2370467|2370489|2370502|2458420|6906297",
+          "taxon_id": "6906297",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "642c0c40-8323-52dd-85fc-7578cebc6958",
+          "name_string": "Caenorhabditis elegans",
+          "canonical_form": "Caenorhabditis elegans",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34422705",
+          "local_id": "403869",
+          "url": "http://eol.org/pages/403869",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "C. elegans",
+      "results": [
+        {
+          "data_source_id": 8,
+          "data_source_title": "Interim Register of Marine and Nonmarine Genera",
+          "gni_uuid": "44175eb8-7b3c-5d2d-9e8e-2581ea81a6d0",
+          "name_string": "Uca elegans George & Jones, 1982",
+          "canonical_form": "Uca elegans",
+          "classification_path": "Animalia|Arthropoda|Malacostraca|Decapoda|Ocypodidae|Uca|Uca elegans",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "11|235|1190|10704|110386|1048533|11123623",
+          "taxon_id": "11123623",
+          "local_id": "11123623",
+          "url": "http://www.marine.csiro.au/mirrorsearch/ir_search.taxon_info?id=11123623",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f26f2dc1-17e2-5b7c-9e1a-d5ed42107077",
+          "name_string": "Uca (Australuca) elegans George & Jones, 1982",
+          "canonical_form": "Uca elegans",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30065548",
+          "local_id": "3118931",
+          "url": "http://eol.org/pages/3118931",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 5,
+      "in_curated_sources": true
+    }
+  ]
+}

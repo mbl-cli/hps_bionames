@@ -1,0 +1,136 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=bobic0Q4TQSSyrAmxc5hWQ",
+  "input_url": null,
+  "file": "117_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.139849451,
+    "resolve_names_duration": 2.012196692,
+    "total_duration": 25.227475783
+  },
+  "agent": "",
+  "created": "2013-06-18T11:34:40-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 292,
+      "offsetEnd": 297,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1271,
+      "offsetEnd": 1276,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "CHAETOPTERUS",
+      "scientificName": "Chaetopterus",
+      "offsetStart": 1423,
+      "offsetEnd": 1434,
+      "identifiedName": "Chaetopterus"
+    },
+    {
+      "verbatim": "Nereis,",
+      "scientificName": "Nereis",
+      "offsetStart": 2058,
+      "offsetEnd": 2064,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "\n-.5-\nBelaTion of sperm enTrance To plane of cleavage\nlnseminaTion in The presence of chinese ink will reveal and mark The poinT of\nsperm enTrance. Observe These eggs during cleavage To deTermine The relaTionship\nof The enTrance poinT To cleavage plane.\nExaqgeraTed.enTrance*gones\nPlace some Nereis eggs inseminaTed 5 To 8 minuTes earlier in a Syracuse dish\nconTaining alkaline NaCl (pH lO.5 To lO.5). Observe imm?gi?igly,The viTelline\nmembrane will elevaTe due To a sudden inhibiTion of jelly release Through The\nmembrane and a subsequenT accumulaTion of jelly in The priviTelline space. The\nviTelline membrane remains permeable To waTer; swelling of The pv space is due To\ncolloid osmoTic pressure. ElevaTion of The membrane sTreTches ouT The sperm\nenTrance cone beTween The membrane and The egg surface, Torming a long filamenT\nwhich frequenTly causes marked indenTaTion of The mebrane. Eggs kepT in The\nrefrigeraTor may become polyspermic upon inseminaTion and show several of These\nexaggeraTed cones upon TreaTmenT wiTh alkaline NaCl. WaTch The sperm moving across\nThe pv. space To The egg surface. RepeaTed alkaline NaCl TreaTmenTs may free\neggs of Their membranes. This meThod has been employed in isolaTing blasTomeres.\nLeTer develQQmenT\nKeep a sparse culTure of Nereis eggs going as long as possible To have an\noccasional look aT The developmenT of The Trochophore larva. These will be\nsTudied in deTail laTer.\n i CHAETOPTERUS\nThe polychaeTe ChaeTopTeru;,pergamenTaceus is collecTed in The muddy boTTom\ncoves of nearby islands. Each specimen lives in a parchmenT Tube wiTh Two\ncommensal crabs. Eggs are obTained simply by shaking an excised parapod in a\ndish of sea waTer.  Sperm should be kepT \"dry\" by squeezing one or Two male para-=\npods inTo a dry dish and keeping The seminal fluid covered in a refrigeraTor. To\ninseminaTe, add one drop of \"dry\" seminal fluid To IO ml of sea waTer; wiTh\nanoTher pipeTTe, add 2 or 3 drops oT This \"sTock sperm\" To lO ml of sea waTer\nconTaining eggs.\nFreshly shed eggs are in The germinal vesicle sTage. Unlike Nereis, The eggs of\nChaeTopTerus begin To maTure sponTaneously when shed inTo sea waTer. Calcium ion\nis necessary for This process, which has been sTudied exTensively recenTly by\nGoldsTein. The maTuraTion process which begins in sea waTer becomes arresTed in\nmeTaphase of The firsT meioTic division. The spinule can be seen aT This sTage as\na clear area near The animal Pole. The eggs of ChaeTopTerus are highly pigmenTed\nand granular, so ThaT liTTle sTrucTural deTail can be observed unless These eggs\nare sTraTiTied by cenTrifugaTion. STraTified eggs in The germinal vesicle sTage\ncan be obTained by spinning whole parapods; laTer on, aT meTaphase of The TirsT\nmaTuraTion division, sTraTificaTion is more easily accomplished. For informaTion\non cenTrifugaTion of These eggs, see papers by Heilbrunn and Wilson. ln cenTrifuged\neggs, noTe The corTex and iTs granular compIemenT, The spindle (or The germinal\nvesicle in earlier sTages), and The various granular layers.\nln observing The process of ferTilizaTion, noTe changes in The egg surface and\nin The germ head. Can you see any? ls a membrane elevaTed from The surface? How\nfar? \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Chaetopterus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "731a221e-25f7-551b-8b46-b377bd15d759",
+          "name_string": "Chaetopterus",
+          "canonical_form": "Chaetopterus",
+          "classification_path": "Animalia|Annelida|Polychaeta|Spionida|Chaetopteridae|Chaetopterus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369624|2369631|2525102",
+          "taxon_id": "2525102",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "731a221e-25f7-551b-8b46-b377bd15d759",
+          "name_string": "Chaetopterus",
+          "canonical_form": "Chaetopterus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40913590",
+          "local_id": "489401",
+          "url": "http://eol.org/pages/489401",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

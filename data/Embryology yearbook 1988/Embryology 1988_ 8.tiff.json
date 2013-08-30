@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=DDxLC8hIRkOMGZ5i79DqvQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 8.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.056394512,
+    "total_duration": 18.792324663
+  },
+  "agent": "",
+  "created": "2013-06-18T13:26:46-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "\n\n1\n \n\n"
+}

@@ -1,0 +1,83 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=UpIbHuFvSjWC4DRCavnSgw",
+  "input_url": null,
+  "file": "170_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.224460998,
+    "resolve_names_duration": 0.650851912,
+    "total_duration": 28.327740104
+  },
+  "agent": "",
+  "created": "2013-06-18T12:20:14-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 2759,
+      "offsetEnd": 2768,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 2860,
+      "offsetEnd": 2869,
+      "identifiedName": "Microciona"
+    }
+  ],
+  "content": "\nin good condiTion.\nA furTher difficulTy encounTered was The developmenT of a meThod Tor\nfasTening The glass rods To The surface of The dish wiTh suT\nobsTrucT The circulaTion. The meThod finally employed was \nTicienT pressure To\nisappoinTing, buT gave\nsome success. A Thin glass rod was aTTached To The dish over The sTolon wiTh sTop-\nclock grease. ShorT segmenTs of 4mm. glass rod or glass Tub\nends of The rod. AddiTional pressure was applied by placing\nThese Two pieces of glass, forming a bridge-like sTrucTure.\nwere held TogeTher by small amounTs of sTopcock grease. The\nine running sea waTer rendered This meThod only\nTT should be noTed ThaT in many cases, blockage was noT \nvisibly decreased sTolonic circulaTion produced signiTicanT\nif The circulaTion was blocked aT a poinT proximal\nThe zooid will Jhdergo regression. ln anoTher case, Tollowi\nzooid (There was some flow Through The block), The sTolon gr\nzooid appeared aT a greaTer disTance from The block. ln Two\nproximal To The block underwenT regression. ln one of These\nbud formed near The siTe of The zooid.\nAT The poinT of blockage, The sTolon underwenT exT\ning were placed aT The\nanoTher segmenT across\nThe various segmenTs\nnecessiTy for keeping\nparTially effecTive.\nefTecTive, buT a\neffecTs in many cases.\nTo The young zooid,\nng regression of The\new ouT, and a new\ninsTances, a zooid\ncases, a sTolonic\nensive branching in\nmany cases. lT The glass rod was placed beTween The Two zooids, This branching\ncould be observed on boTh sides of The rod. lf The sTolon was puncTured in a posi-\nTion proximal To The rod, a sTolonic ouTgrowTh would oTTen \nake place from The siTe\nof The puncTure. lT appears ThaT The puncTure Triggered The ouTgrowTh by pro-\nviding a posiTion from which The branch could grow. This wa\ngreaTesT regulariTy when The puncTure was made beTween The \nThe sTolon, in Peroghora, is divided by a verTica|\nblood runs in a Two-way channel, The Two channels being conf\nTip. A hearT is presenT in each zooid, and These hearTs bea\nfound To occur wiTh\nooid and The block.\nsepTum so ThaT The\nluenT aT The disTal\nin unison, giving\na uniform flow ThroughouT The sysTem. Periodically (aT inTervals of a few min-\nuTes) The direcTion of flow reverses. if a glass rod was pl\nTwo maTure zooids, Two independenT circulaTory were\naced beTween The\nesTablished. The\nreversal of flow occurred on eiTher side of The rod, and The of hearT-\nbeaT was losT. When The rod was removed and The circulaTory\nTo come TogeTher once again, iT was observed, iniTially, Tha\npaThways were allowed\nThe more proximal\ncirculaTion was dominanT over The more disTal one. Soon afTer, normal circulaTion\nwas resumed wiTh The repair of The sepTum aT The poinT of bl\nockage.\nGIACOMETTI, ObservaTions on cell reaggreqaTion in Microciona\nA series of invesTigaTions was carried ouT on dissociaTion and subsequenT\nregeneraTion in Microciona sponges. The following objecTives were soughT: To\ndeTermine The TemperaTure and cenTrifugaTion effecT on The \nTion, To sTudy The cell Type wiTh difTerenT sTains, and To i\nsurface efTecT of The media. A cell suspension was obTained\nThrough a bolTing~cloTh inTo sea waTer. The densiTy of The\nmeasured by counTing The cells in a Levy chamber.\nrocess of reconsTiTu-\nnvesTigaTe The\nby pressing sponges\ncell suspension was\n\nThe counTing of aggregaTes was done according To The meThod of Spiegel\n(1954-l955), each group of Tour or more celis was considered\nln order To deTermine The eTTecT of TemperaTure on reaggrega\nas one aggregaTe.\nTion, aliquoTs of\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Microciona",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Porifera|Demospongiae|Ceractinomorpha|Poecilosclerida|Microcionina|Microcionidae|Microciona",
+          "classification_path_ranks": "|superkingdom||kingdom|phylum|class|subclass|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6040|6042|6048|27925|283498|27926|27927",
+          "taxon_id": "27927",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992018",
+          "local_id": "2544604",
+          "url": "http://eol.org/pages/2544604",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    }
+  ]
+}

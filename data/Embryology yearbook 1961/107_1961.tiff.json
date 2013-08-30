@@ -1,0 +1,335 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=rR40UuPBSwu4bUI5eugzgg",
+  "input_url": null,
+  "file": "107_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.177463152,
+    "resolve_names_duration": 2.777310115,
+    "total_duration": 27.88525996
+  },
+  "agent": "",
+  "created": "2013-06-18T11:28:01-04:00",
+  "total": 9,
+  "names": [
+    {
+      "verbatim": "Clava",
+      "scientificName": "Clava",
+      "offsetStart": 79,
+      "offsetEnd": 83,
+      "identifiedName": "Clava"
+    },
+    {
+      "verbatim": "Pennaria",
+      "scientificName": "Pennaria",
+      "offsetStart": 191,
+      "offsetEnd": 198,
+      "identifiedName": "Pennaria"
+    },
+    {
+      "verbatim": "K.\ntierella",
+      "scientificName": "K. tierella",
+      "offsetStart": 219,
+      "offsetEnd": 229,
+      "identifiedName": "K. tierella"
+    },
+    {
+      "verbatim": "Genionemus",
+      "scientificName": "Genionemus",
+      "offsetStart": 483,
+      "offsetEnd": 492,
+      "identifiedName": "Genionemus"
+    },
+    {
+      "verbatim": "(Listea",
+      "scientificName": "Listea",
+      "offsetStart": 964,
+      "offsetEnd": 970,
+      "identifiedName": "Listea"
+    },
+    {
+      "verbatim": "Coraylophora lacustris",
+      "scientificName": "Coraylophora lacustris",
+      "offsetStart": 1286,
+      "offsetEnd": 1307,
+      "identifiedName": "Coraylophora lacustris"
+    },
+    {
+      "verbatim": "Gbelia gelatinosa",
+      "scientificName": "Gbelia gelatinosa",
+      "offsetStart": 1366,
+      "offsetEnd": 1382,
+      "identifiedName": "Gbelia gelatinosa"
+    },
+    {
+      "verbatim": "Antesnularia rsmosa",
+      "scientificName": "Antesnularia rsmosa",
+      "offsetStart": 1601,
+      "offsetEnd": 1619,
+      "identifiedName": "Antesnularia rsmosa"
+    },
+    {
+      "verbatim": "A. antennina",
+      "scientificName": "A. antennina",
+      "offsetStart": 1625,
+      "offsetEnd": 1636,
+      "identifiedName": "A. antennina"
+    }
+  ],
+  "content": "-.1 Q..\nHargitt,C.W, 1906 The orgenizetien ans early eevelepment of the egg of Clava\nleptesyls. Biel. Bull., lg: 207~232.\nC. AND ITS \nBaker, 1936 Phstoperiedinity in the spawning reaetion of Pennaria\nBallard,\nBrooks W. K.\ntierella. Pres. Ineiena Assn. Sci.,  Q: 25l~252.\n1942 The mechanism for synohreneus spawning in Hy&ractinia and\nPennsris. Biel. Bull., (June)\n(Listed above)\nHargitt, C, W, \nHargitt, C. T, 9\nMeyer, A. T. \nMurbach, L. 1895 Preliminary note on the life histery of Genionemus. Jour.\n0 \nSmallwuse, U, M. (Liste& abuve)\nTorrey, H.B. 1907 Biulegieal Studies on Cerymorpha. ll. The development of\nC. palms frem the egg. Univ. Cel. Publ., 2; 253-298.\nD. SPECIAL TOPICS - ISGLATION OF \nBeckwith, G. W. (Listed above)\nil \nHargitt, 0. \nHargitt, C.N. 1911\nMaas, 1895\nTeissier, G,\nTorrey, H. B.\nZoja, R. 1895\nSame problems cf ontogeny. Jour. Murph gg:\n\nExperimentelle Beitrege zur Entwieklungsgeschichte der\nMedusen. Zeit. f. wise. Zeul., 82: 601-610.\n(Listea sbeve) \n1|\nSullo sviluspe &ei blastomeri iselata delle uove di aleune 1\nmeduse. Arch. f. Entw., 1: 578-595, en& gs l>>37. 1\nE. SPECIAL GRADIENTS\nRegenergtisn frem cellular aggregstieus\nBeedle, and Booth, F, A,\nChild, C. M.\nDeMurgen, H,\nDrew, G.H,\nFeyn, B.\nand\n1938\n1928\n1914\nThe reosgsnizetion of tissue masses of Coraylophora lacustris\neffect mf eral cone grate, with supplementary ebser>>\non Gbelia gelatinosa. Jour. Exp. Biol., lg: 303-326.\nand the\nvatiuns\nAxial development in aggregatiuns of dissociated cells from\nCorymerpha. Physiel. Zeal., 1: 419-$61.\nA study of the restitutien masses formed by dissueiated cells\nof the Antesnularia rsmosa ana A. antennina. Jour.\nMar. Biol. Assoc. Plymeuth., lg:\n(Listed shove)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Clava",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "08ae1ab4-7e17-53b6-9334-ce4020b19555",
+          "name_string": "Clava",
+          "canonical_form": "Clava",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Hydractiniidae|Clava",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366629|2394457",
+          "taxon_id": "2394457",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "08ae1ab4-7e17-53b6-9334-ce4020b19555",
+          "name_string": "Clava",
+          "canonical_form": "Clava",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327655",
+          "local_id": "23444",
+          "url": "http://eol.org/pages/23444",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pennaria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Pennariidae|Pennaria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2363486|2488405",
+          "taxon_id": "2488405",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26328107",
+          "local_id": "100988",
+          "url": "http://eol.org/pages/100988",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "K. tierella"
+    },
+    {
+      "supplied_name_string": "Genionemus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Listea",
+      "results": [
+        {
+          "data_source_id": 9,
+          "data_source_title": "WoRMS",
+          "gni_uuid": "4f57e8cc-7fbf-5fc3-860b-a8e4ba5a456e",
+          "name_string": "Listea",
+          "canonical_form": "Listea",
+          "classification_path": "Animalia|Platyhelminthes|Rhabditophora|Rhabdocoela|Promesostomidae|Listea",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "gn:3uL60ncMV0CLLRfxOOBRdQ|gn:oDw6k2DuUAORWZqbTCdw0Q|gn:y5180mrkX8SHhrfORpbEFg|gn:G7oJhEG1XdSxuNwx-nbslw|gn:DXtvJtmRU0uXutgsgOBXWA|gn:46BnIX5wUF6EeZzdv2GWCw",
+          "taxon_id": "gn:46BnIX5wUF6EeZzdv2GWCw",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4f57e8cc-7fbf-5fc3-860b-a8e4ba5a456e",
+          "name_string": "Listea",
+          "canonical_form": "Listea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33242148",
+          "local_id": "3029635",
+          "url": "http://eol.org/pages/3029635",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 8,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Coraylophora lacustris",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "de3e3d1c-bb31-5cb1-849a-b61ee176a240",
+          "name_string": "Cordylophora lacustris Allman, 1844",
+          "canonical_form": "Cordylophora lacustris",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Hydroidolina|Anthoathecatae|Filifera|Oceanidae|Cordylophora|Cordylophora caspia",
+          "classification_path_ranks": "Kingdom|Division|Class|Subclass|Order|Suborder|Family|Genus|Species",
+          "classification_path_ids": "202423|48738|48739|718924|718925|571696|718974|48892|48893",
+          "taxon_id": "48894",
+          "current_taxon_id": "48893",
+          "current_name_string": "Cordylophora caspia (Pallas, 1771)",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "593dd49b-3ff9-558e-b9b6-67aebb8b5422",
+          "name_string": "Cladophora lacustris Kützing",
+          "canonical_form": "Cladophora lacustris",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_9684276",
+          "local_id": "967985",
+          "url": "http://eol.org/pages/967985/names/synonyms",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gbelia gelatinosa",
+      "results": [
+        {
+          "data_source_id": 5,
+          "data_source_title": "Index Fungorum",
+          "gni_uuid": "bbd4dc69-4b18-54aa-b85a-3e57631fd5af",
+          "name_string": "Orbilia gelatinosa Sacc. 1889",
+          "canonical_form": "Orbilia gelatinosa",
+          "classification_path": "Fungi|Ascomycota|Leotiomycetes|Helotiales|Helotiaceae|Calloriopsis|Calloriopsis gelatinosa",
+          "classification_path_ranks": "regn.|phyl.|cl.|ord.|fam.|gen.|sp.",
+          "classification_path_ids": "10000001|10000006|10000074|10000075|10000127|742|246730",
+          "taxon_id": "168795",
+          "current_taxon_id": "246730",
+          "current_name_string": "Calloriopsis gelatinosa (Sacc.) Syd. & P. Syd. 1917",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "bbd4dc69-4b18-54aa-b85a-3e57631fd5af",
+          "name_string": "Orbilia gelatinosa Sacc. 1889",
+          "canonical_form": "Orbilia gelatinosa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35965156",
+          "local_id": "18404940",
+          "url": "http://eol.org/pages/18404940",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 8,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Antesnularia rsmosa",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "2f40cbd2-e704-56d2-bcdc-1e71a6b10858",
+          "name_string": "Antennularia rugosa Nutting, 1900",
+          "canonical_form": "Antennularia rugosa",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Hydroidolina|Leptothecatae|Plumulariidae|Nemertesia|Nemertesia rugosa",
+          "classification_path_ranks": "Kingdom|Division|Class|Subclass|Order|Family|Genus|Species",
+          "classification_path_ids": "202423|48738|48739|718924|718926|50231|50313|50319",
+          "taxon_id": "50400",
+          "current_taxon_id": "50319",
+          "current_name_string": "Nemertesia rugosa (Nutting, 1900)",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "A. antennina"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=xyIJzpm1RSuEbXtFFFkFOg",
+  "input_url": null,
+  "file": "Embryology 1939_29B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.154966122,
+    "total_duration": 19.791686481
+  },
+  "agent": "",
+  "created": "2013-06-19T15:23:40-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "\n\nHervey, Ethel Erowne, Qerthenogenetic merogony or cleevege\nwithout nuclei in Artecie runctulete. Biol. Bull. Vol.\n71, 1936.\nF. Physiology of oevelogment\nHertet Curt Exoerimentelle Hber den Einfluee\n2 -A. 0 LJ \nder verenderten cnemlecnen Zueemmeneetznn; dee umgetenden\nMediums auf die der Thiere (Several papers\nin Roux 'Arch1v. Vol. 2, 1396).\nHoretediue, Sven, Uber die Determination der Keimee bei\nEcninoeermen, Acte Zool., Vol. Q, 1928.\nHoretedine, Sven, Uber die Determination in Verleufe der Eiecnee\nbei Seeigeln. Pnblioet. delle Stem. Zool. Napoli, Vol. 14\n1935 (Moet fundamental paper).\nHoetedine, Sven. end Alexander Woleky. Studien Hber die\nDetermination der Eiletereleymmetrie dee jungen Seeigel-\nkeimee. Roux 'Arcn. Vol. 155, 1956.\nLindehl P. E. Zur Kenntnie ner nhteioloeiecren \nJ. I \nder in gecte \nStockholm) Vol. 17, 1956,\nLindehl, P. E. end Ohmen, L. 0. Weitere Stndien Hber Steff-\nwechsel end Determination in Seeigelkeim Biol. Zentrelol.\nVol. 56, 1938.\nHunnetrom, J. Anelytieche Stneien Uber die Seeigelentwicklung\n(many pepere chiefly in Roux 'Arch. Vol. el, 45, 46,\nlO5, 115) end Ark. f. Kool. (l@1e eno later).\nvon Ubiech, L. Entwick1ungephyeiologiecne Stndien an\nSeeigelkeimen I, 11, Zeitechr. Wise. Zool. Vol.\n124, 1925,\nvon Ubiech, L. Untereuchungen Hber Formbildung etc. Arch. \nf, Entw. MCM. Vol. l24, 126, 127 emo l29 (1951-1933).\n\n"
+}

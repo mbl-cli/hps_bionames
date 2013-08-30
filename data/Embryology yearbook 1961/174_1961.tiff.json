@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=TQnKXAC7TT2Yljum47XOmQ",
+  "input_url": null,
+  "file": "174_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.15382,
+    "resolve_names_duration": 0.639157901,
+    "total_duration": 27.004032347
+  },
+  "agent": "",
+  "created": "2013-06-18T12:21:29-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 227,
+      "offsetEnd": 233,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\nThe sTain here is mosT likely indicaTing increased meTabolic acTiviTy in The area\nofigrowTh. NBT was used aT O.l% under anaerobic condiTions.\nLANYI, JANOS To \nlT has been known from The work 3? several auThors ThaT developing\nArbacia eggs could incorporaTe inorganic Over periods of 10-i5 hours, Their\nsTudies indicaTed ThaT There was an inTensive gg novo of DNA buT no\nincrease of RNA in The TirsT 24 hours. The presenT sTudy represenTs an aTTempT To\nincorporaTe P32 inTo and developing eggs, as well as homogenaTes, by\nexposing Them To The radioacTive isoTope (approximaTe|y microcuri ml.) Tor\nperiods of less Than 30 minuTes. lT was hoped ThaT by appropriaTe pulse labeling,\na meTabolically acTive TrichloroaceTic acid (TCA) insoluble fracTion could be\ndemonsTraTed. A likely candidaTe for such a subsTance would be an RNA TracTion\nwhich has been shown To be presenT in bacTerial sysTems.\nEggs and sperm were collecTed from Arbacig pungTulaTa by elecTrical sTim-\nulaTion. various Times aTTer P32 was added, an aliquoT of The eggs or embryos\nwas filTered by sucTion on Millipore filTer (grade HA, pore size 0.45 microne).\nThe eggs were counTed under a dissecTing microscope fiTTed wiTh an ocular grid aT\n40x magniTicaTion. The unferTilized eggs were checked for ferTilizabiliTy and\nwere found To be maTure unless oTherwise indicaTed. In The case of egg-homogenaTes\nThe eggs were collecTed by cenTrifugaTion, washed and homogenized in a glass\nhomogenizer in disTilled waTer aT ice-waTer TemperaTure. The homogenaTe was cenTri\nfuged aT low speeds unTil only a suspension of fine parTicles remained. AT\nvarious Times afTer P52 addiTion, ml. aliquoTs were added To ml. of iO% TCA\nand O.l ml. aliquoTs of The resulTing precipiTaTe suspension were filTered on\nMillipore TilTer and washed wiTh lO ml. of 5% TCA.\nin The case of unferTilized eggs, in Two separaTe cases, There was an\niniTial increase (abouT minuTe afTer The sTarT of The labeling) To 6-7 Times The\nbackground (The background was 2-300 cpm/TilTer disk, independenT of The number of\neggs). The background rapidly reesTablished iTself and sTayed consTanT for aT\nleasT 30 minuTes. One run, in which The eggs were aeraTed on a circular shaker,\nyielded a similar resulT alThough The eggs proved To be immaTure. ln The following\ncases only The base-line was obTained: a) eggs washed wiTh 10% hoT b) eggs\nwiTh ice~cooling; c) eggs shaken; d) supernaTanT of eggs; and e) sea waTer.\nThe following resulTs were obTaind wiTh The Two and five hour embryos.\nOn The firsT few experimenTs, boTh The Two and five hour embryos showed an increase\nin cpm/egg similar To ThaT observed for unferTilized eggs. ln addiTion, a linear\nincrease was obTained which conceivably could be exTrapolaTed back To The origin\nand which had a higher slope for The Two hour embryos. These resulTs could noT\nbe repeaTed and in all The subsequenT experimenTs only The base-line was obTained.\nwiTh The cell-Tree homogenaTes, no appreciable incorporaTion inTo The\nTilTerable fracTion was observed. Considering The unreliabiliTy of The daTa, no\ninTerpreTaTion was aTTempTed.\nLEHRER, l. The biochemical roie of vaqioug\nd@y.sisPmenT.\niT has been shown by Krahl and ThaT The oxidaTive paThway in\nnormal sea urchin embryos changes from The penTose phosphaTe paThway To The\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

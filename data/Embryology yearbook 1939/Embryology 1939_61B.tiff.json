@@ -1,0 +1,178 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=cH7MKYXHTMiqNFVCEpvawQ",
+  "input_url": null,
+  "file": "Embryology 1939_61B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.184109533,
+    "resolve_names_duration": 1.771565849,
+    "total_duration": 24.121894645
+  },
+  "agent": "",
+  "created": "2013-06-19T15:30:43-04:00",
+  "total": 8,
+  "names": [
+    {
+      "verbatim": "(Loligo",
+      "scientificName": "Loligo",
+      "offsetStart": 281,
+      "offsetEnd": 287,
+      "identifiedName": "Loligo"
+    },
+    {
+      "verbatim": "Loligo",
+      "scientificName": "Loligo",
+      "offsetStart": 632,
+      "offsetEnd": 637,
+      "identifiedName": "Loligo"
+    },
+    {
+      "verbatim": "Cnaetopterus",
+      "scientificName": "Cnaetopterus",
+      "offsetStart": 643,
+      "offsetEnd": 654,
+      "identifiedName": "Cnaetopterus"
+    },
+    {
+      "verbatim": "Loligo",
+      "scientificName": "Loligo",
+      "offsetStart": 1062,
+      "offsetEnd": 1067,
+      "identifiedName": "Loligo"
+    },
+    {
+      "verbatim": "L. vulgaris",
+      "scientificName": "Loligo vulgaris",
+      "offsetStart": 1229,
+      "offsetEnd": 1239,
+      "identifiedName": "L. vulgaris"
+    },
+    {
+      "verbatim": "Loligo,",
+      "scientificName": "Loligo",
+      "offsetStart": 1337,
+      "offsetEnd": 1343,
+      "identifiedName": "Loligo"
+    },
+    {
+      "verbatim": "Loligo",
+      "scientificName": "Loligo",
+      "offsetStart": 1459,
+      "offsetEnd": 1464,
+      "identifiedName": "Loligo"
+    },
+    {
+      "verbatim": "Duplicitas cruciata",
+      "scientificName": "Duplicitas cruciata",
+      "offsetStart": 1670,
+      "offsetEnd": 1688,
+      "identifiedName": "Duplicitas cruciata"
+    }
+  ],
+  "content": "W. K. Brooks\nG, A, Drew\n. \n. \n.ilb   \n\nEe korscnelt\nE. id,rsfilelt\n-f \n.En     \nA. Naef\nA, rortmann\n\nas .Qi \n1880\n1911\n1919\n1950\n1892\n1958\n1914\n1928\n1928\n1959\nDevelopment of the Squid. Memoirs Boston Soc.\nof Nat. Hist. (Good figures of all stages).\nSexual activities of the Squid. (Loligo Pealii)\nI. Copulationf egg laying and fertilization.\nJ. of Morpyology. volg 22.\nll. The spermatopnore; its structure?\ne'aculation and formation. J. of Morunolo\n.9\nvol. 52.\n(8otn.papers are recommended for collateral\nreading; consult figures in for details\nof the of the spermatopnore).\nPolocyte fcrnation and the cleavage of the Polar\nBody in Loligo and Cnaetopterus. Biol. Bull.\nvol. 58 1\n(data on artificial insemination).\nEntwicklung des Dacmkanals und \nder Oepnalopoden.\nfur Leuckart\n(good figs. of development of intestine)\nVer leicnende Entwicklunrsfescnicnte der Tiere.\n\nvol. 2. pp. (Contains Bibliography)\nTextbook of Embryology. l. lnvertebrata.\nDie Cephalopoden. vol. 2; Embryologie. Fauna\nFlora del Golfo di Napoli.\n(Complete series of figures of development of\nLoligo on plates i~Vll; seriation of stages.\nConsult particularly plate 7, figs. 4 and as for\nnewly natcned squid. Note that Naef describes\nthe Mediterranean species; L. vulgaris, which\ndevelops more slowly than L. P.)\nDer embryonale Kreislauf und die Dotterresorp-\ntion bei Loligo,\nf, Morpnol. u, Okoli vol. 5.\n(good figs. of yolk sac circulation).\n5. Portmann and Bidder l928 Yolk absorption in Loligo and the func~\n1 (tion of the embryonic liver. Quart. Journ.\nS. Ranzi\n1951\n1951\nMicro. Sci. vol. 72 1\nSviluppo di parti isolate di embrioni di Gefalo~\npodi. Pubbl. della Stazione Zool. di Napoli.\nvol. II.\nDuplicitas cruciata in embrioni di Cefalopodi.\nibid. vol. II.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Loligo",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b4c5a691-9ab2-55fb-919e-b64cfec92d7b",
+          "name_string": "Loligo",
+          "canonical_form": "Loligo",
+          "classification_path": "Animalia|Mollusca|Cephalopoda|Teuthida|Loliginidae|Loligo",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2370028|2370052|2370067|2431307",
+          "taxon_id": "2431307",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b4c5a691-9ab2-55fb-919e-b64cfec92d7b",
+          "name_string": "Loligo",
+          "canonical_form": "Loligo",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20630784",
+          "local_id": "38585",
+          "url": "http://eol.org/pages/38585",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cnaetopterus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Loligo vulgaris",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "c3e3011c-54a5-5e3d-9e80-329c5ed72738",
+          "name_string": "Loligo vulgaris",
+          "canonical_form": "Loligo vulgaris",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Lophotrochozoa|Mollusca|Cephalopoda|Coleoidea|Neocoleoidea|Decapodiformes|Teuthida|Myopsina|Loliginidae|Loligo|Loligo vulgaris",
+          "classification_path_ranks": "|superkingdom||kingdom||||||phylum|class|subclass|infraclass|superorder|order|suborder|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206795|6447|6605|6606|215449|215450|551290|551347|6615|6616|6622",
+          "taxon_id": "6622",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "c3e3011c-54a5-5e3d-9e80-329c5ed72738",
+          "name_string": "Loligo vulgaris",
+          "canonical_form": "Loligo vulgaris",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29016981",
+          "local_id": "451497",
+          "url": "http://eol.org/pages/451497",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Duplicitas cruciata"
+    }
+  ]
+}

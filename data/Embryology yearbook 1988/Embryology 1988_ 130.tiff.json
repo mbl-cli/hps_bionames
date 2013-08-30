@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ozCWAdc9TiCtOcGxaldaYA",
+  "input_url": null,
+  "file": "Embryology 1988_ 130.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.107096455,
+    "total_duration": 23.017737496
+  },
+  "agent": "",
+  "created": "2013-06-18T13:09:18-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "E. W'iesc.'haus' and C. \nFigure 8. /clarsichl embryos during post~shortening stages of development.\nStage 13: Shorteneamin).\nStage 14: Head involution and dorsal closure (ll 30 min to 13 the clypeolabrum is prominent at the\nanterior end of the embryo.\nStage 15: Dorsal closure complete (13 to 15 \nStage 16: Condensation of CNS (15 to the completion of embryonic development). The arrow -) indicates\nthe posterior tip of the CNS. .\n4.8 Stage 8: germ band extension (3 45 min to 4 30 min)\nThe cell layers invaginated in the ventral furrow flatten along the ectoderm forming\na multilayered band the germ band) which curves around the posterior tip of the\negg, elongating along the dorsal side until the point of posterior midgut invagination\nreaches the head region at 65 egg length. The cells between the opening of the posterior\nmidgut invagination and the cephalic furrow thin out such that the dorsal folds gradual-\nly disappear. The cephalic folds gradually disappear. The cephalic furrow is no longer\neasily visible. On the ventral side of the embryo, the germ band buckles into the in-\nterior of the embryo at the level of the cephalic furrow producing a transient gap bet-\nween it and the vitelline membrane.\n211\n\n\n"
+}

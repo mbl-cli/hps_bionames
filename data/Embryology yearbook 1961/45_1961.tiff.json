@@ -1,0 +1,94 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=JocbtliWTzK3i5MGNL1cRQ",
+  "input_url": null,
+  "file": "45_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.167382995,
+    "resolve_names_duration": 2.030820405,
+    "total_duration": 26.070944898
+  },
+  "agent": "",
+  "created": "2013-06-18T12:32:34-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 960,
+      "offsetEnd": 967,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Qericardium",
+      "scientificName": "Qericardium",
+      "offsetStart": 1086,
+      "offsetEnd": 1096,
+      "identifiedName": "Qericardium"
+    }
+  ],
+  "content": "of closure of The blasTopore? Kupfer's vessiclek a large clear sTrucTure near\nThe hind of The embryo will also be seen aT This Time.\n8. LaTer DevelgpmenT\nTory, and oTher sysTems can be convenienTly recorded in charT form\nLaTer sTages are besT sTudied aTTer removal of The chorion, which is much more\neasily accomplished aT This Time Than aT The earlier sTages. The following\nTeaTures should be especially observed and followed chronologically.\n\na) SomiTes: Follow Their growTh and increase in number on successive days.\nb) Nervous SysTem: Observe The appearance and developmenT of The ogTic vesicle.\nlens, neuromeres, fore-midfand hindebrainL (Trace developmenT of The cerebrum,\ngpTic lobes, cerebellum and medulla). NoTe especially The developmenT of The eye,\no|facTory gli, and oTocysT. HisTological deTails of organ TormaTion, especially\nThe sensory sTrucTures will be found in Jones \nc) CirculaTory SysTem; As in all verTebraTes, The circulaTory sysTem in Fundulus\nexhibiTs a greaT deal of variaTion in iTs developmenT. NoTe especially The exTra-\nembryonic caviTy, TormaTion of The Qericardium, and The TirsT blood vessels,\nTormed from wandering (The papers of STockard, 'l5, on\nThe origin and developmenT of and vascular epiThelium, are of inTeresT\nhere.)\nNoTe The TormaTion and posiTion of The hearT,and The Times of iTs TirsT acTion\nhas sTudied hearT funcTion in Eundulus in connecTion wiTh iTs\ninnervaTion).\ne) FurTher deTails of developmenT can be obTained Trom Oppenheimer NoTe\nand record The appearance of fins, The urinary bladder (Trom whaT sTrucTure is iT\nan ouTgrowTh?), and The liver.\n9. HaTching;\nand Milkman have sTudied The mechanism of haTching in\nF, heTerociiTus. NoTe and record The Time oT haTching of normal culTures, hybrids,\nand experimenTally TreaTed embryos.\nEmbryos may be more easily sTudied aTTer haTching by anesTheTizaTion wiTh ch|oreTone\nlO. ?xperimenTal Procedures wiTh LaTergSTages;\nNicholas and Oppenheimer performed many exTirpaTion experimenTs on laTer\nsTages (Oppenheimer sTages 20-25 are especially favorable.) These sTages are\nmuch easier To decapsu1aTe Than earlier ones. AspeTic condiTions are imporTanT in\ncuTTing down moraliTy of embryos. AuToclave faciliTies can be arranged Tor Those\nwishing To do This Type of work. The following are examples of experimenTs ThaT\nare pracTicable; \n6) Remove pecToral iig anlage as iT appears (venTral and posTerior To ear\nvesicie STage ZO).\nb) UnilaTeral exTirpaTion of eye. This, and oTher exTirpaTions, can be accomplished\nby sucTion. >>Draw up The inTo a small-bore pipeTTe, and cuT iT off aT The base.\nEmbryos of 2,3,4,5, and 6 days should be sTudied. Changes in The nervous, circulai\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Qericardium",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=J4n4nj1oSdm8rogArx7k3A",
+  "input_url": null,
+  "file": "Embryology 1988_ 100.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.117561903,
+    "resolve_names_duration": 1.015856091,
+    "total_duration": 22.066155751
+  },
+  "agent": "",
+  "created": "2013-06-18T13:03:31-04:00",
+  "total": 14,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 94,
+      "offsetEnd": 103,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 426,
+      "offsetEnd": 435,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 545,
+      "offsetEnd": 554,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila:",
+      "scientificName": "Drosophila",
+      "offsetStart": 616,
+      "offsetEnd": 626,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila,",
+      "scientificName": "Drosophila",
+      "offsetStart": 764,
+      "offsetEnd": 774,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 906,
+      "offsetEnd": 928,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1117,
+      "offsetEnd": 1127,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "D. melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 1265,
+      "offsetEnd": 1279,
+      "identifiedName": "D. melanogaster"
+    },
+    {
+      "verbatim": "P. 1985. tudor",
+      "scientificName": "P. 1985tudor",
+      "offsetStart": 1340,
+      "offsetEnd": 1353,
+      "identifiedName": "P. 1985. tudor"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1417,
+      "offsetEnd": 1427,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1566,
+      "offsetEnd": 1575,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1673,
+      "offsetEnd": 1683,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1842,
+      "offsetEnd": 1852,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1919,
+      "offsetEnd": 1929,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "ig;   s3>>f1@% \n\nLQCTURI:\nGENERAL REFERENCES \nMahowald, A. P., Hardy, P. A. 1985. Genetics of Drosophila\nembryogenesis. Ann. Rev. Gen. 19: 149-177.\nKonrad, K. D., L., Perrimon, N., and Mahowald, A. P. 1985.\nGenetic analysis of oogenesis and the role of matrnal gene expression in\nearly develoment. In: Developmental Biology, Vol. 1 (ed. L. W. Broyder)\nPlenum, NY pp.577-617. \nMohler, J. D. 1977. Developmental genetics of the Drosophila egg.\nGenetics 85: 259-272. A\nCooley, L, Kelley, R., and Spradling, A. 1988. Insertional mutagenesis'\nof the Drosophila genome with single elements. Science\nSpradling, A. 1986. In Drosophila: A Practical Approach. (ed. D. B. 1\nRoberts. pp175ff.\nMahowald, A. P., and Kambysellis, M. P. 1980 Oogenesis, In Biology and\nGenetics of Drosophila, Vol. 2d (ed. Ashburner and Wright). pp.\nPerrimon, N., and Mahowald, A. P. 1988. The maternal contribution to\nearly development in Drosophila melanogaster. In: Developmental Genetics\nof Animals and Plants. (G. Malacinski, ed) Macmillan.\nSPECIFIC REFERENCES\nIllmensee, K., and Mahowald, A. P. 1974. Transplantation of posterior\npolar plasm in Drosophila. PNAS 71: 1016-1020.\nNiki, Y. 1986. Germline autonomous sterility of P-M Dysgenic hybrids and\ntheir application to germline transfers in D. melanogaster. Dev. Biol.\n113: 255-258.\nBoswell, R. E., and Mahowald, A. P. 1985. tudor, a gene required for the\nproper assembly of the germ plasm of Drosophila. Cell: 42: 97-104.\nLehmann, R., Nusslein-Volhard, C. 1987. Involvement of the pumilio gene\nin the transport of an abdominal signal in the Drosophila embryo. Nature\n329: 167-170. \nvanDeusen, E. B. 1977. Sex determination in germ line chimeras of\nDrosophila. J. Embryol. exp. Morph/ 37: 173-185.\nOliver, B., Perrimon, N., and Mahowald, A. P. 1987. The ovo locus is\nrequired for sex specific germ line maintenance in Drosophila. Genes and\nDevelop. 1: 913-923.\nMahowald, A. P. Polar granules of Drosophila. J. Exp Zool. 167: 237-262.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Drosophila melanogaster",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Brachycera|Muscomorpha|Eremoneura|Cyclorrhapha|Schizophora|Acalyptratae|Ephydroidea|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophiliti|Drosophila|Sophophora|||Drosophila melanogaster",
+          "classification_path_ranks": "|superkingdom||kingdom|||||||phylum|||superclass|class|||subclass|infraclass|order|suborder|infraorder|||||superfamily|family|subfamily|tribe|subtribe||genus|subgenus|species group|species subgroup|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7147|7203|43733|480118|480117|43738|43741|43746|7214|43845|46877|46879|186285|7215|32341|32346|32351|7227",
+          "taxon_id": "7227",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39022287",
+          "local_id": "733739",
+          "url": "http://eol.org/pages/733739",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 22,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "P. 1985tudor"
+    }
+  ]
+}

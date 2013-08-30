@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=1kYqJMsnTa2Dq34xwXwpXQ",
+  "input_url": null,
+  "file": "Embryology 1939_62B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.004793371,
+    "total_duration": 18.212930165
+  },
+  "agent": "",
+  "created": "2013-06-19T15:30:51-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "\n"
+}

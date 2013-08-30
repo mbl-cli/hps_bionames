@@ -1,0 +1,97 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=BN1hRhfEQdiUzftULtDtCA",
+  "input_url": null,
+  "file": "Embryology 1939_42.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.133243156,
+    "resolve_names_duration": 0.535443675,
+    "total_duration": 22.158142803
+  },
+  "agent": "",
+  "created": "2013-06-19T15:26:58-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Styela.",
+      "scientificName": "Styela",
+      "offsetStart": 539,
+      "offsetEnd": 545,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 629,
+      "offsetEnd": 634,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 830,
+      "offsetEnd": 835,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 982,
+      "offsetEnd": 987,
+      "identifiedName": "Styela"
+    }
+  ],
+  "content": "TUNICATES\nl959 \nA comprehensive survey of developmental processes in the\ntunicates would include examination not only of eggs and embryos\nbut also of metamorphosing larvae, various types of vegetative re-\nproduction, and vegenerating forms. Because these developmental\nforms must be constantly related to the structure of larvae and\nadults, it is necessary that the student should first of all re-\nview in a standard text the anatomy and life history of the common\ntypes of tunicates,\nA. SIMPLE ASCIDIANS\nDEVELUPMENT T0 THE TADFOLE STAGE.\nStyela. (Old name \nSince the publication of Conklin's description of the develop~\nment of Styela eggs (l905), these have been a classic example of\nthe determination of embryonic organs and tissues in the?undivided\negg following fertilization. With certain concessions to recent\nexperiments, Styela is still one of the best cases of \"mosaic\ndevelopment\". Refer to Conklin's figures while observing the\n\na) Methods.\nThough truly hermaphroditic, Styela is ordinarily self-sterile\nlike several other ascidians. It sheds its eggs and sperm early\nin the evening, and fertilization takes place when gametes from\ndifferent individuals get mixed in the same region er dish. It is\neasy to have eggs shed and fertilized on normal schedule in the\nlaboratory, but it is a great disadvantage to have to study the\nmigrations of yellow pigment within them by artificial light.\nTherefor, it has been customary to open a number of large\nindividuals, remove theiigbright orange gonads and mince these up\ntogether in a dish, afterward filling the dish with sea water,\nstirring, and.removing the coarse debris from the center with a\npipette. Eggs, oocytes, oogonia and all developmental stages of\nsperm are left floating in the water. Whatever time the eggs present will be capable of fertilization, and\nwill begin development within the next few minutes. \nRecently, S. N. Rose has found that shedding of normal ripe\neggs and spermf can be induced at any time of day by controlling\nlight. His method is to select a number of large healthy individ-\nuals and to put them under a strong electric light watt\nbulb) in a dish of running sea water, the action of the light\napparently inhibiting maturatien and shedding. Them, depending\non when material is needed, the animals are put in the dark. At\nany time after early evening they respond to this by shedding\ntheir gametes within an hour or so.\nFnrtilized eggs may then be collected from,a dish.that has\ncontained several individuals, or ripe eggs and sperm from a dish\ndontaining a single individual. Timed fertilization can be accom~\nplished simply by mixing the gametes from two isolated individuals,\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

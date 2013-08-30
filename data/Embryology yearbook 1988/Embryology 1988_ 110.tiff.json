@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Y1OHvZKrTvm0BNXk28aIYA",
+  "input_url": null,
+  "file": "Embryology 1988_ 110.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.098470707,
+    "total_duration": 21.374801901
+  },
+  "agent": "",
+  "created": "2013-06-18T13:05:07-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Embryology Course\nWoods Hole, 1988\nJ. G. Gall\nREFERENCES ON THE AMPHIBIAN GERMINAL VESICLE AND LAMPBRUSH CHROMOSOMES\nCallan HG (1986) Lampbrush Chromosomes. Springer-Verlag (Vol. 36\nin the series: Molecular Biology, Biochemistry, and Biophysics, ed. by\nM. Solioz). A thorough, insightful analysis of all aspects of\nlampbrush chromosome structure and function. Contains a complete\nbibliography from the 19th century to the mid-1980's.\nAmplification\nGall JG (1978) Early studies on gene amplification. The Harvey\nLectures, Series 71, pp. 55-70. Academic Press. Reviews the earlier\ncytological evidence for gene amplification up to the first molecular\nstudies.\nGall JG (1968) Differential of the genes for ribosomal RNA\nduring amphibian oogenesis. Proc Natl Acad Sci QQ: 553-560. This and\nthe following paper provided the first molecular evidence for \namplification.\nBrown DD, Dawid IB (1968) Specific gene amplification in oocytes.\nScience 160: 272-280.\nMiller OL, Hamkalo BA (1972) Visualization of RNA on\nchromosomes. International Review of Cytology 33: 1-25. One of many\nplaces where Miller's famous electron micrographs are presented.\nBird AP (1980) Gene Reiteration and Gene Amplification. Ig: Cell\nBiology, vol 3, pp. 61-111. Academic Press. A good general review.\nRNA in Lampbrush Chromosomes\nIn addition to the references below, the topic is well covered in\nCallan's book. \nThe following two references review E.M. studies on transcription\nunits, among other topics.\nScheer U, Spring H, Trendelenburg MF (1979) Organization of\ntranscriptionally active chromatin in lampbrush chromosome loops. Ig:\nThe Cell Nucleus, vol 7, pp. 3-47. Edited by H. Busch. Academic\nPress.\nBeyer AL, McKnight SL, Miller OL (1979) Transcriptional units in\neukaryotic chromosomes. Ig: Molecular Genetics, Part pp. 117-\n175. Edited by J. H. Taylor. Academic Press.\n1\n\n"
+}

@@ -1,0 +1,124 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=mE83qqzKRLq8tD9cRe9wog",
+  "input_url": null,
+  "file": "Embryology 1988_ 10.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.094620509,
+    "resolve_names_duration": 0.668256453,
+    "total_duration": 18.035756135
+  },
+  "agent": "",
+  "created": "2013-06-18T13:03:26-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "C. elegans",
+      "scientificName": "C. elegans",
+      "offsetStart": 204,
+      "offsetEnd": 213,
+      "identifiedName": "C. elegans"
+    },
+    {
+      "verbatim": "Hydractinia",
+      "scientificName": "Hydractinia",
+      "offsetStart": 295,
+      "offsetEnd": 305,
+      "identifiedName": "Hydractinia"
+    }
+  ],
+  "content": " 2\nSat. Juney25 (continued)\nPM J. Kimble Lab\nSunday June 26\n10:00 AM G. Freeman Lecture I\nPM G. Freeman Lab I\n8 PM W. Kuhtreiber Lecture\nMonday June 27\nl0:00 AM G. Freeman Lecture II\nPM G. Freeman Lab II\nC. elegans lab\n\"The establishment and role of polarity\nduring embryogenesis in hydrozoans\"\nHydractinia lab\n\"Mesoderm determination in equal\ncleaving molluscs\"\n\"The establishment and role of bilateral\nsymmetry during embryogenesis in\nspiralians\"\nI lyanassa lab\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "C. elegans",
+      "results": [
+        {
+          "data_source_id": 8,
+          "data_source_title": "Interim Register of Marine and Nonmarine Genera",
+          "gni_uuid": "44175eb8-7b3c-5d2d-9e8e-2581ea81a6d0",
+          "name_string": "Uca elegans George & Jones, 1982",
+          "canonical_form": "Uca elegans",
+          "classification_path": "Animalia|Arthropoda|Malacostraca|Decapoda|Ocypodidae|Uca|Uca elegans",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "11|235|1190|10704|110386|1048533|11123623",
+          "taxon_id": "11123623",
+          "local_id": "11123623",
+          "url": "http://www.marine.csiro.au/mirrorsearch/ir_search.taxon_info?id=11123623",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f26f2dc1-17e2-5b7c-9e1a-d5ed42107077",
+          "name_string": "Uca (Australuca) elegans George & Jones, 1982",
+          "canonical_form": "Uca elegans",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30065548",
+          "local_id": "3118931",
+          "url": "http://eol.org/pages/3118931",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 5,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydractinia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Hydractiniidae|Hydractinia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366629|2381288",
+          "taxon_id": "2381288",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327897",
+          "local_id": "23448",
+          "url": "http://eol.org/pages/23448",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    }
+  ]
+}

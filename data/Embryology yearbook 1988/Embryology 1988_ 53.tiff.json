@@ -1,0 +1,175 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=nGgxHjo8QoWkcRcMYuIZ0w",
+  "input_url": null,
+  "file": "Embryology 1988_ 53.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.217914279,
+    "resolve_names_duration": 0.608137363,
+    "total_duration": 22.289740418
+  },
+  "agent": "",
+  "created": "2013-06-18T13:21:37-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Hydractinia",
+      "scientificName": "Hydractinia",
+      "offsetStart": 690,
+      "offsetEnd": 700,
+      "identifiedName": "Hydractinia"
+    },
+    {
+      "verbatim": "Hydractinia",
+      "scientificName": "Hydractinia",
+      "offsetStart": 1835,
+      "offsetEnd": 1845,
+      "identifiedName": "Hydractinia"
+    },
+    {
+      "verbatim": "Pennaria",
+      "scientificName": "Pennaria",
+      "offsetStart": 1851,
+      "offsetEnd": 1858,
+      "identifiedName": "Pennaria"
+    },
+    {
+      "verbatim": "Hydractinia echinata",
+      "scientificName": "Hydractinia echinata",
+      "offsetStart": 2908,
+      "offsetEnd": 2927,
+      "identifiedName": "Hydractinia echinata"
+    }
+  ],
+  "content": " \n\nagar near the narrowed end. ,he agar melts and moves into the free end of the tube.\nOn cooling, the agar, in many cases, remains in the opening of the tube. The tube\nis held on the side of the dish with a bit of clay and a defined eg; region is moved\ninto contact with the dye. The egg should be kept in contact with the dye until it\nis visibly stained (1-5 minutes). Mark a number of eggs at the site of initiation\nof the first cleavage; follow these eggs to see where the mark is in the embryos at\nvarious developmental stages and in the planula. As an internal control, mark a\nset of eggs opposite the site of polar body formation.\n3) The induction of metamorphosis:\nMetamorphosis in Hydractinia is normally induced when the planula comes in\ncontact with certain marine bacteria (Muller, W. 1973). Metamorphsis can also be\ninduced in these animals by treating them with certain ions for a short period of\ntime; a pulse type application of caesium is especially effective in inducing meta-\nmorphosis. A solution containing 9.76 3 CsCl/ 100 nl distilled water is mixed with\nsea water to give a lzlo dilution. Three day old larvae are transferred to this\nmixture and incubated for 3 hours. The incubation medium is then replaced with\nnormal sea water (several changes).\nThis metamor hosis induction system can be used to ask a number of uestions:\n\n1) Are all parts of a nlanula competent to under netanor hosis? 2) What is the\nI 1 \ndevelopmental potential o; different planula parts? One way in which this problem\ncan be approached is by cutting planulae into anterior, middle and posterior thirds.\nEach third can then be treated with CaCl and the ability of each part to respond\nto the inductor by settling and the differentiation of the cases that settle can be\nscored.\nBibliography\nBallard, W. 1942 The mechanism for spawning in Hydractinia and Pennaria\nBiol. Bull. 82:329-339.\nFreeman, G. 1980 The role of cleavage in the establishment of the anterior-posterior\naxis of the hydrozoan embryo LE: Developmental and Cellular Biology of Coelenterates\n(P. and R. Tardent eds.) pp.97-108. Elsevier/North Holland, Amsterdam.\nFreeman, G. 1981 The role of polarity in the development of hydrozoan planula larvae.\nW. Roux's Arch. 190:168-184.\nMiller, R. 1979 Sperm chemotaxis'in the hydromedusae I. Species-specificity and sperm\nbehavior. Mar. Biol. 53:97-lle.\nMuller, W. 1973 Metamorphose-Induktion bei Planulalarven I. Der Bakterielle Induktor.\nW. Roux's Arch. 1732107-l2l. \nMuller, W., Mitze, A., Wickhorst, J., and Meir-Menge, H. 1977 Polar morphogenesis in\nearly hydroid development: action of caesium, of neurotransmitters and of an\nintrinsic head activator on pattern formation. W. Roux's Arch. 182:311-328.\nTeissier, G. 1931 Etude experimentale du developpement de quelques hydraires. Ann.\nSci. Nat. Ser. Bot.et Zool. 14:5-60.\nTeissier, L., and Teissier, G. 1927 Les principales etapes du developpment \nHydractinia echinata Bull. Soc. Zool. Fr. 51:537-567.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Hydractinia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Hydractiniidae|Hydractinia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366629|2381288",
+          "taxon_id": "2381288",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327897",
+          "local_id": "23448",
+          "url": "http://eol.org/pages/23448",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pennaria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Pennariidae|Pennaria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2363486|2488405",
+          "taxon_id": "2488405",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26328107",
+          "local_id": "100988",
+          "url": "http://eol.org/pages/100988",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydractinia echinata",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "6513ee3a-f332-56a4-951e-ff626cc1cdef",
+          "name_string": "Hydractinia echinata",
+          "canonical_form": "Hydractinia echinata",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Cnidaria|Hydrozoa|Hydroida|Anthomedusae|Hydractiniidae|Hydractinia|Hydractinia echinata",
+          "classification_path_ranks": "|superkingdom||kingdom||phylum|class|order|suborder|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|6073|6074|37516|6076|6094|13092|35630",
+          "taxon_id": "35630",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6513ee3a-f332-56a4-951e-ff626cc1cdef",
+          "name_string": "Hydractinia echinata",
+          "canonical_form": "Hydractinia echinata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992574",
+          "local_id": "201233",
+          "url": "http://eol.org/pages/201233",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

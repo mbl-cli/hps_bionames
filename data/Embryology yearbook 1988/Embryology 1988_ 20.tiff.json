@@ -1,0 +1,129 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=PqC16gaBSVSvCH9YRoiaqg",
+  "input_url": null,
+  "file": "Embryology 1988_ 20.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.138497937,
+    "resolve_names_duration": 0.641111226,
+    "total_duration": 24.916784661
+  },
+  "agent": "",
+  "created": "2013-06-18T13:15:06-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "STYELA",
+      "scientificName": "Styela",
+      "offsetStart": 0,
+      "offsetEnd": 5,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 357,
+      "offsetEnd": 362,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Ascidia.",
+      "scientificName": "Ascidia",
+      "offsetStart": 2170,
+      "offsetEnd": 2177,
+      "identifiedName": "Ascidia"
+    }
+  ],
+  "content": "STYELA 223\nbeing bordered by the yellow cells. The cells overhanging\nthe cross-bar of the T-shaped blastopore constitute its dorsal lip. They overgrow\nit, finally engulling the yellow cells which are then seen only dimly through the\ntranslucent ectoderm.\nD. Time Table of Development: The following approximate schedule for the\ndevelopment of normally-shed Styela eggs is from the classic monograph of Conklin\n(1905a). If eggs are obtained from \"minced\" cultures, cleavage is delayed, the\neggs apparently maturing at variable intervals after coming into sea water. Time\nis recorded from insemination; the temperature is not specified, although Conklin\nstates that these observations were made during the evening hours.\nStage Time\nFirst cleavage 40 minutes\nSecond cleavage 70 minutes\nThird cleavage 100 minutes\nFourth cleavage 120 minutes\nFifth cleavage 140 minutes\nSixth cleavage 160 minutes\nSeventh cleavage (beginning of\ngastrulation) 180 minutes\nEighth cleavage 200 minutes\nNeural plate 5 hours\nFully-formed tadpole 12 hours\nREFERENCES \nVAN E., .mn Ca. JULIN, 1884. La segmentation chez les Ascidiens et ses rapports\navec Porganization de la larve. Arch. de Biol., 5: 111-126.\nBumu., N. I., 1929. Studies in tunicate development. I. General physiology of develop-\nment of simple ascidians. Phil. Trans. Roy. Soc., London, ser. B, 218: 37-78.\nHenna., N. J., 1937. Culture methods. for aseidians. Is: Culture Methods for Invertebrate\nAnimals, edit. by Galtsod' et ali, Comstock, Ithaa., pp. S64-571.\nCasrut, W. E., 1896. The Iyembryology of iona intextinalis, Flemming Bull. Mus.\namp. Zool., Harvonxt no. 7, pp. 203-280.\nCones, A., AND N. J. Banu, 1936. The early development of ascidian eggs. Biol. Bull.,\n70: 78-88.\nE. G., 19053. The organization and cell-lineage of the ascidian egg. J. Acad. Not.\nSci., Philodelphah, ser. 2, part 1, 13: 1-119.\nConxux, E. G., 1905b. Mosaic development in aseidian eggs. J. Exp. ool., 2: 145-223.\nCoNxx.;N, E. G., 1905c. Organ-forming substances in the eggs of ascidians. Biol. Bull., 8:\n205-230.\nE. G., 1931. The development of centrifuged eggs of ascidians. J. Exp. Zool., 60:\n1-120. \nRoss, S. M., 1939. Embryonic induction in the Ascidia. Biol. Bull., 77: 216-232.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ascidia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "67ef4142-9496-570e-bda6-a771e8e2e6d8",
+          "name_string": "Ascidia",
+          "canonical_form": "Ascidia",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Ascidiidae|Ascidia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363377|2421959",
+          "taxon_id": "2421959",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "67ef4142-9496-570e-bda6-a771e8e2e6d8",
+          "name_string": "Ascidia",
+          "canonical_form": "Ascidia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27908482",
+          "local_id": "43441",
+          "url": "http://eol.org/pages/43441",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

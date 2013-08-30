@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=I63ZXIkoTi64txaNdTtBSA",
+  "input_url": null,
+  "file": "181_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.164349287,
+    "resolve_names_duration": 0.473434929,
+    "total_duration": 24.985198193
+  },
+  "agent": "",
+  "created": "2013-06-18T12:24:02-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1530,
+      "offsetEnd": 1536,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\nAminopTerin, because of iTs involvemenT in one-carbon Transfer, affecTs\nmany more paThways Than does 5-Bromouracil. In This experimenTal sysTem, no\neTfecT could be demonsTraTed on cleavage or haTching. However, The eTTecTs pro-\nduced beyond This sTage were dependenT upon The dose used. AT a concenTraTion of\nZOO ug/IO ml. of sea waTer, The enTire culTure was killed aT The blasTula sTage.\nAT |00 ug/lO ml., The culTures were inhibiTed as blasTuhae buT survived I2 hours\nlonger. The lower doses, 25 and 50 ug/lO ml., inhibiTed The culTures compleTely\naT The pre-pluTeus sTage. ATTempTs To reverse The eTTecT of 200 ug/lO ml. wiTh\na wide range of doses of The following compounds added To The experimenTal dishes\nwiTh The aminopTerin were unsuccessful. The compounds used were Tolic acid,\nTolinic acid, deoxyuridine, Thymidine and Thymine.\nlf The eggs were exposed To The same doses of aminopTerin when They\nreached The blasTula sTage, a diTTerenT range of eTTecTs was observed. Those\nexposed To 200 ug/IO ml. developed inTo pre~pluTei and rarely To immaTure pluTei.\nThose TreaTed wiTh IOO ug/lO ml. developed inTo pre-pluTei and immaTure pluTei,\nwhile Those TreaTed wiTh 50 ug/I0 ml. developed inTo maTure, immaTure and pre-\npluTei.\nThese resulTs indicaTed ThaT during cleavage, aminopTerin was inTerTer-\ning wiTh a meTabolic process ThaT was essenTial Tor furTher developmenT beyond\nThe blasTula sTage. They also demonsTraTed ThaT, in addiTion To The dose-dependenT\nresponse, There was also a sTage~dependenT sensiTivlTy of The Arbacia eggs.\nExperimenTs were performed in an aTTempT To demonsTraTe wheTher or noT There\nwas a sTage during cleavage when The embryos would become resisTanT To a\nspecific dose of aminopTerin. These meT wiTh limiTed success. WiTh ZOO ug/IO ml.\nThere was no change in response if The eggs were exposed aT TerTilizaTion, 2 cells\nor 4 cells. When exposed aT 8 and I6 cells, however, The eggs developed inTo\nblasTulae which survived for lO hours beyond These resulTs resembled\nThose obTained wiTh IOO ug/IO ml. and indlcaTed a difTerenTial sensiTiviTy during\ncleavage. However, aTTempTs To repeaT This wiTh The lower doses were unsuccess~\nful, leading To The conclusion ThaT The 200 ug/IO ml. resu|Ts were more apparenT\nThan real.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

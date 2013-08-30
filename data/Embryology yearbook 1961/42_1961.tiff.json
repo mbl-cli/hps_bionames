@@ -1,0 +1,157 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=JTGfcCrnTh6B6mcmwNFF0A",
+  "input_url": null,
+  "file": "42_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.195872951,
+    "resolve_names_duration": 1.974339391,
+    "total_duration": 31.12729001
+  },
+  "agent": "",
+  "created": "2013-06-18T12:32:08-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1112,
+      "offsetEnd": 1119,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "F. hgjeroclifusi",
+      "scientificName": "F. hgjeroclifusi",
+      "offsetStart": 1158,
+      "offsetEnd": 1173,
+      "identifiedName": "F. hgjeroclifusi"
+    },
+    {
+      "verbatim": "Eundulus",
+      "scientificName": "Eundulus",
+      "offsetStart": 1203,
+      "offsetEnd": 1210,
+      "identifiedName": "Eundulus"
+    },
+    {
+      "verbatim": "Oryzias,",
+      "scientificName": "Oryzias",
+      "offsetStart": 1460,
+      "offsetEnd": 1467,
+      "identifiedName": "Oryzias"
+    },
+    {
+      "verbatim": "Oryzias.",
+      "scientificName": "Oryzias",
+      "offsetStart": 2188,
+      "offsetEnd": 2195,
+      "identifiedName": "Oryzias"
+    }
+  ],
+  "content": "\nDefails of The sTrucTure of The TesTis and seasonal changes in The gland may be\nfound in Mafhews i\n3. FerTilizaTion- Prepare a culTure of ferTilized eggs foliowing The procedure\nouflined in SecTion ll, A, 5. Record The exacf Time of inseminaTion (do This\nfor Q11 culTures you prepare). Transfer eggs To a depression slide immediafely,\nand follow The acfivafjon processes, including The fading of corTical alveoli, and\nThe formafion of The periviTelline ?pace.  How is The periviTelline space formed?\nAfTer some pracfice has been gained in The manipulaTion of The eggs in The depression\nslides, place some jusT-exfruded eggs in The depression, puT The cover slip over\nThem, buT allow room To inserT a drop of sperm suspension. LocaTe The micropyle on\nan egg, and, wiThouT moving The cover glass, inTroduce some sperm and Try To ob-\nserve The enTrance of a Through The micropyle. Proper illuminaTion\nis quife imporTanT for This observafion. NoTe corTical changes in immediafe\nvicinify of micropyle (Wessels and Swarfz \nExperimenfal procedures wiTh games.\na) Hybridizafion - Reciprocal crosses can be made beTween Fundulus species\n(parTicularly E, maialis and F. hgjeroclifusi, and, if available, beTween Eundulus\nand ofher genera. The papers of BancrofT Morris and especially\nNewman eTc.) should be consulTed. GuThrie has sTudied The\ncyTology of cross-acTivaTed eggs of TeleosTs.\nb) Yamomofo sTudied The effecfs of cenfrifugafion on The acTivaTion processes\nin Oryzias, parficularly wiTh reference To The formaTion of 'corfical alveli' and\nThe periviTeiline space. lT has been noTiced '5i; Shaver, 'Eli ThaT\nlow~speed cenfrifugafion of ferfilized, uncleaved eggs will produce duplicaTions,\ncompleTe or parTiai, in a low percenTage of cases. Moreover, some recenT experi-\nmenfs (Trinkaus and Groves, in press) indicafe ThaT The posiTion of The egg\nrelafive To graviTy normally plays animporTanT parf in defermining The posiTion\nof The embryonic shield. CenTrifugaTion of eggs aT various Times afTer ferTiliza-\nTion is a simple and useful procedure for sTudying The organizafional \nof The early embryo.\ni YomomoTo noTed The inTervenTion of The Ca ion in The 'corfical breakdown'\nreacTion in Oryzias. The imporTanT evenTs following acTivaTion and The possible\nrole of Ca ion may be sTudied wiTh The use of Ca-free sea waTer.\n4. FormaTion of The Biasfodisce - NoTe The gradual accumulafion of The proToplas~\nmic cap. This is The blasTodisc or germ disc. Observe This in polar and laTeral\nviews. Whaf is The relafion of The egg To graviTy? How mighT The TeleosT egg be\ndescribed, wiTh reference To re|aTive locaTion of ooplasm and deuToplasm, before\nand afTer acTivaTion? \n5. Cleavage; The firsf cleavage furrow usually appears on The surface of The\nblasTodisc wiThin 2 or 3 hours afTer ferTilizaTion (depending on The Temperafurei.\nWhaf Type of cleavage is This? Follow carefully The Time sequence and geomeTric\nrelafions To The 32 cefi sfage. NoTe any irregularifies. Do The cleavage planes\ndivide The whole blasTodisc? The whole ovum?, DisTinguish The cenTral and The\n@Q;9igQl cells. when do horizonfal cleavage planes firsT occur? For a Time, The\nblasTodisc does noT appreciably alfer iTs original size and form. This is The\nPeriod of The higg blasTula. When does The change of form To The flaT blasfula occur?\nObserve carefullY The uncleavaged profopiasm around The margins of The blasTodisc,\nand noTe The difference befween circular and radial cleavages. The nuclei of This\ni\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "F. hgjeroclifusi"
+    },
+    {
+      "supplied_name_string": "Eundulus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Oryzias",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "311d533a-2ced-5dfb-9aa8-c48e74f6e31b",
+          "name_string": "Oryzias",
+          "canonical_form": "Oryzias",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Beloniformes|Adrianichthyidae|Oryzias",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2371930|2371935|2396455",
+          "taxon_id": "2396455",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "311d533a-2ced-5dfb-9aa8-c48e74f6e31b",
+          "name_string": "Oryzias",
+          "canonical_form": "Oryzias",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20703780",
+          "local_id": "16276",
+          "url": "http://eol.org/pages/16276",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

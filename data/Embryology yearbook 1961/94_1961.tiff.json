@@ -1,0 +1,446 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=qWqZxKrCTnyde44PxXSFNA",
+  "input_url": null,
+  "file": "94_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.109358775,
+    "resolve_names_duration": 1.181042419,
+    "total_duration": 25.965562935
+  },
+  "agent": "",
+  "created": "2013-06-18T12:51:40-04:00",
+  "total": 9,
+  "names": [
+    {
+      "verbatim": "Cnidaria",
+      "scientificName": "Cnidaria",
+      "offsetStart": 843,
+      "offsetEnd": 850,
+      "identifiedName": "Cnidaria"
+    },
+    {
+      "verbatim": "Hydrozoa",
+      "scientificName": "Hydrozoa",
+      "offsetStart": 1038,
+      "offsetEnd": 1045,
+      "identifiedName": "Hydrozoa"
+    },
+    {
+      "verbatim": "Hydroida",
+      "scientificName": "Hydroida",
+      "offsetStart": 1164,
+      "offsetEnd": 1171,
+      "identifiedName": "Hydroida"
+    },
+    {
+      "verbatim": "Bougainvillia,",
+      "scientificName": "Bougainvillia",
+      "offsetStart": 1438,
+      "offsetEnd": 1451,
+      "identifiedName": "Bougainvillia"
+    },
+    {
+      "verbatim": "Eudendrium,",
+      "scientificName": "Eudendrium",
+      "offsetStart": 1453,
+      "offsetEnd": 1463,
+      "identifiedName": "Eudendrium"
+    },
+    {
+      "verbatim": "Pennaria,",
+      "scientificName": "Pennaria",
+      "offsetStart": 1478,
+      "offsetEnd": 1486,
+      "identifiedName": "Pennaria"
+    },
+    {
+      "verbatim": "Podocoryne,",
+      "scientificName": "Podocoryne",
+      "offsetStart": 1488,
+      "offsetEnd": 1498,
+      "identifiedName": "Podocoryne"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 1500,
+      "offsetEnd": 1509,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Campanularia,",
+      "scientificName": "Campanularia",
+      "offsetStart": 1692,
+      "offsetEnd": 1704,
+      "identifiedName": "Campanularia"
+    }
+  ],
+  "content": "CoelenTeraTes\n\nThere is a greaTer abundance of coelenTeraTe maTerial available Than you\ncan possibly sTudy in deTail. CerTain forms, because of Their abundance or\nmaTuriTy aT This Time of The year and because of The relaTive ease wiTh which de-\nveloping embryos may be obTained and sTudied, are dealT wiTh here in greaTer deTail\nThan oThers. The greaTer parT of your observaTions will probably be made on\nhydroid maTerial. Hydroids are very sensiTive To environmenTal condiTions and do\nnoT survive well in The laboraTory, even in aquaria of running waTer. While adulTs\nare difTiculT To keep for more Than a couple of days, The embryos are in general\nconsiderably more hardy. NeverTheless neiTher The embryos nor The adu|Ts should\nbe crowded, and boTh should be kepT on The sea waTer Table excepT during manipu-\nlaTion and observaTioni\n\nEhylum Cnidaria\nDiploblasTic and radially or biradially symmeTrical.\n>>Two Types of individuals: polyps and medusae.\nExTensive gasTrovascular caviTy wiTh mouTh surrounded by TenTacles.\nlnTrinsic \nClass Hydrozoa\nSmall polyps and medusae wiTh well-defined meTagenesis.\nPolyp generaTion usually colonial.\nMedusae wiTh velum.\nOrder Hydroida\nPolypoid generaTion well developed.\nSoliTary or colonial.\nBudding off Tree or variously reduced medusae.\nSuborder GymnoblasTea (AThecaTa)\nHydranThs wiThouT hydroTheca; gonophores wiThouT gonoTheca.\nGonads borne on manubrium.\nFree medusae Tall, bell-like.\nExamples: Bougainvillia, Eudendrium, HydracTinia, Pennaria,\nPodocoryne, Tubularia.\nSuborder CalypToblasTea (Theoaphora)\nHydranThs wiTh hydroThecae; gonophores wiTh gonoThecae.\nFree medusae bowl or saucer-shaped.\nGonads borne on radial canals of medusae.\nExamples: Campanularia, GonoThyraea, Obelia\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Cnidaria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7a7a06ce-21ae-59ec-b5ac-07b42f937b88",
+          "name_string": "Cnidaria",
+          "canonical_form": "Cnidaria",
+          "classification_path": "Animalia|Cnidaria",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2363435",
+          "taxon_id": "2363435",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7a7a06ce-21ae-59ec-b5ac-07b42f937b88",
+          "name_string": "Cnidaria",
+          "canonical_form": "Cnidaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992507",
+          "local_id": "1745",
+          "url": "http://eol.org/pages/1745",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydrozoa",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2363435|2363454",
+          "taxon_id": "2363454",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992508",
+          "local_id": "1795",
+          "url": "http://eol.org/pages/1795",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydroida",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "861a1799-721e-5abb-b7e1-a112fde9a9b5",
+          "name_string": "Hydroida",
+          "canonical_form": "Hydroida",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Cnidaria|Hydrozoa|Hydroida",
+          "classification_path_ranks": "|superkingdom||kingdom||phylum|class|order",
+          "classification_path_ids": "131567|2759|33154|33208|6072|6073|6074|37516",
+          "taxon_id": "37516",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "861a1799-721e-5abb-b7e1-a112fde9a9b5",
+          "name_string": "Hydroida",
+          "canonical_form": "Hydroida",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20629093",
+          "local_id": "1301735",
+          "url": "http://eol.org/pages/1301735",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Bougainvillia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3a8e6289-01fb-5198-bc46-412913a78f9c",
+          "name_string": "Bougainvillia",
+          "canonical_form": "Bougainvillia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Bougainvilliidae|Bougainvillia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366702|2394425",
+          "taxon_id": "2394425",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3a8e6289-01fb-5198-bc46-412913a78f9c",
+          "name_string": "Bougainvillia",
+          "canonical_form": "Bougainvillia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327524",
+          "local_id": "23410",
+          "url": "http://eol.org/pages/23410",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Eudendrium",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ea6b4d96-be64-5e1e-a185-588de5364505",
+          "name_string": "Eudendrium",
+          "canonical_form": "Eudendrium",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Eudendriidae|Eudendrium",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366651|2394452",
+          "taxon_id": "2394452",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ea6b4d96-be64-5e1e-a185-588de5364505",
+          "name_string": "Eudendrium",
+          "canonical_form": "Eudendrium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327785",
+          "local_id": "23439",
+          "url": "http://eol.org/pages/23439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pennaria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Pennariidae|Pennaria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2363486|2488405",
+          "taxon_id": "2488405",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26328107",
+          "local_id": "100988",
+          "url": "http://eol.org/pages/100988",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Podocoryne",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a2302d31-68e1-51e5-a0b5-946f4c85df12",
+          "name_string": "Podocoryne",
+          "canonical_form": "Podocoryne",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5163751",
+          "local_id": "4695445",
+          "url": "http://eol.org/pages/4695445/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a2302d31-68e1-51e5-a0b5-946f4c85df12",
+          "name_string": "Podocoryne",
+          "canonical_form": "Podocoryne",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5163751",
+          "local_id": "4695445",
+          "url": "http://eol.org/pages/4695445/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Campanularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5f0cb974-421f-5535-b9b8-d3b77b010c22",
+          "name_string": "Campanularia",
+          "canonical_form": "Campanularia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Leptothecata|Campanulariidae|Campanularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363465|2366699|2381260",
+          "taxon_id": "2381260",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5f0cb974-421f-5535-b9b8-d3b77b010c22",
+          "name_string": "Campanularia",
+          "canonical_form": "Campanularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327578",
+          "local_id": "18219",
+          "url": "http://eol.org/pages/18219",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

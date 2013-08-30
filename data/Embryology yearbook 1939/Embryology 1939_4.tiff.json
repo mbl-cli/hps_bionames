@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=SdQ8Dr07T4KLo9o6AWiQAA",
+  "input_url": null,
+  "file": "Embryology 1939_4.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.102603063,
+    "resolve_names_duration": 0.748186,
+    "total_duration": 17.291692177
+  },
+  "agent": "",
+  "created": "2013-06-19T15:26:01-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Garcia",
+      "scientificName": "Garcia",
+      "offsetStart": 511,
+      "offsetEnd": 516,
+      "identifiedName": "Garcia"
+    }
+  ],
+  "content": "EMBRYOIDGY CLASS\n1959\nBarden, Robert Bradshaw, Stanford University (Wabash\nCollege)\nBarkley, Mabel A., George Washington University (Peabody\nCollege)\nBarnes, Martha Revel, University of Illinois\nBirmingham, Jo R., St. John's College\nBlake, William D., Dartmouth College\nBollek, Dr. Irene, Florida State College for Women\nBrandau, Louise Bertha, Goucher College\nBrasted, Adair Miriam. University of ochester\n(Barnard College)\nBueker, Elmer D. Washington University (University\nof Colorado)\nCarreras, Carlos Jose Garcia, Havana University\nCarroll, Kenneth Malcolm, Franklin and Marshall College\nCastle, Ruth Marion, Vassar College (State Teachers\nCollege, New Jersey)\nChapman, Sidney Stephen, Harvard University (University\nof Michigan)\nDeLanney, Louis E., Stanford University (University of\nCalifornia at Los Angeles)\nDustin, John K., Amherst ollege\nFerguson, Frederick P., Wesleyan University\nJohn Wiley, Princeton University (Texas\nChristian University)\nGillette, Roy James, Wash1ngton'Un1vers1ty (Wayne\nUniversity)\nHamilton, Howard Laverne, University of Rochester\n(State University of Iowa)\nLane, Jean, Goucher College\nMetcalf, W1lliam.Gerr1sh, Oberlin College\nMetz, Charles B., Johns Hopkins University\nOlson, Bennet University of California at Los Angeles\n(Beloit College)\nPauls, Frances, Oberlin College\nReed, Bleanore, University of Pittsburgh\nSangster, William, Jr., University of irginia\nNevin Stewart, Harvard University (Ohio\nWesleyan)\nShaver, John Rodney, University of \nSinger, Marcus, Harvard University (University of\nPittsburgh)\nTrinkaus, J. Philip, Wesleyan University\nTrowbridge Carolyn, University of Iowa\nWaterman, U. A., Chic Wesleyan University (Ohio\nState University)\nWatterson, Ray Leighton, University of Rochester\n(Coe College)\nWellington, Dorothy, Wheaton College\nWilde, Charles Edward, Jr., Dartmouth College\nYampolsky, Morris, College of the City of New York\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Garcia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a3be5c92-617e-57c2-80bc-ff3aeec5b16e",
+          "name_string": "Garcia",
+          "canonical_form": "Garcia",
+          "classification_path": "Plantae|Magnoliophyta|Magnoliopsida|Malpighiales|Euphorbiaceae|Garcia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2362540|2362541|2363911|2372283|2502074",
+          "taxon_id": "2502074",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "11c008ee-4e9d-50b4-a10a-b05ee1ae1ac0",
+          "name_string": "Garcia Rohr",
+          "canonical_form": "Garcia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "24830370",
+          "local_id": "107704",
+          "url": "http://eol.org/pages/107704",
+          "match_type": 2,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=dh2FzkYFSMm1q77zyqVxcw",
+  "input_url": null,
+  "file": "120_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.21929024,
+    "resolve_names_duration": 0.418961697,
+    "total_duration": 26.377552548
+  },
+  "agent": "",
+  "created": "2013-06-18T11:36:12-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Arbacia;",
+      "scientificName": "Arbacia",
+      "offsetStart": 653,
+      "offsetEnd": 660,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Spisula)",
+      "scientificName": "Spisula",
+      "offsetStart": 1430,
+      "offsetEnd": 1437,
+      "identifiedName": "Spisula"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1766,
+      "offsetEnd": 1772,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\nHowever, for The lasT five or Ten years, The general supply of urchins has been\njealously guarded. Recenfly There have been signs ThaT urchins were becoming more\ncommon locally; iT is noT known how much of This is due To \"seeding\" operaTions\ncarried ouT by The supply sTaff in The area of former urchin beds, and how much is\ndue To oTher facTors. Sea urchins normally shed several Times during a season,\nofTen aT rough weaTher.\nTo preserve The supply of urchins, iT is highly desirable To sex Them To avoid\nopening several males in a row, for example, while searching for a female.\nMrs. E. B. Harvey has described a simple elecTrical meThod for sexing Arbacia;\nThis meThod is preferable To The injecTion meThod, which can also be used.\nThe ApparaTus DeparTmenT provides a simple elecTrical seT-up wiTh which To sTim~\nulaTe The surface of The sea urchin (usually wiTh a lead e|ecTrode). lf The\nanimal is ripe, gameTes will ooze ouT of The gonopores (abnormal surface) in suffi\ncienT quanTiTy To deTermine The sex of The specimen. Eggs are blood-red; sperm\nare whiTe. Shedding usually sTops if The animals are rinsed in sea waTer and\nreplaced in The aquarium. For experimenTs, eggs can be shed elecTrically To\ngive The desired number for an experimenT, or The animal can be cuT open around\nThe oral surface and The gonads (5) removed wiTh a sTainless sTeel spoon. The\ngonads are Then Transferred To an egg sTrainer (see secTion on Spisula) made of\ncoarse bolTing silk. lf The eggs are sTrained Too rapidly, Their jelly layers\nmay be Torn off. Sperm should be sTored \"dry\" as described wiTh The oTher species\nExcised TesTes can be wrung in moisT double-layer cheesecIoTh, or sperm can be\nshed dry inTo a clean dry dish by The elecfrical meThod.\nSpermaTozoa\nsUndi|uTed Arbacia seminal fluid conTains approx. 2xl0'OspermaTozoa/ml. One\ndrop of This \"dry sperm\" in l0 ml. of sea waTer brings The concenTraTion down\nby a facTor of 200 To l0? ml. Two drops of This sperm sTock suspension in lO ml.\nof sea waTer conTaining eggs diluTes The sperm concenTraTion by anoTher facTor Of\n|00 To |06 sperm/ml. This sperm densiTy is adequaTe for ferTilizing small\nnumbers of eggs. Three Times This much gives abouT The maximum raTe of ferTili-\nzaTion wiThouT polyspermy. DensiTies beTween l0 and |08 sperm/ml. resulT in\nvarying percenTages of polyspermy. UndiluTed sperm will keep in a refrigeraTor\nfor aT leasT Two days; diluTion, however, rapidly desTroys Their ferTilizing\npower. ConsequenTly, a new sTock sperm suspension should be made up for each\ninseminaTion.\nObserve some living spermaTozoa under oil immersion. The acrosome, nucleus and\nmiddle piece are roughly 0.5, l.0 and l.0 microns in lengTh respecTively. The\nTail is abouT 45 microns long and 0.l micron wide; iTs axial filamenT proTrudes\na shorT disTance beybnd The end of The sheaTh. SkeTch a spermaTozoan and describe\niTs movemenT. Place side by side on a slide a drop of sTock sperm suspension\nand a drop of \"egg waTer\" (supernaTanT from eggs which have sTood for an hour\nor more). Place a cover-glass over The Two drops so ThaT They mix aT The middle\nof The cover glass. NoTe The aggluTinaTion; do The spermaTozoa sTick TogeTher\nby Their heads of Tails? Can you deTecT any changes in The sperm acrosome?\nAdd one ml. of l08/mi sTock sperm suspension To A. 9 ml. sea waTer, B. 9 ml. of\negg waTer. Observe aT l0 minuTe inTervals. WhaT effecT does egg waTer have on\nThe sperm besides aggluTinaTion? Will These sperm acTivaTe eggs?\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Spisula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6154bc52-c653-5bd3-878d-347c80947761",
+          "name_string": "Spisula",
+          "canonical_form": "Spisula",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Veneroida|Veneroida|Mactridae|Spisula",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2369911|2369975|2370006|2370007|2419156",
+          "taxon_id": "2419156",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6154bc52-c653-5bd3-878d-347c80947761",
+          "name_string": "Spisula",
+          "canonical_form": "Spisula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20679194",
+          "local_id": "57515",
+          "url": "http://eol.org/pages/57515",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

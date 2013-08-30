@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=vYSnDYIARJuZjYOwxDuWGA",
+  "input_url": null,
+  "file": "Embryology 1988_ 75.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.075859026,
+    "resolve_names_duration": 1.268870434,
+    "total_duration": 23.29353024
+  },
+  "agent": "",
+  "created": "2013-06-18T13:25:34-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Guanadium lsothiocyanate",
+      "scientificName": "Guanadium lsothiocyanate",
+      "offsetStart": 304,
+      "offsetEnd": 327,
+      "identifiedName": "Guanadium lsothiocyanate"
+    }
+  ],
+  "content": "Chicken Embryonic Blood Cells\n1. Collect blood into 1X Earl's Balanced Salts\nWash 2X by spinning cells in clinical centrifuge 2' full speed and\naspirating off the supernatant\n2. Homogenize in 60-80X of Guanidinium lsothiocyanate by vortexing\nvery hard. If viscosity doesn't go down, dounce homogenize\n5M Guanadium lsothiocyanate\n50 mM Tris pH 7.5 \n50 mM EDTA pH 8.0 Filter through .45 micron\n3% Sarkosyl cellulose nitrate filter\n5% [3-mercaptoethanol\n3. Layer over a cesium cushion 5.7 Cesium chloride\nSpin overnight 1 mM EDTA pH 8.0\nfilter through .45 micron\n\nAspirate off supernatant being careful to leave the pellet\nResuspend the pellet in sterile water\nAdd Na Acetate to 0.3 \nAdd 2 volumes Ethanol and precipitate\n5. Measure OD250 of the RNA. 1.0 OD 50 ug/ml\nStore the RNA at as Ethanol precipitate\nprotection with Vimentin probe\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Guanadium lsothiocyanate"
+    }
+  ]
+}

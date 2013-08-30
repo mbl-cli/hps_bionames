@@ -1,0 +1,385 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=p4fUx6NbQZKbwJ7ICqpPPQ",
+  "input_url": null,
+  "file": "108_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.141464901,
+    "resolve_names_duration": 1.563995253,
+    "total_duration": 26.184087486
+  },
+  "agent": "",
+  "created": "2013-06-18T11:28:08-04:00",
+  "total": 11,
+  "names": [
+    {
+      "verbatim": "Alcyonaria",
+      "scientificName": "Alcyonaria",
+      "offsetStart": 187,
+      "offsetEnd": 196,
+      "identifiedName": "Alcyonaria"
+    },
+    {
+      "verbatim": "Asterias.",
+      "scientificName": "Asterias",
+      "offsetStart": 202,
+      "offsetEnd": 210,
+      "identifiedName": "Asterias"
+    },
+    {
+      "verbatim": "Corymorpha palma",
+      "scientificName": "Corymorpha palma",
+      "offsetStart": 661,
+      "offsetEnd": 676,
+      "identifiedName": "Corymorpha palma"
+    },
+    {
+      "verbatim": "Hydractinia ana",
+      "scientificName": "Hydractinia ana",
+      "offsetStart": 712,
+      "offsetEnd": 726,
+      "identifiedName": "Hydractinia ana"
+    },
+    {
+      "verbatim": "Podocoryne",
+      "scientificName": "Podocoryne",
+      "offsetStart": 728,
+      "offsetEnd": 737,
+      "identifiedName": "Podocoryne"
+    },
+    {
+      "verbatim": "Obelia commisuralis",
+      "scientificName": "Obelia commisuralis",
+      "offsetStart": 944,
+      "offsetEnd": 962,
+      "identifiedName": "Obelia commisuralis"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 1264,
+      "offsetEnd": 1273,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 1362,
+      "offsetEnd": 1371,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 1483,
+      "offsetEnd": 1492,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 1836,
+      "offsetEnd": 1845,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 1932,
+      "offsetEnd": 1941,
+      "identifiedName": "Tubularia"
+    }
+  ],
+  "content": "\nia- \nHargitt, C. W. 1915 Regenerative potenoies of dissociated cells of Hydro-\nmedusae. Biol. Bull., 28: 370-384.\nWilson, HAM. 1911 On the behavior of the dissociaten cells in hydroies.\nAlcyonaria and Asterias. Jour. Exp. Zool., 11:281-338.\nRegeneration fren non-dissociated cells\nBarth, L. G.\nChild, C. M.\nGilchrist, \nHazen, Annah\nHargitt, 0.W\nLund, E. J.\nMorgan, T. H.\nMorse, M.\nMuller, H.C.\n1940\n1941\n1937\n1902\n1899\n1921\n1923\n1924\n1906\n1908\n1909\n1909\n1913\nThe process of regeneration in hydroids. Biol. Rev.,\n12; 405-420.\nPatterns and Problems of Development. U.\n(Contains references to all of Chi1o's papers to this date.)\nChicago Press.\nThe hydroiu polyp Corymorpha palma as gestalt and as\nRegeneration in Hydractinia ana Podocoryne, Am. Nat., \n193-200.\nExperimental studies upon hydromedusae. Biel. \n  0\nExperimental control of organic polarity by the electric\ncurrent. 1. Effects of the electric current on regenerat-\ning internodes of Obelia commisuralis. Jour. Exp. Zool.,\n25 L71-493 .\n111. Hormel and experimental delay in the initiation of polyp\nformation in Obelie internodes. lbid., 22: 69>>88.\nIV. The quantitative relations between current density,\norientation ann inhibition of regeneration. Ibid., 39:\n357-330.\nHydranth formation and polarity in Tubularia. Ibid., 2:\n501-516,\nSome further records concerning the physiology of regenera~\ntion in Tubularia. Biol. Bull., 14: 149-162.\nThe dynamic factor in regeneration. Ibiu., 265-276.\nThe autotomy of the hyuranth in Tubularia. Ibiu., \n172-182.\nRegeneration der Gonophoren bei den Hyuroicen und\nbiologische Beobachtungen. 1. Atheoates. Arch\nf. Entw., QQ: 410-419. 11. Thecates. Ibie., 383#431.\nPeebles, Florence 1900 Experiments in regeneration ann in grafting of Hynrozoa.\nIbis. 435-488.\nSteinberg, M.S, 1954 Studies on the mechanism of physiological oominance in\n1955\nTubularia. Jour. Exp. Zeol., 1-26.\nCell mevement, rate of regeratien, ano the axial gradient\nin Tubularia. Biol. Bull., 108: 219-234.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Alcyonaria",
+      "results": [
+        {
+          "data_source_id": 2,
+          "data_source_title": "Wikispecies",
+          "gni_uuid": "749af6e6-c0bd-508b-8e77-1d0e436b8ce7",
+          "name_string": "Alcyonaria",
+          "canonical_form": "Alcyonaria",
+          "classification_path": "Animalia|Periphylla|Stylatula|Alcyonaria",
+          "classification_path_ranks": "|||",
+          "classification_path_ids": "80|4431|4439|99347",
+          "taxon_id": "99347",
+          "url": "http://species.wikimedia.org/wiki/Alcyonaria_(Octocorallia)",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "749af6e6-c0bd-508b-8e77-1d0e436b8ce7",
+          "name_string": "Alcyonaria",
+          "canonical_form": "Alcyonaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5164439",
+          "local_id": "2548758",
+          "url": "http://eol.org/pages/2548758/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Asterias",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7b1ac17d-35ba-58e2-b65c-2ab566742b47",
+          "name_string": "Asterias",
+          "canonical_form": "Asterias",
+          "classification_path": "Animalia|Echinodermata|Asteroidea|Forcipulatida|Asteriidae|Asterias",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362716|2362745|2371692|2535287",
+          "taxon_id": "2535287",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7b1ac17d-35ba-58e2-b65c-2ab566742b47",
+          "name_string": "Asterias",
+          "canonical_form": "Asterias",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628080",
+          "local_id": "72957",
+          "url": "http://eol.org/pages/72957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Corymorpha palma",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3813896e-258d-5566-a40a-700b765a0d1e",
+          "name_string": "Corymorpha palma",
+          "canonical_form": "Corymorpha palma",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35391447",
+          "local_id": "1006547",
+          "url": "http://eol.org/pages/1006547",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3813896e-258d-5566-a40a-700b765a0d1e",
+          "name_string": "Corymorpha palma",
+          "canonical_form": "Corymorpha palma",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35391447",
+          "local_id": "1006547",
+          "url": "http://eol.org/pages/1006547",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydractinia ana",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Hydractiniidae|Hydractinia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366629|2381288",
+          "taxon_id": "2381288",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327897",
+          "local_id": "23448",
+          "url": "http://eol.org/pages/23448",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Podocoryne",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a2302d31-68e1-51e5-a0b5-946f4c85df12",
+          "name_string": "Podocoryne",
+          "canonical_form": "Podocoryne",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5163751",
+          "local_id": "4695445",
+          "url": "http://eol.org/pages/4695445/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a2302d31-68e1-51e5-a0b5-946f4c85df12",
+          "name_string": "Podocoryne",
+          "canonical_form": "Podocoryne",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5163751",
+          "local_id": "4695445",
+          "url": "http://eol.org/pages/4695445/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Obelia commisuralis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Leptothecata|Campanulariidae|Obelia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363465|2366699|2394668",
+          "taxon_id": "2394668",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327602",
+          "local_id": "18217",
+          "url": "http://eol.org/pages/18217",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=cSIxjdmRT9aeU92HqdAf8Q",
+  "input_url": null,
+  "file": "23_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.097077338,
+    "total_duration": 24.360445857
+  },
+  "agent": "",
+  "created": "2013-06-18T12:25:41-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Marine Biological Laboratory\nWoods Hole, Macao\n4\nJohn We Sazmdere Jro July 7, 1961\n9\nINDUCTIVE SPECIFICITY\nIo Introduction\nAo The epigenetic View of development\n1? The developmental  c e Ec :Qg of the mrgote\n2? Progressive changes in developmental capacity\neo Appearance of new competences\n. bo Progressive restriction in plasticity\nBo Inductors ee extxinsic deteminere of differentiation\nIL Inductive specificity \nAo Definition of specificity I\nBo The problem of specificity in an inductive system\nlo Classification of inductive systems with respect to specificity\nCe Analysis of inductive specificity in selected cases\nlo Induction of kidney tubule (Grobstein)\n2? Induction of salivary gland (Grobstein)   \n3? Induction of regonally deetinctive epidermal derivatives\n(Saunders and collabozfetora)\n4., Induction of cmnege (Lash)\nGeneral conclusions\n\n"
+}

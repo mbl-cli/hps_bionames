@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=YTV1qyDbQTWpmIQX74XxVQ",
+  "input_url": null,
+  "file": "147_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.096692943,
+    "resolve_names_duration": 0.776105524,
+    "total_duration": 26.298965275
+  },
+  "agent": "",
+  "created": "2013-06-18T12:13:08-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Nereis)",
+      "scientificName": "Nereis",
+      "offsetStart": 628,
+      "offsetEnd": 634,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "7\"\n\nThe objective will be to ieentify ana tc stuey uifferent marine larvae\nand, if pessible, tu cbserve the development ef same of them. A Corollary\nobjective, in conjunetien with theoretical eensiueratiens, is to gain\nappreciation of the significance uf larval farms in the development, the\necelegy, and the evuluticn uf animal organisms.\nAim:\nIn your eeliberatisns, de not fsrget to take inte account three major\ngroups of larvae not eealt with here: these of parasitic flatwerms, of\ninsects, and uf vertebrates.\nMaterial:\n1. Mixes, nnserted cellectien, with larvae.\n2. Staged and timed series ef a variety ef larvae ggtemia, Nereis)\nas available,\n\n\nl. a rich fingerbowl-full uf the mixed eullecticn pipette out as\nmany different larval types as ynu.can find.\n2. Using the deseriptiens below, distribute the larvae by nhylum\ninto separate aishes (as nearly as san be made aut by superficial exe\naminatien). Try here to acquainted with the general diagnostic\nfeatures of majur larval types.\n3. New study sash larval type more carefully, disregarding variations of\ntype below class rank. Frem merpholcgy, observed behavicr, and embryulog~\nical and ecological scnsiuerati ns, try to assess the significance of the\nlarva in the life cycle uf the erganism. ln this, the approach eutlined\n1 beluw will be helpful.\n\n4. Set aside representative specimens uf aifferent larval forms for\nprolonged ebservatiun (over-night tu several nays) fer a stuay cf further\ndevelopment ana, conceivably, of \nAnnroagh:\nAs far as pessihle, study each major larval type from the fulluwing points\nuf view:\nA, Develun ggtal eugglegiiv\n1. Polarity, symmetry, ana size of larva; relatiunship of these factors\nto eorrespenaing cenditians in egg ana adult,\n2. Early size ani yolkiness of egg, manner of gastrulaticn,\ntime and developmental stage of hatching; ameunt of differentiatien ana\nrelative gruwth of germ layers to produce larva.\n3. Duration (relative ana absslute) of larval period; presence or absence\nof sequential larval stages.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

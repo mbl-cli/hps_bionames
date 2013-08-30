@@ -1,0 +1,122 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=PP6bPe14SOy6lVK4FlnAMg",
+  "input_url": null,
+  "file": "48_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.128451535,
+    "resolve_names_duration": 1.058712873,
+    "total_duration": 26.343587383
+  },
+  "agent": "",
+  "created": "2013-06-18T12:33:48-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 531,
+      "offsetEnd": 538,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 769,
+      "offsetEnd": 776,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 891,
+      "offsetEnd": 898,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1443,
+      "offsetEnd": 1450,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1612,
+      "offsetEnd": 1619,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Funduius",
+      "scientificName": "Funduius",
+      "offsetStart": 2683,
+      "offsetEnd": 2690,
+      "identifiedName": "Funduius"
+    }
+  ],
+  "content": "  /3551 aff*\n-11- jf! \ngi'     .J /if \nSTockard, C. R. 906. The deve1opmenT of Eundu1u?,heTeroc1iTus in solufions \nliThium chloride. J. Exp. Zool., Q5 99\nSTockard, C. R. ~909. The deve1opmenT of arTificially produced cyclopean fish\n(The Magnesium Embryo'. J. Exp. Zool. Q, 285.\nSTockard, C. R. 910. The effecTs of alcohol and oTher anesTheTics on embryonic\ndevelopmenT. Am. Jour. Anaf., 10, 393.\nSTockard, C. R. 921. Deve1opmenTa1 raTe and sTrucTura1 expression. Am. Jour.\nAnaT., 1.5.\nTrinkaus, J. P. 949. The surface gel layer of Fundulus eggs in relaTion To\nepiboly. Proc. Acad. Sci., QQ, 218-225.\nTrinkaus, J. P. I95la. A sTudy of The mechanism of epiboly in The egg of \nheferoc1iTus. J. Exp. Zool., 118, 269\nTrinkaus, J. P. 1951b. Mechanism of perib1asT epiboly in Fundulus heTerocijTus.\nAnaT. Rec., 111, 551.\nTrinkaus, J. P. and J. W. Drake, 1955. Exogenous conTro1 of morphogenesis in\nFundulus blasfoderms by nuTrienT chemical facTors. J. Exp. Zool. in press.\nTung, T. and Y.F.Y. Tung 1944. The developmemf of egg fragmenfs, isolafed\nb1asTcmeres and fused eggs in The Goldfish. Proc. Zool. Soc. Lond.114, 46-64\nTunT, T.-C ef al. 1945. ExperimenTs on The developmenfal poTencies of blasToderms\nand fragmenTs of Teleosfean eggs separaTed 1ongiTudina1ly. Proc. Zool. Soc.\nLondon, 115, 175-188.\nyi. FormaTion of The Germ Rinq-and-Ear1y Embryo\n8rummeTT, Anna RuTh, 1954. The re1aTionships of The germ ring To The formaTion of\nThe Tail bud in Fundulus as demonsTraTed by The carbon marking Technique.\nJ. Exp. zeal., 125, 447-486.\nHoadley, L. 1928. On The localizaTion of developmenfal poTencies in The embryo of\nFundulus heTeroc1iTus.. J. Exp. Zool., 52, 7-44\nLuTher, W., 1936. PoTenzprufungen an isolierTen TeilsTucken der Forellenkeimscheibe\nArch. EnTwicklungs. Org. 135, 359-383\nLuTher, W. 1937. Transp1anTaTicns und OefekTversuche am OrganisaTionszenTrum der\nForelienkeimscheibe. Arch. EnTwick1ungs. Org., 404-424\nMorgan, T. H. 1895. The formaTion of The fish embryo. Jour. Morph. LQ, 4l9~472\nOppenheimer, J. M., 1938. Pofencies for differenTiaTion in The Te1eosTean germ\nring. J. Exp. Zool., 22, 185*2|2\nOppenheimer, J. M., 1939. The capaciTy for differenTiaTion of fish embryonic\nTissue imp1anTecl info amphibian embryos. J. Exp. Zoo., \nV11 gformafion of The Embryo\nPasTee1s, J. 1936. ETudes sur la gasTru1aTion des verTebres merob1asTiques. 1.\nTeleosTeens, Arch. Biol., 41, 205-308\nPasTee1s, J. 1940. Un percu comparafif de la gasTru1aTion chez les Chordes.\nBiol. Rev., 15, \nVanderbroek, G. 1936. Les mouvemenTs morphogeneTiques au cours de 1a gasTru1aTion\nchez Scyl1ium,cancicu1a. Arch. Biol., 51, 499-584\nMill. \nAmberson, W. R. and P. 8. 1933. The respiraTory meTabo1ism of Funduius\nheTeroc1iTus during embryonic deve1opmenT. J. Cell. Comp. Physiol. Z, 381-397\nP. 8. 1931. FuncTional reacTions in The embryonic hearT accompanying The\ningrowTh and deyelopmenf of The vagus innervaTion. J. Exp. Zool., QQ,\nP. B., 1932. The embryonic origin of funcTion in The pronephros Through\ndifferenTiaTion and associaT1on. Qi, 157-188\nif\nll\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Funduius",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

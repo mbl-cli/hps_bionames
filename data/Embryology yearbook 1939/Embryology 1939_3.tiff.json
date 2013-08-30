@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=rnlzFVqLShqIDvlOttPDlQ",
+  "input_url": null,
+  "file": "Embryology 1939_3.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.095209531,
+    "total_duration": 14.674857541
+  },
+  "agent": "",
+  "created": "2013-06-19T15:23:44-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "EMBRYOLOGY COURSE\nThe Staff\n1939\nHubert B. Goodrich Professor of Biology\nWes1eyan'Un1vers1ty\nWilliam W. Ballard Assistant Professor\nof Biology and Anatomy\nDartmouth College\nDonald P. Costello Assistant Professor of Zoology\nUniversity of North Carolina\nViktor Hamburger Associate Professor of Zoology\nWashington University\nOscar Schotte Associate Professor of Biology\nAmherst College\nAssistants\nD. E. Copeland Harvard University\nJ. J. Milford New York,Univers1ty\n\n\n\n\n\n\nll \n1\nif gx Jig? Y/i \n/55?\naf My\n\n\n"
+}

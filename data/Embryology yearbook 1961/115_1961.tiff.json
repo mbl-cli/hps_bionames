@@ -1,0 +1,97 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=zcxN97yxSlO8iETwrWKOwg",
+  "input_url": null,
+  "file": "115_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.192171439,
+    "resolve_names_duration": 0.820456102,
+    "total_duration": 26.567738741
+  },
+  "agent": "",
+  "created": "2013-06-18T11:33:07-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "NEREIS",
+      "scientificName": "Nereis",
+      "offsetStart": 1849,
+      "offsetEnd": 1854,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1875,
+      "offsetEnd": 1880,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1891,
+      "offsetEnd": 1896,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 2519,
+      "offsetEnd": 2524,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "..3..\nGENERAL PRECAUTIONS IN THE OF THE GAMETES AND LARVAE OF MARINE ANIMALS\nl. Cleanliness: Use only dishes ThaT are biologically clean. Avoid using bi-\nchromaTe cleaning soluTion unless followed by prolonged rinsing. DeTergenTs are\ngood ferTilizaTion inhibiTors; rinse dishes carefully and lay Them upside down on.\nTowels. PipeTTes used for eggs and sperm should be rinsed immediaTely in sea\nwaTer To avoid encrusTaTion of dried gameTes.\n2. Avoid gverlnseminaTion: Remember ThaT very few spermaTozoa are required To\nbring abouT ferTilizaTion. If The egg suspension becomes noficeably more milky\nafTer inseminaTion, you have added Too much sperm; EiTher use a TooThpick To\ninTroduce sperm, or measure amounf as described under secTion on echinoderms.\nLabel sperm pipeTTe and use only Tor ThaT purpose.\n3. Keep TemperaTure low: Remember ThaT marine animals are accusTomed To Tempera-\nTures 5 To I5 degrees C. below room Temperafure. Never leave sTock culTures aT\nroom TemperaTure; They may noT develop normally. Remember ThaT eggs which normally\ndevelop, for example, aT may be heaT killed aT |501\n4. Qvercrowding: Remember again ThaT eggs spawned under naTural condifions\nprobably never have To face overcrowded condiTions. Avoid This very common source\nof abnormal developmenT by placing so few eggs in a single culTure ThaT They can\nhardly be seen. lf They form anyThing like a conTinuous layer on The boTTom of\nThe dish, They are Too numerous. IT is far beTTer To discard half a culTure Than\nlose The whole culfure Through overcrowding.\n5. EguigmenT: The climaTe aT Woods Hole is especially hard on equipmenT and opTics.\nBe sure To rinse off objecTives or any oTher parTs of microscopes ThaT may come\ninTo conTacT wiTh sea waTer or The sea fog ThaT carries salT. Use sTopclock\ngrease on The mechanical parTs of your microscope.\nFERTILIZATION IN NEREIS\nBreeding habiTs of Nereis limbaia \nNereis can be made To swarm in The Eel Pond abouT an hour aTTer dark aT cerTain\nphases of The lunar cycle (see Lillie and JusT, l9l5) by shining an arTificial\nlighT on The waTer from The dock. This procedure will yield a few animals almosT\nany evening. The females (faf and greenish bodies) should be isolaTed in separaTe\nfinger bowls. SeparaTion of The males is noT so crucial.\nFemales may bursT while in capTiviTy and shed Their eggs; if noT, They can be cuT\nopen and The eggs will Then be shed inTo The dish. Place a few eggs in a Syracuse\ndish and observe wifh a low power of The microscope (IOOX: IOX ocular and objecTive)\nNereis eggs are anisodiameTric:l4O microns as seen from above, and IOO microns\nas seen from The side. (How would you go abouT seeing an egg from The side?)\nNoTe The large germinal vesicle (Typical of eggs before meioTic divisions), The\noil drop|eTs (noTe whaT happens To These in The TirsT few minuTes afTer TerTiliza-\nTion), The Thick, finely granular corTex, and The viTelline membrane. ls There an\nexTernal Helly layer? How can you Tell?\nln your observaTions oT TerTilizaTion and early developmenT, never rely on\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

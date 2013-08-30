@@ -1,0 +1,93 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=NZfwuUHdQcSF5hhQmJSLLg",
+  "input_url": null,
+  "file": "Embryology 1988_ 96.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.247953876,
+    "resolve_names_duration": 0.9287872,
+    "total_duration": 37.99784124
+  },
+  "agent": "",
+  "created": "2013-06-18T13:30:19-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 167,
+      "offsetEnd": 176,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "\"Drosophila,",
+      "scientificName": "Drosophila",
+      "offsetStart": 959,
+      "offsetEnd": 970,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "J.iifirffi",
+      "scientificName": "J. iifirffi",
+      "offsetStart": 1604,
+      "offsetEnd": 1613,
+      "identifiedName": "J.iifirffi"
+    }
+  ],
+  "content": "From \"Drosophi1a, a practical approach\", pg. 217ProAl-1   \n\n\nt.   -ll -vw \n   \".211\n.7.71. -is\n5 45 \nCain atai Figure l0. Landmarks for analysis of cuticlc pattems in Drosophila at the end of embryogenesis. The two\nembryos are shown from the ventral and lateral aspect. ln each case anterior is to the top, and in the lateral\nview. ventral is to the left. The small insen shows a dorsal view ofthe intemalized mouth pans. Pro, pro-\nthoracic denticle band; Ms. mesothoracic denticle band; Mt, metathoracic denticle band. Al -A8, abdominal\ndenticle bands ps, posterior spiracles; fz, lilzkorper; ap, anal pads; cl, cirri; An, antennal sense organ;\nMx, maxillary sense organ; MH, mouth hooks; Li, labial sense organ, also known as hypophyseal sense\norgan; H, piece. dorsal bridge; HO. hypopharyngeal organ, also known as organ KO. Keilin's\nsense organ; bd, black dot sense organs. Designations follow those of Lohs-Schardin eral. (25) and .liirgens\ner al. \nFrom \"Drosophila, a practical approach\", pg. 218.\n- -f ii\n\nLB \nAn \nMxFigure ll. Cuticular structures and sense organs ofthe head. ci. cirri; vo, ventral organ; An. antennal sense\norgan; Mx, maxillary sense organ; LB, labrum; dp, dorsal pouch; dorsal bridge; DA. dorsal arm:\nVP, venical piece; VA, ventral arm; HO. hypopharyngeal organ, also known as organ MH, mouth hooks;\nLl, labial sense organ, also known as hypophyseal sense organ; H. piece; ad. salivary duct. Designations\nfollow Schocller (26) and .liirgens el al. (27).\n,f \nhi;\n., 2\n\nA\n\noionoq otuoA.tqu1'g{ utorg\n\n\nfi- \n1 . \n:fri #27225 1'\n;f:lt-1 gig*Jia I il .- 7\naft? rift' H, \ns` Eiga \n1 J.iifirffi,   ii'\ngym, ju-; .,  \n1 ,i I 4 e- Z \nff, it :vial iff? ieifx-\\ \n  tiiyqtg  .Qt 'lggf  flap.;\n*yg  ig - \nis \"itll \ni   in \"1 -\n i`i` T, 21; if \"5 \n-FEM rim' \ntuotud\nYej tn/ \n  amilui-lqui'12, f'\nvsv' \na         -\nbg \nnag\"fl, 1145 'fn\n,Unity I-I  'at 't uf~;visa \n..     \n.lliuwfkf\ni 'Sud\nViml'\n\naf  \n\n1,\nfi/2' el\nfaacega. ,fair ,k\n\n4* Iafif \n,Qin/lil, if (Ulm. \nFig. 3.14. Drawing of the cuticle of a instar larva. Care was taken to draw every single\ncuticular structure of this particular larva. tl-a8 and te (telson) label the segments. Segments\nare subdivided at the level of the ventral sensory hair (vh) into a dorsal and a ventral hal?\nwhich exhibit different patterns. Dotsally there is a complex pattem of tiny hairs, with the ex-\ncepuon of prothorax which is devoid ol' them. Dorsal hairs of three types occur, which are dis-\ntributed in three tltirds according to a well-defined pattern (labelled a. and in ati). 'Die hair\ntype anteriorly is small and broad, the intermediate is long and thin, and the type pos-\nteriorly is broad and larger than the anterior type. Irrespective of the type dorsal hairs are ori-\nented towards posterior within the anterior pan of each segment and towards anterior within\nthe posterior part. 'hte arrows dorsally point to the level of polarity inversion in each of 13 to a7\nsegments. Notice that the level of polarity inversion is at the middle of 13 but it becomes dis-\nplaced to more oral levels in the more posterior segments, until in a8 the orientation of almost\nall dorsal hairs is towards anterior. Ventral aetae, denticles, form prominent belts with \nchanging arrangement fromsegmentto segment. 'Die muscular attachment sides (apodemes)\nare at between the first and the second denticle row of abdominal segments a2-a8. Denticles\nare also polarized as indicated in ao. Additionally, in the dorsal half of abdominal segments\nthere are three long sensory hairs (labelled dh dorsal sensory hair. lh lateral sensory hair and\nvh ventral sensory hair). and within dorsal and ventral halves of thoracic segments three long\nsensory hairs (dh2, dh/ and lh), two large campaniform sensilla called black dots (lbd and vbd,\nlateral and ventral black dots) and Keilin's organs Notice that prothorax has a dorsal\nblack dot (dbd) instead ofa lateral one. The dorsal half ol` 118 and the entire telson (derived\nfrom a9 and aI0) are rather modified due to the fonnation of t.he terminal organs. eg. anal\nplate (ap) and posterior spiracles and to the appearance of sensory cones (dlrc dorsolateral\nsensory cone. dorsomedial sensory cone, desc dorsocaudal sensory cone. and caudal\nsensory cone). do and ta are t.he dorsal and terminal organ ofthe antenno-maxillary complex.\nBar 50 um\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "J. iifirffi"
+    }
+  ]
+}

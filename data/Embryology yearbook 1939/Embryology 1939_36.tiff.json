@@ -1,0 +1,122 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=sp9bWeBpT1av1yfCQnKmzA",
+  "input_url": null,
+  "file": "Embryology 1939_36.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.137262938,
+    "resolve_names_duration": 0.726790102,
+    "total_duration": 21.936205095
+  },
+  "agent": "",
+  "created": "2013-06-19T15:25:36-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Sertularia.",
+      "scientificName": "Sertularia",
+      "offsetStart": 200,
+      "offsetEnd": 210,
+      "identifiedName": "Sertularia"
+    },
+    {
+      "verbatim": "Eudendrium.",
+      "scientificName": "Eudendrium",
+      "offsetStart": 843,
+      "offsetEnd": 853,
+      "identifiedName": "Eudendrium"
+    }
+  ],
+  "content": "|071\nPlace a few actinulae in watch glasses with sea water, and\nexamine them two or three times a day. They will not develop much\nfurther without feeding, which is difficult and will not be attempted\nSertularia.\nThe gonangium is large, oval and sessile, stouter in female\ncolonies than in males. It contains a blastostyle which does not\nform free medusae but produces eggs or sperm more directly. The\neggs are fertilized in situ and gastrulate daru a secondary morular\ndelamination, forming planulae which have enough musculature for\nmovements. Embryos and planulae in various stages are often\nfound in apical swellings of the blastostyle called which\nact as brood pouches.\nIn sertularia it has been reported that the primary polyp forms\nfrom the side, shifting the organism's polarity 90 degrees. The\noriginal planula becomes the hydrorhiza.\nEudendrium. (July, August)\nThe gonosomes of the two sexes are strikingly different. Those\nof the female consist of loose irregular tufts of sporosacs (degenerw\nate, sessile medusa~forms or gonophores)mattached to the stem, each\nsporosac being bright orange in color. ihe male sporosacs are light\npink and are found in groups of four or more which radiate off from\nme nyarantn like spokes of a wheel. ine outermest, repeat male\nsporosacs are white with spenn.\nThe eggs are fertilized within the female gonophore (sporosac)\nand develop to the planula stage before being liberated. (Hargitt,C.\nW. l904). Tease out embryos from different colonies and study all\nstages found. The eggs are so rich in yolk that they cleave like\ninsect eggs. Gastrulation is by an extraordinary delamina~\ntion. Metamorphosis is simple.\nDEVELOEMENT GF \nGrease 01?   \nBoth these jellyfishes have oral lobes extending downward. In\nmature specimens granular material will be found entangled on the\nlobes. Tease off some of this material into a drop of sea water on\na slide, and examine under the microscope. Most of the particles\nare masses of embryos, and must be further teased apart with needles.\nLt different points on the oral lobes embryos of different stages can\nbe found, from spherical cleaving eggs to oval gastrulating forms and\nfully fermed stocky, active planulae. (Hargitt, G. T. (Hein\nIs cleavage regular? ls gastrulation embolic or not?\nSelect a number of active planulae and place them in clean\nwatch glasses of sea water for further study en later days. Their\ngradual change in font, attachment to the bottom, acquisitirn of\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Sertularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "c0ef50ba-3c6a-5eb0-afcd-dc9018b6cd3b",
+          "name_string": "Sertularia",
+          "canonical_form": "Sertularia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Leptothecata|Sertulariidae|Sertularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363465|2368646|2381406",
+          "taxon_id": "2381406",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "c0ef50ba-3c6a-5eb0-afcd-dc9018b6cd3b",
+          "name_string": "Sertularia",
+          "canonical_form": "Sertularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26328251",
+          "local_id": "23632",
+          "url": "http://eol.org/pages/23632",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Eudendrium",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ea6b4d96-be64-5e1e-a185-588de5364505",
+          "name_string": "Eudendrium",
+          "canonical_form": "Eudendrium",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Eudendriidae|Eudendrium",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366651|2394452",
+          "taxon_id": "2394452",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ea6b4d96-be64-5e1e-a185-588de5364505",
+          "name_string": "Eudendrium",
+          "canonical_form": "Eudendrium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327785",
+          "local_id": "23439",
+          "url": "http://eol.org/pages/23439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    }
+  ]
+}

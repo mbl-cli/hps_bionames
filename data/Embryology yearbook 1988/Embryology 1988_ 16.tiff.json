@@ -1,0 +1,97 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Pv9xzmUhTeGaQ0EaGuesAQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 16.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.158708344,
+    "resolve_names_duration": 0.655528225,
+    "total_duration": 26.953735922
+  },
+  "agent": "",
+  "created": "2013-06-18T13:14:31-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "CIONA",
+      "scientificName": "Ciona",
+      "offsetStart": 4,
+      "offsetEnd": 8,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Ciona,",
+      "scientificName": "Ciona",
+      "offsetStart": 244,
+      "offsetEnd": 249,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Ciona.",
+      "scientificName": "Ciona",
+      "offsetStart": 1764,
+      "offsetEnd": 1769,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 2071,
+      "offsetEnd": 2075,
+      "identifiedName": "Ciona"
+    }
+  ],
+  "content": "212 CIONA\nand makes it possible to rear individuals through metamorphosis to maturity.\nThe sea water should be replaced three or four times during the course of develop-\nment. Feeding must be initiated once the small ascidiozooid has attached. Ciona,\naccording to Berrill (1947), grows readily in an inverted bell jar or in a battery\njar, equipped with an aerator. The diatom is used as a basic food, and\nits culture, within the bell jar, is regulated by controlling the amount of light with\na dark paper shield. Nutrient salts are added from time to time.\nD. Removal of the horion: Berrill (1932, 1937) gives several methods for the\nremoval of the chorion for experimental purposes; this technique involves the use\nof crab stomach juice or proteolytic enzymes. Berg (1956) digested the chorion\noff unfertilized eggs with a 3% solution of protease in sea water. For observation,\nthe chorion may be removed by simply rolling the eggs under a coverslip (Conklin,\n1905).\nNonzuar. Dsvanormaurz\nA. The Unfertilized Ozmm: The diameter of this egg is between 150 and 170\nmicrons, according to Conklin (1905) and Berrill (1935). The egg is surrounded\nby a chorion, and inner and outer layers of follicle cells, the latter being elongated\nand pyramidal in shape (Berrill, 1929). There is a perivitelline space (Conklin,\n1905). The egg has a clear, transparent cortical layer, and either green or red\npigment in the yolk granules; the former color indicates a physiologically young\negg, the latter a physiologically old one (Berrill, 1929). The o6cyte proceeds to\nthe metaphase of the first maturation division when it enters the oviduct, and is\nshed into the water at this stage.\nB. Fertilizatian and Cleavage: Although possible, self-fertilization is not at all\ncommon in Ciona. Following insemination, two polar bodies are extruded. They\nare larger than the inner follicle cells and remain attached to, or embedded in, the\negg, thus constituting an important landmark. The lirst two cleavages are equal\nand divide the egg into future right and left halves,\nBerg (1956) isolated Ciona blastomeres at the four-cell stage, and by spectro-\nphotometric methods demonstrated that the cytochrome oxidase activity of pos-\nterior blastomeres is about 2.7 times that of anterior blastomeres. He interprets\nhis results to indicate a localization of mitochondria in the posterior blastomeres.\nGastrulation is by invagination and epiboly (Castle, 1896). (For further de~\ntails of development, consult the papers by Conklin, 1905, and Duesberg, 1915.)\nC. Rate of De'velopment: Duesberg (1915) states that cleavage begins one\nhour after insemination, and that hatching occurs at 19 hours, whereas Conklin\n(1905) reported that the latter event took place 12 hours after insemination; the\ntemperature was not recorded in these papers. At 16? C., hatching occurs at about\n25 hours, according to Berrill (1935). He also noted gastrulation at 7 hours,\nclosure of the blastopore at 11 hours, and the appearance of sensory pigment 19\nhours after insemination at \nD. Later Stages of Development and Meta~morpho.vis.? The tadpole, which\nhatches by means of a proteolytic enzyme (Berrill, 1932), is urodele-like in ap-\npearance. lt has vertical tail fins, three adhesive papillae for attachment, a sensory\nvesicle with both a statocyst and a light~sensitive organ, and a short intestine.\nThe siphons are not prominent. The endostyle is easily seen. (See the diagrams\nby Willey, 1893; MacBride, 1914; Berrill, l929.)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ciona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957",
+          "taxon_id": "2421957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628900",
+          "local_id": "43439",
+          "url": "http://eol.org/pages/43439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ihw1HQOnSkSoWGEl8jIyjA",
+  "input_url": null,
+  "file": "103_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.232660565,
+    "resolve_names_duration": 0.913862306,
+    "total_duration": 27.472434384
+  },
+  "agent": "",
+  "created": "2013-06-18T13:02:41-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Eudendrium",
+      "scientificName": "Eudendrium",
+      "offsetStart": 922,
+      "offsetEnd": 931,
+      "identifiedName": "Eudendrium"
+    },
+    {
+      "verbatim": "Eudendrium",
+      "scientificName": "Eudendrium",
+      "offsetStart": 1952,
+      "offsetEnd": 1961,
+      "identifiedName": "Eudendrium"
+    },
+    {
+      "verbatim": "Aurelia",
+      "scientificName": "Aurelia",
+      "offsetStart": 2131,
+      "offsetEnd": 2137,
+      "identifiedName": "Aurelia"
+    },
+    {
+      "verbatim": "Cyanea",
+      "scientificName": "Cyanea",
+      "offsetStart": 2143,
+      "offsetEnd": 2148,
+      "identifiedName": "Cyanea"
+    },
+    {
+      "verbatim": "Aurelia",
+      "scientificName": "Aurelia",
+      "offsetStart": 2617,
+      "offsetEnd": 2623,
+      "identifiedName": "Aurelia"
+    }
+  ],
+  "content": "\nwhile iT rolls and crawls along The boTTom like a planarian. The big end which\ngoes firsT in This movemenT (anTerior) is The end which laTer produces The adhesive\ndisc by which iT aTTaches for meTamorphosis. iT becomes The aboral end of The polyp.\nFollowing aTTachmenT of The aTTenuaTed planula There is a delay of a few\nhours To several days, and Then The Tapering Tree end shrinks down aImosT To The\nsubsTraTum, where iT shorTly produces a mouTh and a succession of TenTacles. The\nnew polyp elongaTes, iTs aTTached end meanwhile sending ouT a number of\nanasTomosing and enc#usTing hydrorhizae from which sprouT new polyps. is The\nTirsT polyp To Torm in a colongy (ThaT which meTamorphoses from a planula) always\none Type of zooid Three Types?\noTher Than Those accompanying may be Tound in BunTing, '94 and\nBeckwiTh, 'l4 icleavagel; Teissier, '27 (laTer planula developmenT); and GoeTTe, '07\nand (developing gonozooid).\nEudendrium (July, AugusT)\nThe gonozooids of This genus are degeneraTe sessile medusa-forms or gonophores,\nsTrikingly difTerenT in The Two sexes, borne aT The bases of special hydranThs\nwhich lose Their TenTacles and degeneraTe while The gonophores are ripening.\n\"Female\" colonies bear loose irregular of sprosacs aTTached To The sTems,\neach ripe sporosac being brighT orange in color. \"Male\" colonies bear lighT pink\nsporosacs arranged in groups of Two To Tour in a line, The lines radiaTing from\na common poinT on The base of The degeneraTed hydranTh. The ripesT male sporosacs\noccur aT The periphery of The clusTer and are whiTe wiTh sperm. SkeTch boTh male\nand female sporosacs.\nEggs are TerTilized wiThin The female gonophore or sporosac and develop To The\nplanula sTage before being liberaTed. (HargiTT, C. W., Tease ouT embryos\nfrom diTferenT colonies and sTudy all sTages found. The eggs are so rich in yolk\nThaT They cleave like insecT eggs. The gasTrulaTion is by an exTraordinary \ndelaminaTion. MeTamorphosis is simple.\nEudendrium cleavage sTages i|lusTraTed in HargiTT, '04 (Zool. Jahrb.);\nGonozooid developmenT in GoeTTe, See also TexTs by KorschelT, '56 and\nHyman, '40,\nDeyeloQmenT of Soyphozoa \nAurelia and Cyanea April, May, June \nBoTh These jellyfishes have oral lobes exTending downward. ln maTure specimens\ngranular maTerial will be found enTangled on The lobes or conTained in small brood\nsacs in The lobes. Tease off some of This maTerial inTo a drop of sea waTer\non a slide and examine under The microscope. Embryos of differenT sTages can be\nfound, from spherical cleaving eggs To oval gasTrulaTing forms and ully formed,\nsTocky, acTive planulae. (HargiTT, G. T., Hein, of\nAurelia developmenT are included in This ouTline. ls cleavage regular? SkeTch The\nembryonic sTages ThaT are available.\nSelecT a number oT acTive planulae and place Them in clean waTch glasses of\nsea waTer for furTher sTudy on laTer days. Their gradual change in form, aTTach~\nmenT To The boTTom, acquisiTion of TenTacles and elongaTion inTo The sessile\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Eudendrium",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ea6b4d96-be64-5e1e-a185-588de5364505",
+          "name_string": "Eudendrium",
+          "canonical_form": "Eudendrium",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Eudendriidae|Eudendrium",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366651|2394452",
+          "taxon_id": "2394452",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ea6b4d96-be64-5e1e-a185-588de5364505",
+          "name_string": "Eudendrium",
+          "canonical_form": "Eudendrium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327785",
+          "local_id": "23439",
+          "url": "http://eol.org/pages/23439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Aurelia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "05ac3998-238b-5b98-b8c1-31985b13f307",
+          "name_string": "Aurelia",
+          "canonical_form": "Aurelia",
+          "classification_path": "Animalia|Cnidaria|Scyphozoa|Semaeostomeae|Ulmaridae|Aurelia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363461|2363484|2368678|2394749",
+          "taxon_id": "2394749",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "05ac3998-238b-5b98-b8c1-31985b13f307",
+          "name_string": "Aurelia",
+          "canonical_form": "Aurelia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628135",
+          "local_id": "23740",
+          "url": "http://eol.org/pages/23740",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cyanea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "0fdfe1e9-1543-5561-a74d-309d03db36f3",
+          "name_string": "Cyanea",
+          "canonical_form": "Cyanea",
+          "classification_path": "Animalia|Cnidaria|Scyphozoa|Semaeostomeae|Cyaneidae|Cyanea",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363461|2363484|2366666|2488012",
+          "taxon_id": "2488012",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0fdfe1e9-1543-5561-a74d-309d03db36f3",
+          "name_string": "Cyanea",
+          "canonical_form": "Cyanea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "32514538",
+          "local_id": "2520297",
+          "url": "http://eol.org/pages/2520297",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    }
+  ]
+}

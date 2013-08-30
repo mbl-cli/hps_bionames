@@ -1,0 +1,104 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=DKeMYvmPSpGnTcowS8Basw",
+  "input_url": null,
+  "file": "80_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.103570846,
+    "resolve_names_duration": 1.084885508,
+    "total_duration": 24.117949883
+  },
+  "agent": "",
+  "created": "2013-06-18T12:46:19-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "R. von",
+      "scientificName": "R. von",
+      "offsetStart": 70,
+      "offsetEnd": 75,
+      "identifiedName": "R. von"
+    },
+    {
+      "verbatim": "Crepieula",
+      "scientificName": "Crepieula",
+      "offsetStart": 756,
+      "offsetEnd": 764,
+      "identifiedName": "Crepieula"
+    },
+    {
+      "verbatim": "Crepidula.",
+      "scientificName": "Crepidula",
+      "offsetStart": 839,
+      "offsetEnd": 848,
+      "identifiedName": "Crepidula"
+    }
+  ],
+  "content": "Mbrgan, T. H,\nConklin, E. G.\nCoe, Wesley R.\nCramptun, H. E.\nErlauger, R. von\nLebour, Marie \nMackay, M. E.\nMoritz, C. E.\nPatten, U.\nSmith, F. G, N,\nWilSun, E, B.\n193\n193\n193\n193\n193\n-10-\nSa Gentrifuging the eggs uf Ilyaneese in reverse. Biel.\nBull. 268-279\n5b The eeparatien of the egg ef Ilyenaese into two parts\nby eentrifuging. Biul Bull. 280-295\n5c The changes in furm of isolated antipeler lobe\nof Ilyenassa. Biol. Bull. 296~299\n6 Further experiments on the fermatiun of the antipoler\nlube of Ilyenassa. Jour. Exper. Zuul., lg: 381-425\n7 The behavior of the maturation spineles in polar frag-\nments of eggs uf Ilyanessa obtained by eentrifuging.\nBiol. Bull., Zg\nFoe Glewaczvong\n1397\n1948\n1896\n1891\n1945\n1927\n1938\n1939\n1685\n1856\n1935\n1904\nEmbryelugy of Crepieula. Jeux. Murph., 13: 1-226\nNutritien, sexuality in protanurie uf the\ngenus Crepidula. Biol. Bull., 25: 158-160\nExperimental en Gastropou Developmeet. Arch. of\nEntw. Lech., 2: l-19\nZur Entwicklung vun.?a1ueina yivigurg. Jahlb 12:335~379,\n636-680 \nThe eggs ene larvae uf seme presubrenehs frem Bermuda.\nPrue. Zeel. Soc. Leneun, l1A: L62-489\nA Stu&y uf E>>r1y develop ent in Gumiugie with special\nreference to Cytelegy. Pruc. Tr. Heva Seutie Inst. Sc.,\n12: 46-eo.\nThe anatomy of the Sewerby.\nUniv. Cel. Pub. Zeol. QQ: S3-92\nOrganegenesis in the gestrepen eeuheg Sewerby.\nUniv. Cel. Publ. Zuul., gg: \nEmbryology of Patella. Arb. ausd. Zeal.\nInst. Univ. Wien., 6: 149-174. 1\nThe eevelepment of Fetelle vulgete. Philos. Trans. Roy.\nSoc. London., B: 225: \nExperimental stueies in germinel \n(Patella emu beutalium). J. Exp. Zdol., 1: 197-268.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "R. von"
+    },
+    {
+      "supplied_name_string": "Crepieula",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Crepidula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Calyptraeidae|Crepidula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370194|2370205|2410985",
+          "taxon_id": "2410985",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44534464",
+          "local_id": "404808",
+          "url": "http://eol.org/pages/404808",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

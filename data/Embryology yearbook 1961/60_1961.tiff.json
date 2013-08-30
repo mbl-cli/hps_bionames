@@ -1,0 +1,256 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=WfM683ULTwyyelMIhb2utA",
+  "input_url": null,
+  "file": "60_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.212581419,
+    "resolve_names_duration": 0.623757991,
+    "total_duration": 25.603753016
+  },
+  "agent": "",
+  "created": "2013-06-18T12:39:08-04:00",
+  "total": 10,
+  "names": [
+    {
+      "verbatim": "ECHINARACHNIUS PARMA",
+      "scientificName": "Echinarachnius parma",
+      "offsetStart": 143,
+      "offsetEnd": 162,
+      "identifiedName": "Echinarachnius parma"
+    },
+    {
+      "verbatim": "Echinarachnius",
+      "scientificName": "Echinarachnius",
+      "offsetStart": 178,
+      "offsetEnd": 191,
+      "identifiedName": "Echinarachnius"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1391,
+      "offsetEnd": 1397,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "(Psammechinus,",
+      "scientificName": "Psammechinus",
+      "offsetStart": 1646,
+      "offsetEnd": 1659,
+      "identifiedName": "Psammechinus"
+    },
+    {
+      "verbatim": "Echinarachnius",
+      "scientificName": "Echinarachnius",
+      "offsetStart": 1682,
+      "offsetEnd": 1695,
+      "identifiedName": "Echinarachnius"
+    },
+    {
+      "verbatim": "Arbacia,",
+      "scientificName": "Arbacia",
+      "offsetStart": 1735,
+      "offsetEnd": 1742,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Echinarachnius",
+      "scientificName": "Echinarachnius",
+      "offsetStart": 1949,
+      "offsetEnd": 1962,
+      "identifiedName": "Echinarachnius"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1989,
+      "offsetEnd": 1995,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2644,
+      "offsetEnd": 2650,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia.",
+      "scientificName": "Arbacia",
+      "offsetStart": 3174,
+      "offsetEnd": 3181,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\n-iO \nbranchia and which carries The AsTerias enlage aT iTs disTal end. For deTails\nof mefamorphosis consulT Gemmill, MacBride, and KorschelT.\nECHINARACHNIUS PARMA\nThe supply of Echinarachnius comes from The cold waTer on The norTh coasT of\nThe Cape; consequenTly even The TemperaTure of The sea waTer Table is likely To\npuT quiTe a sTrain on eggs of This species. They are besT used on cold days or\nin an airreondiTioned room. lf a specimen Turns green, eiTher all over or in\nspoTs iT is probably ready To be discarded.\nGameTes can be obTained by cuTTing The oral surface compleTely around, abouT\nl/4 inch inside The margin. The oral parT of The TesT and The ArisToTle's lanTern\ncan be removed. Specimens cuT open in This way will usually shed if placed aboral\nsurface down over a sTender dish. lf desired, The gonads can be removed from The\nTesT and placed in an egg sTrainer (see secTion on sea urchin) and washed Through.\nA Third meThod of obTaining gameTes is To injecT isoTonic (O.53M) inTo The\nvisceral caviTy. Sperm should be shed dry by The firsT or Third meThod, or The\nTesTes can be kepT dry in small dishes in The refrigeraTor. lT is imporTanT ThaT\nThe eggs should be washed a few Times before inseminaTion. Sperm should noT be\ndiluTed unTil ready for use. The elecTrical meThod may also be used wiTh reason-\nable success.\nFerTilizaTion\nSand dollar eggs are larger Than Those of Arbacia (l35 microns insTead\nof 74) and are surrounded by a much Thicker jelly layer in which very beauTiful red\npigmenT granules are suspended. The egg iTslef, freed from jelly, is pale yellow\nand resembles very losely The eggs of The CamarodenT urchins (Psammechinus,\nParacenTroTus, eTc.) Echinarachnius eggs are fragile compared To Those of Arbacia,\nbuT They can be sTraTified by cenTrifugaTion in much The same way. The corTex can\neasily be seen wiThouT sTraTificaTion - especially wiTh a 50K waTer immersion lens,\nif available. The corTical granules of Echinarachnius are larger Than Those of\nArbacia and oTher sea urchins, and, consequenTly, This form is The besT one aT\nWoods Hole in which To observe corTical reacTion phenomena. lf you can locaTe The\ncorfical granules aT The Top of an egg under high power, waTer or oil i mersion,\ninseminaTe and waTch These granules break down in a wave which sweeps The cell\nfrom end To end. WaTch The membrane elevaTe and Try To deTermine The Time rela-\nTionships beTween dissoluTion of The corTical granules and membrane elevaTion.\nCould There be a causal relaTionship beTween These Two evenTs? Do you see a\nhyaline layer?\nAlThough early developmenT of The samidollar is noT markedly differenT\nfrom Thaf of Arbacia The sTudenT should neverTheless compare The corresponding\nsTages: early cleavage, blasTula, gasTrula and plufeus. Can you disTinguish\nanimal, vegeTal and micromere Tiers of cells? ls primary formed prior\nTo archenTeron formaTion? ls There a folding or wrinkling of The hyaline layer\naT The vegeTal pole during gasTrulaTion? Does The archenTeron proliferaTe\nsecondary from iTs Tip? ls The volume of The gasTrula larger or\nsmaller Than ThaT of The blasTula? Compare The pluTei of The sanidollar wiTh\ncorresponding plufei of Arbacia. WhaT obvious differences do you see?\nExperimenfal Procedures \nSince The mosT Thorough and exTensive experimenTal sTudies have been done\nusing various species of sea urchins The sTudenT may be inTeresTed in repeaTing\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Echinarachnius parma",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "a047cb5c-ff13-5d35-84ab-6531e02ac4d0",
+          "name_string": "Echinarachnius parma",
+          "canonical_form": "Echinarachnius parma",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Echinodermata|Eleutherozoa|Echinozoa|Echinoidea|Euechinoidea|Gnathostomata|Clypeasteroida|Echinarachniidae|Echinarachnius|Echinarachnius parma",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum||superclass|class|subclass|superorder|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7586|133551|7624|7625|7638|35060|31186|869208|869202|869203",
+          "taxon_id": "869203",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a047cb5c-ff13-5d35-84ab-6531e02ac4d0",
+          "name_string": "Echinarachnius parma",
+          "canonical_form": "Echinarachnius parma",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20629592",
+          "local_id": "598165",
+          "url": "http://eol.org/pages/598165",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Echinarachnius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6f5c1914-3a92-50c3-8cc3-9a0bc0d2e39f",
+          "name_string": "Echinarachnius",
+          "canonical_form": "Echinarachnius",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Clypeasteroida|Echinarachniidae|Echinarachnius",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362627|2362630|2493660",
+          "taxon_id": "2493660",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6f5c1914-3a92-50c3-8cc3-9a0bc0d2e39f",
+          "name_string": "Echinarachnius",
+          "canonical_form": "Echinarachnius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20629591",
+          "local_id": "73062",
+          "url": "http://eol.org/pages/73062",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Psammechinus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "8181cc0b-3730-5793-8857-5cccefbf0753",
+          "name_string": "Psammechinus",
+          "canonical_form": "Psammechinus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Echinidae|Psammechinus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362622|2493651",
+          "taxon_id": "2493651",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8181cc0b-3730-5793-8857-5cccefbf0753",
+          "name_string": "Psammechinus",
+          "canonical_form": "Psammechinus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27908571",
+          "local_id": "73314",
+          "url": "http://eol.org/pages/73314",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

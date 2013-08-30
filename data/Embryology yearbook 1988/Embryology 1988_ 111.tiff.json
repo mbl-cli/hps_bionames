@@ -1,0 +1,294 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=jvcAK91VSMaEdtFNeV55gg",
+  "input_url": null,
+  "file": "Embryology 1988_ 111.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.179051714,
+    "resolve_names_duration": 0.98368337,
+    "total_duration": 23.761108311
+  },
+  "agent": "",
+  "created": "2013-06-18T13:05:48-04:00",
+  "total": 8,
+  "names": [
+    {
+      "verbatim": "Notophthalmus.",
+      "scientificName": "Notophthalmus",
+      "offsetStart": 495,
+      "offsetEnd": 508,
+      "identifiedName": "Notophthalmus"
+    },
+    {
+      "verbatim": "Chromosoma",
+      "scientificName": "Chromosoma",
+      "offsetStart": 510,
+      "offsetEnd": 519,
+      "identifiedName": "Chromosoma"
+    },
+    {
+      "verbatim": "Notophthalmus viridescens",
+      "scientificName": "Notophthalmus viridescens",
+      "offsetStart": 632,
+      "offsetEnd": 656,
+      "identifiedName": "Notophthalmus viridescens"
+    },
+    {
+      "verbatim": "Chromosoma",
+      "scientificName": "Chromosoma",
+      "offsetStart": 659,
+      "offsetEnd": 668,
+      "identifiedName": "Chromosoma"
+    },
+    {
+      "verbatim": "Xenopus.",
+      "scientificName": "Xenopus",
+      "offsetStart": 931,
+      "offsetEnd": 938,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus laevis",
+      "scientificName": "Xenopus laevis",
+      "offsetStart": 1343,
+      "offsetEnd": 1356,
+      "identifiedName": "Xenopus laevis"
+    },
+    {
+      "verbatim": "Pleurodeles waltlii",
+      "scientificName": "Pleurodeles waltlii",
+      "offsetStart": 1631,
+      "offsetEnd": 1649,
+      "identifiedName": "Pleurodeles waltlii"
+    },
+    {
+      "verbatim": "Chromosoma",
+      "scientificName": "Chromosoma",
+      "offsetStart": 1652,
+      "offsetEnd": 1661,
+      "identifiedName": "Chromosoma"
+    }
+  ],
+  "content": "Gall JG, Diaz MO, Stephenson EC, Mahon KA (1983) The transcription\nunit of lampbrush chromosomes. lg: Gene Structure and Regulation in\nDevelopment: Symp. Soc. Dev. Biol., edited by Subtelny and Kafatos)\npp. 137-146. Alan R. Liss, Inc. A general statement of the\nreadthrough hypothesis for lampbrush chromosomes. More detailed\ninformation is given in the following two papers.\nDiaz MO, Gall JG (1985) Giant readthrough transcription units at\nthe histone loci on lampbrush chromosomes of the newt Notophthalmus.\nChromosoma 23: 291-297.\nBromley SE, Gall JG (1987) Transcription of the histone loci on\nlampbrush chromosomes of the newt Notophthalmus viridescens.\nChromosoma 95: 396-402.\nGerminal vesicle and lampbrush loop proteins\nFor GV proteins (not necessarily on the lampbrush chromosomes) the\nfollowing three papers will give you a start:\nDreyer C, Wang YH, Wedlich D, Hausen (1983) Oocyte nuclear proteins\nin the development of Xenopus. ln: Current Problems in Germ Cell\nDifferentiation (Symp. British Soc. Developmental Biol.) pp. 329-351.\nDabauvalle M-C, Franke WW (1982) Karyophilic proteins: polypeptides\nin vitro accumulate in the nucleus on microinjection into\nthe cytoplasm of amphibian oocytes. Proc. Natl. Acad. Sci. 19: 5302-\n5306.\nBurglin TR, Mattaj IW, Newmeyer DD, Zeller R, De Robertis EM (1987)\nCloning of nucleoplasmin from Xenopus laevis oocytes and analysis of\nits developmental expression. Genes Development 1: 97-107.\nFor studies specifically on lampbrush chromosome proteins:\nLacroix JC, Azzouz R, Boucher D, Abbadie C, Pyne CK, Charlemagne \n(1985) Monoclonal antibodies to lampbrush chromosome antigens of\nPleurodeles waltlii. Chromosoma gg: 69-80.\nRoth MB, Gall JG (1987) Monoclonal antibodies that recognize\ntranscription unit proteins on newt lampbrush chromosomes. J. Cell\nBiol. 105: 1047-1054.\n2\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Notophthalmus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5c6f6d41-4bef-5cd2-b5fd-d8df1ce7ae3c",
+          "name_string": "Notophthalmus",
+          "canonical_form": "Notophthalmus",
+          "classification_path": "Animalia|Chordata|Amphibia|Caudata|Salamandridae|Notophthalmus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370862|2370863|2525633",
+          "taxon_id": "2525633",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5c6f6d41-4bef-5cd2-b5fd-d8df1ce7ae3c",
+          "name_string": "Notophthalmus",
+          "canonical_form": "Notophthalmus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29121365",
+          "local_id": "35866",
+          "url": "http://eol.org/pages/35866",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Chromosoma",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Notophthalmus viridescens",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "87ecaebe-4fdf-5724-aa5f-461ba90f1b04",
+          "name_string": "Notophthalmus viridescens",
+          "canonical_form": "Notophthalmus viridescens",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Tetrapoda|Amphibia|Batrachia|Caudata|Salamandroidea|Salamandridae|Notophthalmus|Notophthalmus viridescens",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||||class|superorder|order|superfamily|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|8287|32523|8292|41666|8293|30367|8314|8315|8316",
+          "taxon_id": "8316",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "87ecaebe-4fdf-5724-aa5f-461ba90f1b04",
+          "name_string": "Notophthalmus viridescens",
+          "canonical_form": "Notophthalmus viridescens",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29121366",
+          "local_id": "1025186",
+          "url": "http://eol.org/pages/1025186",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Xenopus laevis",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "22a6df90-1cc9-5462-a5d9-144a006cf030",
+          "name_string": "Xenopus laevis",
+          "canonical_form": "Xenopus laevis",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Xenopus|Xenopus laevis",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|8287|32523|8292|41666|8342|30319|8352|8360|8353|262014|8355",
+          "taxon_id": "8355",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "22a6df90-1cc9-5462-a5d9-144a006cf030",
+          "name_string": "Xenopus laevis",
+          "canonical_form": "Xenopus laevis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29126132",
+          "local_id": "1038993",
+          "url": "http://eol.org/pages/1038993",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pleurodeles waltlii",
+      "results": [
+        {
+          "data_source_id": 11,
+          "data_source_title": "GBIF Taxonomic Backbone",
+          "gni_uuid": "ace85528-8e39-592b-b57f-9cc30041ed21",
+          "name_string": "Pleurodeles waltlii",
+          "canonical_form": "Pleurodeles waltlii",
+          "classification_path": "Animalia|Chordata|Amphibia|Caudata|Salamandridae|Pleurodeles|Pleurodeles waltl",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "1|44|131|953|6750|2431872|2431875",
+          "taxon_id": "5848730",
+          "current_taxon_id": "2431875",
+          "current_name_string": "Pleurodeles waltl Michahelles, 1830",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ace85528-8e39-592b-b57f-9cc30041ed21",
+          "name_string": "Pleurodeles waltlii",
+          "canonical_form": "Pleurodeles waltlii",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5225396",
+          "local_id": "330419",
+          "url": "http://eol.org/pages/330419/names/synonyms",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 5,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=wdFfysrjT8u919yzdzF74Q",
+  "input_url": null,
+  "file": "Embryology 1988_ 115.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.146198388,
+    "resolve_names_duration": 0.988226553,
+    "total_duration": 24.137701112
+  },
+  "agent": "",
+  "created": "2013-06-18T13:06:10-04:00",
+  "total": 9,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 257,
+      "offsetEnd": 266,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 403,
+      "offsetEnd": 412,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 587,
+      "offsetEnd": 596,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 766,
+      "offsetEnd": 788,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 981,
+      "offsetEnd": 1003,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1179,
+      "offsetEnd": 1188,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 1380,
+      "offsetEnd": 1402,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1606,
+      "offsetEnd": 1616,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1741,
+      "offsetEnd": 1750,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "Eric Wieschaus\nEmbryology Course\nMarine Biological Laboratory\nWoods Hole, MA 02543\nJuly 19, 1988\nZYGOTIC GENE ACTIVITY EM RYOGENESIS\nReferences\n1. Edgar, B.A., Kiehle, C.P. and Schubiger, G. (1986) Cell cyclecontrol by the\nnucleo-cytoplasmic ratio in early Drosophila development. 7\nCell 44:365-372.\n2. Edgar, B.A. and Schubiger, G. (1986) Parameters controlling transcriptional\nactivation during early Drosophila development.\nCell 44:871-877.\n3. Foe, V.E. and Alberts, B.M. (1983). Studies of nuclear and cytoplasmic\nbehavior during the five mitotic cycles that precede gastrulation in\nDrosophila embryogenesis.\nJ. Cell Sci. 61, 31-70.\n4. Jurgens, G., Wieschaus, E., Nusslein-Volhard, C., Kluding H. (1984).\nMutations affecting the pattern of the larval cuticle of Drosophila\nmelanogaster. Il. Zygotic loci on the third chromosome.\nWilhelm Roux's Arch. 193: 283-295.\n5 Nusslein-Volhard, Wieschaus, E. and Kluding H. (1984) Mutations affecting\nthe pattern of the larval cuticle of Drosophila melanogaster. II. Zygotic\nloci on the second chromosome.\nWilhelm Roux's Arch. 193: 267-282.\n6. Warn, R.M., and Macgrath, R. (1983). F-actin distribution during the\ncellularization of the Drosophila embryo visualized with FL- phalloidin.\nExp. Cell Research 143: 103-114.\nWieschaus, E., Nusslein-Volhard, C., and Jurgens, G. (1984). Mutations\naffecting the pattern of the larval cuticle in Drosophila melanogaster.\nIll. Zygotic loci on the X-chromosome and fourth chromosome.\nRoux's Arch. Dev. Biol. 193, 296-307.\n8. Zusman, S. and Wieschaus, E. (1985). Requirements for zygotic gene activity\nduring gastrulation in Drosophila.\nDevelopmental Biology 111:359-371.\n9. Anderson, K.V., and Lengyel, J.A. (1980). Changing rates of histone \nand turnover in Drosophila embryos.\nCell 21, 717-727.\nSEGMENTATION\nReferences\n10. Gergen, J.P., Coulter, D. and Wieschaus, E. (1986). Segmental pattern and\nblastoderm identities.\nSymp. Soc. Dev. Biol 43: 195-220.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Drosophila melanogaster",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Brachycera|Muscomorpha|Eremoneura|Cyclorrhapha|Schizophora|Acalyptratae|Ephydroidea|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophiliti|Drosophila|Sophophora|||Drosophila melanogaster",
+          "classification_path_ranks": "|superkingdom||kingdom|||||||phylum|||superclass|class|||subclass|infraclass|order|suborder|infraorder|||||superfamily|family|subfamily|tribe|subtribe||genus|subgenus|species group|species subgroup|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7147|7203|43733|480118|480117|43738|43741|43746|7214|43845|46877|46879|186285|7215|32341|32346|32351|7227",
+          "taxon_id": "7227",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39022287",
+          "local_id": "733739",
+          "url": "http://eol.org/pages/733739",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 22,
+      "in_curated_sources": true
+    }
+  ]
+}

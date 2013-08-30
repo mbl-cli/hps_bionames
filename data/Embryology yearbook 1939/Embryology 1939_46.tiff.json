@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=0OtFuJSwQs2THg2vCPwk1w",
+  "input_url": null,
+  "file": "Embryology 1939_46.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.124675732,
+    "resolve_names_duration": 0.622390726,
+    "total_duration": 22.387899859
+  },
+  "agent": "",
+  "created": "2013-06-19T15:27:33-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Amaroucium",
+      "scientificName": "Amaroucium",
+      "offsetStart": 253,
+      "offsetEnd": 262,
+      "identifiedName": "Amaroucium"
+    }
+  ],
+  "content": "\nNot all structures can be seen in a\nliving tadpole. Note the\nthick test with contained test-cells, the adhesive papillae, the\natrial siphon (near the tail), the\nand the sensory vesicle between the\nspot is a light perceiving organ.\noclls notocord.\nSome Amaroucium tadpoles have\noral siphcn (usually larger),\ntwo siphons. The small pigment\nln the tail note the muscle\n\nbeen fixed in Eouins and stained\nwith horax-carmine, ln one of these stained tadpolcs, identify\nthe pharynx with its visceral clefts and\nard the nervous system.\nf1> -\nintestines\nIsolate several tadpolcs in separate drops of water in watch\nglasses, for study of behavior during attachment. Cover them, and\nmake observations several times during the next two days. The\nmetamorphosis to the simple ascidian form takes place within a few\nhours after attachment, but the results can be observed best from\ntwo days to a week later.\n\nObserve specimens of metamorphosing\ncimm larvae that have been growing for a\nattached to watch glasses that have been\nwater. In handling them, be sure not to\nand metamorphosed Amarou~\nweek or two. They are\nstored in frames under\ndislodge the animals\nnor tip off their cover of water. Debris may be gently flushed\noff them at the tap. Examine them under\nthe microscope first with\nlow power, for orientation. After making your records, return\nspecimens, still living in dieir watch glasses, to the frames they\ncame from.\nThe post-abdominal region with the heart at its tip is the\nfirst thing noticed. Watch the heart for unusual behavior. Find\nthe atrial and oral siphons. The pharynx with itshnumerous stigmata\nopens into a short esophagus which connects with a round yellow\nstomach marked by muscular bands.\nThe intestine tunns sharply after leaving the stomach, and\nends near the atrial siphon. The endostyle is sharply indicated\non the wall of the pharynx, delimiting the two atrial pouches. These\npouches surround the pharynx and open to\nsiphon. Note the structure of the mouth\nf) Budding.\nthe exterior at the atrial\n lsexual reproduction of new individuals occurs in laboratory\ncultures about l7 days after attachment of the tadpoles It is\naccomplished by segmentation of the post~abdomen. The pieces de-\nvelop into separate zooids which move up\nand take their place\naround the parent. Examine a specimen in which this has occurred,\nusing low power. (Kowalevsky \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Amaroucium",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata|Ascidiacea|Enterogona|Aplousobranchia|Synoicidae|Amaroucium",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum|class|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712|7713|183770|32436|107396|107397",
+          "taxon_id": "107397",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29104026",
+          "local_id": "2994850",
+          "url": "http://eol.org/pages/2994850",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=PEbPzsaNTy6PmsthKGiVGw",
+  "input_url": null,
+  "file": "Embryology 1988_ 46.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.138845112,
+    "resolve_names_duration": 1.09138189,
+    "total_duration": 25.472901912
+  },
+  "agent": "",
+  "created": "2013-06-18T13:20:03-04:00",
+  "total": 12,
+  "names": [
+    {
+      "verbatim": "Qg elegans",
+      "scientificName": "Qg elegans",
+      "offsetStart": 119,
+      "offsetEnd": 128,
+      "identifiedName": "Qg elegans"
+    },
+    {
+      "verbatim": "Qg elegans",
+      "scientificName": "Qg elegans",
+      "offsetStart": 345,
+      "offsetEnd": 354,
+      "identifiedName": "Qg elegans"
+    },
+    {
+      "verbatim": "Qg elegans",
+      "scientificName": "Qg elegans",
+      "offsetStart": 508,
+      "offsetEnd": 517,
+      "identifiedName": "Qg elegans"
+    },
+    {
+      "verbatim": "Qg elegans",
+      "scientificName": "Qg elegans",
+      "offsetStart": 629,
+      "offsetEnd": 638,
+      "identifiedName": "Qg elegans"
+    },
+    {
+      "verbatim": "Caenorhabdidits elegans",
+      "scientificName": "Caenorhabdidits elegans",
+      "offsetStart": 916,
+      "offsetEnd": 938,
+      "identifiedName": "Caenorhabdidits elegans"
+    },
+    {
+      "verbatim": "Qg elegans",
+      "scientificName": "Qg elegans",
+      "offsetStart": 1073,
+      "offsetEnd": 1082,
+      "identifiedName": "Qg elegans"
+    },
+    {
+      "verbatim": "Caenorhabditis elegans",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 1213,
+      "offsetEnd": 1234,
+      "identifiedName": "Caenorhabditis elegans"
+    },
+    {
+      "verbatim": "Caenorhabditis elegans",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 1352,
+      "offsetEnd": 1373,
+      "identifiedName": "Caenorhabditis elegans"
+    },
+    {
+      "verbatim": "Caenorhabditis elegans",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 1631,
+      "offsetEnd": 1652,
+      "identifiedName": "Caenorhabditis elegans"
+    },
+    {
+      "verbatim": "Caenorhabditis elegans",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 1799,
+      "offsetEnd": 1820,
+      "identifiedName": "Caenorhabditis elegans"
+    },
+    {
+      "verbatim": "Caenorhabditis elegans",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 2120,
+      "offsetEnd": 2141,
+      "identifiedName": "Caenorhabditis elegans"
+    },
+    {
+      "verbatim": "Caenorhabditis elegans",
+      "scientificName": "Caenorhabditis elegans",
+      "offsetStart": 2292,
+      "offsetEnd": 2313,
+      "identifiedName": "Caenorhabditis elegans"
+    }
+  ],
+  "content": "lin-12 and glg-1:\n1. Greenwald, I.S., Sternberg, P.W., and H. R. Horvitz 1983 The\nlin-12 locus specifies cell fates in Qg elegans. Cell 34, 435-\n444.\n2. Greenwald (1985) lin-12, a nematode homeotic gene is\nhomologous to a set of mammalian proteins that includes epidermal\ngrowth factor. Cell 43, 583-590.\n3. Greenwald (1987) The lin-12 locus of Qg elegans. Bioessays\n6, 70-72.\n4. Austin, J. and Kimble, J. 1987 glp-1 is required in the germ\nline for regulation of the decision between mitosis and meiosis\nin Qg elegans. Cell 51, 589 - 599.\nHeterochronics\nAmbros, V. and Horvitz, H.R. (1984) Heterochronic mutatns of the\nnematode Qg elegans, Science, 226, 409-416.\nAmbros, V. and Horvitz, H.R. (1987) The lin-14 locus of \nelegans controls the time of expression of specific postembryonic\ndevelopmental events, Genes and Dev. 1, 398-414.\nratio\n1. Madl, J. E. and Herman, R. K. 1979 Polyploids and sex\ndetermination in Caenorhabdidits elegans. Genetics 93, 393-402.\n2. Villeneuve, A.M. and Meyer, B.J. (1987) sdc-1: a link between\nsex determination and dosage compensation in Qg elegans. Cell 48,\n25-37.\ntra genes\n1. Hodgkin, JA, Brenner, S. 1977 Mutations causing\ntransformation of sexual phenotype in the nematode Caenorhabditis\nelegans. Genetics 86:275-287.\n2. Hodgkin, J. 1987b .A genetic analysis of the sex-\ndetermining gene, tra-1, in the nematode Caenorhabditis elegans.\nGenes Dev. 1, 731-745.\n3. Doniach, T. 1986 Activity of the sex-determining gene tra-2\nis modulated to allow spermatogenesis in the Qg  elegans\nhermaphrodite. Genetics, 114, 53-76.\nfem genes and her-1\n1. Hodgkin, J, 1980 More sex-determination, mutants of\nCaenorhabditis elegans. Genetics 96:649-664.\n2. Doniach, T. and Hodgkin, J. 1984 A sex-determining gene,\nfem-1, required for both male and hermaphrodite development in\nCaenorhabditis elegans. Develop Biol 106:223-235.\n3. Hodgkin, J. 1986 Sex determination in the nematode Qg \nelegans: Analysis of tra-3 suppressors and characterization of\nfem genes. Genetics, 114, 15-52.\n4. Barton, M.K., Schedl, T.B., and Kimble, J. 1986 Gain-of-\nfunction mutations of fem-3, a sex determination gene in\nCaenorhabditis elegans. Genetics, 115, 107-119.\n5. Trent, C. N., Wood, W.B., and Horvitz, H.R. 1988 A novel\ndominant transformer allele of the sex-determining gen her-1 of\nCaenorhabditis elegans.\n2\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Qg elegans"
+    },
+    {
+      "supplied_name_string": "Caenorhabdidits elegans",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "642c0c40-8323-52dd-85fc-7578cebc6958",
+          "name_string": "Caenorhabditis elegans",
+          "canonical_form": "Caenorhabditis elegans",
+          "classification_path": "Animalia|Nematoda|Secernentea|Rhabditida|Rhabditidae|Caenorhabditis|Caenorhabditis elegans",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2370385|2370467|2370489|2370502|2458420|6906297",
+          "taxon_id": "6906297",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "642c0c40-8323-52dd-85fc-7578cebc6958",
+          "name_string": "Caenorhabditis elegans",
+          "canonical_form": "Caenorhabditis elegans",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628383",
+          "local_id": "403869",
+          "url": "http://eol.org/pages/403869",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Caenorhabditis elegans",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "642c0c40-8323-52dd-85fc-7578cebc6958",
+          "name_string": "Caenorhabditis elegans",
+          "canonical_form": "Caenorhabditis elegans",
+          "classification_path": "Animalia|Nematoda|Secernentea|Rhabditida|Rhabditidae|Caenorhabditis|Caenorhabditis elegans",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2370385|2370467|2370489|2370502|2458420|6906297",
+          "taxon_id": "6906297",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "642c0c40-8323-52dd-85fc-7578cebc6958",
+          "name_string": "Caenorhabditis elegans",
+          "canonical_form": "Caenorhabditis elegans",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34422705",
+          "local_id": "403869",
+          "url": "http://eol.org/pages/403869",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

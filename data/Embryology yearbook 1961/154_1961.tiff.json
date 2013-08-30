@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=dliJXZ6fT2SfiHpI2sFuWw",
+  "input_url": null,
+  "file": "154_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.134257587,
+    "total_duration": 25.424776145
+  },
+  "agent": "",
+  "created": "2013-06-18T12:15:35-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "\n7*\n\nTHE TROCHOPHORE \ni\nThis most ubiquitous of invertebrate larvae is characteristic of Annelius,\nMolluscs, Ectoproets, Enuoproots, and Brachiepods. It is possible that the\ntroehophore was invented only once, but it is equally possible that it evolved\nseveral times independently. Given the requirement of ciliary locomotion in sur-\nface waters, of an alimentary system with mouth and anus, and of triploblastic\norigin, then a trochophore-like organism is the simplest answer and a virtual\nnecessity, at least as a transient stage.\n-1\n,nfs\n'liar.\n.v\n\n-I \n\nurnThe larva carries an apical tuft of long eilia on an anterior sensory plate,\na preoral oiliated band, the prototrooh, and in many troohophores a postural\nmetatroch is also present, together with a telotrosh, a posterior eiliary tuft.\nInternally, in addition to a oomplete alimentary canal, there is an aruhinephri-\ndium, running diagonally from the mouth region to the anus region.\nThe trochophore arises from the gastrula by increased relative proliferation\nof dorsal posterior sells (descendants of Bd), which shifts the blastophore from\nthe vegetative pole ventrally, to the mouth position. In some cases the blaste-\npore becomes oval, oonstriets in the middle, and so gives rise tu both mouth and\nanus. Otherwise a proetodaeum breaks through independently. Alongside the in-\ntestine are the mesoblast cells, descendants of Ad, the larval mesoderm.\nIn ?npglig?, the troohophore gradually metamorohoses by posterior longitudinal\nproliferation, and subsequent segmentation, of the posterior ectoderm, the meso-\nblests, and the intestine, and by transformation uf the remainder of the larva into\nthe adult head.\nIn holluses, the trochophore transforms into another larva, the VELIGER, which\nmetamorphoses into the adult later. The Veliger is characterized principally by\nthree structures: the velum, a ciliated flap developed from the pretotroch and\nserving as loeomotor organ; the shell gland, differentiated from the dorsal post-\nprototroohal eetoaerm, which forms the mantle and shell of the adult; and the\nanlage of the adult foot, originally an actodermal thickening just behind the\nmouth of the troohophore, later backed increasingly by proliferating mesenehyme,\nIn the metamorphosing Veliger, the velu  is sloughed off and anterior larval\ntissues disintegrate, Su that the mouth and the mergent foot are drawn relatively\nforward, The shell by this time is typical of a given mollusean class.\n\n"
+}

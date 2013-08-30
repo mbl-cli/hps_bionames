@@ -1,0 +1,196 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=iJ61L3DISTiF3E7TcbZuxw",
+  "input_url": null,
+  "file": "95_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.067393504,
+    "resolve_names_duration": 1.664768844,
+    "total_duration": 26.416621268
+  },
+  "agent": "",
+  "created": "2013-06-18T12:51:50-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Siphonophora",
+      "scientificName": "Siphonophora",
+      "offsetStart": 12,
+      "offsetEnd": 23,
+      "identifiedName": "Siphonophora"
+    },
+    {
+      "verbatim": "Physalia",
+      "scientificName": "Physalia",
+      "offsetStart": 273,
+      "offsetEnd": 280,
+      "identifiedName": "Physalia"
+    },
+    {
+      "verbatim": "Acraspedole medusae",
+      "scientificName": "Acraspedole medusae",
+      "offsetStart": 314,
+      "offsetEnd": 332,
+      "identifiedName": "Acraspedole medusae"
+    },
+    {
+      "verbatim": "Semaeoslomeae",
+      "scientificName": "Semaeoslomeae",
+      "offsetStart": 496,
+      "offsetEnd": 508,
+      "identifiedName": "Semaeoslomeae"
+    },
+    {
+      "verbatim": "Cyanea",
+      "scientificName": "Cyanea",
+      "offsetStart": 650,
+      "offsetEnd": 655,
+      "identifiedName": "Cyanea"
+    }
+  ],
+  "content": "\n\n-2-\nOrder Siphonophora\nFree swimming or floaiing colonies of several Types of polypoid\nand medusoid individuals allached To a siem or disk.\nMedusoids never compleie and rarely freed.\nSuborder Physophorida\nUpper end of colony composed of afloal (pneumaTophore).'\nExample: Physalia (Porluguese Men of War).\nClass \nAcraspedole medusae; polyp generafion lacking or represenled by a\npolypoid Type (sophisfoma) which develops direcily info The adull\nor gives off medusae by Transverse fission.\nQrder Semaeoslomeae\nCorners of moufh prolonged inTo four long, frilly lobes,\nWiihoul sepfa dividing gasirovascular sysTem.\nMargin scalloped.\nExamples: Awrelia, Cyanea\nClass Anfhozoa\nExclusively polypoid.\nNoi considered here. A common represenTa+ive is Meiridium, a\nSea anemonei\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Siphonophora",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "f617ee65-76aa-5607-a3c2-515941e4d6c9",
+          "name_string": "Siphonophora",
+          "canonical_form": "Siphonophora",
+          "classification_path": "Animalia|Arthropoda|Diplopoda|Siphonophorida|Siphonophoridae|Siphonophora",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362596|2366463|2366465|2467206",
+          "taxon_id": "2467206",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f617ee65-76aa-5607-a3c2-515941e4d6c9",
+          "name_string": "Siphonophora",
+          "canonical_form": "Siphonophora",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30891985",
+          "local_id": "39014",
+          "url": "http://eol.org/pages/39014",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Physalia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5c178d3f-c938-5bf9-abbb-0101662a3f55",
+          "name_string": "Physalia",
+          "canonical_form": "Physalia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Siphonophora|Physaliidae|Physalia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363495|2363496|2488337",
+          "taxon_id": "2488337",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5c178d3f-c938-5bf9-abbb-0101662a3f55",
+          "name_string": "Physalia",
+          "canonical_form": "Physalia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20632062",
+          "local_id": "100920",
+          "url": "http://eol.org/pages/100920",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Acraspedole medusae"
+    },
+    {
+      "supplied_name_string": "Semaeoslomeae",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Cyanea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "0fdfe1e9-1543-5561-a74d-309d03db36f3",
+          "name_string": "Cyanea",
+          "canonical_form": "Cyanea",
+          "classification_path": "Animalia|Cnidaria|Scyphozoa|Semaeostomeae|Cyaneidae|Cyanea",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363461|2363484|2366666|2488012",
+          "taxon_id": "2488012",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0fdfe1e9-1543-5561-a74d-309d03db36f3",
+          "name_string": "Cyanea",
+          "canonical_form": "Cyanea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "32514538",
+          "local_id": "2520297",
+          "url": "http://eol.org/pages/2520297",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    }
+  ]
+}

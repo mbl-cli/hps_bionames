@@ -1,0 +1,140 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=hfcXJ4arQcyQFlPUemojwA",
+  "input_url": null,
+  "file": "Embryology 1939_9.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.172005129,
+    "resolve_names_duration": 0.835639488,
+    "total_duration": 22.624321003
+  },
+  "agent": "",
+  "created": "2013-06-19T15:34:22-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Fundulus heteroclitus",
+      "scientificName": "Fundulus heteroclitus",
+      "offsetStart": 185,
+      "offsetEnd": 205,
+      "identifiedName": "Fundulus heteroclitus"
+    },
+    {
+      "verbatim": "Fundulus majalis",
+      "scientificName": "Fundulus majalis",
+      "offsetStart": 207,
+      "offsetEnd": 222,
+      "identifiedName": "Fundulus majalis"
+    },
+    {
+      "verbatim": "Gpsanus",
+      "scientificName": "Gpsanus",
+      "offsetStart": 224,
+      "offsetEnd": 230,
+      "identifiedName": "Gpsanus"
+    }
+  ],
+  "content": "\n1959\nEMBRYOLGGY\nDevelopment of the Teleost\nTwo types of eggs will usually be studied; the pelagic egg and\nthe non-pelagic or dermersal egg,\nThe dermersal, (non-pelagic) egg.\nExamples; Fundulus heteroclitus\nFundulus majalis\nGpsanus tau\nl. Two cultures should be started by\neither student or instructor (announcement will be made) on the firs\nday, one at 1G A.M. and the second as late in Udo evening as prac~\nticable. ihrrangements should also be made at each table to start at\nleast one culture for immediate study of fertilization.\na. Strip eggs into a clean bowl which has been moistened by sea\nwater. Strip milt and mix with eggs with barely sufficient salt\nwater to cover the eggs. Eggs should not be allowed to stand more\nthan five minutes before fertilizing. Pfter ten minutes add and\nchange sea water and leave in shallow water (not more than l/4 inch\ndeep). Keep bowl covered with glass plate. Do not at any time\nallow eggs to clump or accumulate in one spot. Label each lot with\nexact time of fertilization;\" Change water'?t least once a day.\nb. The eggs should first be studied in condition in which they are\nspawned but for many purposes it is desirable to prepare the egg as\nfollows for microscopic study: remove the egg to a piece of filter\npaper until the jelly and outer fibres are removed leaving the sur-\nface of the outer membrane smooth and clean. Place in sea water\nin culture slide in which the depth of the depression is \nless than the diameter of the egg. ,(These are provided in the \nLaboratory equipment.) The egg may now be rotated by moving the\ncover slip. Another method is to mount on an ordinary glass slide\nin sea water under a thin flexible piece of mica peeled from the\nthicker mica sheets that are provided. Draw off the water until\ncapillary attraction causes a pressure on the efg and rotate it as\nin the preceding method.\n\n2. THE OVUM To study unfertilized eggs they should be obtained from\nfemale Uaat has been kept in fresh water for about 20 minutes. Strip\nand keep the egg in dilute sea water (VOV fresh water SOQ sea water)\nto retain the morphological characteristics observable at time of\nextrusion. Note details of structures of the unfertilized mature\novum. These include yolk, plates, oil drops, protoplasm, membranes,\nmicropyle, etc. (The micropyle must be observed before removal of\nchorionic jelly.)y If immature ova are present compare these with\nmature ova.\n5. Note exact time of fertilization and be prepared\nto study immediate changes. Note time of change of yolk plates; of\nformation of porivitelline space. What are your conclusions in\nregard to the rapidity of the activation of the egg? If practicable\nfind micropyle on unfertilized egg. lnseminate and note spreading\nof fertilization reaction from locus to micropyle.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus heteroclitus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "b4e4dfca-4136-5fc1-8688-53af51190898",
+          "name_string": "Fundulus heteroclitus",
+          "canonical_form": "Fundulus heteroclitus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Elopocephala|Clupeocephala|Euteleostei|Neognathi|Neoteleostei|Eurypterygii|Ctenosquamata|Acanthomorpha|Euacanthomorpha|Holacanthopterygii|Acanthopterygii|Euacanthopterygii|Percomorpha|Smegmamorpha|Atherinomorpha|Cyprinodontiformes|Cyprinodontoidei|Fundulidae|Fundulus|Fundulus heteroclitus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||class||||||||||||||superorder|||||order|suborder|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|7898|186623|41665|32443|186624|186625|32447|186839|123365|123366|123367|123368|123369|123370|32455|129947|32485|129949|32456|28738|8087|28756|8077|8078",
+          "taxon_id": "8078",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b4e4dfca-4136-5fc1-8688-53af51190898",
+          "name_string": "Fundulus heteroclitus",
+          "canonical_form": "Fundulus heteroclitus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39163140",
+          "local_id": "1157172",
+          "url": "http://eol.org/pages/1157172",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Fundulus majalis",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "49d8cb5d-7646-5054-b820-b2a2c648b597",
+          "name_string": "Fundulus majalis",
+          "canonical_form": "Fundulus majalis",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Actinopterygii|Actinopteri|Neopterygii|Teleostei|Elopocephala|Clupeocephala|Euteleostei|Neognathi|Neoteleostei|Eurypterygii|Ctenosquamata|Acanthomorpha|Euacanthomorpha|Holacanthopterygii|Acanthopterygii|Euacanthopterygii|Percomorpha|Smegmamorpha|Atherinomorpha|Cyprinodontiformes|Cyprinodontoidei|Fundulidae|Fundulus|Fundulus majalis",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||class||||||||||||||superorder|||||order|suborder|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|7898|186623|41665|32443|186624|186625|32447|186839|123365|123366|123367|123368|123369|123370|32455|129947|32485|129949|32456|28738|8087|28756|8077|76053",
+          "taxon_id": "76053",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "49d8cb5d-7646-5054-b820-b2a2c648b597",
+          "name_string": "Fundulus majalis",
+          "canonical_form": "Fundulus majalis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29115214",
+          "local_id": "203797",
+          "url": "http://eol.org/pages/203797",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gpsanus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

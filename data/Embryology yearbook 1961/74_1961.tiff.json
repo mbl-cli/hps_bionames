@@ -1,0 +1,203 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=K2ogXzQtTMq2NDQGbUhk1Q",
+  "input_url": null,
+  "file": "74_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.228366003,
+    "resolve_names_duration": 2.185470955,
+    "total_duration": 32.480560121
+  },
+  "agent": "",
+  "created": "2013-06-18T12:43:44-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Qhaetonleura aniculata",
+      "scientificName": "Qhaetonleura aniculata",
+      "offsetStart": 1,
+      "offsetEnd": 22,
+      "identifiedName": "Qhaetonleura aniculata"
+    },
+    {
+      "verbatim": "Chiton)",
+      "scientificName": "Chiton",
+      "offsetStart": 29,
+      "offsetEnd": 35,
+      "identifiedName": "Chiton"
+    },
+    {
+      "verbatim": "(Amphineura)",
+      "scientificName": "Amphineura",
+      "offsetStart": 37,
+      "offsetEnd": 48,
+      "identifiedName": "Amphineura"
+    },
+    {
+      "verbatim": "A. lime",
+      "scientificName": "Amphineura lime",
+      "offsetStart": 2610,
+      "offsetEnd": 2616,
+      "identifiedName": "A. lime"
+    }
+  ],
+  "content": "\nQhaetonleura aniculata (the Chiton) (Amphineura)\nThe species is dioecious, but there is no way of UiStiDgHiSUihg the\nsexes externally.\nSuggestions for Because of the large size and opacity of the egg,\nthe early development is best studied by mounting egg samples in depression\nslides. Moving larvae can be mounted in a dilute solution of Janus Green for\nobservation.\nl. Obtgining eggs: Breeding begins about June 20 and is abundant from July 10 to\nAugust 20. Eggs are usually spawnec from 8-ll P.U. Few, if any, individuals\nspawn during the first night in the laboratory. To obtain eggs and sperm remove\n30 to 40 individuals from their shells and place them in sea water in a large\nfinger bow1? Keep aerated sea water running through the bowl auring the day.\nIn the late PM wash the animals ann dish free of sediment and leave the dish\nundisturbed on a table. Animals may begin to spawn at about 8 PM or thereafter\nand may continue for an hour or so.\n2 - \nThe The spherical egg measures from 180 to l9O micra in\ndiameter and appears opaque due to the large amount of yolk, Although internal\nprocesses can not be seen in living eggs, sections show that the ovum is usually\nin the process of developing the first maturation spindle when it is shed.\nSurrounding the egg is a tough, bristly ghorign, when the eggs emerge from the\noviduot they are embedded in a viscid jelly-like secretion which spreads over the\nbottom of the dish in a thin film,\n3. ?ertilization anu Clgavaggr There are no visible changes at the time of\nfertilization; a fertilization membrane is not raised and the egg does not change\nshape. Two transparent oolgr bodies are given off but no polar lobes are formed.\nThe first noticeable change occurs shortly before first cleavage when there is a\nslight flattening of the egg at the animal pole. The first cleavgge furrow\n(l hr. 40 mins. to hr. 50 mins. after insemination) divides the egg, in most\ncases, into equal blastomeres. In a small percentage of cases, one blastomere\nis perceptibly larger, The second cleavage is at right angles to the first, and\nagain in some cases the cell is larger. The cells of the figgt\nguartette of micromeres given off by the dexiotronic thigQ glegvage are distinv\nguishable from the larger mgcromeres. The further divisions follow the regular\npattern of spiral cleavage. Four quartettes of micromeres are given off. The\nfirst three give rise to the ectoderm, nervous system, and stomadeum, while the\nfourth quartette (except for the Ld cell) becomes part of the endoderm along with\nthe macromeres. The Ld cell gives rise to the mesoderm as well as endoderm.\nA. lime Table of The following record, procured from a batch of\neggs developing at is offered as a rough outline of developmental rate.\nMetamorphosis seemed tu occur early in this batch, the usual time being from\n7-12 days. Time is recorded from the time of insemination:\npolar body 30 min.\n2nd 55 min.\ncleavage lg-hours\n:ana 2 \n3rd 2 A0 min,\ngastrulation ca. 13 hrs.\nbeating cilia 14 hrs,\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Qhaetonleura aniculata",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5bddb098-8629-51fb-844c-9b8342c42236",
+          "name_string": "Chaetopleura angulata (Spengler, 1797)",
+          "canonical_form": "Chaetopleura angulata",
+          "classification_path": "Animalia|Mollusca|Polyplacophora|Neoloricata|Ischnochitonidae|Chaetopleura|Chaetopleura angulata",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362382|2363931|2363932|2368791|2381428|5976491",
+          "taxon_id": "5976491",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Chiton",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "bf19d008-8a62-5b79-9bfd-83c4d25b39a5",
+          "name_string": "Chiton",
+          "canonical_form": "Chiton",
+          "classification_path": "Animalia|Mollusca|Polyplacophora|Neoloricata|Chitonidae|Chiton",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2363931|2363932|2363934|2432786",
+          "taxon_id": "2432786",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "bf19d008-8a62-5b79-9bfd-83c4d25b39a5",
+          "name_string": "Chiton",
+          "canonical_form": "Chiton",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20732751",
+          "local_id": "57754",
+          "url": "http://eol.org/pages/57754",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Amphineura",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "fae99613-3a65-53b0-8279-9f36dd9fc590",
+          "name_string": "Amphineura",
+          "canonical_form": "Amphineura",
+          "classification_path": "Animalia|Mollusca|Polyplacophora",
+          "classification_path_ranks": "Kingdom|Division|Class",
+          "classification_path_ids": "202423|69458|78807",
+          "taxon_id": "78809",
+          "current_taxon_id": "78807",
+          "current_name_string": "Polyplacophora Blainvillle, 1816",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "fae99613-3a65-53b0-8279-9f36dd9fc590",
+          "name_string": "Amphineura",
+          "canonical_form": "Amphineura",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_11973390",
+          "local_id": "2680",
+          "url": "http://eol.org/pages/2680/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 5,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Amphineura lime",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "fae99613-3a65-53b0-8279-9f36dd9fc590",
+          "name_string": "Amphineura",
+          "canonical_form": "Amphineura",
+          "classification_path": "Animalia|Mollusca|Polyplacophora",
+          "classification_path_ranks": "Kingdom|Division|Class",
+          "classification_path_ids": "202423|69458|78807",
+          "taxon_id": "78809",
+          "current_taxon_id": "78807",
+          "current_name_string": "Polyplacophora Blainvillle, 1816",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "fae99613-3a65-53b0-8279-9f36dd9fc590",
+          "name_string": "Amphineura",
+          "canonical_form": "Amphineura",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30083283",
+          "local_id": "4946532",
+          "url": "http://eol.org/pages/4946532",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 5,
+      "in_curated_sources": true
+    }
+  ]
+}

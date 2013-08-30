@@ -1,0 +1,226 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Q3usXKSHSSadG0EpDi7xBg",
+  "input_url": null,
+  "file": "Embryology 1939_72B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.104276056,
+    "resolve_names_duration": 27.171777021,
+    "total_duration": 49.023855743
+  },
+  "agent": "",
+  "created": "2013-06-19T15:32:56-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Protoplasma",
+      "scientificName": "Protoplasma",
+      "offsetStart": 311,
+      "offsetEnd": 321,
+      "identifiedName": "Protoplasma"
+    },
+    {
+      "verbatim": "Crepidula.",
+      "scientificName": "Crepidula",
+      "offsetStart": 342,
+      "offsetEnd": 351,
+      "identifiedName": "Crepidula"
+    },
+    {
+      "verbatim": "Unio.",
+      "scientificName": "Unio",
+      "offsetStart": 478,
+      "offsetEnd": 482,
+      "identifiedName": "Unio"
+    },
+    {
+      "verbatim": "Nereis.",
+      "scientificName": "Nereis",
+      "offsetStart": 1146,
+      "offsetEnd": 1152,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Clepsine,",
+      "scientificName": "Clepsine",
+      "offsetStart": 1260,
+      "offsetEnd": 1268,
+      "identifiedName": "Clepsine"
+    }
+  ],
+  "content": "-5-\nLiterature List on Fertilization, Cleavage, etc.\nlunar Feriodleity\nMeturation\nFertlliaatlon\nCleavage\ntile `i3 cal\nFox; Proe..Roy, Soo. London, B., \nLillie and Just; Biol. 3ull. lQl5, 24.\nCowdry, Cytology\nWilson, The Cell\nLillie, Eroblems in Fertllisation, -(full litera-\nture list)\nJust, Fertillzin Theory. Protoplasma, 1930, lC\nConklin, Crepidula. J, Mor,n, l8Q7, l5. \nHunley and DeBeer, l934, Elements of Experimental\nEmbryology, Chap, 5, (C)ambridge'Unlv. Press.\nLillie, Unio. J. Norpn. l895, lO.\nLillie, Adaptation. W. H. Lectures, l89&.\nMead, A. D., 1397. The Early development of\nMarine Annelids. J. Morph., 15, 227.\nMorgan, T. H., 1927. Experimental Embryology.\nColumbia Univ. frees. N. Y.\nMorgan, T. H., 1954. Embryology and Genetics,\nChap. 4. Columbia Univ. Brees, N, Y.\nM@rgan, T. H., and Albert Tyler, The\npoint of entrance of the spermatozoon in re-\nlation to the orientation of the embryo in\neggs win; spiral ckeavage. Biol. Bull.,\nss, se.\nNewby, W. W., l952. The early development of\nthe Eoniurold Ureonis. Biol, Bull., 65, 537.\nHienards, Aute, l93l. Outline of Comparative\nEmbryology, P. 50. John Wiley Sons, New\nYork.\nWilson, Nereis. J. Morph., l&Q2, 6,\nWilson, Cell Lineage. W. H. Lectures, l898.\nEalfour, Comp. Embryology Vol. 2\nWhitman,\nClepsine, Q. J. ll. s, rise, ls.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Protoplasma"
+    },
+    {
+      "supplied_name_string": "Crepidula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Calyptraeidae|Crepidula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370194|2370205|2410985",
+          "taxon_id": "2410985",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44534464",
+          "local_id": "404808",
+          "url": "http://eol.org/pages/404808",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Unio",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "41dd71e7-1ebe-5aa9-9f4b-e62f3cdc8bc9",
+          "name_string": "Unio",
+          "canonical_form": "Unio",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Lophotrochozoa|Mollusca|Bivalvia|Palaeoheterodonta|Unionoida|Unionoidea|Unionidae|Unioninae|Unio",
+          "classification_path_ranks": "|superkingdom||kingdom||||||phylum|class|subclass|order|superfamily|family|subfamily|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206795|6447|6544|47520|47521|47522|47526|293139|55836",
+          "taxon_id": "55836",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "41dd71e7-1ebe-5aa9-9f4b-e62f3cdc8bc9",
+          "name_string": "Unio",
+          "canonical_form": "Unio",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20686100",
+          "local_id": "2979542",
+          "url": "http://eol.org/pages/2979542",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Clepsine",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "c469d3df-ce05-5c62-9cde-d7f07660e319",
+          "name_string": "Clepsine",
+          "canonical_form": "Clepsine",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "32518314",
+          "local_id": "15508429",
+          "url": "http://eol.org/pages/15508429",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "c469d3df-ce05-5c62-9cde-d7f07660e319",
+          "name_string": "Clepsine",
+          "canonical_form": "Clepsine",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "32518314",
+          "local_id": "15508429",
+          "url": "http://eol.org/pages/15508429",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    }
+  ]
+}

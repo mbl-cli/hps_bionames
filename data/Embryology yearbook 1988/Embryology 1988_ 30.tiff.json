@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=dfSxE7VxQ8GEaqrasug6PQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 30.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.051783369,
+    "total_duration": 20.290619225
+  },
+  "agent": "",
+  "created": "2013-06-18T13:17:00-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "7\nprocedures since close packing can cause mechanical and physiological damage. Larvae\ncan be collected by filtration through Nitex or by gentle centrifugation. Swimming\nlarvae can first be slowed or immobilized by chilling. Sedimentation of embryos and\nlarvae, once concentrated in small enough volumes, is easily accomplished using a hand\ncentrifuge or a tabletop clinical centrifuge.\n\n"
+}

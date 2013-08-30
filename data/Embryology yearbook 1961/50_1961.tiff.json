@@ -1,0 +1,129 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=cGq6VE9EShesKjxgMMdU4A",
+  "input_url": null,
+  "file": "50_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.116296502,
+    "resolve_names_duration": 1.429340462,
+    "total_duration": 26.346556135
+  },
+  "agent": "",
+  "created": "2013-06-18T12:35:03-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 340,
+      "offsetEnd": 347,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 448,
+      "offsetEnd": 455,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Oryzias",
+      "scientificName": "Oryzias",
+      "offsetStart": 612,
+      "offsetEnd": 618,
+      "identifiedName": "Oryzias"
+    }
+  ],
+  "content": " \nP. B., i936. Mechanism of halching in FundulusgheTeroCIiTu5. Biol.\nBull. lL\nHayes, F. R. l949. The growfh, general chemisiry, and Temperaiure relaiions of\nSalmonid eggs. Quarl. Rev. Biol., gg, 28|-308\nJones, R. W. l939. Analysis of developmeni of fish embryos by means of The\nindex. V. The processes of early differeniialion of organs of Fundulus\nheferocliius. Trans. Amer. Micr. Soc., QQ\nMilkman, R., I954. Conlroiled observalion of halching in Fundulus helerocliius.\nBaal. Bull.. LQL 300.\nlX. Origin and Migralion of Pigmeni Cells\nGoodrich, H. B., l92B. A siudy of The developmeni of Mendelian characlers in\nOryzias lalipes. J. Exp. Zooli, ii\nGoodrich, H. B. l935. The developmenl of herediTary color paiierns in fish.\nAm. Q2\nGoodrich, H. B. l95O. Problems of origin and migralion of pigmenl cells in fish.\nZoologica, QQ, l7-i8\nLopashov, G. V. l944. Origin of pigmeni cells and visceral carfilage in Teleosfs.\nC. R. (Doklady) Acad. Sci. U.S.S.R., 35, |69-l72\nOppenheimer, J. M. l949. Aiypical pigmeni-cell differeniialion in embryonic\nTeleoslean graffs and isolaies. Proc. Na+. Acad. Sci. QQ, 709-7I2\nSlockard, C. R. l905. A sludy of wandering cells on The living yolk\nsac. Am. Jour. Anal., \nSlockard, C. R., l9l5. An experimenial analysis of The origin of blood and\nvascular endolhelium. Mem. Wisfar lnsl. Anal., Biol. No. 7\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Oryzias",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "311d533a-2ced-5dfb-9aa8-c48e74f6e31b",
+          "name_string": "Oryzias",
+          "canonical_form": "Oryzias",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Beloniformes|Adrianichthyidae|Oryzias",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2371930|2371935|2396455",
+          "taxon_id": "2396455",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "311d533a-2ced-5dfb-9aa8-c48e74f6e31b",
+          "name_string": "Oryzias",
+          "canonical_form": "Oryzias",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20703780",
+          "local_id": "16276",
+          "url": "http://eol.org/pages/16276",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

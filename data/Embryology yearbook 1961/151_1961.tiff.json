@@ -1,0 +1,90 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=6FQYiHaRQSGjWgPYKImAsw",
+  "input_url": null,
+  "file": "151_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.093637467,
+    "resolve_names_duration": 0.576507754,
+    "total_duration": 25.159267361
+  },
+  "agent": "",
+  "created": "2013-06-18T12:14:28-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "EPHYRA",
+      "scientificName": "Ephyra",
+      "offsetStart": 377,
+      "offsetEnd": 382,
+      "identifiedName": "Ephyra"
+    },
+    {
+      "verbatim": "(Ephyra)",
+      "scientificName": "Ephyra",
+      "offsetStart": 444,
+      "offsetEnd": 451,
+      "identifiedName": "Ephyra"
+    },
+    {
+      "verbatim": "Ephyra",
+      "scientificName": "Ephyra",
+      "offsetStart": 782,
+      "offsetEnd": 787,
+      "identifiedName": "Ephyra"
+    }
+  ],
+  "content": "\nWhere the eneuderm is sclid, a gastral cavity develops at the time of larval\nattachment. The free~swimming perioe shunt a day. \niff? cl, P.\n\n. new  \n\n  \n  \niwt   \n7771 \n\nAn attached planula may metamorphose either into a permanent polyp phase\n(Actinozoa), cr into a polyp phase which may later alternate with a medusa\nphase (Hycruzoa), or into a permanent me&usa phase via an EPHYRA larva\n\n\n,/ ll 'f/ef 53 ?T7;f% - fY \n=y35fees \n<(Actinuzoen) (Ephyra)\nIEPHYRA.\nAfter the plannla has beceme attached, tentacle buds form\nantericrly and an \"oral disc\" begins to constrict off transversely. Many more\nsuch discs may subsequently in pcsterior succession. This prccess of\nairectly transforms a single planula inte many medusa-type adults.\nThe strebilized larval ccnditisn represents the Ephyra phase.\nAGTINULA\nIn and other the planula does nut beccme free-\nswimming, but is representen by an ahbreviatec 2-layered embryenic stage. In\nfor example, a p1anula~like embryo remains in the gonophure, where it\ndevelops lateral pretuberances, the presumptive abnral tentacles. A gastral\ncavity then farms, oral tentacle buss appear, and a mcuth breaks through. In\nthis concition the larva beccmes free, ann is new called an Actinula. It creeps\nalong the bottcn fur scne tins, eral end duwn. Then it turns over and becomes\nattached aburally.\nThe planula certainly, and perhaps also an Actinula-like Uyganism, represents\nthe ancestral ccelenterate condition. It has aiven rise to the present taxonemic\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ephyra",
+      "results": [
+        {
+          "data_source_id": 7,
+          "data_source_title": "Union 4",
+          "gni_uuid": "9159e1ba-62ba-5c07-a157-94733b596bed",
+          "name_string": "Ephyra",
+          "canonical_form": "Ephyra",
+          "classification_path": "|Cellular life|Eukaryota|Opisthokonts|Choanoflagellates and animals|Animalia|Epitheliates|Bilateria|Ecdysozoa|Legged ecdysozoa|Arthropoda|Hexapods|Insecta|Pterygota|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Eulepidoptera|Macroheterocera|Geometroidea|Geometridae|Ephyra",
+          "classification_path_ranks": "|above family|above family|above family|above family|unranked|above family|above family|above family|above family|above family|above family|above family|above family|above family||||||above family|family|genus",
+          "classification_path_ids": "2822864|2823207|2828118|2843765|2843766|2843767|2843768|17974913|2910040|2910041|2910042|2913524|2913525|2922935|3011222|20432451|20432460|20432464|20432467|20432500|3015227|3015228|3016278",
+          "taxon_id": "3016278",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "9159e1ba-62ba-5c07-a157-94733b596bed",
+          "name_string": "Ephyra",
+          "canonical_form": "Ephyra",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35445106",
+          "local_id": "4262530",
+          "url": "http://eol.org/pages/4262530",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 7,
+      "in_curated_sources": true
+    }
+  ]
+}

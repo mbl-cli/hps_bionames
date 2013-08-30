@@ -1,0 +1,251 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=nuKdy42SQZ2gaSawpz7HIQ",
+  "input_url": null,
+  "file": "Embryology 1939_38B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.167153945,
+    "resolve_names_duration": 1.310275142,
+    "total_duration": 22.559593397
+  },
+  "agent": "",
+  "created": "2013-06-19T15:25:52-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Clava squamata",
+      "scientificName": "Clava squamata",
+      "offsetStart": 366,
+      "offsetEnd": 379,
+      "identifiedName": "Clava squamata"
+    },
+    {
+      "verbatim": "Tubularia",
+      "scientificName": "Tubularia",
+      "offsetStart": 1327,
+      "offsetEnd": 1335,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Hyoractinia echinata",
+      "scientificName": "Hyoractinia echinata",
+      "offsetStart": 1447,
+      "offsetEnd": 1466,
+      "identifiedName": "Hyoractinia echinata"
+    },
+    {
+      "verbatim": "Hydractinia",
+      "scientificName": "Hydractinia",
+      "offsetStart": 1690,
+      "offsetEnd": 1700,
+      "identifiedName": "Hydractinia"
+    },
+    {
+      "verbatim": "Podocoryne.",
+      "scientificName": "Podocoryne",
+      "offsetStart": 1706,
+      "offsetEnd": 1716,
+      "identifiedName": "Podocoryne"
+    }
+  ],
+  "content": " FOR \n1959\nMonographs, Keys, Special works. 1\nBrooks, W. K. 1886, Discussion of the origin of medusae, and of\nthe significance of metagenesis. Memoirs, Boston Soc.\nNatt     5, pp;  \nFoyn, Bjorn. 1928. Stuoien uber Geschlecht und \nbei Hyoroiden, Roux Lrchiv. Be. 114, 5. 501-510. \nBemerkungen uber die Entstehung der Keimzellen und die\nEntwioklung der Gonophoren bei Clava squamata.\nGoette, L. 1907. Vergleichende Entwicklungsgeschichte der\nGeschlechsindividuen der Hvdropolypen; f. wise\nzsei., ss. sv, 1-ses. \nHargitt, C. W., 1901.9 Am, Nat. 55, pp. 501, 579 ann 575, anQ 57,\np. 551, 1905. Synopsis of North American Invertebrates,\nThe Hydromedusao.\nEsrgitt, C. W., 1904. Bull. Bur. Fish. 24, P. 21 799)\nThe meousae of the Woods Hole Region.\nFirgitt, G. T., 1919. Germ cells of coelenterates. VI. General\nconsiderations ano conclusions. Jour. Morph. vol. 55,\npp 1 0\nCollege Studies vol. 5, p. 15. synopsis\n1 of the fixes hydroids of New England.\nMayer, A. G. 1910. Medusae of the World. Carnegie Institution of\nWashington, publication 109, 5 vols.\nRotting, C. G. 1901. The Hyoroids of the Hole regi n. Bull.\nU. S. Fish Commission, vol. 19, pp. 525-586.\nSumner, F. B. ano others, 1915. Bull. Bur. Fish., vol. 51. A\nbiological survey of the waters of Hole and vicinity\nsl-\nC. M. 1900. Biol. Bull. pp. 29l~5l5. The development of\nTubularia croeea.\nBeckwith, G. J. 1914. Jour. Morph. 25, pp. 189-251. The genesis of\nthe plasma structure in the egg of Hyoractinia echinata,\nBenoit, P. 1925. Lroh. de Zool. Exper. 64 pp, 85~525. LYovogenese\net les premiere stades ou eeveloppement ehez la Myriothele\net chez la tubulaire.\nBunting, M. 1894. Jour. MOrph. 9, pp. 205-256. The origin of sex\ncells in Hydractinia and Podocoryne.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Clava squamata",
+      "results": [
+        {
+          "data_source_id": 8,
+          "data_source_title": "Interim Register of Marine and Nonmarine Genera",
+          "gni_uuid": "f3c425b3-5ece-5ed2-8674-4a720ca3d19e",
+          "name_string": "Clava squamata",
+          "canonical_form": "Clava squamata",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Hydractiniidae|Clava|Clava multicornis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "11|151|1304|10646|100268|1342544|10207902",
+          "taxon_id": "10654909",
+          "local_id": "10654909",
+          "url": "http://www.marine.csiro.au/mirrorsearch/ir_search.taxon_info?id=10654909",
+          "current_taxon_id": "10207902",
+          "current_name_string": "Clava multicornis (Forsskal, 1775)",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 7,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hyoractinia echinata",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3ff27686-7b65-5b9a-8eaf-6b29937eaa86",
+          "name_string": "Hydractinia echinata Fleming, 1823",
+          "canonical_form": "Hydractinia echinata",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Hydractiniidae|Hydractinia|Hydractinia echinata",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366629|2381288|5379706",
+          "taxon_id": "5379706",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6513ee3a-f332-56a4-951e-ff626cc1cdef",
+          "name_string": "Hydractinia echinata",
+          "canonical_form": "Hydractinia echinata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992574",
+          "local_id": "201233",
+          "url": "http://eol.org/pages/201233",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydractinia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Hydractiniidae|Hydractinia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366629|2381288",
+          "taxon_id": "2381288",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327897",
+          "local_id": "23448",
+          "url": "http://eol.org/pages/23448",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Podocoryne",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a2302d31-68e1-51e5-a0b5-946f4c85df12",
+          "name_string": "Podocoryne",
+          "canonical_form": "Podocoryne",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5163751",
+          "local_id": "4695445",
+          "url": "http://eol.org/pages/4695445/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a2302d31-68e1-51e5-a0b5-946f4c85df12",
+          "name_string": "Podocoryne",
+          "canonical_form": "Podocoryne",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5163751",
+          "local_id": "4695445",
+          "url": "http://eol.org/pages/4695445/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    }
+  ]
+}

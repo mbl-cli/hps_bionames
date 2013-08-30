@@ -1,0 +1,224 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=kpqV3bTDQ2CDP4wo7QwtLQ",
+  "input_url": null,
+  "file": "Embryology 1939_65B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.071738682,
+    "resolve_names_duration": 0.791668612,
+    "total_duration": 21.300065909
+  },
+  "agent": "",
+  "created": "2013-06-19T15:31:15-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Cumingia tellinoides",
+      "scientificName": "Cumingia tellinoides",
+      "offsetStart": 51,
+      "offsetEnd": 70,
+      "identifiedName": "Cumingia tellinoides"
+    },
+    {
+      "verbatim": "Teredo navalis",
+      "scientificName": "Teredo navalis",
+      "offsetStart": 221,
+      "offsetEnd": 234,
+      "identifiedName": "Teredo navalis"
+    },
+    {
+      "verbatim": "Teredo navalis",
+      "scientificName": "Teredo navalis",
+      "offsetStart": 597,
+      "offsetEnd": 610,
+      "identifiedName": "Teredo navalis"
+    },
+    {
+      "verbatim": "Teredo.",
+      "scientificName": "Teredo",
+      "offsetStart": 687,
+      "offsetEnd": 693,
+      "identifiedName": "Teredo"
+    },
+    {
+      "verbatim": "Teredinae.",
+      "scientificName": "Teredinae",
+      "offsetStart": 791,
+      "offsetEnd": 800,
+      "identifiedName": "Teredinae"
+    }
+  ],
+  "content": "\nLiterature; Grave, B. H. l927. Natural History of Cumingia\ntellinoides. Biol. Eull. vol. 55.\nMorgan, T. H. 1910. Cytologioal Studies of Centri~\nfuged eggs. J. Exp. Zool. vol. 9.\n5) Study the development of the ship-worm Teredo navalis.\nDifferent stages will be available. The gastrula snows tne lnvagi-\nnating shell gland on the dorsal side, and the blastopore on the\nventral sides. The troohopnore is very typical, similar to the\ntroohopnore of Hydroidesf\"tut nas formed the shell. The Veliger\nlarva is also typical.\n ?;terature (consult figs.)\nB. H. Grave '28. Natural History of the Snipworm, Teredo\nnavalis. Biol. Bull. vol. 55.\nB. Hatsohek '8l. Uber die Entwioklungsgesonionte von\nTeredo. Arn. a. d. Zool, Inst. Wien. Vol. 5.\nC. P. Sigerfoos. '08, Natural History, organization\nof the Teredinae. Bull. Bureau of Fisheries. vol. 27.\n \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Cumingia tellinoides",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "448161f1-8359-56ac-862e-6d7a9ff4ee50",
+          "name_string": "Cumingia tellinoides",
+          "canonical_form": "Cumingia tellinoides",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35370639",
+          "local_id": "492835",
+          "url": "http://eol.org/pages/492835",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "448161f1-8359-56ac-862e-6d7a9ff4ee50",
+          "name_string": "Cumingia tellinoides",
+          "canonical_form": "Cumingia tellinoides",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35370639",
+          "local_id": "492835",
+          "url": "http://eol.org/pages/492835",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Teredo navalis",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "a80431fc-eb93-5f2c-b9fb-117ae0391df8",
+          "name_string": "Teredo navalis",
+          "canonical_form": "Teredo navalis",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Lophotrochozoa|Mollusca|Bivalvia|Heteroconchia|Myoida|Pholadoidea|Teredinidae|Teredo|Teredo navalis",
+          "classification_path_ranks": "|superkingdom||kingdom||||||phylum|class||order|superfamily|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206795|6447|6544|6599|278205|61346|114952|263428|263429",
+          "taxon_id": "263429",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a80431fc-eb93-5f2c-b9fb-117ae0391df8",
+          "name_string": "Teredo navalis",
+          "canonical_form": "Teredo navalis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29016000",
+          "local_id": "439957",
+          "url": "http://eol.org/pages/439957",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Teredo",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51339e73-4ff0-53e1-bb9a-247f7ec5988b",
+          "name_string": "Teredo",
+          "canonical_form": "Teredo",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Myoida|Myoida|Teredinidae|Teredo",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2369911|2369922|2369930|2369933|2433308",
+          "taxon_id": "2433308",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51339e73-4ff0-53e1-bb9a-247f7ec5988b",
+          "name_string": "Teredo",
+          "canonical_form": "Teredo",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26325828",
+          "local_id": "56957",
+          "url": "http://eol.org/pages/56957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Teredinae",
+      "results": [
+        {
+          "data_source_id": 2,
+          "data_source_title": "Wikispecies",
+          "gni_uuid": "cd9f6067-a694-5a6c-83dc-5c28c583c3dd",
+          "name_string": "Teredinae",
+          "canonical_form": "Teredinae",
+          "classification_path": "Animalia|Eumetazoa|Bilateria|Nephrozoa|Protostomia|Ecdysozoa|Panarthropoda|Artiopoda|Hexapoda|Meganeuromorpha|Dicondylia|Pterygota|Metapterygota|Basal|Eumetabola|Strashila incredibilis|Coleopterida|Coleopteron semicrematus||Baromiamima|Cryptophilinae|Bothrideridae|Teredinae",
+          "classification_path_ranks": "||||||||||||||||||||||",
+          "classification_path_ids": "80|4404|192967|249913|99137|148590|249529|425|11905|11903|151866|11899|277474|79348|277614|66325|227789|18728|99959|65216|95584|229761|249078",
+          "taxon_id": "249078",
+          "url": "http://species.wikimedia.org/wiki/Teredinae",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cd9f6067-a694-5a6c-83dc-5c28c583c3dd",
+          "name_string": "Teredinae",
+          "canonical_form": "Teredinae",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30098949",
+          "local_id": "2659290",
+          "url": "http://eol.org/pages/2659290",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    }
+  ]
+}

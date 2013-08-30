@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=9bAamHd9RNGPeqR2jrSArQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 19.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.228445302,
+    "resolve_names_duration": 0.624449245,
+    "total_duration": 26.3720684
+  },
+  "agent": "",
+  "created": "2013-06-18T13:14:52-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "STYELA",
+      "scientificName": "Styela",
+      "offsetStart": 4,
+      "offsetEnd": 9,
+      "identifiedName": "Styela"
+    }
+  ],
+  "content": "222 STYELA\nB. Post-Fertilisation Changes: The sperm enters at or near the vegetal pole\n(Conklin, l905a) maturation continues, and two polar bodies are given off. An\nextensive re-arrangement of the cytoplasm now occurs: within two to eight minutes\nafter fertilization, the clear, yellowish peripheral material streams to the lower\npole, over the yolk, followed by the clear protoplasm from the animal pole. This\nprocess is best studied using daylight for illumination; the microscope diaphragm\nshould be open as far as possible.\nThe grey yolk rises to occupy the upper pole, except for the space which sur-\nrounds the maturation spindle. Soon the yellow substance accumulates on one\npart of the lower hemisphere, where it assumes a crescentic form. Immediately\nabove the broad part of the yellow crescent, there is a layer formed by the clear\ncytoplasm.\nThe pigmented regions of the egg correspond closely to the various\nembryonic areas with specific presumptive developmental fates. The yellow pig-\nment area, at the posterior vegetal region, forms the \"yellow crescent,\" which is\npresumptive mesoderm. The ventral and anterior portion of the vegetal hemi-\nsphere, which has the slate grey color of the yolk, forms endoderm and small\namounts of mesoderm; it also contributes to a portion of the neural plate. The\nanimal hemisphere material, which is light grey in color because of the presence\nof clear protoplasm beneath the peripheral yolk, forms the body epidermis and a\nportion of the neural plate. The animal pole becomes the ventral-anterior side  of\nthe larva, while- the vegetal pole is the future dorsal side.\nC. Cleavage and Gastrulation: The tirst cleavage is equal, separating the two\n\"horns\" of the yellow crescent from one another and bisecting the clear protoplasm\nanterior to the yellow region- The second cleavage is nearly equal, vertiml, and\nat right angles to the first. The two posterior cells contain only a small amount of\nyolk and practically all the yellow crescent substance. The two anterior cells, on\nthetother hand, contain much yolk and almost no yellow crescent material. There\nis an equal division owe clear protoplasm to the four cells. At the third cleavage,\nwhich is horizontal, the yellow crescent substance is almost entirely confined to\nthe two posterior dorsal cells. The planes of cleavage at the fourth division vary\nin different quadrants, but the cells do not overlap the sagittal plane of the embryo.\nTwo of the antero-dorsal cells and two of the postero-ventral cells of the 16-cell\nembryo are crowded away from this sagittal plane, but all the other cells touch it.\nThe dorsal and ventral hemispheres at this stage are mirror images of one another.\nThe yellow pigment lies in four posterior cells. Division in the dorsal (vegetal)\nhemisphere precedes that in the ventral (animal) hemisphere at the fifth cleavage,\nand cleavage in the anterior part of each hemisphere precedes that in the posterior\npart. Vi/hen the 32-cell stage is reached, the yellow substance is almost entirely\nconfined to six dorso-posterior cells, three on each side of the midline. They give\nrise to mesoderm and Six yolk-filled cells at the vegetal pole,\nanterior to the yellow mesoderm cells, give rise to endoderm. Four cells at the\nanterior border of the embryo (just below the equator) and two just above the\nequator produce the notochord and neural plate. All the other cells are ectodermal.\nGastrulation is by epiboly. The gastrula passes through disc-shaped, saucer-\nshaped and cup-shaped stages, starting at the seventh cleavage. As it finally be-\ncomes egg-shaped, the blastopore assumes the form of a the stem of the \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

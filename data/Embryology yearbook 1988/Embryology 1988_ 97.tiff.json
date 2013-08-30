@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=pVJVCeHrRIGgjnCuuSqkVw",
+  "input_url": null,
+  "file": "Embryology 1988_ 97.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.064099205,
+    "total_duration": 19.307355821
+  },
+  "agent": "",
+  "created": "2013-06-18T13:30:26-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "EXAMINATION OF CUTICLE PREPARATIONS\nA. Maternal Effect Mutants Affecting the:\nAnterior/Posterior Axis\n\"anterior\" genes:\nBicaudal (BicD7l?34)\n\"posterior\" genes: oskar (osk3Ol)\nDl and PD53\nVasa (vas \ntudor (tud25O9)\n\"terminal\" genes: fs(l)Nasrat (fs(l)N2ll)\n(fS(l)phl190l)\ntrunk (trkl)\ntailless (zygotic) \nDorsal/Ventral Axis: fs(l)KlOLee\nfollicle structure: dicephalic (dicl)\nQuestions:\nl. What are the general differences in phenotypes among\nmutants from different catagories anterior versus posterior\nmutants)?\n2. What are the specific differences and similarities in\nphenotype among mutants from the same catagory tailless versus\ntrunk)?\nB. Study of the effect of the hypermorphic spliced mutation:\nCompare the severity of mutant phenotypes in embryos from\nmothers with different doses of the spliced mutation:\nsplc/splc; Dp tor+\nsplc/splc\nsplc/+\nsplc/tor ,\nsplc/splc; \n\n"
+}

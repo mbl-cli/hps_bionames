@@ -1,0 +1,165 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=DudghuXzSKi3HNsEbAnL4g",
+  "input_url": null,
+  "file": "168_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.261920506,
+    "resolve_names_duration": 1.123399006,
+    "total_duration": 27.936025608
+  },
+  "agent": "",
+  "created": "2013-06-18T12:19:47-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "N. solufion",
+      "scientificName": "N. solufion",
+      "offsetStart": 452,
+      "offsetEnd": 462,
+      "identifiedName": "N. solufion"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1355,
+      "offsetEnd": 1362,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "None",
+      "scientificName": "None",
+      "offsetStart": 1892,
+      "offsetEnd": 1895,
+      "identifiedName": "None"
+    },
+    {
+      "verbatim": "Tubularla croceg",
+      "scientificName": "Tubularla croceg",
+      "offsetStart": 2469,
+      "offsetEnd": 2484,
+      "identifiedName": "Tubularla croceg"
+    }
+  ],
+  "content": " ..6..,\nbegan To develop various abnormal condiTions: a greafly enlarged hearT usually\naccompanied by enlarged DucTs of Cuvier, a sluggish or non-exisTenT hearT-beaT\nand consequenT degeneraTed circulaTion, and an accumulafion of blood in sinuses\nscaTTered over The yolk sac.\nThe eggs in The soluTions4were much more severely affecTed. Those in\nThe 0.5 N. soluTion never developed far enough To differenTiaTe a hearT or cir-\nculaTory sysTem. ln The 0.2 N. solufion The embryos developed sTraighT or s-\nshaped hearTs ThaT vibrafed buf did noT beaT. The pericardium was much dis-\nTended wiTh fluid. Blood accumulaTed primarily in The vessels of The Tail and\ncaudal region of The yolk, Though occasionally some was found on The venTral\nsurface of The yolk. The eggs in The oTher Two concenTraTions covered a range\nof developmenTal levels. A few seemed To develop normally; a comparable few\nexhibiTed The characTerisTics of The eggs in The 0.2 N. soluTion. Of The re-\nmaining eggs, abouT half had normally shaped hearfs which beaT slowly or noT\naT all, no circulaTion, Though The blood was disTribuTed ThroughouT The yolk\nand body vessels, and an elongaTed sinus venosus wiTh a blood-Tilled swelling\naT iTs disTal end. The resT of The embryos had a normal hearT and circulaTion,\nwiTh The excepTion ThaT The venTricle beaT only half as fasT as The auricle.\nThe Fundulus eggs seemed significanTly less affecTed by The soluTions\nThan by The equivalenf concenTraTions of Those in The 0.5 N. developed\nlike Those in 0.2 N. Kbr; Those in 0.2 N. KCI like The majoriTy of The eggs in\nThe 0.0625 N. and 0.l N. soluTions of The eggs in The Two more diluTe\nsoluTions seemed To develop normally unTil The TenTh day. AT This Time many\nof Them ceased developing. Their hearTs slowed up or sTopped beaTing all TogeTher\nand in Three or four days They were indisTinguishable from The eggs developing\nin The 0.2 N. None of Those which conTinued To develop normally or\nof The eggs in The soluTions haTched. By The sevenTeenTh day mosT of The\neggs in all The soluTions had begun To die and disinTegraTe.\nObservafions concerning resTiTuTlon in cQelenTeraies\nWhen The relaTionships of cells in The coelenTeraTe body are broken up\nThrough cell diss6ciaTion, iT has been shown ThaT The cells may recombine wiTh\nvarying degrees of reorganizaTion -- from cell clumping To compleTe hydranThs\n(Wilson, l9ll; HargiTT, l9l5; Child, l928; Beadle and Boofh, l958). ln This\nsTudy Tissue from The hydrazoans Tubularla croceg and Pennarla Tlegellaowas dis-\nsociaTed To observe iTs regeneraTive poTencies. Because of availibiliTy,\nTubularla was mainly used.\nWhen coenosarc Tissue was forced from The perisarcKinTo boiled, filTered\n80% or 90% sea waTer wiTh |50 ug/ml. sTrepTomycin)afTer removal of polyps,\nground genTly and pressed Through bolTing silk, There was no reorganizafion\nbeyond occasional cell clumping. Tissue which was pressed ouT and noT ground up\nusually disinTegraTed buf occasionally rounded up inTo small spheres, some of\nwhich formed a perisarc. NeiTher mechanical shaking nor cenTrifugaTion broughT\nThe cells inTo a more organized relaTionship Than clumping. when pieces of\nperisarc were placed in The dish, Tissue Tended To adhere To iT rafher Than To\nThe glass as a subsTraTe buT showed no resTiTuTion.\nFurTher developmenf was observed in cases in which The organizaTion had\nbeen less disTurbed. When a small amounT of Tissue was lefT in The sTripped\nperisarc, spherical masses formed in abouT a Third of The cases, perhaps depending\nWfrvur-v V.   \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "N. solufion"
+    },
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "None",
+      "results": [
+        {
+          "data_source_id": 7,
+          "data_source_title": "Union 4",
+          "gni_uuid": "8cf8696e-6ca6-5ec7-b441-e04a37ea751c",
+          "name_string": "None",
+          "canonical_form": "None",
+          "classification_path": "|Cellular life|Eukaryota|Opisthokonts|Choanoflagellates and animals|Animalia|Epitheliates|Bilateria|Ecdysozoa|Legged ecdysozoa|Arthropoda|Trilobita|Trilobites of uncertain affinities|Naraoiidae|None",
+          "classification_path_ranks": "|above family|above family|above family|above family|unranked|above family|above family|above family|above family|above family|above family|above family|family|genus",
+          "classification_path_ids": "2822864|2823207|2828118|2843765|2843766|2843767|2843768|17974913|2910040|2910041|2910042|3087979|3091755|3092341|3092342",
+          "taxon_id": "3092342",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8cf8696e-6ca6-5ec7-b441-e04a37ea751c",
+          "name_string": "None",
+          "canonical_form": "None",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5019978",
+          "local_id": "2913255",
+          "url": "http://eol.org/pages/2913255/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Tubularla croceg",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5b57cba7-31a7-5690-8726-b0bed9a411f5",
+          "name_string": "Tubularia crocea",
+          "canonical_form": "Tubularia crocea",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Tubulariidae|Ectopleura|Ectopleura crocea",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2368676|2472082|5379315",
+          "taxon_id": "5383465",
+          "current_taxon_id": "5379315",
+          "current_name_string": "Ectopleura crocea (Agassiz, 1862)",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": true
+    }
+  ]
+}

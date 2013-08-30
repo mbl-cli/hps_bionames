@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=KSLXwReFRSKFTmRNKTOTmQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 89.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.124134005,
+    "total_duration": 24.530956889
+  },
+  "agent": "",
+  "created": "2013-06-18T13:28:39-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "RNA\nExtraction\nDenaturing\nAgarose\nTo 1 ml RNA extraction buffer (50 mM Tris pH 7.5,\n5mM EDTA, 0.5% SDS) add Proteinase to 150 ug/ml\nfrom a 10 mg/ml stock in H20.\nTransfer 5 RNA injected oocytes to disposable 5ml\nglass test tube (or whatever else is available). Add\n1ml Proteinase solution in extraction buffer.\nHomogenize as rapidly as possible with pasteur\npipet (the strategy is to allow the proteinase to\nattack the cellular RNase, before it attacks the\nRNA). Incubate at room temperature 1/2 hour.\nExtract the RNA once with zum equal vol.\nphenol/chloroform, once with chloroform. Bring\naqueous fraction to 0.3 Na0Ac pH 5.2, add 2.5 vol.\nand precipitate at least 2 hrs.\nPellet RNA in centrifuge. Discard ethanol as\nradioactive waste, rinse pellet with 70% \ndiscard, and dry. Resuspend RNA in 100 ul H20.\nTransfer to microcentrifuge tube. Add 100 ul 6M\nLiCl, mix, incubate on ice 2 hrs.\nPellet RNA, and you guessed it, discard LiCl, rinse\npellet with 70% discard and dry.\nInto a medium size flask measure out sufficient\nAgarose for a 25 ml 1.4% gel. Add 16 ml H20, and\nRNA Gel: dissolve agarose by heating to a boil. When\ndissolved add 5ml 5X MOPS buffer, and let cool.\nTape off the ends of minigel as before, and place\nin fume hood. When agarose has cooled to touch,\nadd 4.1 nd. formaldehyde, and swirl tx> mix.\nImmediately after mixing, pour into gel form, and\nlet harden.\nIn a clean microcentrifuge tube prepare an RNA\ndenaturing buffer by mixing together: 20 ul 5X MOPS,\n35 ul formaldehyde, and 100 ul formamide.\nResupend RNA in 2.5 ul H20. Add 7.5 ul RNA\ndenaturing solution,and,incubateaM:55 deg.for 15\nmin. Cool tube in ice for several seconds then\nmicrofuge for several seconds. Add 2ul sample\nloading buffer. \nRemove comb, and tape from minigel, and submerge gel\nin 1X MOPS. Load samples in wells. Run gel at 60 \nuntil bromophenol blue (the leading dye) runs to\nabout the end of the gel. Remove gel and fix\nsamples by soaking overnight in 10% 10% Acetic\nacid, on rotary shaker.\n\n"
+}

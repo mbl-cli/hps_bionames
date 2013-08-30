@@ -1,0 +1,150 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=8qRwpb9lS2KiVUtvcYGxSw",
+  "input_url": null,
+  "file": "173_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.268927018,
+    "resolve_names_duration": 1.313238985,
+    "total_duration": 28.514996385
+  },
+  "agent": "",
+  "created": "2013-06-18T12:21:20-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 633,
+      "offsetEnd": 642,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Haliclona",
+      "scientificName": "Haliclona",
+      "offsetStart": 648,
+      "offsetEnd": 656,
+      "identifiedName": "Haliclona"
+    },
+    {
+      "verbatim": "Neofefrazolium",
+      "scientificName": "Neofefrazolium",
+      "offsetStart": 2216,
+      "offsetEnd": 2229,
+      "identifiedName": "Neofefrazolium"
+    },
+    {
+      "verbatim": "Tefrazolium",
+      "scientificName": "Tefrazolium",
+      "offsetStart": 2365,
+      "offsetEnd": 2375,
+      "identifiedName": "Tefrazolium"
+    }
+  ],
+  "content": " \n\ndirecT The movemenT of sponge cells by providing highly orienTed maTrices in The\nform of collodion replicas of a diffracTion grafing and a gel made of reconsTiTuTed\ncalf skin collagen fibrils.\nThick replicas were casf from 5% collodiog in amyl aceTaTe spread upon a\n6 by 2 cm. diffracfion graTing of 30,000 lines/inch cuT in glass and coaTed wiTh\naluminum (disfahce beTween grooves is abouT u, cells range in diamefer from 3-Qu).\nThese were sTripped in disfilied waTer and spread on coverslips (lines up), dried\nand placed in The boTTom of chambers conTrucTed from 2 cm. glass rings sealed To\n3 6 cm. coverglasses. Suspensions of Microciona and Haliclona were prepared by\nsqueezing pieces of whole sponge info sea wafer, filfered Through several layers\nof bolfing cloTh and allowing some aggregaTes To seTTle ouT for a few minufes.\nOTher suspensions in sea wafer and dilufed 5 Times in fresh sea waTer\nbefore use were also used. Culfures were kepT aT room TemperaTure, l9?C and soc.\nSmall round and some irregular aggregafes plus individual cells were ob-\nserved afTer a few hours, 24 hours, and 48 hours wiTh no sign of orienTaTion.\nSimilar suspensions were added To subsfrafes case in The form of fibrous\ngels from cold neufral sea waTer solufions of calf skin collagen. Cell suspensions\nwere placed on The gel surface and in The infersfices. ln The former case The\nusual rounded aggregafes formed wifh no evidence of specific orienTaTion and in\nThe laTTer siTuaTion no aggregafion occurred. ExaminaTion in polarized lighT of\nfreshly formed aggregaTes as well as Those allowed To grow in dishes on The sea\nTable for l~2 weeks failed To reveal any birefringenf fibers oTher Than preexisfing\nspicules. This is in conTrasT To The presence of sTrongly birefringenT fibrous\naggregafes in The smears of nafive sponge. ln my opinion These experimenfs,\nalThough negafive, are Too preliminary and Too few To be conclusive.\nKELLAND, J. L. Tefrazoles agg RegeneraTjon in Laryae of Tgpularia\nThe purpose of This experimenf was To observe The paffern revealed by\nTefrazole dyes in inTacT larvae and larvae which have been cuT in half or have had\na piece cuT off. STages from Those wiTh TenTacle buds To acfinulae were used.\nNeofefrazolium chloride and Triphenyl\"TeTrazolium chloride did noT give\na definiTive paTTern, The body sfaining more Than The TenTacles.  NiTro\nblue Tefrazolium (NBT) sTained The aboral parT of The body infense purple, The\nTenfacles- sTained and The oral parT did noT sTain. lf The aboral parT\nis cuT off and various amounTs of Time from zero To six hours are allowed To pass\nbefween operafion and applicafion of NBT The paTTern in each parT of The larva\ndoes nof change. This is noT True of younger sfages. lf a larva wiTh TenTacle\nbuds (The body is lens shaped) is sTained, The more convex surface only will sTain,\nThe color is deeper near The cenfer. This side of The larva forms The aboral\nparf of The acfinula. lf The larva is cuf in half, so Thaf each half has several\nTenTacle buds and if sTain is applied affer one hour, The cuT surface sTains and\nThe sTained area spreads in Two or Three hours Toward The cenfer of The body.\nlf The sTain is applied six hours affer The operafion, The cuT surface has grown\nouf and become rounded buf is sTill The only sTained area. lf The sTain is applied\nTen hours affer The operafion Two Things may happen, One, The cuf surface becomes\na rounded and a TenTacle bud forms. Here The TenTacle bud is The only sTained area.\nHowever in somewhaf older larvae The cuT surface rounds up buT does noT grow ouT\nas much as in younger larvae, buf The aboral side grows and bulges considerably and\nThis is The only sTained area. Since NBT indicafes siTes of reducing enzyme acTiviTy\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Microciona",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Porifera|Demospongiae|Ceractinomorpha|Poecilosclerida|Microcionina|Microcionidae|Microciona",
+          "classification_path_ranks": "|superkingdom||kingdom|phylum|class|subclass|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6040|6042|6048|27925|283498|27926|27927",
+          "taxon_id": "27927",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992018",
+          "local_id": "2544604",
+          "url": "http://eol.org/pages/2544604",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Haliclona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ca614c1f-4c0e-5f15-a4c2-91c75c16a372",
+          "name_string": "Haliclona",
+          "canonical_form": "Haliclona",
+          "classification_path": "Animalia|Porifera|Demospongiae|Haplosclerida|Chalinidae|Haliclona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2364203|2366770|2366782|2420156",
+          "taxon_id": "2420156",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ca614c1f-4c0e-5f15-a4c2-91c75c16a372",
+          "name_string": "Haliclona",
+          "canonical_form": "Haliclona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40913237",
+          "local_id": "2544164",
+          "url": "http://eol.org/pages/2544164",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Neofefrazolium"
+    },
+    {
+      "supplied_name_string": "Tefrazolium",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

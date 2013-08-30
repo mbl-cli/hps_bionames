@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=dywtC65jSaCfBm3vkLUxLA",
+  "input_url": null,
+  "file": "Embryology 1939_21.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.135152144,
+    "resolve_names_duration": 0.772482521,
+    "total_duration": 22.020018117
+  },
+  "agent": "",
+  "created": "2013-06-19T15:21:39-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Echinarachnius.",
+      "scientificName": "Echinarachnius",
+      "offsetStart": 1727,
+      "offsetEnd": 1741,
+      "identifiedName": "Echinarachnius"
+    }
+  ],
+  "content": "\n5. Gastrulation. si B.-C.\nGastrulation is foreshadowed in the blastula by a flattening\nof one of Une poles (Which?). The cavity of the blastula or segmen~\ntation cavity may now be called a blastocoelf Do you find any loose\ncells within this cavity after lnvaginatlon is initiated? What are\nthey? Where do they come from? What cells are concerned in the \nlnvaglnatlon? The secondary cavity formed by the invaginatlon is\nthe gastrocoel or archenteron (cultures of from 2% hrs. to 120 hrs.).\nNote the two lateral dlverticulae at the apical end, the precursors\nof the coelom (coelomlc sacs). These subsequently sever their connec\ntion with the archenteron, What is the relation between the size of\nthe blastulae of the three forms just prior to gastrulatlon?\n6. Grganogony and metamorphosis. Q. Q, Q.\na. Alimentary tract,\nThe early development of Hoe gut has been considered ln the pre>>\nvious section( In addition to the observations made there you should\nexamine the larvae for the origin and later history of the stomodaeum\nV1 -1 rm 0 \n\"hen 13 lt tormedg where does lt form; and at what stage does lt make\nits connection with the main portion of the gut? Identify the parts\nof the alimentary tract. Make sketches and compare the development\nin the three forms studied.\nb. Coelom.\nTrace the changes which take place in the two coelomic sacs men-\ntioned above. Does the right or the left sac establish a connection\nwith Hee ectoderm (stone canal)?\nc. Skeleton.\nTrace the development of the skeletal portions in the embryo\nof Arbacla between the edth and the 72nd hours. These apyear first\nas spicules within the mesoderm. Note the relation.between the\nskeleton and the arms. Make sketches of the stages here and in the\nembryo of Echinarachnius. Compare with embryos of the starfish at\nsimilar ages. Make sketches to illustrate the development of the\nskeleton\"\nd. Gross form.of the larva.\nIn the above exercises you have observed the development of the\nlarval fonn. This should be studied carefully to determine the lo-\ncation of ciliary bands, and the gradual appearance of a more com~\nplex organisation which results in the formation of the typical larva\nof the sea~urchin and the sand dollar (pluteus), and the starfish\n(bipinnaria). If time pennits and material is available a study\nwill be made of theznetamorphosis of the bipinnaria larva of the\nstarfish including a study of the brachyolaria larva and the subse~\nquent development of'the adult form.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Echinarachnius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6f5c1914-3a92-50c3-8cc3-9a0bc0d2e39f",
+          "name_string": "Echinarachnius",
+          "canonical_form": "Echinarachnius",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Clypeasteroida|Echinarachniidae|Echinarachnius",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362627|2362630|2493660",
+          "taxon_id": "2493660",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6f5c1914-3a92-50c3-8cc3-9a0bc0d2e39f",
+          "name_string": "Echinarachnius",
+          "canonical_form": "Echinarachnius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20629591",
+          "local_id": "73062",
+          "url": "http://eol.org/pages/73062",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

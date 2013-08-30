@@ -1,0 +1,210 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ZcMu0uy4SQGOV4LIeAtS6Q",
+  "input_url": null,
+  "file": "Embryology 1939_50B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.166953039,
+    "resolve_names_duration": 0.753416598,
+    "total_duration": 21.819042905
+  },
+  "agent": "",
+  "created": "2013-06-19T15:28:36-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Noignlidae",
+      "scientificName": "Noignlidae",
+      "offsetStart": 260,
+      "offsetEnd": 269,
+      "identifiedName": "Noignlidae"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 1024,
+      "offsetEnd": 1029,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Molgula.",
+      "scientificName": "Molgula",
+      "offsetStart": 1134,
+      "offsetEnd": 1141,
+      "identifiedName": "Molgula"
+    },
+    {
+      "verbatim": "Styela partita",
+      "scientificName": "Styela partita",
+      "offsetStart": 1370,
+      "offsetEnd": 1383,
+      "identifiedName": "Styela partita"
+    },
+    {
+      "verbatim": "Molgula ampulloides",
+      "scientificName": "Molgula ampulloides",
+      "offsetStart": 1556,
+      "offsetEnd": 1574,
+      "identifiedName": "Molgula ampulloides"
+    }
+  ],
+  "content": "Derrill, N. J.\nL.     IJ \nWonklin, E. G.\nSi- \nTUNICATE EMBHYOLOGY 2.\n1929. Studies in Tunicate Development. 1. General\nPhysiology of Development of Simple  Aecidinns. Phil.\nTr. Hoy. Soc. London Series vol. 218 pp. 57~78.\nll. Abbreviation of Development in the Noignlidae.\nIbid, vol. 219. pp. 281~5&6, 1951.\n111. Differential Retardation and Acceleration. lbid,\nvel. 225, pp. lace.\n1952. Mosaic development of ascidian eggs. Biol.\nBull. vol. 65 pp. 581-586.\n1887. Contribution a 1'embryologie normal et'\nterratologique des Ascidies simples. Jour. Anat. et.\nPhysiol. T. 25\n1905 a. The organization and cell-lineage of the\nAscidian egg. Jour. Acad. Nat. Sci. (Philadelphia),\n2 series, vol. 15, pp. 1-121.\n1905 b. Mosaic development in ascidian eggs. Jour.\nExp. Zool. vol. 2, pp. 148-225.\n1905 c. 0rgan~forming substances in the eggs of\nAscidians. Biol. Bull. vol. 8\n1911. The organization of the egg and the development\nof sinale blastomeres in Pnallusia. Jour. Exp. Zool.\nvel. 16, pp. ses-4ov.\n1951. Effect of centtifuging on Styela development.\nJour. Exp. Zool. vol. 60, pp. 1-120.\nKings1ey, J. 1885. Some points in tne development of Molgula.\nProc. Boston Soc. Nat. Hist. vol. 21, pp. 441-450.\nKowalevsky, A. 1871. Weitere btudien dber die Entwicklung der ein~\nfachen Ascidian. Aron. Mikr. inet. Bd. 7, S.\n101-150.\nRose, S. Meryl 1957. The induction of pigment spots in Styela\npartita (Abstract). Anat. Rec. 70 supp. p. 102\nde Se1ys~Longchamps et D. Dames, 1901. Recherches sur le develop-\nTung, Ti-Chow.\nment post~embryonnaire et`1'Anatomie definitive de\nMolgula ampulloides. Arch. de Biol., T. 17 pp,\n585>>488.\n1952. Experiences de coloration Vitale sur 1'oeuf\ndisscidiella aspersa. Arch. de Biol., T. 45, pp. \n451-459.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Noignlidae"
+    },
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Molgula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a31a74e5-db77-5d08-9eb6-f8f2e9525009",
+          "name_string": "Molgula",
+          "canonical_form": "Molgula",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Molgulidae|Molgula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2363302|2373154",
+          "taxon_id": "2373154",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a31a74e5-db77-5d08-9eb6-f8f2e9525009",
+          "name_string": "Molgula",
+          "canonical_form": "Molgula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103905",
+          "local_id": "10806",
+          "url": "http://eol.org/pages/10806",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Styela partita",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "5dacf414-8700-5053-b097-ec3471be9b30",
+          "name_string": "Styela partita",
+          "canonical_form": "Styela partita",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata|Ascidiacea|Stolidobranchia|Styelidae|Styela|Styela partita",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum|class|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712|7713|7720|7721|7724|286206",
+          "taxon_id": "286206",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5dacf414-8700-5053-b097-ec3471be9b30",
+          "name_string": "Styela partita",
+          "canonical_form": "Styela partita",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103815",
+          "local_id": "503604",
+          "url": "http://eol.org/pages/503604",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Molgula ampulloides",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "9af933aa-56f1-5e92-978c-2c4987219cff",
+          "name_string": "Molgula ampulloides",
+          "canonical_form": "Molgula ampulloides",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "127734728",
+          "url": "http://www.organismnames.com/details.htm?lsid=2390614",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    }
+  ]
+}

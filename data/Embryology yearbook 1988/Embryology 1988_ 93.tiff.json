@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=YQMSyOWMR5yabTYeFnqwfw",
+  "input_url": null,
+  "file": "Embryology 1988_ 93.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.179223833,
+    "resolve_names_duration": 0.892458309,
+    "total_duration": 23.967518719
+  },
+  "agent": "",
+  "created": "2013-06-18T13:29:16-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "D. melanogaster",
+      "scientificName": "D. melanogaster",
+      "offsetStart": 1836,
+      "offsetEnd": 1850,
+      "identifiedName": "D. melanogaster"
+    }
+  ],
+  "content": "Lab Protocols for Module (Lipshitz/Mahowald),\nMBL Embryology Course\nA, \nl. Submerge female fly in Ringers with watchmaker's forceps.\nGently hold the fly, ventral side up, with the forceps located\nbetween the thorax and abdomen. With a sharp pair of forceps,\nslowly pull at the to 6th sternite. The fifth and sixth\nsegments plus the genitalia will strip away from the remainder\nof the fly. Usually the ovaries will remain attached to the\ncommon oviduct and come out cleanly from the tip of the abdomen.\nTo remove the ovaries from the genitalia, grab the common\noviduct and pull it away from the tip of the abdomen.\n2. To study the structures of the ovarioles, it is necessary\nto strip off the ovarian sheath, and then tease apart the 20\novarioles/ovary. This step should be carried out on a slide in\na drop of Riggers. Spread out the ovarioles as much as possible.\nPlace a 20mm coverslip on each side of the ovary and cover with\na third coverslip. These wet mounts will be useful to identify\nall the cell types in the ovary and compare these with that\nfound in mutants (below).\nMake ovary mounts of the following:\n(Oregon-R)\nshort egg: (seg) nurse chamber does not empty into oocyte at\nstage II.\n262-b: (allele of fs(l)yolkless) There is very little yolk\naccumulation in the oocyte. Serum titres of vitellogenin may be\n20x too high.\nand WVSO: (e alitarian) affects the formation of the oocyte.\nInstead of 15 nurse cel puls one OOCyte, 16 nurse cells form.\novoDl: Dominant female sterile in which development ceases at stage 3\n1621: Newly named sans fille (snf) because of its dominant\nenhancement of Sex-lethal. The ovary is filled with tumorous\nchambers due to failure of nurse cell formation.\n\nll I '09 \nlf/ff \nI\n\n  fluff  r-\n\nQi'i?? masmvnuo\nmum i \n Wu\nFIG. l. A dorsal view of the internal reproductive system of an adult female\nD. melanogaster. Two ovarioles have been pulled loose from the right OYUY- \nare stored in the ventral seminal receptacle (which is drawn \\-U`lCOllCd) and \npaired spermathacae. The uterus is drawn expanded 'as xt would be when If\ncontains a mature egg. (Modified from Miller, 1950-)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "D. melanogaster"
+    }
+  ]
+}

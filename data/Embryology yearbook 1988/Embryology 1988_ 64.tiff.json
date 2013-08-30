@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=fHGdxzWXRlyNEGgJytZPBA",
+  "input_url": null,
+  "file": "Embryology 1988_ 64.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.124721066,
+    "total_duration": 22.506578028
+  },
+  "agent": "",
+  "created": "2013-06-18T13:23:33-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": " sy 'iw\nElias Lazarides\nReferences on Blood Cell Development and Differentiation\nSachs, I.. The Molecular Control of Blood Cell Development (1987) Science 238,\n1374-1379.\nSmith, K. A. Interleukin-2: Inception, Impact, and Implications (1988) Science 240,\n1169-1176.\nLazarides, E. From Genes to Structural Morphogenesis: The Genesis and\nEpigenesis of a Red Blood Cell (1987) Cell 51, 345-356.\nMorris, L., Crocker, P. R., and Gordon, S. Murine fetal liver macrophages bind\ndeveloping by a divalent cation-dependent hemagglutinin (1988)\nJ. Cell Biol. 106, 649-656.\nRoberts, R., Gallagher, J., Spooncer, E., Allen, T. D., Bloomfield, F., and Dexter, T.\nM. Heparan sulphate dound growth factors: a mechanism for stromal cell\nmediated haemopoiesis (1988) Nature 332, 376-378.\nTill, J. E. and McCulloch, E. A. (1980) Hemopoietic stem cell differentiation.\nBiochim. Biophys. Acta 605, 931-459.\nClark, S. C. and Kamen, R. The Human Hematopoietic Colony-Stimulating Factors\n(1987) Science 236, 1129-1237. 9    \nWI 1.3 \n3-7 \n(1)   \n\n"
+}

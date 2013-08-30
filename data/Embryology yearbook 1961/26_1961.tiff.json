@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=8F7OLmdvRK2J0x2DlOE7BQ",
+  "input_url": null,
+  "file": "26_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.085850705,
+    "resolve_names_duration": 0.688214404,
+    "total_duration": 24.534208312
+  },
+  "agent": "",
+  "created": "2013-06-18T12:26:48-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Morpho",
+      "scientificName": "Morpho",
+      "offsetStart": 975,
+      "offsetEnd": 980,
+      "identifiedName": "Morpho"
+    }
+  ],
+  "content": "\nCD4\n\n\nHay.\nPARTIAL LTST OF REFERENCES ON AAPHIBIAN LIME REGENERATION\n(In order of presentation)\nGldga and Rose. J.E.Z. 97 1944.\nThornton. J.E.Z. 127: - 1954.\nSinger.   \nE.C.R. 19 1959.\nSchott; and Christianson. Anat. Roc. 128 1957.\nNeedham, A.E. Rsgoneration and Wound Healing Methuen. 1952.\nSchoning and Singer. J.E.Z. 136 2 1957.\nBodemer. J.E.Z. 102 1958.\nThornton. Dev. Biol. 2 1960.\n  JoEoZo     \nGoodwin. Growth 10 ~'1946. 9\nButlero JoEoZo   19350 8\nBrunet and Chirimetieva. Arch. zool. exptl. genar. 78 1936.\n  JoEoZo   19580\nJoEoZo 65/= 19381: \nButler and Schottc. J.E.Z. 112 1949.\nSinger and Craven. J.E.Z. 108 - 1948.\n    Rsca   1956s\nSimaro Jolzozo   19540\nVan Stone. J. Morph. 97 19553 J.E.Z. 134 1957.\n  JoEoZo   JoEoZo   19591:\nGhalkky. J. Morph. 94 1954; Sympoa. on Vert. Rogan. 1956.\nTrampusch. Sympos. on Vert. Regan. 1956.\nDaniele. J.E.Z. 130 1955; Daniels and Vogel. Anat. Rec. 128-195\nSidorova. o.f. asexual Propagation and Regeneration Pergamon\nGoeso Jo Morpho   1.95?o 196oo\nStinson. Anat. Rec. 136 1960.\nRubsn. J.E.Z. 128 1955.\nJe MorphO 98 19560\nAnat. Rec. 132 1958.\nHoltzer, Avery and Holtzer. Biol. Bull. 102 - 1954.\nPiotsch. Anat. Rec. 136 1960.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Morpho",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "8443fa6e-7870-53de-90b9-f03db6dd0016",
+          "name_string": "Morpho",
+          "canonical_form": "Morpho",
+          "classification_path": "Animalia|Arthropoda|Insecta|Lepidoptera|Lepidoptera|Nymphalidae|Morpho",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362873|2362896|2364641|2380148",
+          "taxon_id": "2380148",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8443fa6e-7870-53de-90b9-f03db6dd0016",
+          "name_string": "Morpho",
+          "canonical_form": "Morpho",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "24731223",
+          "local_id": "17446",
+          "url": "http://eol.org/pages/17446",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

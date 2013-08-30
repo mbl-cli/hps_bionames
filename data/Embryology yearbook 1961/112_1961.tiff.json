@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=jWbMYrXjTwa07FNry9JTww",
+  "input_url": null,
+  "file": "112_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.09748856,
+    "total_duration": 27.287777424
+  },
+  "agent": "",
+  "created": "2013-06-18T11:30:55-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Embryonic Development of Tubularie\n\n\nowl F455 swjew we lateral v1ew\n*pf* mulfy1/Undivided egg 2?\nCleavage stages 5-\n\"Section through late \"blestula\" Ll'\nectoderm\nenioderm\nooelenteron\ntentacle bud\nattachment region\nEstablishment of germ layers (section) 5? manubrium\nEstablishment of coelenteron (section) \nFlettened plenuls\nTentaole formation and establishment of deflnitive form\nA-F adeeted from Lowe, '26; ada ted from Berrill \n\n\n\nPlate 2\n\n"
+}

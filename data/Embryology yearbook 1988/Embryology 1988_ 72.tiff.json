@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=6ZzxloSFTKCrZZ4AgAhIOg",
+  "input_url": null,
+  "file": "Embryology 1988_ 72.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.077059786,
+    "total_duration": 22.618295131
+  },
+  "agent": "",
+  "created": "2013-06-18T13:25:11-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "FlNAse protection\nHybridization\nSpin, wash and dry RNA sample\nInclude one sample of 10 ug of \nMake a mix of (per sample) 24 ul Formamide\n3 ul H20\n1 3 ul 10X salts\n1 ul probe\n5 mins\novernight \nMake a mix of: 100 ul Tris pH 7.5\n100 ul 0.5 EDTA\n600 ul 5M NaCl\n200 ul FlNAse A (2 mg/ml)\n200 ul FiNAse T1 (100 ug/mlper sample and vortex\nfor 30 mins\nAdd mg/ml proteinase \nfor 10 mins\nPhenol extract\nAdd 2 vols Ethanol (don't add salt)\nprecipitate\nSpin, wash, dry\nResuspend in 5 ul sample buffer (Formamide, 20 mM EDTA, dye)\n95-100 5'\nGEL: prerun 30 mins 22 milliamps\nrun 22 milliamps\n10X Salts\n40 mM Pipes pH 6.4\n400 mM NaCl filter, store at \n1 mM EDTA\n\n"
+}

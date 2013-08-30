@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=XJupMkK7Qx6taHlLIwIuTA",
+  "input_url": null,
+  "file": "122_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.263135464,
+    "resolve_names_duration": 0.462532129,
+    "total_duration": 27.54265488
+  },
+  "agent": "",
+  "created": "2013-06-18T11:37:38-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1458,
+      "offsetEnd": 1464,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\n9\n\n\n\n\n\n4:\n\n\nThe viTelline space come from? WhaT is The mechism of membrane elevaTion? Com-\npare The appearance of an unferTilized egg wiTh one lO minuTes afTer ferTiliza-\nTion; noTe The disTribuTion of The red pigmenT granules. WhaT happens To The\npigmenT granules in ferfilized cenTrifuged eggs?\nlf a nach Siedenfopf (Zeiss) is available lor a sfandard dark>>\nfield condenser will suffice), observe unferTilized eggs under dark-field wiTh\nThe mosT brillianT lighT source possible (direcT sunlighT is besT). NoTe The\norange ring around The egg surface; This is The unferTilized corTex and \"luminous\"\nhyaline layer. BeneaTh iT are The corTical granules and The plasma membrane.\nlnseminaTe and waTch The orange ring fade, eiTher gradually and regularly if The\nsperm enTers direcTly above or below The or as a wave if The sperm enfers\nanywhere near The equaTor. For The kineTics of The corTical change, see papers \nby Lord Rohschild, and by Allen and HagsTrom.\n\nwiTh high dry or oil immersion, waTch The growTh of The sperm asTer and approach\nof The Two pronuclei. lf Time allows, ploT The paThs of These nuclei prior To \nfusion. NoTe The clear sTreak in The egg boTh before and afTer The nucleus \nbreaks down. Lafer on, waTch The spindle form, and Try To Trace The asTral rays\nouT To The corTex. Observe The cleavage furrow; how does This furrow differ if\nThe haaline layer is dissolved away by calcium-free sea waTer or digesfed by\naside a sparse cu|Ture of Arbacia eggs and observe Through The\npluTeus sTage.\nSpecial ogTics\nlf phase opTics are available for demonsTraTion, look aT The granular componenTs\nof The cell, The nucleus, The spindle, The skeleTon of The pluTeus. RepeaT These\nobservaTions wiTh an inferference microscope, if available. Using whiTe lighT,\nThis insTrumenT gives variable color conTrasT depending on The Thickness of The\nspecimen and iTs index of refracTion.\ngg (or A. \nSpecimens of The common sTarfish, AsTerias, are dredged in The neighborhood of\nWoods Hole. Fresh maTerial seems To yield The besf eggs. The largesT and faTTesT\nspecimens are really The only ones worTh opening. Sexes are separaTe in Asferias,\nbuT iT is noT possible To disTinguish Them by exTernal characTerisTics. To\nobTain gameTs, make a small puncTure in one arm close To The disc and pipeTTe a\nfew gameTes onTo a slide To deTermine The sex of The specimen. lf iT is a female,\nremove The arm compleTely, and sliT iT along The mid-dorsal line To expose The\npair of bulging ovaries, which are a Typical pale salmon color. Then, wiTh a\npair of forceps, carefully deTach each plume-like ovary by grasping iT near iTs\npoinT of aTTachmenT aT The disc end, closing The gonoducT, and rinse iT wiTh\nas liTTle injury as possible in one |750 ml. finger bowl and Transfer iT To\nanoTher conTainer of The same size. Do noT cuT up The ovary, buT raTher leT iT\nshed normally for abouT 5 minuTes; These firsT shed eggs are The besT. Discard\nThe resT of The ovary and save The specimen for use lafer in The day. Injured\nanimals should be kepT in a separaTe aquarium wiTh rapidly running sea waTer and\nnoT kepT for more Than Two days. The eggs should be washed by siphoning off The\nsupernaTanT fluid and replacing iT wiTh sea wafer aT leasT Twice. During This\nTime, The eggs should be examined occasionally To observe meioTic sTages. lf The\neggs have been lefT relafively undisTurbed for abouf 30 minufes, iT is Time To\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=mAs0nkAJRTOScUVRL9z0dw",
+  "input_url": null,
+  "file": "Embryology 1988_ 43.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.082965236,
+    "total_duration": 21.549560454
+  },
+  "agent": "",
+  "created": "2013-06-18T13:19:40-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "13. Dry and count the filters.\nPlot the titration curves for each RNA preparation with each probe. Given the\nfollowing, calculate the percent contamination of bags with aboral ectoderm cells and\nthe percent contamination of the ectoderm preparation with primary cells:\n1. Probe specific-activity 1.35 109 cpm/ug (on day 1)\n2. Length of SM50 probe 850 nt\n3. Length of 511150 2200 nt 1.12 1042 ug\nll. Length of probe 135 nt\n5. Length of cyma 1800 nt 9.3 1043 ug\n6. RNA mass/embryo 0.0026 ug\n7. Cell number at 65 hr 1800\n8. No. of transcripts/aboral ectoderm cell SM50 transcripts/primary cell at 65 hr 135\nReagents:\nNOTE: Water and solutions (where possible) used in steps prior to and during the\nRNA hybridizations should be treated with diethyl pyrocarbonate (DEP) at l-2 ul per liter\nand autoclaved to destroy RNase.\n1. Yeast RNA (10 ug/ul)\n2. 4.0 ammonium acetate\n3. Deionized formamide\n4. 5X hybridization mix (2.0 NaCl, 125 mM PIPES (pH 6.8). 1 mM EDTA)\n5. Mineral oil\n6. 2.5X SET (20X SET stock solution is 3 NaCl, 0.11 Tris (pH 7.8), 20 mM EDTA)\n7. 1096 and 1396 trichloroacetic acid (TCA). (NOTE: 10096 TCA References:\nLee, J. L., Calzone, F. J., Britten, R. J., Angerer, R. C., and Davidson, E. H. (1986). J.\n\nKillian, C. E. and Wilt, F. H. (1988). Dev. Biol. (in press).\n\n"
+}

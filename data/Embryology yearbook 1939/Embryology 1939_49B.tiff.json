@@ -1,0 +1,83 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=G7TLiscOTkStO53WdIW5kg",
+  "input_url": null,
+  "file": "Embryology 1939_49B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.09032446,
+    "resolve_names_duration": 0.601675339,
+    "total_duration": 23.294885022
+  },
+  "agent": "",
+  "created": "2013-06-19T15:27:57-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Amphioxus.",
+      "scientificName": "Amphioxus",
+      "offsetStart": 224,
+      "offsetEnd": 233,
+      "identifiedName": "Amphioxus"
+    },
+    {
+      "verbatim": "Amphioxus.",
+      "scientificName": "Amphioxus",
+      "offsetStart": 337,
+      "offsetEnd": 346,
+      "identifiedName": "Amphioxus"
+    }
+  ],
+  "content": "I 1959\nBIBLIOGRAPHY\nGENERAL WORKS AND COMPARATIVE EMBRYOLOGY OF\nPROTOCHORDATES.\nConklin, E. G.\nloq, A.\nDawydoff, C.\nHordman, E. C.\nHerdman, W. A.\nKorsohelt, E,\nMcBride, E. W.,\nSeeliger, O.\nWilley, A.\nl952. The embryology of Amphioxus. Jour. Morph.\nvol. 54 pp. 69-149.\nl955. Development of isolated and partially\nseparated blastomeres of Amphioxus. Jour. Exp.\nZool. vol. 64, pp. 505-575.\nl955.p L1Organization de l'Oeuf chez les Ghordes.\n\n1928. Traite d%Embryologie comparee des Invertebres\nIf\n1924. Liverpool Marine Biological\nCommittee Memoirs, XXVI.\n1899.\nCom ittee Memoirs, l.\nAaoidia.. Liverpool Marine Biological\nIQ56.\n re 0\nVergleiohende Entwicklungsgesohichte der\nJena.\nl9l4.. Textbook of Embryology. iVol. I lnvertebrata\nMaCmillan. \nl895-l907. Tunioaten.- Bronn's Classen u.\nOrdnungen dee Tierreichs Bd. Ill Suppl.\nl895. .studies on the protoohordata. 'Quart. Jour.\nMicr. sci. vol. 55, pp. 295-524. I\ni  \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Amphioxus",
+      "results": [
+        {
+          "data_source_id": 11,
+          "data_source_title": "GBIF Taxonomic Backbone",
+          "gni_uuid": "a75107e6-203c-5b94-8cc5-d00dd00a4e30",
+          "name_string": "Amphioxus",
+          "canonical_form": "Amphioxus",
+          "classification_path": "Animalia|Chordata|Cephalochordata|Branchiostomidae|Amphioxus",
+          "classification_path_ranks": "kingdom|phylum|class|family|genus",
+          "classification_path_ids": "1|44|357|2016|2473323",
+          "taxon_id": "2473323",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "00b8bcc5-5da4-5521-9116-b721fc515cf8",
+          "name_string": "Amphioxus Yarrell 1836",
+          "canonical_form": "Amphioxus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_12024203",
+          "local_id": "65177",
+          "url": "http://eol.org/pages/65177/names/synonyms",
+          "match_type": 2,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 8,
+      "in_curated_sources": true
+    }
+  ]
+}

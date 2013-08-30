@@ -1,0 +1,129 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Pm4KE1TUTqWGR1LwOXpNgA",
+  "input_url": null,
+  "file": "180_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.161069059,
+    "resolve_names_duration": 0.443826966,
+    "total_duration": 27.628471164
+  },
+  "agent": "",
+  "created": "2013-06-18T12:23:54-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Tubularia",
+      "scientificName": "Tubularia",
+      "offsetStart": 40,
+      "offsetEnd": 48,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1948,
+      "offsetEnd": 1954,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2252,
+      "offsetEnd": 2258,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\nBacTeria, obTained from homogenaTes of Tubularia hydranThs, were grown\non agar slanTs. The slanTs were prepared as a Three percEURnT soluTion of agar\nin coelenTeraTe inTusion broTh. The slanTs were incubaTed unTil a good growTh\nof bacTeria was obTained. The bacTerial growTh was Then emulsified in sTerile\nfilTered sea waTer. This emulsion was Then used To innoculaTe various volumes\nof sTerile infusion broTh. The broTh culTures were incubaTed aT l8?C Tor a\nperiod of 52 To 72 hours. The culTures were Then cenTriTuged and filTered via\na millipore filTer To remove The bacTeria. The resulTing clear filTraTe was Then\nauToclaved. STerile Technique was used ThroughouT The experimenTs. STrepTomycin\n52 l0'5 gram/ml) was used in all soluTions To prevenT bacTerial growTh.\nSTerile broTh conTaining sTrepTomycin served as a conTrol for The bacTerial\nTilTraTe.\nln all cases, The bacTerial filTraTe inhibiTed regeneraTion oT\nTubwlaria sTems. The inhibiTed sTems exhibiTed Three specific anomolies: l)\nclumping of The red pigmenT aT The disTal end; 2) bleb formaTion aT The disTal\nend; and 3) consTricTion prior To disTal TenTacle formaTion. The inhibiTor\nderived from The bacTerial culTures was sTable To: l) auToclaving: 2) millipore\nTilTraTion: 3) refrigeraTion aT 400. The filTraTe losT all inhibiTory power afTer\ndialysis againsT running sea waTer Tor 24 hours. The inhibiTor could noT be\nabsorbed onTo NoriTe The filTraTe was inhibiTory To all sTages up To\nproximal ridge TormaTion. The pH of all soluTions was checked aT The beginning\nand end of each experimenT and was Tound noT To vary more Than 0.5 pH uniT from\nnormal sea waTer (pH \nThese resulTs in no way rule ouT The possibiliTy of specific\ninhibiTors buT merely demonsTraTe ThaT wiThouT sTerile preparaTions, bacTeria\ncan produce an inhibiTor or inhibiTors which could overshadow of\nspecific inhibiTors.\nSKALKO, RICHARD G. The effecT of Sfbromoyracil and aminopTerin on The\nQevelopmenT of Arbacia DuncTulaTa\nA varieTy of compounds which are anTi-meTabo|iTes of DNA have\nbeen shown To produce malformaTions in verTebraTe embryonic sysTems. This invesTi-\ngaTion was underTaken To deTermine if such agenTs had a specific effecT on\nechinoderm developmenT.\nEggs and sperm were obTained from maTure Arbacia by mild elecTrical shock\nAliquoTs (200-300) of eggs were added To sTender dishes 30 minuTes afTer ferTiliza\nTion and were allowed To develop in a consTanT-TemperaTure incubaTor \nObservaTions were made periodically Through cleavage, aT haTching (l0-I2 hours),\naT prism or pre-pluTeus sTage (20-22 hours), and aT The maTure plufeus sTage (l6-\n48 hours). All compounds used were dissolved in filTered sea waTer and, in all\nexperimenTs, The eggs were added To I0 ml. of soluTion.\nAT all concenTraTions of 5-Bromouracil used (l-50 ug/ I0 ml. of filTered\nsea waTer), This compound had no effecT on cleavage, blasTula formaTion or gasTru-\nlaTion ThaT was diiferenT from effecTs observed in conTrol culTures. A concenTra-\nTion of 20 ug/lO ml. reTarded developmenT aT The pre-pluTeus sTage in 80% of The\norganisms. This eTfecT could be parTially overcome wiTh Time or by The addiTion\nof Thymine To The culTure aT eiTher The four-cell sTage or aT haTching. AT higher\nconcenTraTions (30 and 50 ug/l0 boTh prepluTei and immaTure pluTei were\npresenT aT 48 hours. This eTfecT, while noT as pronounced, was also parTially\novercome wiTh Time.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

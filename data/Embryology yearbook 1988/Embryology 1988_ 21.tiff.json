@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=cX8W9n5xSbOXzy3oQLWVpQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 21.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.177433533,
+    "total_duration": 26.29801257
+  },
+  "agent": "",
+  "created": "2013-06-18T13:15:15-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": ",Da\nEs-1\n2:3\n\nQD\nECA\nttaker\ni\nWh\n.R\n\n\n  H1\n?015 0'|Mfami    4/ \n1-,saga \n,Qin . A 5 2   \n. -rthgj. ~.jL.f .ffl \n#Lal\n. ~'liff Quang7.*tv -5'-iff  Tx - 413"
+}

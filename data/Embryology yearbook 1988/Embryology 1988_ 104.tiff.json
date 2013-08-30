@@ -1,0 +1,164 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=J6F55qYER2SOcMDI8NzIyQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 104.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.106784792,
+    "resolve_names_duration": 0.859218171,
+    "total_duration": 21.983294604
+  },
+  "agent": "",
+  "created": "2013-06-18T13:04:23-04:00",
+  "total": 12,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 67,
+      "offsetEnd": 76,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 162,
+      "offsetEnd": 172,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 351,
+      "offsetEnd": 361,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Santamaria",
+      "scientificName": "Santamaria",
+      "offsetStart": 383,
+      "offsetEnd": 392,
+      "identifiedName": "Santamaria"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 523,
+      "offsetEnd": 532,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 681,
+      "offsetEnd": 691,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 933,
+      "offsetEnd": 942,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1102,
+      "offsetEnd": 1111,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1293,
+      "offsetEnd": 1302,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila,",
+      "scientificName": "Drosophila",
+      "offsetStart": 1447,
+      "offsetEnd": 1457,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1649,
+      "offsetEnd": 1658,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1867,
+      "offsetEnd": 1876,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "Anterior-Posterior and Dorsal-Ventral Axis Page 3\nEstablishment in Drosophila\nDorsal-Ventral Axis:\n*Anderson, K. (1987) Dorsal-ventral embryonic pattern genes of\nDrosophila.\nTrends in Genet. 3, 91-97\nNusslein-Volhard, C., Lohs-Schardin, M., Sander, K., Cremer, C. (1980)\nA dorso-ventral shift of embryonic primordia in a new maternal-effect\nmutant of Drosophila.\nNature 2?3, A74-476\nSantamaria, P., Nusslein-Volhard, C. (1983) Partial rescue of dorsal,\na maternal effect mutation affecting the dorso-ventral pattern of\nthe Drosophila embryo, by the injection of wild-type cytoplasm.\nEMBO J. 2, 1695-1699\nSteward, R., McNally, F., Schedl, P. (1984) Isolation of the dorsal\nlocus of Drosophila.\nNature 311, 262-265\nSteward, R., Ambrosio, L., Schedl, P. (1985) Expression of the dorsal\ngene. A\nCold Spring Harb. Symp. Quant. Biol. QQ, 223-228\nAnderson, K., Nusslein-Volhard, C. (1984) Information for the dorsal-\nventral pattern of the Drosophila embryo is stored as maternal in RNA.\nNature 311, 223-227\nAnderson, K., Bokla, L., Nusslein-Volhard, C. (1985) Establishment of\ndorsal-ventral polarity in the Drosophila embryo: the induction of\npolarity by the Toll gene product.\nCell 52, 791-798\nAnderson, K., Jurgens, G., Nusslein-Volhard, C. (1985) Establishment\nof dorsal-ventral polarity in the Drosophila embryo: genetic studies\non the role of the Toll gene product.\nCell Q2, 779-789\nHashimoto, C., Hudson, K., Anderson, K. (1988) The Toll gene of\nDrosophila, required for dorsal-ventral embryonic polarity, appears\nto encode a transmembrane protein.\nCell 52, 269-279\nGertulla, S., Jin, Y., Anderson, K. (1988) Zygotic expression and\nactivity of the Drosophila Toll gene, a gene required maternally\nfor embryonic dorsal-ventral pattern formation.\nGenetics 119, 123-133\nDeLotto, R., Spierer, P. (1986) A gene required for the specification\nof dorsal-ventral pattern in Drosophila appears to encode a serine\nprotease.\nNature 323, 688-692\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Santamaria",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    }
+  ]
+}

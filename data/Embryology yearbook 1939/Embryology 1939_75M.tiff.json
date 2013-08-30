@@ -1,0 +1,62 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=9yFOCumKQReTRfES9Rk0ZA",
+  "input_url": null,
+  "file": "Embryology 1939_75M.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.191823949,
+    "resolve_names_duration": 0.436597677,
+    "total_duration": 21.176329462
+  },
+  "agent": "",
+  "created": "2013-06-19T15:34:36-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Artemis salina",
+      "scientificName": "Artemis salina",
+      "offsetStart": 1106,
+      "offsetEnd": 1119,
+      "identifiedName": "Artemis salina"
+    }
+  ],
+  "content": "f9\"\nis necessary to anesthetize Elem, and they are so hardy (the adults\nlive and swim for some time in Uouin's fluid) that it is difficult\nte anesthetize damn, but they will finally come to rest in strong\nalcohol. Observe the 5?tan?s ef ceghalic appendages, the single\nmedian eye, and on Une ventral side Use enormous labrum or upper\n5\nllt. lhe dlgestlve tract may also be seen.\nObserve seme larvae which have been hatched for 2 or 3 days.\neven if the larvae are not fed, the moult takes place to\nfern a motanauplius. This differs from the recently hatched\nnauplius principally in being longer and larger and in having\ndae'nuds of 5 more pairs of segment appendages (on Hee thorax).\nNote the strong positive phototrobism of the stock culture.\nIf older stages are available, observe them.also. Adulthood\nis reached after le or 15 moults (Heath) during which the number\nof appendages gradually increases greatly.\nBeialei Geseliepehy  9? arab  \nl. Heath, Harold, l92e. The external development of certain\nQ, Morth., 455. \n2. Boone, Eleanor and L. G. M. Baas-Becking, 1951, Salt effects\non eggs and nauplii of Artemis salina L. J. Gen, \nl4, 755. \n5.`Bond, Richard- M., 1935. A contribution to the study of the\nnatural food cycle in aquatic environments. bull. Singhag\nOcean. Coll., 4, article 4.\nA- Y- vi*\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Artemis salina",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "289eed4c-7f56-5abe-96cb-b46f1484077b",
+          "name_string": "Artemis salina",
+          "canonical_form": "Artemis salina",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "127449947",
+          "url": "http://www.organismnames.com/details.htm?lsid=2095017",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    }
+  ]
+}

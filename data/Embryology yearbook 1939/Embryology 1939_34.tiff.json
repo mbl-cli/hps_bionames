@@ -1,0 +1,168 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=aUaquzJeRQCf2Q3zL01vQg",
+  "input_url": null,
+  "file": "Embryology 1939_34.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.125293641,
+    "resolve_names_duration": 0.771443956,
+    "total_duration": 23.869933366
+  },
+  "agent": "",
+  "created": "2013-06-19T15:25:16-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Hydractinia",
+      "scientificName": "Hydractinia",
+      "offsetStart": 1839,
+      "offsetEnd": 1849,
+      "identifiedName": "Hydractinia"
+    },
+    {
+      "verbatim": "Littorina",
+      "scientificName": "Littorina",
+      "offsetStart": 1889,
+      "offsetEnd": 1897,
+      "identifiedName": "Littorina"
+    },
+    {
+      "verbatim": "Pagurus.",
+      "scientificName": "Pagurus",
+      "offsetStart": 1941,
+      "offsetEnd": 1948,
+      "identifiedName": "Pagurus"
+    }
+  ],
+  "content": "\nSelect and study another gonosome with planulae showing near\nthe tip. Squeeze or open the gonophore with needles and liberate\nthe planulae. Notice their ciliated ectoderm and watch their move-\nments.   \nSelect some gonosomes with very well matured planulae. The\nlatter should be two or three times longer than broad, and show\nmaggot~like movements inside the gonangium. Liberate such planulae\nwith needles and place them in watch glasses with sea water (not\nmore than 2 or 5 specimens to a watch glass). Qover them and set\naside for future examination.\nThe planulae should attach to the glass in 4 to 10 hours. Each\nshould open a mouth, had out tentacles, secrete hydrotheca and\nperisarc and become a fully fonned individual polyp in two or three\ndays.\nWhen the planulae have attached, the sea water should be\nchanged at least twice a day. From time to time as laboratory work\npermits, study the stages of development that unfold from the\nplanula.\nMale gonosomes are similar in form.to the female. The gono~\nphores when mature shed sperm, which become active upon coming in\ncontact with the sea water.\nQydractinia. (June, July)\n\nhe unusual colonies of this form are found growing on hermit\ncrabs or under rocks. They include nutritive individuals (ordinary\npolyps), long filiform defensive individuals with apical knobs of\nand gonosomes. These three types of individuals arise\nfrom an enerusting hydrorhiza anastomosis whiah is covered with a\nrust-red crust and often studded with spines.\nThe gonosomes are usually without tentacles and have a large\nknob of on the proboscis; each bears a number of gono-\nphores which are medusa-buds reduced to the status of sporosacs.\nMale and female colonies can be told apart if ripe, since the eggs\nwithin the sporesacs are dull green against the red hydrorhiza,\nand the sperm when.mature are white,\nHydractinia is handiest for study when growing on Littorina\nshells inhabited by the small hermit crab Pagurus. Select a shell\nbearing a ripe male colony and one bearing a ripe female colony,\nand put that together in a fingerbowl of sea water. After 48 hours\nlook for developing eggs, embryos and swimming and attached planulae\nin the dish. Isolate some in watch glasses of sea water for study\nof the further development. (Beckwith lQld).\nEggs are heavily yolky and green, and the cleavage is quite\nirregular, there being frequent ameboid changes in shape. Gastru~\nlation starts at the l6-cell stage by mixed delamination and multi-\npolar proliferation.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Hydractinia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Hydractiniidae|Hydractinia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366629|2381288",
+          "taxon_id": "2381288",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "96a257e2-d54d-591e-a3e6-e6bceca16389",
+          "name_string": "Hydractinia",
+          "canonical_form": "Hydractinia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327897",
+          "local_id": "23448",
+          "url": "http://eol.org/pages/23448",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Littorina",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "27056444-f1d3-5150-8c93-b6f97dbd206d",
+          "name_string": "Littorina",
+          "canonical_form": "Littorina",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Littorinidae|Littorina",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370194|2370223|2381094",
+          "taxon_id": "2381094",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "27056444-f1d3-5150-8c93-b6f97dbd206d",
+          "name_string": "Littorina",
+          "canonical_form": "Littorina",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20630777",
+          "local_id": "32783",
+          "url": "http://eol.org/pages/32783",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pagurus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "52e59f74-8401-5446-916b-2e6fa6cda810",
+          "name_string": "Pagurus",
+          "canonical_form": "Pagurus",
+          "classification_path": "Animalia|Arthropoda|Malacostraca|Decapoda|Decapoda|Paguridae|Pagurus",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2363112|2364736|2365250|2365341|2413594",
+          "taxon_id": "2413594",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "52e59f74-8401-5446-916b-2e6fa6cda810",
+          "name_string": "Pagurus",
+          "canonical_form": "Pagurus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "38963737",
+          "local_id": "39938",
+          "url": "http://eol.org/pages/39938",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

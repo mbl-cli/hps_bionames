@@ -1,0 +1,110 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=GbYRcI7sRES9nvFPM024yA",
+  "input_url": null,
+  "file": "Embryology 1939_47.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.13063101,
+    "resolve_names_duration": 0.617116351,
+    "total_duration": 23.748974929
+  },
+  "agent": "",
+  "created": "2013-06-19T15:27:41-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Amaroucium",
+      "scientificName": "Amaroucium",
+      "offsetStart": 70,
+      "offsetEnd": 79,
+      "identifiedName": "Amaroucium"
+    },
+    {
+      "verbatim": "Amareucium,",
+      "scientificName": "Amareucium",
+      "offsetStart": 823,
+      "offsetEnd": 833,
+      "identifiedName": "Amareucium"
+    }
+  ],
+  "content": ",5 \ns> \"Care\nThe foregoing stages should he compared with a completed\nAmaroucium colony. With a razor. remove a thin slide from the side\nof a celony which has been narcotiaed with ehloretone. Draw several\nzooidf to show the arrangement of the eelony, internal arrangement\noi die aooid and position of the developing embryos.\n\nis another compound ascidian, which is now found\nencrusting on rocks,\ncommon on eel grass.\nand placed in dishes\nTadpoles may also be\nin the debris, When\nwharves and floats, formerly having been\nCertain colonies, brought into the laboratory\nof sea water, will liberate many tadpoles.\nobtained by squeezing the colonies and hunting\nplaced in a little sea water in a watch glass,\nthey soon attach to the dish and commence metamorphosis. (Hardman\nE. C. \ne> Of -\nThe tadpole is not as large as that of Amareucium, but shows\nan interesting feature not present in that form. 'Just under the\nadhesive papillae are a group of accessory hearts, folded up like\nthe petals of a rosebud. ln metamorphosis, they unfold and spread\naround the edge of the developing tunicate. As the colony grows,\nthese increase in number. (Grave and Woodbridge \nb) Day-old form.\nIn addition to the accessory hearts, identify the two siphons,\nthe spot, the pharynx with several stigmata, and yolk.\ncl Fhree-day-old form.\nlhe animal is clearer and larger, and usually so oriented\nthat the observer looks directly into the atrial and eral siphons.\nThe large pharynx shows one row of stigmata around it. The endostyl\nlies on the under side of the pharynx and thus appears as a rod\nunder the mouth.\nThe stomach ordinarily appears as a yellow body under the\natrial opening. The intestine, after turning to one side from the\nstomach, returns to open near the atrium. The pulsating heart and\nits vessels are of particular interest, especially the flow of\nblood around the mouth and pharynx.\nA new bud (First blastozooid) appears frem the sexually de-\nveloped animal (the eozoeid) as an evaginatien of the atrium at\none side. It is furnished with a bleed supply, and presently the\ndifferentiating parts can he distinguished. From what germ layers\ndo the buds seem to arise?\nCU Waelfi -Qld Fs(C)s1irf1?\nln these general structures already studied may`be\neasily seen under low power. The pharynx has developed 4 rows of\nand the buds have three or four rows if they are well de-\nveloped. Buds of the second and third order may be present. Buds\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Amaroucium",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata|Ascidiacea|Enterogona|Aplousobranchia|Synoicidae|Amaroucium",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum|class|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712|7713|183770|32436|107396|107397",
+          "taxon_id": "107397",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29104026",
+          "local_id": "2994850",
+          "url": "http://eol.org/pages/2994850",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Amareucium",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "b6bdd8a7-ecea-5015-a0c0-82f1c7adfcc2",
+          "name_string": "Amareucium",
+          "canonical_form": "Amareucium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97226980",
+          "local_id": "urn:lsid:ubio.org:namebank:4064486",
+          "global_id": "urn:lsid:ubio.org:namebank:4064486",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4064486",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=SI8XixOXSleEvjnOAKyaXg",
+  "input_url": null,
+  "file": "33_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.203222401,
+    "resolve_names_duration": 2.134439651,
+    "total_duration": 28.505304162
+  },
+  "agent": "",
+  "created": "2013-06-18T12:28:35-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "(Rattus norvegicus)",
+      "scientificName": "Rattus norvegicus",
+      "offsetStart": 819,
+      "offsetEnd": 837,
+      "identifiedName": "Rattus norvegicus"
+    },
+    {
+      "verbatim": "Xeno ua",
+      "scientificName": "Xeno ua",
+      "offsetStart": 1278,
+      "offsetEnd": 1284,
+      "identifiedName": "Xeno ua"
+    }
+  ],
+  "content": "MORPHOGENETIC CELL DEATH BIBLIOGRAPHY\nAmprino, R., and Comosso, M. (1956). Etude experimentale de la morphogenese\nde l?aile dans de Poulet. 1. Recherches par la methods\ndes marquee colorees. Arch. de Biol. 67, 61?-653.\nAmp.-in., R., and camesse, M. (1958). Anansl sperimentale a.11. evimppe\nde1l?a1a nell'embrione di pollo. Wilhelm Hou Arch. Entwioklungsmech.\nOrgan. 150, 509-541. \nBellaire, R. (1961). Cell death in chick embryos as studied by electron\nmicroscopy. J. Anat. 95, 54>>61.\nBieling, W. (1957). Die Stellen besondere starker Vltalfarbbarkeit am\nMiuseembryo, ihre Bedeutung fur die Formbildung nebst Untersuchungen\nnber vitale Farbung von Degenerationen. Wllhehm Roux' Arch.\n. Organ. 137, 1~12.\nBourne, M.C., and Gruneberg, H. (1939). Degeneration of the retina and\ncataract. A.new recessive gene in the rat (Rattus norvegicus).\nJ. Heredity 50, 151?156>> 9\nChang, Tso@Kan (1939). Cellular inclusions and phagocytosis in normal\ndevelopment of mouse embryos. Peking Natural History Bulletin\n14, 159-169.\nDeuchar, E. M. (1960). The effect of an amino acid analog on catheptlc\nactivity in somite mesoderm of the chick embryo. Develop. Biol.\n129-137.\nDeuchar, E. M., Weber, R., and Lehmann, F.E. (1957). Differential changes\nof catheptlc activity in regenerating tails of Xeno ua larvae\nrelated to protein breakdown and total nitrogen. Eelv. Physiol.\nActa 15, 212-229. A\nErnst, M. (1926). Bher Untergang von Zellen wahrend der normalen Entwicklung\nbel Wlrbeltisrcn. fur Anatomic und Entwioklungsgerschichte\n228=262. \nFell, H. B. (1925). The histogoneeis of cartilage and bone in the long ho es\nof the embryonic fowl. J. Morphol. 40,\n417-459.\nFell, H. B. (1939). The origin and developmental mechanics of the avian\nsternum. Phil. Trans. Roy. Soc. London B229, 407-463.\nFell, H.B., and Canti, R. G. (1954). Experiments \nof the avian Proc. Roy. Soo. Bll6, 516-551.\nthe development in vitro\nFrieden, E. (1961). Biochemical adaptation and anuran.metamorphosie.\nAmerican Zcologist 1, 115-149.\nFrieden, E., and Mathews, H. (1958). Biochemistry of amphibian.metamorphosls.\nLiver and tail phosphetases. Arch. Biochem. Biophys. 73, l07>>ll\n9\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Rattus norvegicus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "209097b3-5eb2-5368-b445-6e702c7a2c0c",
+          "name_string": "Rattus norvegicus",
+          "canonical_form": "Rattus norvegicus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Tetrapoda|Amniota|Mammalia|Theria|Eutheria|Euarchontoglires|Glires|Rodentia|Sciurognathi|Muroidea|Muridae|Murinae|Rattus|Rattus norvegicus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass||||||class|||superorder||order|suborder||family|subfamily|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|8287|32523|32524|40674|32525|9347|314146|314147|9989|33553|337687|10066|39107|10114|10116",
+          "taxon_id": "10116",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "209097b3-5eb2-5368-b445-6e702c7a2c0c",
+          "name_string": "Rattus norvegicus",
+          "canonical_form": "Rattus norvegicus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29149286",
+          "local_id": "328448",
+          "url": "http://eol.org/pages/328448",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 24,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Xeno ua",
+      "results": [
+        {
+          "data_source_id": 7,
+          "data_source_title": "Union 4",
+          "gni_uuid": "992c6589-171b-5664-be06-de077cc314ed",
+          "name_string": "Xeno Berg 1883",
+          "canonical_form": "Xeno",
+          "classification_path": "|Cellular life|Eukaryota|Opisthokonts|Choanoflagellates and animals|Animalia|Epitheliates|Bilateria|Ecdysozoa|Legged ecdysozoa|Arthropoda|Hexapods|Insecta|Pterygota|Neoptera|Heteroptera|Pentatomomorpha|Lygaeoidea|Rhopalidae|Unassigned rhopaliids|Xeno",
+          "classification_path_ranks": "|above family|above family|above family|above family|unranked|above family|above family|above family|above family|above family|above family|above family|above family|above family|unranked|above family|above family|family|subfamily|genus",
+          "classification_path_ids": "2822864|2823207|2828118|2843765|2843766|2843767|2843768|17974913|2910040|2910041|2910042|2913524|2913525|2922935|2924246|3050402|3059446|3060001|3061245|3061300|3061338",
+          "taxon_id": "3061338",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": false
+    }
+  ]
+}

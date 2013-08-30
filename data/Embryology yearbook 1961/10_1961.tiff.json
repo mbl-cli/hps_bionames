@@ -1,0 +1,86 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=uOw3ZxhTSVag6APB2e2pNA",
+  "input_url": null,
+  "file": "10_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.181400148,
+    "resolve_names_duration": 1.021707573,
+    "total_duration": 33.758345051
+  },
+  "agent": "",
+  "created": "2013-06-18T13:02:59-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Transplentetions una",
+      "scientificName": "Transplentetions una",
+      "offsetStart": 935,
+      "offsetEnd": 954,
+      "identifiedName": "Transplentetions una"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1144,
+      "offsetEnd": 1151,
+      "identifiedName": "Fundulus"
+    }
+  ],
+  "content": "Kegan, BJ-I.. 1935. The fertilizable period of the eggs of heterocligg\nann some associated phenomene. Biol. Bull. 185-201.\nKejiehim, Takao, 1958. Regional differences in pigment cell formation of the\nalbryonic shield of the goldfish. it 133-147.\nLewis, W.H., 1912. Experiments on localization in the eggs of teleoat fish\n(Pundulue het itua). Anat. Rec.  Qs 1-6.\nLewis, U.H., 1912. Experiments on localization and regeneration in the embryonic 1\nshield and germ ring of teleoet fish (Fundulue hetgocl  itua).\nH6?e Q3   4\nLuther. U. 1935. Untereuchungem an Bbrellenlceima\nDie Rollo dee Urganzationszentrume bei der Entetehung der &bryone1/enlege.\nBi01o 522 u4?137o   \n1936. an iaolierten a.r \nArch. I. mtv. ?221 359-385. dm\n1936. Aueteuaoh von prasumptifver Epidemie und. Hedlnlaraplette/rgorelle\nArch. f. Entw.   135; 384-3$,\n1937. Uber einem Fall von etypisoheu: Qrganbildung bein Forellenkecln.\nEmil' Arch. fe mtfo mf 425??454o\n1937. Transplentetions una Defaktvereuohe am der\nForellenkeim-echiebe. Arch. Entw. 12: 404424.\n1938. mn. seasonal cycle in th. .r Biol. nun.\njj: 66-74. .\nI'1il.lcmen, R., 1954. Controlled obsersmtion of hatching in Fundulus heteroclitua.\nBi01o Buno .mi \n.\nMorgan, T.H., 1892.     studies on the teleost   Anat. Ana. 803-814\nMorgan, T.H.. 1895. formtion of the fish' embryo. J. Morph. LQ: 419472.\nNabrit, SJR., 1929. Qlhe role of the fin rays'in` the regeneration in the \nof     me 235'266o \nNewman, ILH., 1906. lpaming behavior and eexual dimorphien in  gglg heteroclitus\n\nand       Bu]-lo E2 514\"'348o A\nNicholas, J.S., and J.H. Oppenheimer, 1942. Regulation and reconstitution in   9 5\nFundulgq Expo 20010   m'257s\nOppenheimer, QLM., 1934. Experiments on early developing stages of  .\nNato SCio Q3   I\n1955. Processes of localization in developing Fundulgg. Proc. Nat. Acad.\nS31-o  es  \n1956. Tho development of isolated blaetomoros oi' Fundulg heterocliig.\nJe Expo Zool. lg! 2'1'7\"'269o 9\n1956. Traneplamtation experiments on developing teleoete and\nP9l'C8)o' Jo Elpo 20910 lg! 4O9\"43ao 1\n1936. Processes of localization in developing Fuudulg. . Exp. Zool.\nE: 405-444. \n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Transplentetions una"
+    },
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

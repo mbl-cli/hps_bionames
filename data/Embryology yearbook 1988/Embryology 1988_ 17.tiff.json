@@ -1,0 +1,278 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=HjVVIy3wSIWt4UWy1wbB7g",
+  "input_url": null,
+  "file": "Embryology 1988_ 17.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.171690018,
+    "resolve_names_duration": 1.255685635,
+    "total_duration": 28.819132721
+  },
+  "agent": "",
+  "created": "2013-06-18T13:14:38-04:00",
+  "total": 9,
+  "names": [
+    {
+      "verbatim": "CIONA",
+      "scientificName": "Ciona",
+      "offsetStart": 0,
+      "offsetEnd": 4,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Ciona.",
+      "scientificName": "Ciona",
+      "offsetStart": 1189,
+      "offsetEnd": 1194,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Ciona intestinalis",
+      "scientificName": "Ciona intestinalis",
+      "offsetStart": 1405,
+      "offsetEnd": 1422,
+      "identifiedName": "Ciona intestinalis"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 1983,
+      "offsetEnd": 1987,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "I",
+      "scientificName": "Invertebrata",
+      "offsetStart": 2224,
+      "offsetEnd": 2224,
+      "identifiedName": "Invertebrata"
+    },
+    {
+      "verbatim": "Ciona.",
+      "scientificName": "Ciona",
+      "offsetStart": 2357,
+      "offsetEnd": 2362,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Ascidia.",
+      "scientificName": "Ascidia",
+      "offsetStart": 2436,
+      "offsetEnd": 2443,
+      "identifiedName": "Ascidia"
+    },
+    {
+      "verbatim": "Clrwelina",
+      "scientificName": "Clrwelina",
+      "offsetStart": 2655,
+      "offsetEnd": 2663,
+      "identifiedName": "Clrwelina"
+    },
+    {
+      "verbatim": "Pramnuchinas miliaris",
+      "scientificName": "Pramnuchinas miliaris",
+      "offsetStart": 2771,
+      "offsetEnd": 2791,
+      "identifiedName": "Pramnuchinas miliaris"
+    }
+  ],
+  "content": "CIONA 213\nThe free-swimming period may last from 6 to 36 hours, usually more than 12\nhours (Berrill, 1935). At metamorphosis the tail is resorbed and the mouth and\natrial siphons rotate to a dorsal position. A heart and two primary gill slits\nappear soon after attachment. The affixed anterior region of the tadpole grows\nout to form a stalk which lifts the trunk away from the substrate. Details and\nfigures of metamorphosis are given by Willey (1893) and Berrill (1929).\nREFERENCES:\nBanc, W. E., 1956. Cytochrome oxidase in anterior and posterior blastomeres of iona in-\ntestinalis. Biol. Bull., 110: 1-7.\nN. J., 1929. Studies in tunicate development. I. General physiology of development\nof simple ascidians. Phil. Trans. Roy. Soc., London, ser. B, 218: 37-78.\nN. J., 1932. The mosaic development of the ascidian egg. Biol. Bull., 63: 381-386.\nN. J., 1935. Studies in tunicate development. Differential retardation and\nacceleration. Phil. Trans. Roy. Sac.. London, ser. B, 225: ZS5-326.\nBERRILI., N. J., 1937. Culture methods for ascidians. In: Culture Methods for Invertebrate\nAnimals, edit. by GaltsoE et al., Comstock, Ithaca, pp. 564-571.\nN. J., 1947. The development and growth of Ciona. I. Mar. Biol. Assoc., 26: 616-\n625.\nCARLISLE, D. B., 1951. On the hormonal and neural control of the release of gametes in\nascidians. J. Exp. Biol., 28: 463-472.\nC/tsruz, W. E., 1896. The early development of Ciona intestinalis, Flemming Bull.\nMus. Comp. Zool., Harvard, 27: 201-280.\nComcun, E. G., 1905. The organization and cell-lineage of the ascidian egg. I. Acad. Nat.\nSci.. Philadelphia, ser. 2, 13: 1-1 19.\nJ., 1915. Recherches cytologiques sur la feooudation des Ascidiens et sur leur\ndeveloppement. ontrib. to Embryol., 3: 33-70. (Carnegie Inst., Wash., Publ. no. 223.)\nL. A., 1927. The history of the cytoplasmic inclusions of the egg of iona intestinalis\nduring oogenesis and fertilisation. Proc. Roy. Soc., Landau, ser. B, 101: 136-162.\njust, E. E., 1934a. On the rearing of Ciona intertinalis under laboratory conditions to sexual\nmaturity. Carnegie Inst., ash., Year Book, 33: 270.\nJUST, E. E., 1934b. Zoological researches. Carnegie Inst., Wad., Year Boob, 34: 280-284.\nE. W., 1914. Text-Book of Embryology. Vol. I. Invertebrata. Macmillan and\nCo., Ltd., London. \nMORGAN, T. H., 1945. The conditions that lead to nonml or alnormal development of Ciona.\nBiol. Bull., 88: 50-62,,;\nRoss, S. M., 1939. Embryonic induction in the Ascidia. Biol. Bull., 77: 216-232.\nWILLEY, A., 1893. Studies on the Protochordau. I. On the origin of the branchial stigmata,\npraeoral lobe, endostyle, atrial cavities etc., in iona intestinalis, Linn., with remarks on\nClrwelina Icpodiformir. Quart. J. Micr. Sci., 34: 317-360.\nZsurmzx, E., 1955. Mitotic respiratory in single eggs of Pramnuchinas miliaris and\noi (fiona intestinalis. Biol. Bull., 108: 366-385.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ciona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957",
+          "taxon_id": "2421957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628900",
+          "local_id": "43439",
+          "url": "http://eol.org/pages/43439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ciona intestinalis",
+      "results": [
+        {
+          "data_source_id": 2,
+          "data_source_title": "Wikispecies",
+          "gni_uuid": "e7bb654a-ba90-575a-85a6-cbe72a86805f",
+          "name_string": "Ciona intestinalis",
+          "canonical_form": "Ciona intestinalis",
+          "classification_path": "Animalia|Eumetazoa|Bilateria|Nephrozoa|Echinothrix|Branchiostoma capense|Thaliacea|Sorberacea|Plurellidae|Cionidae|Ciona intestinalis",
+          "classification_path_ranks": "||||||||||",
+          "classification_path_ids": "80|4404|192967|249913|4473|4474|112943|123974|123975|142523|142524",
+          "taxon_id": "142524",
+          "url": "http://species.wikimedia.org/wiki/Ciona_intestinalis",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e7bb654a-ba90-575a-85a6-cbe72a86805f",
+          "name_string": "Ciona intestinalis",
+          "canonical_form": "Ciona intestinalis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628901",
+          "local_id": "512629",
+          "url": "http://eol.org/pages/512629",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Invertebrata",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "8e7bb9c0-c8f6-5919-88cf-1ba726941ad7",
+          "name_string": "Invertebrata",
+          "canonical_form": "Invertebrata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "125561523",
+          "url": "http://www.organismnames.com/details.htm?lsid=1105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Ascidia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "67ef4142-9496-570e-bda6-a771e8e2e6d8",
+          "name_string": "Ascidia",
+          "canonical_form": "Ascidia",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Ascidiidae|Ascidia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363377|2421959",
+          "taxon_id": "2421959",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "67ef4142-9496-570e-bda6-a771e8e2e6d8",
+          "name_string": "Ascidia",
+          "canonical_form": "Ascidia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27908482",
+          "local_id": "43441",
+          "url": "http://eol.org/pages/43441",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Clrwelina"
+    },
+    {
+      "supplied_name_string": "Pramnuchinas miliaris",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "1f2d6feb-f859-55ab-97c4-b47152465d64",
+          "name_string": "Psammechinus miliaris",
+          "canonical_form": "Psammechinus miliaris",
+          "classification_path": "Animalia|Echinodermata|Eleutherozoa|Cryptosyringida|Echinoidea|Euechinoidea|Echinacea|Echinoida|Echinidae|Psammechinus|Psammechinus miliaris",
+          "classification_path_ranks": "Kingdom|Division|Subdivision|Superclass|Class|Subclass|Superorder|Order|Family|Genus|Species",
+          "classification_path_ids": "202423|156857|655989|655991|157821|157848|157891|157939|157940|157953|157954",
+          "taxon_id": "157954",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "819a31c6-fc1e-57bd-b0f5-9dd747816160",
+          "name_string": "Psammechinus miliaris (P.L.S. Müller, 1771)",
+          "canonical_form": "Psammechinus miliaris",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35422039",
+          "local_id": "599663",
+          "url": "http://eol.org/pages/599663",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Y8khlOOvRruFsgjadj78Vg",
+  "input_url": null,
+  "file": "Embryology 1988_ 129.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.176276805,
+    "resolve_names_duration": 0.657616434,
+    "total_duration": 26.354978516
+  },
+  "agent": "",
+  "created": "2013-06-18T13:09:02-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 77,
+      "offsetEnd": 86,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "Looking at embryos\n1\n'I'F\"iff \nFigure 7. Wild-type post-shortening stages in Drosophila embryonic development.\nStage 13: Shortened embryo (10 30 min to ll 30 min).\nStage 14: Head involution and dorsal closure (ll 30 min to 13 the frontal sac anal pads (ap)\nand posterior spiracles (ps) are apparent.\nStage 15: Dorsa/ Closure Complete (13 to 15 hr.\nStage 16: Condensation of CNS (15 to the completion of embryonic development).\n4.7. Stage 7: midgut invaginations (3 35 min to 3 45 min)\nThe cephalic furrow has deepened and is easily visible when viewed from the side.\nThe posterior midgut plate is parallel to the long axis of the egg and thus has shifted\nthe pole cells to the dorsal side of the embryo. The anterior midgut invagination can\nbe identified at the anterior end of the ventral furrow. The end of this stage is charac-\nterized by the disappearance of the pole cells into the posterior midgut invagination\nat 30% egg length. The cephalic furrow is tilted to form a steeper angle with the\nlongitudinal egg axis. The posterior dorsal fold is very deep and curves laterally towards\nthe posterior tip of the embryoFigure 8. klarsiehl embryos \nStage 13: Shorrened embno\nStage 14: Head involulion ani\nanterior end of the embryo.\nStage 15: Dorsal closure con\nStage 16: Condensation \nthe posterior tip of the CNS.\n4.8 Stage 8: germ ban\nThe cell layers invagina\na multilayered band \negg, elongating along rr\nreaches the head region a\nmidgut invagination and\nly disappear. The cephal\neasily visible. On the vi\nterior of the embryo at I\nween it and the vitellin\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

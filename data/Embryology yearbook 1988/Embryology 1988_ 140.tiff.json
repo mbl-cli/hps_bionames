@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=1lOpawlzQSqTAsjdXGGHhg",
+  "input_url": null,
+  "file": "Embryology 1988_ 140.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.044853841,
+    "total_duration": 23.808183364
+  },
+  "agent": "",
+  "created": "2013-06-18T13:11:08-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "79.\n\nDNA. TA quam D1 jh/ f'%J \n\nf| '/mofkm in Idsf' 2 'il (L DMA 2\" JWSF DT\n\nff 0* 51.-2.1. . .L \n(DF) D, \nQ. 3;\n. -- 91- J..\n(Pdf"
+}

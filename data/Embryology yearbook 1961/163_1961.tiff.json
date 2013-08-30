@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=FwDAnpzATxqSTiwQeyFDeA",
+  "input_url": null,
+  "file": "163_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.179511223,
+    "resolve_names_duration": 0.407646065,
+    "total_duration": 25.649444957
+  },
+  "agent": "",
+  "created": "2013-06-18T12:18:22-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 133,
+      "offsetEnd": 142,
+      "identifiedName": "Microciona"
+    }
+  ],
+  "content": "ALLENSPACH, AL and PAUL FELL. An'analysis of The reaqg;egaTiQp process oi\ni crsoei one -by Ti me: I nemeiesrephy.\nOne gram pieces of Microciona were dissociaTed in 40 mls. filTered sea\nwaTer by expressing iT Through #20 bolTing silk and Then filTering The suspen-\nsion Through a double Thickness of The silk. Several drops of The suspension\nwere sealed under a coverslip wiTh vaseline. PhoTography was performed wiTh a\nWild phase-conTrasT (M-20) microscope and Bolex camera. Observafions were made\naT lOOx, 400x, and and The process phoTographed aT 2 or 4 second inTervals.\nUpon dissociafion The cells rapidly seTTle To The boTTom of The chamber\nand begin To reaggregafe. The individual cells move abouT, fusing boTh wiTh\nThe oTher cells and wiTh aggregafes when conTacT is made befween Them. Some\nof The cells are much more acTive Than ofhers; however, There is no apparenT\nbasis for This difference. ln general, The movemenf of individual cells is\nlimifed To relaTively shorT disTances. Fusion of The cells involves only The\nhyaloplasm, The granuloplasm of The aggregaTed cells remaining discreTe. Fre-\nquenTly Three To five cells and/or young aggregafes come TogeTher simulfaneously\nas if There were a muTual aTTracTion.\nThe archeocyTes move by means of clear lobose pseudopodia. These pseudo-\npodia aTTach To The subsTraTum and conTracT suddenly, advancing The cell in a\njerky manner. Filopodia are also exfended.\nThe coanocyTes, The oTher major cell Type in The suspensions, move by\nmeans of flagella which are soon losT, and by lobose pseudopodia. There has been\nsome confusion as To The nafure of The coanocyTes in The cell suspensions. lT\nappears (Wilson, ThaT The elongaTed, flagellaTed cells of rare occurence\nThaT were formerly ThoughT To be coanocyTes are in facT The flagellafed cells\nof embryos and ThaT The coanocyTes are small (4-5 diamefer) rounded hyaline\ncells wiTh a few small red granules.\nThe aggregaTes puT forTh pseudopodia of The common hyaloplasm, The gran-\nuloplasm of The cells mainfaining a nearly spherical shape. FrequenTly a single\nlarge lobopodia is puT TorTh, and in many cases The surface of The aggregaTes\nbubble vigorously as These lobopodia are exfended and wifhdrawn. Occasionally\nThe granuloplasm of a single cell migraTes ouT info The exTended hyaloplasm.\nThe aggregaTes move over considerable disfances, Traversing as much as mm. in\na five hour period. indeed, The small aggregafes are very acTive, sweeping up\nisolaTed cells as They move abouf.\nTracings of The rouTes of The cells and early aggregafes were made from\nlOOx films covering a 5\"hour period. An analysis of These paThs show ThaT The\nrouTes Taken by The cells and aggregafes are random. However, on occasion a cell\nor early aggregaTe was seen To follow closely The TorTuous rouTe Taken by anoTher\ncell or aggregaTe a shorT Time before. There was no indicafion of cellular\nproducTs laid down by The cells over which oTher cells mighT Travel. AT \nThere was no evidence of membranes or fibrous maTerial produced by The cells.\nGalfsoff reporfed ThaT archeocyTes somefimes lose small biTs of hyaloplasm\nwhich mark The rouTe Taken by The cell and ThaT These are wiped up by oTher cells\nwhich move over Them. Perhaps These droplefs which presenT physical irregulariTies\nin The subsfrafum serve To direcT The paThs of oTher cells.\nCLARK, Alvin J. The normal devel9pmenTgofgan Acoeliflafwomg\nA ln order To observe The normal developmenfal paTTern found in The order\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Microciona",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Porifera|Demospongiae|Ceractinomorpha|Poecilosclerida|Microcionina|Microcionidae|Microciona",
+          "classification_path_ranks": "|superkingdom||kingdom|phylum|class|subclass|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6040|6042|6048|27925|283498|27926|27927",
+          "taxon_id": "27927",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992018",
+          "local_id": "2544604",
+          "url": "http://eol.org/pages/2544604",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    }
+  ]
+}

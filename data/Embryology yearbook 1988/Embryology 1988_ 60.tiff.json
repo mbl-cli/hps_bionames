@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=TLobeZ8kRbqGeOgxQgT8JA",
+  "input_url": null,
+  "file": "Embryology 1988_ 60.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.21363926,
+    "total_duration": 23.160462619
+  },
+  "agent": "",
+  "created": "2013-06-18T13:23:05-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "M. \nEmbryology Course\nMarine Biological Laboratory\nWoods Hole, MA 02543\nJune 30, 1988 - 10:00 a.m.\nQuestion: WHAT \nAnswer: WHAT ABOUT MICROTUBULESI\nl. T. Mitchison and M. \"Microtubule Assembly Nucleated by Isolated\nCentrosomes and Dynamic Instability of Microtubule Growth\"\nNature 312 232-237 and 237-242 (1984)\n2. M. and T. Mitchison, \"Beyond Self Assembly\"\nCell 5; 329-342\n3. H. Horio and H. Hotani, \"Visualization of the Dynamic Instability of Individual\nMicrotubules by Dark-field Microscopy\"\nNature 321 605-607 (1986)\n4. E. Schulze and M. \"Microtubule Dynamics in Interphase Cells\"\nJ. Cell Biol. 102 1020 - 1031 (1986)\n5. R.B. Nicklas, \"Measurements of the Force Produced by the Mitotic Spindle\"\nJ. Cell Biol. (1983)\n6 T. Mitchison, L. Evans, E. Schulze and M. \"Sites oi Microtubule\nAssembly and Disassembly in the Mitotic Spindle\"\nCell ?5 515-527 (1986)\n7. P.O. Sammak and G.G. Bonsy \"Direct Observation of Microtubule Dynamics in\nLiving Cells\nNature 332 724-726 (1988)\n3\nIl\n8. D.E. Koshland, T.J. Mitchison and M. \"Polarized Chromosome Movement\nDriven by Microtubule Depolynerization in Vitro\"\nNature 331 455-504 (1988)\n9 D. Bentley and R.A. Toroian \"Disoriented Pathfinding by Pioneer Neuron Growth\nCones Deprived of Filopodia by Cylochalasin Treatment\nNature 323 712-715 (1986)\n10. A.I. Gottlieb, L.M. May, L. Subramnyan and U.I. Kalnins \"Endotheleal Cell\nMigration\"\nJ. Cell Biol. 9l 539-594 (1981)\nll. A. Kupfer, D. Louvard and J. Singer, \"Polarization of the Golgi Apparatus and\nthe Microtubule Organizing Center in Cultured Filroblasts at the Edge of an\nExperimental Wound\"\nProceedings of the National Academy of Sciences, USA l9 2603-2607 (1982)\n\n"
+}

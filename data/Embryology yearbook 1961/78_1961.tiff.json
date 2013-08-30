@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=19aAK2zQS5Ow0KVEFjclaw",
+  "input_url": null,
+  "file": "78_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.152942241,
+    "resolve_names_duration": 1.324547782,
+    "total_duration": 24.965503859
+  },
+  "agent": "",
+  "created": "2013-06-18T12:45:04-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Gregidula",
+      "scientificName": "Gregidula",
+      "offsetStart": 910,
+      "offsetEnd": 918,
+      "identifiedName": "Gregidula"
+    }
+  ],
+  "content": "-8-\n(There is no typieel trochuphere stage in Crepiuuls. Study stages of direct\ntrensfurmetiun of the gastrula into the Veliger larva. (Cunklin, 1897, figs. 77-\n79.) Observe the gradual development uf the shell glans, shell, velum and foot.)\n5. Cregiqula -;Q?g;yetiv??\nquartette ef mierumeres:\na. all eeteserm sells uf heeu vesicle\nb. apical plate of eiliatea cells\nc. pesterier cell plate 1\nu. ecrsal purticn ef functiunal velum ans purtiun of first velar\nrow on ventral side\ne. supraoessphegeal genglie ana cunnectives\nf. eerebro-penal sennectives\ng. possibly the peeal genglia\nh. an apical sense organ\ni. pairee eyes\n2nd quartette of mierumeres:\na. larger part of velum\nb. shell gland\ne. at least part of the feet\nd. larval from derivatives of 2a - 2c.\n3rd quertette of miorumeres:\nderivatives lie whully uutside ef velar area and form a\neonsiuereble pert uf the lower hemisphere.\nReferenues sci ieally fer Gregidula\nConklin, E. G. 1897 Embryology of Creuidula. J. Murph., vol 13, pp 1~226\n1902 Cytukinesis and Karyekinesis. J. seed. Sei. Phila.,\nSer. 2, vol. 12, part 1\nMoritz, C. E. 1938 The anatemy of the Gastropuu, Crepiaulg gsuncg. Univ. Calif.\n  Zidull,   A-3, pp;  \n1939 Organsgenesis in the Gastrepug, Crepiuulagdungg Sswerbv,\nUniv. Calif. Publ. Zeel. vel. l3, pp \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Gregidula"
+    }
+  ]
+}

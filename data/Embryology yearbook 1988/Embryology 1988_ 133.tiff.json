@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=HGTRvf5eSaSQRrZMVLdMpQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 133.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.201963534,
+    "total_duration": 23.691707447
+  },
+  "agent": "",
+  "created": "2013-06-18T13:09:38-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "L00/ting at embryos\nsac is initially concave dorsally and changes to a convex shape at the end of this stage.\nThe head bends dorsally and a gap at the anterior ventral region of the head enlarges.\nA ridge forms dorsally at the posterior margin of the head.\n4. l4 Stage 14: head involution and dorsal closure (ll 30 min to 13 h)\nThe convex protrusion of the yolk sac is covered by the serosa at the dorsal middle\nregion of the embryo. The germ band stretches anteriorly and a head portion involutes\ninto the interior of the embryo continuously with the stomodeal opening. The clypeo-\nlabrum is distinct. Frontal sac formation begins as the dorsal ridge moves anteriorly\ncovering the head region. The posterior midgut broadens dorsally. Ventral layers become\napparent and gradually flatten out along the yolk sac. The hindgut grows antero-dorsally\nforming a sharper angle with the midgut. The anal plates and posterior spiracles become\ndistinct. Dorsal closure continues.\n4.15 Stage 15: dorsal closure complete (13 to 15 h)\nHead involution and dorsal closure of the ectoderm have been completed. During this\nstage, dorsal closure of the musculature and gut occurs. The midgut initially assumes\na `heart shape'. Subsequently constrictions divide the midgut into three regularly spac-\ned subdivisions.\n4.16 Stage 16: condensation of CNS (15 to the completion of embryonic development)\nThe major remaining morphogenetic movements are the condensation of the nervous\nsystem and the conversion of the initially sac-like gut into a long convoluted tube. As\nthe nervous system contracts along the ventral side of the embryo, the convoluting gut\nfills in the space between the posterior tip of the ventral nervous system and the anal\npads. Muscular movements begin in the gut and are soon apparent in the somatic mus-\nculature as well.\n5. UTIC LE PREPARATIONS\nThe following procedures for making cuticle prepartions are all minor variants of the\noriginal technique described by van der Meer (24). The choice among procedures\ndepends on a balance between the desired quality of the preparation and the number\nof different stocks and embryos to be examined.\n5.1 Quick preparations of undechorionated eggs\nThis method may be used for determining hatch rates, embryonic phenotypes, etc.\nCollect embryos and allow them to develop until all normal individuals have\nhatched.\n(ii) Determine the number of hatched eggs by counting the empty chorions on the\nagar surface.\nPick the unhatched eggs from the plate with a forceps and transfer to a drop\nof Hoyer's mountant on a glass slide.\n(iv) Cover the drop with a small 10 mm) coverslip and incubate the preparation\novernight at \n214\n\n"
+}

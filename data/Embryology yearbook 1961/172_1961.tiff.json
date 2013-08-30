@@ -1,0 +1,150 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=cyrOCXzZR5SqbUE9IADruQ",
+  "input_url": null,
+  "file": "172_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.299306099,
+    "resolve_names_duration": 1.187999634,
+    "total_duration": 27.549487489
+  },
+  "agent": "",
+  "created": "2013-06-18T12:21:12-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 515,
+      "offsetEnd": 524,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Haliclona,",
+      "scientificName": "Haliclona",
+      "offsetStart": 530,
+      "offsetEnd": 539,
+      "identifiedName": "Haliclona"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 1491,
+      "offsetEnd": 1500,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Haliclona",
+      "scientificName": "Haliclona",
+      "offsetStart": 1506,
+      "offsetEnd": 1514,
+      "identifiedName": "Haliclona"
+    },
+    {
+      "verbatim": "Microciona",
+      "scientificName": "Microciona",
+      "offsetStart": 1559,
+      "offsetEnd": 1568,
+      "identifiedName": "Microciona"
+    },
+    {
+      "verbatim": "Haliclona",
+      "scientificName": "Haliclona",
+      "offsetStart": 2500,
+      "offsetEnd": 2508,
+      "identifiedName": "Haliclona"
+    }
+  ],
+  "content": "\nmeasuremenf of The unaggregafed maTerial.\nDissociaTed cells were prepared by washing lOg. of sponge in \nfree sea waTer, cuTTing The sponge info small pieces and leTTing iT soak for aT\nleasf an hour in 50 ml. of cold Carand Mg fr free sea waTer. The pieces were\nThen squeezed Through bolfing cloTh inTo a fresh 50 ml. of cold and \nfree sea wafer, and The cells were filTered firsT Through a single layer of \nsfandard bolTing cloTh, Then Through a sieve made up of Three layers of bolTing\ncloTh. ln The case of boTh Microciona and Haliclona, The resulTing suspensions\nwere found To conTain befween aggregaTion, a ml. aliquoT of The suspension was diluTed wiTh 4 ml. of filfered\nsea waTer. AfTer reaggregafion had proceeded for a given lengTh of Time, The\naggregaTed maTerial was removed by pouring The suspension Through a sieve made of\n3 layers of bolTing cloTh inTo a cold cenTrifuge Tube conTaining 25mg. of\nsodium ciTraTe, which prevenTed furTher aggregafion. The densiTy of\nThe un aggregaTed maferial in suspension was read on a colourimeTer aT a wave\nlengTh of eiTher 660 or 570 mu. The maTerial whose densiTy was Thus esTablished\nconsisTed of unaggregaTed cells and small aggregaTes up To l5 in diamTer.\nln order To avoid variafions which mighf have been produced by accidenTal\nshaking of The suspensions during aggregaTion, The aggregaTions were carried ouf\non a roTary shaker revolving aT a raTe of abouT 70-80 cycles per minuTe. iT was\nfound ThaT The Time courses of aggregaTion of Microciona and Haliclona were\ndifferenf in The inifial few minuTes, Microciona showing a very rapid decrease\nin The amounT of unaggregaTed maTerial, while The aggregaTion of galiclgna pro-\nceeded more slowly. The inifial period, lasTing 5-I0 minuTes, was followed by\na period of logariThmic decrease in The amounT of unaggregaTed maTerial, during\nwhich The raTe was abouT The same for boTh Types of sponge, having a half Time\nof abouT 20 minuTes. This raTe was noT appreciably influenced by TemperaTure\nand was found To be The same boTh in The case of cells aggregaTing in fresh sea\nwaTer and in The fluid in which aggregafion of one loT of cells had already\noccurred. The invariabiliTy of The raTe conTrasT under The various condiTons\nsuggesTed ThaT iT did noT reflecT any basic properTy of The aggregaTion process,\nbuT ThaT iT was an arTefacT of The Technique.\nA comparison was Therefore made of The raTes of aggregaTion of The Two\nTypes of sponge in sTaTionary PeTri dishes aT l4.5?C. This showed ThaT The\nHaliclona cells showed a logariThmic decrease in The amounT of unaggregaTed maTerial\nwiTh a half Time of abouf 45 minufes. The aggregaTion of Microciona,on The oTher\nhand showed Two phases, each involving a logariThmic decrease in The amounT of\nunaggregaTed maferial, buT aT differenT raTes. During The iniTial period,\nlasTing abouT 20 minuTes, The unaggregawed maTerial disappeared wiTh a half Time\nof abouT I0 minuTes, Then The aggregaTion proceeded more slowly, wiTh a half Time\nof 220 minuTes.\nIT is possible ThaT These differences in The raTes of aggregaTion of The\nTwo Types of sponge conTribuTsTo The process of separafion of cell Types ThaT\noccurs in The aggregafion of a mixfure of cells from differenT sponges.\nGROSS, JEROME A11empTs TQ direcT,The morphogenesis of a sponge\nThe shape and direcfion of movemenT of fibroblasTs has been seen To be\nbiases by The orienTaTion of The subsTraTe. Since sponges may be dissociaTed To\nindividual cells capable of reaggregafing in clusfers (Wilson, GalTsoff) and even\nreproducing The naTive sponge sTrucTure (Faure-Fremief) an aTTempT was made To\n,si I I I Il\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Microciona",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Porifera|Demospongiae|Ceractinomorpha|Poecilosclerida|Microcionina|Microcionidae|Microciona",
+          "classification_path_ranks": "|superkingdom||kingdom|phylum|class|subclass|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6040|6042|6048|27925|283498|27926|27927",
+          "taxon_id": "27927",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0895cf23-e8a4-5f46-be77-4b3b109eb102",
+          "name_string": "Microciona",
+          "canonical_form": "Microciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992018",
+          "local_id": "2544604",
+          "url": "http://eol.org/pages/2544604",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Haliclona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ca614c1f-4c0e-5f15-a4c2-91c75c16a372",
+          "name_string": "Haliclona",
+          "canonical_form": "Haliclona",
+          "classification_path": "Animalia|Porifera|Demospongiae|Haplosclerida|Chalinidae|Haliclona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2364203|2366770|2366782|2420156",
+          "taxon_id": "2420156",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ca614c1f-4c0e-5f15-a4c2-91c75c16a372",
+          "name_string": "Haliclona",
+          "canonical_form": "Haliclona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40913237",
+          "local_id": "2544164",
+          "url": "http://eol.org/pages/2544164",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

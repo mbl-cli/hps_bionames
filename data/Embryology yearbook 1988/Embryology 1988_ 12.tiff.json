@@ -1,0 +1,415 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=VChykmaIQ6mbyUToRpRzMw",
+  "input_url": null,
+  "file": "Embryology 1988_ 12.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.226613141,
+    "resolve_names_duration": 0.724308805,
+    "total_duration": 22.923098933
+  },
+  "agent": "",
+  "created": "2013-06-18T13:08:23-04:00",
+  "total": 10,
+  "names": [
+    {
+      "verbatim": "Ciona intestinalis",
+      "scientificName": "Ciona intestinalis",
+      "offsetStart": 146,
+      "offsetEnd": 163,
+      "identifiedName": "Ciona intestinalis"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 165,
+      "offsetEnd": 169,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Chordata,",
+      "scientificName": "Chordata",
+      "offsetStart": 225,
+      "offsetEnd": 233,
+      "identifiedName": "Chordata"
+    },
+    {
+      "verbatim": "Urochordata",
+      "scientificName": "Urochordata",
+      "offsetStart": 235,
+      "offsetEnd": 245,
+      "identifiedName": "Urochordata"
+    },
+    {
+      "verbatim": "(Tunicata),",
+      "scientificName": "Tunicata",
+      "offsetStart": 247,
+      "offsetEnd": 257,
+      "identifiedName": "Tunicata"
+    },
+    {
+      "verbatim": "Ascidiacea);",
+      "scientificName": "Ascidiacea",
+      "offsetStart": 265,
+      "offsetEnd": 276,
+      "identifiedName": "Ascidiacea"
+    },
+    {
+      "verbatim": "Styela clava",
+      "scientificName": "Styela clava",
+      "offsetStart": 1058,
+      "offsetEnd": 1069,
+      "identifiedName": "Styela clava"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 1091,
+      "offsetEnd": 1095,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Styela.",
+      "scientificName": "Styela",
+      "offsetStart": 1197,
+      "offsetEnd": 1203,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 2202,
+      "offsetEnd": 2206,
+      "identifiedName": "Ciona"
+    }
+  ],
+  "content": " \nEmbryology Course\nMonday, June 20, 1988\nJ.R. Whittaker\nASCIDIAN LARVAL DEVELOPMENT LABORATORY\nSession I: 1:30-6:00 pm\n1. General development of Ciona intestinalis\nCiona is probably the most universally distributed ascidian\nChordata, Urochordata (Tunicata), Class\nAscidiacea); it is also thought to be the most evolutionarily\nancient of the ascidians. Except for lack of genetics, it has\nmost of the advantages desired of an embryological model: large\nnumbers of developing zygotes, rapid development\ntime (see attached schedule), large relatively transparent cells\nand a lot of useful supportive data on experimental embryology and\nbiochemistry.\nThe attached materials from the Costello (1957) book will give\nbackground on the handling of this organism. The class should\nfirst do some fertilizations of eggs, and over the next 24 hr\nobserve microscopically the various stages of larval development.\nSome freshly hatched larvae have been provided to show you the\nlarval morphology and tissue organization.\n2. Demonstration of yellow crescent segregation in Styela\nclava eggs\nUnfortunately, Ciona does not have any natural cytoplasmic markers\nin the zygote, as do many of the species in the genus Styela. The\nclassic cell lineage (fate map) of Conklin \nassisted by observations of the segregation of a\n\"yellow crescent\" which forms subequatorially in the zygote a few\nminutes after fertilization. This crescent segregates into the\nmuscle cells of the developing larva, and aside from being an\nexcellent territorial and orientation marker for studying cell\nlineages it gives a potent visual demonstration that certain\nregions of egg (zygote) cytoplasm end up always in the same cells.\nAs early as 1905, Conklin and others deduced correctly that they\nwere watching an example of potential \"cytoplasmic control\" of\nsubsequent cellular differentiation, in this case of muscle.\nThe so-called crescent is actually a large aggregation of\nmitochondria, associated yolk granules and other cytoplasmic\nmaterials. They make up a distinctive myoplasmic domain; in some\nspecies the crescent region is colored because of differential\nattachment of yolk granules to the mitochondria. Although not\ndirectly visible in Ciona it can easily be demonstrated with\nmitochondrial stains of various kinds.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ciona intestinalis",
+      "results": [
+        {
+          "data_source_id": 2,
+          "data_source_title": "Wikispecies",
+          "gni_uuid": "e7bb654a-ba90-575a-85a6-cbe72a86805f",
+          "name_string": "Ciona intestinalis",
+          "canonical_form": "Ciona intestinalis",
+          "classification_path": "Animalia|Eumetazoa|Bilateria|Nephrozoa|Echinothrix|Branchiostoma capense|Thaliacea|Sorberacea|Plurellidae|Cionidae|Ciona intestinalis",
+          "classification_path_ranks": "||||||||||",
+          "classification_path_ids": "80|4404|192967|249913|4473|4474|112943|123974|123975|142523|142524",
+          "taxon_id": "142524",
+          "url": "http://species.wikimedia.org/wiki/Ciona_intestinalis",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e7bb654a-ba90-575a-85a6-cbe72a86805f",
+          "name_string": "Ciona intestinalis",
+          "canonical_form": "Ciona intestinalis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628901",
+          "local_id": "512629",
+          "url": "http://eol.org/pages/512629",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ciona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957",
+          "taxon_id": "2421957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628900",
+          "local_id": "43439",
+          "url": "http://eol.org/pages/43439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Chordata",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b5855fdb-85ac-5187-93cb-62cf1c3d518a",
+          "name_string": "Chordata",
+          "canonical_form": "Chordata",
+          "classification_path": "Animalia|Chordata",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2362754",
+          "taxon_id": "2362754",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b5855fdb-85ac-5187-93cb-62cf1c3d518a",
+          "name_string": "Chordata",
+          "canonical_form": "Chordata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37279987",
+          "local_id": "19719807",
+          "url": "http://eol.org/pages/19719807",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Urochordata",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "319ccb58-b01b-5755-bd7c-5f63d412a956",
+          "name_string": "Urochordata",
+          "canonical_form": "Urochordata",
+          "classification_path": "Animalia|Chordata|Tunicata",
+          "classification_path_ranks": "Kingdom|Division|Subdivision",
+          "classification_path_ids": "202423|158852|203347",
+          "taxon_id": "158853",
+          "current_taxon_id": "203347",
+          "current_name_string": "Tunicata Lamarck, 1816",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "319ccb58-b01b-5755-bd7c-5f63d412a956",
+          "name_string": "Urochordata",
+          "canonical_form": "Urochordata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5205103",
+          "local_id": "2773824",
+          "url": "http://eol.org/pages/2773824/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tunicata",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "93d3a101-f63b-5bf0-9fd6-730766de7e51",
+          "name_string": "Tunicata",
+          "canonical_form": "Tunicata",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712",
+          "taxon_id": "7712",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "93d3a101-f63b-5bf0-9fd6-730766de7e51",
+          "name_string": "Tunicata",
+          "canonical_form": "Tunicata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103803",
+          "local_id": "2773824",
+          "url": "http://eol.org/pages/2773824",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ascidiacea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "93c7eafd-6b51-5d3c-a9f1-706b1ce8c19e",
+          "name_string": "Ascidiacea",
+          "canonical_form": "Ascidiacea",
+          "classification_path": "Animalia|Chordata|Ascidiacea",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2362754|2363300",
+          "taxon_id": "2363300",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "93c7eafd-6b51-5d3c-a9f1-706b1ce8c19e",
+          "name_string": "Ascidiacea",
+          "canonical_form": "Ascidiacea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39147283",
+          "local_id": "1486",
+          "url": "http://eol.org/pages/1486",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Styela clava",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "58d4d733-0736-5560-a93f-e3a63858a331",
+          "name_string": "Styela clava",
+          "canonical_form": "Styela clava",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata|Ascidiacea|Stolidobranchia|Styelidae|Styela|Styela clava",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum|class|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712|7713|7720|7721|7724|7725",
+          "taxon_id": "7725",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "58d4d733-0736-5560-a93f-e3a63858a331",
+          "name_string": "Styela clava",
+          "canonical_form": "Styela clava",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103812",
+          "local_id": "503609",
+          "url": "http://eol.org/pages/503609",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

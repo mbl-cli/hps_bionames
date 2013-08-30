@@ -1,0 +1,189 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=WNuwgWKzTYeqP0A37KZrww",
+  "input_url": null,
+  "file": "121_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.152950851,
+    "resolve_names_duration": 0.800069956,
+    "total_duration": 27.424600203
+  },
+  "agent": "",
+  "created": "2013-06-18T11:36:56-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 18,
+      "offsetEnd": 24,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 581,
+      "offsetEnd": 587,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Laris),",
+      "scientificName": "Laris",
+      "offsetStart": 1184,
+      "offsetEnd": 1190,
+      "identifiedName": "Laris"
+    },
+    {
+      "verbatim": "Psammechinus",
+      "scientificName": "Psammechinus",
+      "offsetStart": 1215,
+      "offsetEnd": 1226,
+      "identifiedName": "Psammechinus"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1232,
+      "offsetEnd": 1238,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1291,
+      "offsetEnd": 1297,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\nUnTerTjlized-oya\nArbacia puncTulaTa eggs compleTe boTh meioTic divisions while in The ovary;\npresumably The divisions Themselves musT be rapid, for very seldom are eggs\nobserved wiTh maTuraTion spindles or polar bodies. Unripe gonads oTTen do ex-\nhibiT large numbers of eggs in The germinal vesicle sTage. These will ofTen\nrespond To inseminaTion by forming hyaline blisTers aT The poinTs of sperm\nenTrance. AT This sTage, The mechanisms for membrane elevaTion and for prevenT-\ning polyspermy have noT developed. No developmenT resulTs from inseminaTion\naT This sTage.\nThe maTure Arbacia egg has a TransparenT jelly layer ThaT swells To abouT 30\nmicrons in diameTer. MosT of The jelly can be removed if desired by swirling\nThe eggs for 20-40 seconds in sea waTer pH.5. Longer TreaTmenT removes The\njelly enTirely, buT may injure The eggs. BeneaTh The jelly layer is The viTel-\nline membrane. lT is Too Thin To be seen on The egg surface, buT is visible as iT\nelevaTes from The surface aT TerTilizaTion. BeneaTh The viTelline membrane is\nThe corTex, conTaining characTerisTic granules from 0.5 To 0.8 microns in\ndiameTer. The corTex is apparenTly an exTra-cellular layer (ParparT and Laris),\nand in The sea urchins Psammechinus and Arbacia can be removed in sTrips (Allen).\nThe cyToplasm of Arbacia conTains oil spherules, miTochondria, yolk granules and\nThe larger red echinochrome granules. (As HarTmann l939), and (Tyler\nl939) showed, The red echinochrome is a subsTiTuTed naphThoquinone relaTed To\nThe viTamins.) The formed cyToplasmic componenTs and The corTical granules\nare besT seen in The cenTriTuged eggs. The polariTy of The egg can be deTermined\nonly by marking The posiTion of The micropyle or Tunnel wiTh Janus green or\nchinese ink. The polar bodies, which were exTruded aT The animal pole have by\nThis Time been losT in The medium. The posiTion of The nhcleus probably marks\nThe animal pole only in very unrip eggs (see Hoadley, l934).\nCenTriTuge a sample of unferTilized eggs aT l0,000 for l/2 hour and skeTch\none in \"side view\", noTing The five layers of sTraTified maTerial: oil cap, hyaline\nzone, miTochondria, yolk zone and pigmenT zone. Where is The nucleus? Have The\ncorTical granules been displaced? Are They Thicker in The cenTriTugal hemisphere?\nlf Time allows, cenTriTuge some eggs aT higher speeds in The air-Turbine cenTri-\nTuge (consulT papers of E. B. Harvey) To separaTe Them inTo halves and quarTers.\nlnseminaTe These and waTch developmenT. The miTochondrial layer is sTained\nbrillianTly by eiTher janus B. Green or by Cresyl violeT.\nCorTical reacTion.\nPlace a drop of diluTe eggs on a slide and cover wiTh a cover-glass supporTed=\non The Tour corners wiTh plasTicene \"TeeT\". WiThdraw a liTTle waTer so ThaT The\nwaTer inTerphase shrinks away Trom The ouTline of The cover-glass. Add a drop\nof sTock sperm suspension To one corner of The preparaTion and selecT The sperm\ndensiTy ThaT is mosT convenlenT Tor The subjecT under sTudy. (Tor The deTails of\nsperm peneTraTion, selecT an egg Tar Trom The poinT of inseminaTion To geT a low\nsperm To egg raTio; for observing The Time of membrane elevaTion, selecT an egg\nwiTh plenTy of sperm around iT.) The peneTraTing sperm is usually one of The\nfirsT To arrive aT The egg surface (see HulTin's \"TirsT orbiT Theory\". ExpTl.\nCell Res., in press l956), and iT is safe To assume ThaT The sperm has enTered\nby The Time The membrane begins To elevaTe. WaTch for a characTerisTic wrinkling\non The egg surface; This is caused by explosion of The corTical granules. WaTch\nalso for The appearance of The hyaline layer. Where did The subsTances occupying\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Laris",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "c19146b7-7ccb-523b-b80d-8bbc728f4b1e",
+          "name_string": "Laris",
+          "canonical_form": "Laris",
+          "classification_path": "Animalia|Arthropoda|Insecta|Lepidoptera|Lepidoptera|Gelechiidae|Laris",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362873|2362928|2369741|2478915",
+          "taxon_id": "2478915",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "c19146b7-7ccb-523b-b80d-8bbc728f4b1e",
+          "name_string": "Laris",
+          "canonical_form": "Laris",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34096117",
+          "local_id": "93883",
+          "url": "http://eol.org/pages/93883",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Psammechinus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "8181cc0b-3730-5793-8857-5cccefbf0753",
+          "name_string": "Psammechinus",
+          "canonical_form": "Psammechinus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Echinidae|Psammechinus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362622|2493651",
+          "taxon_id": "2493651",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8181cc0b-3730-5793-8857-5cccefbf0753",
+          "name_string": "Psammechinus",
+          "canonical_form": "Psammechinus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27908571",
+          "local_id": "73314",
+          "url": "http://eol.org/pages/73314",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

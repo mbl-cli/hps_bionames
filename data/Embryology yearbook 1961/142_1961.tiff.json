@@ -1,0 +1,385 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=c3YiIvbZQnq1gRUrkmjVag",
+  "input_url": null,
+  "file": "142_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.19259299,
+    "resolve_names_duration": 2.902197179,
+    "total_duration": 26.729927586
+  },
+  "agent": "",
+  "created": "2013-06-18T12:11:45-04:00",
+  "total": 10,
+  "names": [
+    {
+      "verbatim": "Spongilla",
+      "scientificName": "Spongilla",
+      "offsetStart": 493,
+      "offsetEnd": 501,
+      "identifiedName": "Spongilla"
+    },
+    {
+      "verbatim": "Granfia compressa",
+      "scientificName": "Granfia compressa",
+      "offsetStart": 712,
+      "offsetEnd": 728,
+      "identifiedName": "Granfia compressa"
+    },
+    {
+      "verbatim": "Ephydalia blembingua, wiih",
+      "scientificName": "Ephydalia blembingua wiih",
+      "offsetStart": 924,
+      "offsetEnd": 949,
+      "identifiedName": "Ephydalia blembingua wiih"
+    },
+    {
+      "verbatim": "Ficulina",
+      "scientificName": "Ficulina",
+      "offsetStart": 1089,
+      "offsetEnd": 1096,
+      "identifiedName": "Ficulina"
+    },
+    {
+      "verbatim": "Granlia\n(Sycon) compressa",
+      "scientificName": "Granlia (Sycon) compressa",
+      "offsetStart": 1214,
+      "offsetEnd": 1238,
+      "identifiedName": "Granlia (Sycon) compressa"
+    },
+    {
+      "verbatim": "Halisarca",
+      "scientificName": "Halisarca",
+      "offsetStart": 1309,
+      "offsetEnd": 1317,
+      "identifiedName": "Halisarca"
+    },
+    {
+      "verbatim": "Halicon",
+      "scientificName": "Halicon",
+      "offsetStart": 1548,
+      "offsetEnd": 1554,
+      "identifiedName": "Halicon"
+    },
+    {
+      "verbatim": "Myxospongidae",
+      "scientificName": "Myxospongidae",
+      "offsetStart": 1620,
+      "offsetEnd": 1632,
+      "identifiedName": "Myxospongidae"
+    },
+    {
+      "verbatim": "Halisarca.",
+      "scientificName": "Halisarca",
+      "offsetStart": 1635,
+      "offsetEnd": 1644,
+      "identifiedName": "Halisarca"
+    },
+    {
+      "verbatim": "Leucosolenia variabilis",
+      "scientificName": "Leucosolenia variabilis",
+      "offsetStart": 1726,
+      "offsetEnd": 1748,
+      "identifiedName": "Leucosolenia variabilis"
+    }
+  ],
+  "content": "Sponges 4.\nSELECTED REFERENCES\n1. Generalgand also Hyman, The lnverlebrales, Vol. l)\nAgrell, l95l. Observalions on cell differeniialion in sponges. Ark. f. Zool.\nn.s. 5l9-525.\n,l952 Enzymes and cell differenliarion in sponges. lbld. 25325-33l.\nBrien, P., l932. a |'e%ude de la regeherallon nalurelle chez les\nArch. de Zool. Exper. el Gen. 1?;46l5Ol\nl943. L'embryologle des Eponges. Bull. Muses Roy. d'HisT. Na+. \nand H. Meewls, l938. Embryogenese des Arch. \nBronsled, H. V. l936. sfudien uber Spongilla\nlacuslris Cl.) Acla Zool. 11575-l72.\ndeLaubenfels, M. W., l949. The sponges of Woods Hole and adjacenf wafers. Bull.\nMus. Comp. Zool. (Harvard) lO3: l-55.\nDendy, A., l9l4. Observalions on The gamelogenesis of Granfia compressa. Quarf. J.\n\nDubosq. O.. and O. Tuzel, l937. L'ovogenese, la feconsallon, el les premier\nsfades du developpemenf des eponges calcaires. Arch. Zool. Exp. ef Gen.\nlg:  \nEvans, R., l9Ol. A of Ephydalia blembingua, wiih an accounl of The\nformallon and slruclure of The gemmule. Quarl. J. Micr. Sci. Qi; 7|-lO9.\nFaure-Fremiel, E., l93l. Elude hisfologique de Ficulina flcis (L.). Arch. Anal.\nMicr. 21; 42|-448.\nGalenby, J. B., l9l9. Germ cells, ferlilizalion and early developmenf of Granlia\n(Sycon) compressa. Linn. Soc. Lon. Jour., Zool. 26l-297.\nLevi, Claude, IQ56. Efude des Halisarca de Roscoff. Embryologie el Syslemalique\ndes Demosponges. Arch. Zoo. Exper. el Gener. QQ: l~l8l\n1957. Onlogeny and syslemalics in Sponges, Syslemalic Zool. \nMeewis, H. l938. Conlribulion a |'elude de |'embryagenEse de Chalinldae: Halicon\nlimbala (MohT.). Ann. Soc. Roy. Zool. Zool. de \nEmbryogenese de Myxospongidae: Halisarca. Arch. Biol. ?Qi 5-66.\nE.m l896. Nole on The larva and posllarval developmenl of Leucosolenia\nvariabilis, sp., remarks on The developmenl of olher Asconldae.\nRoy. Soc. Lon., Proc. 60; 42-52.\nWebb, D., l935. The hislology, cylology and embryology of sponges. Quarl. J.\n    E: 5\"?7Oo\nWilson, H. V., l894. Observallons on The gemmule and egg developmanr 0% marine\nwilson, H. V., l902. Asexual origin of The cilialed sponge larva. Amer. Na+.\n277-406 \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Spongilla",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4cdf01f3-211a-50f2-9c9c-4f47137278e0",
+          "name_string": "Spongilla",
+          "canonical_form": "Spongilla",
+          "classification_path": "Animalia|Porifera|Demospongiae|Haplosclerida|Spongillidae|Spongilla",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2364203|2366770|2366772|2420797",
+          "taxon_id": "2420797",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4cdf01f3-211a-50f2-9c9c-4f47137278e0",
+          "name_string": "Spongilla",
+          "canonical_form": "Spongilla",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20816246",
+          "local_id": "34553",
+          "url": "http://eol.org/pages/34553",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Granfia compressa",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "02d87619-af5f-5662-87f6-f3b01488edb2",
+          "name_string": "Grantia compressa (Fabricius, 1780)",
+          "canonical_form": "Grantia compressa",
+          "classification_path": "Animalia|Porifera|Calcarea|Leucosolenida|Grantiidae|Grantia|Grantia compressa",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2364202|2366827|2367870|2367877|2420385|5977596",
+          "taxon_id": "5977596",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "02d87619-af5f-5662-87f6-f3b01488edb2",
+          "name_string": "Grantia compressa (Fabricius, 1780)",
+          "canonical_form": "Grantia compressa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30620124",
+          "local_id": "331997",
+          "url": "http://eol.org/pages/331997",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ephydalia blembingua wiih",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "8e6900d6-7a8d-536d-b376-09e2bb9dd653",
+          "name_string": "Ephydatia blembingia Evans, 1901",
+          "canonical_form": "Ephydatia blembingia",
+          "classification_path": "Animalia|Porifera|Demospongiae|Haplosclerida|Spongillidae|Umborotula|Umborotula bogorensis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2364202|2364203|2366770|2366772|2492846|5981459",
+          "taxon_id": "5988572",
+          "current_taxon_id": "5981459",
+          "current_name_string": "Umborotula bogorensis (Weber, 1890)",
+          "match_type": 5,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ficulina",
+      "results": [
+        {
+          "data_source_id": 11,
+          "data_source_title": "GBIF Taxonomic Backbone",
+          "gni_uuid": "21df05e7-100b-5adb-bebc-4089a48a46e2",
+          "name_string": "Ficulina",
+          "canonical_form": "Ficulina",
+          "classification_path": "Animalia|Porifera|Demospongiae|Hadromerida|Suberitidae|Ficulina",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "1|105|199|1010|8126|2250976",
+          "taxon_id": "2250976",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 5,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Granlia (Sycon) compressa",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "02d87619-af5f-5662-87f6-f3b01488edb2",
+          "name_string": "Grantia compressa (Fabricius, 1780)",
+          "canonical_form": "Grantia compressa",
+          "classification_path": "Animalia|Porifera|Calcarea|Leucosolenida|Grantiidae|Grantia|Grantia compressa",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2364202|2366827|2367870|2367877|2420385|5977596",
+          "taxon_id": "5977596",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "d4132752-b0de-5fd3-8391-a48dbf91ab3d",
+          "name_string": "Garovaglia compressa Mitt.",
+          "canonical_form": "Garovaglia compressa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "41268503",
+          "local_id": "923181",
+          "url": "http://eol.org/pages/923181",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Halisarca",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "66dc7411-b817-5eaf-842b-7db002eeeb9b",
+          "name_string": "Halisarca",
+          "canonical_form": "Halisarca",
+          "classification_path": "Animalia|Porifera|Demospongiae|Halisarcida|Halisarcidae|Halisarca",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2364202|2364203|2366785|2366786|2420408",
+          "taxon_id": "2420408",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "66dc7411-b817-5eaf-842b-7db002eeeb9b",
+          "name_string": "Halisarca",
+          "canonical_form": "Halisarca",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992121",
+          "local_id": "20138",
+          "url": "http://eol.org/pages/20138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Halicon",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "80d3bfbf-25ea-5090-bb49-f4ae8862ec58",
+          "name_string": "Halicon",
+          "canonical_form": "Halicon",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97343007",
+          "local_id": "urn:lsid:ubio.org:namebank:4185062",
+          "global_id": "urn:lsid:ubio.org:namebank:4185062",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4185062",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Myxospongidae",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Leucosolenia variabilis",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5d2ee98a-c0b9-5b59-aa60-02e2683b3ccf",
+          "name_string": "Leucosolenia variabilis",
+          "canonical_form": "Leucosolenia variabilis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35338865",
+          "local_id": "332238",
+          "url": "http://eol.org/pages/332238",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5d2ee98a-c0b9-5b59-aa60-02e2683b3ccf",
+          "name_string": "Leucosolenia variabilis",
+          "canonical_form": "Leucosolenia variabilis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35338865",
+          "local_id": "332238",
+          "url": "http://eol.org/pages/332238",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    }
+  ]
+}

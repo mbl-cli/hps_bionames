@@ -1,0 +1,90 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=brxFGBHKS02GX6TDu7KkJA",
+  "input_url": null,
+  "file": "Embryology 1939_23.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.209707547,
+    "resolve_names_duration": 0.780283012,
+    "total_duration": 26.58917907
+  },
+  "agent": "",
+  "created": "2013-06-19T15:21:53-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "(Arbacia)",
+      "scientificName": "Arbacia",
+      "offsetStart": 1021,
+      "offsetEnd": 1029,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1957,
+      "offsetEnd": 1963,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2217,
+      "offsetEnd": 2223,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "..5..\nWhat effect does the pH. of the sea~water have upon the readiness\nwith which the gametes unite? what effect has the concentration\nof the sperm? what percentage of the eggs develop as compared with\neggs fertilized by sperm of the same species? ls there any evidence\nof patroclinle influence during tne period over your otservations\nare made? Significance.\nEffect of esents in solution on fertillxation~\nTo soa~wa;er ln measured amounts add definite quantities of\ncoelomlc Jluide What effect do tnese solutions have on use eggs?\nOn the sperms? lmsenlratc eggs in those solutions as described above.\nNow lnsemlnate eggs in sea~watcr and, after minutesg and to the selutlons or coelomic fluidt Does the presence\nof coelomic fluid have any effect on the fertilized eggs in the con~\ncentratlonsemoloyed? Analyze.\nRepeat Unis experiment using in place of the coelomlc fluid plus\nsea~water, solutions of GuClg from to n/80,000 made in sea~\nwater. ls there any similarity in the results?\n\nPhysical changes within cytoplasm. (Arbacia)\nExamine the relative viscosity of the cytoplasm of the egg at\nintervals between the insemination and the first cleavage. lest also\nthe uninscminated cfs. ihis can be done measurine the relative\nibut, . LU.\namount or relative rate of plgment movement Harough the cytoplasm\nby means of the centrifuge. When is the egg the most viscous? When\nthe least viscous? Plot your results.\nPhysical changes in membrane. (Arbacla)\nPlace fertilized eggs in a solution of 60 parts of seaewater\nplus 40 parts of distilled water at intervals between the insemina-\ntion and the first cleavage. How rapidly do they swell? ls the rate\nof swelling a measure of the relative permeability of the membrane?\nEffect of HgGl2 on pigment.\nCertain salts have more or less specific actions on the behavior\nof certain elements within the egg. Make solutions of HgCl2 (in dishes\nalloted ?or this wgrki) of the following concentrations: \nand Hertillze eggs or Arbacia and after five\nminutes place some of the eggs in each of the solutions. Remove a\nfew of the eggs to sea-water from the tap at 5 minute intervals and\nobserve tor three hours. Describe the results.\nEffect of temperature on development.\nFertllize eggs of Arbacia and place in sea~water in beakers\nwhich should`be kept at an even temperature. The temperature should\nnot vary a degree during the experiment. Attempt to obtain records\nof the time at which cleavagges (lst, Zind, 5rd, and take place\nin several batches of eggs. Make records of as many temperatures as\npossible and compute the temperature coefficient for the process.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

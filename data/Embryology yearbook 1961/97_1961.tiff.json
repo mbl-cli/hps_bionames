@@ -1,0 +1,153 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=5KxIyqulS8isuMdvKjr23A",
+  "input_url": null,
+  "file": "97_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.186503494,
+    "resolve_names_duration": 1.026510948,
+    "total_duration": 26.403114514
+  },
+  "agent": "",
+  "created": "2013-06-18T12:52:52-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Obelia",
+      "scientificName": "Obelia",
+      "offsetStart": 239,
+      "offsetEnd": 244,
+      "identifiedName": "Obelia"
+    },
+    {
+      "verbatim": "Obelia",
+      "scientificName": "Obelia",
+      "offsetStart": 433,
+      "offsetEnd": 438,
+      "identifiedName": "Obelia"
+    },
+    {
+      "verbatim": "Obelia",
+      "scientificName": "Obelia",
+      "offsetStart": 1332,
+      "offsetEnd": 1337,
+      "identifiedName": "Obelia"
+    },
+    {
+      "verbatim": "Bougainvillia.",
+      "scientificName": "Bougainvillia",
+      "offsetStart": 1601,
+      "offsetEnd": 1614,
+      "identifiedName": "Bougainvillia"
+    },
+    {
+      "verbatim": "Q. gommisurablis",
+      "scientificName": "Q. gommisurablis",
+      "offsetStart": 2029,
+      "offsetEnd": 2044,
+      "identifiedName": "Q. gommisurablis"
+    },
+    {
+      "verbatim": "Obelia",
+      "scientificName": "Obelia",
+      "offsetStart": 2156,
+      "offsetEnd": 2161,
+      "identifiedName": "Obelia"
+    }
+  ],
+  "content": "-4-\nTeaTure in disTinguishing hydrozoan from soyphozoan medusae, and The oTher sTruc~\nTures indicaTed in The accompanying schemaTic drawing of a medusa.\nof medusa in HargiTT, C. W. 'Ol, NuTTing of medusa\ndevelopmenT in GoeTTe Also Hyman, \nObelia (June, July, AugusT \nThe gonangia are several Times as large as The hydranThs. Examine specimens\nand deTermine wheTher They are locaTed aT random along The sTems or in regular\nplaces.\nAn Obelia gonangium has an enlarged, chiTinous, TransparenT cover, The\ngonorheca, wiTh a blasTosTyle exTending Through iT from base To Tip. The Tip of\nThe blasTosTyle expands To make a loose plug Tor The gonoTheca when maTure.\nA clusTer of gonophores (medusa buds) is borne on The blasTosTyle inside The\ngohoTheca. The gonophores maTure as medusae, break loose and escape To The ouTside\npasT The blasTosTyle plug. Their Tree-swimming life lasTs Two monThs or so, The\ngonads maTuring slowly.\nThe older gonophores should show developing TenTacles when pressed \nunder a cover slip. which gonophores on a blasTosTyle are The oldesT?\nwiTh needles, press on The gonoTheca of a maTure gonangium, and examine under\nhigh magniTicaTion The gonophores which are released. The oldesT ones may show\nswimming movemenTs. Younger sTages may be Teased ouT from The gonangium and\nsTudied. SkeTch several sTages.\nlf ripe Obelia colonies are kepT Tor an hour or Two in a dish of sea waTer on\nThe desk (remember noT To crowd Them), swimming medusae can usually be found wiTh\nThe naked in good lighT. Examine some when They are available and noTe Their\nreduced condiTion compared wiTh ThaT oT Bougainvillia.\nThe velum is reduced To a narrow and somewhaT labed membrane near The bases\nof The TenTacles. This makes possible an eversion of The bell when The medusa\ncomes To resT, so ThaT The manubrium sTicks ouT from The cenTer oT The convex side\nlike The handle of a posT-hurricane umbrella. WaTch The swimming movemenTs and\nsee how This happens.\nThe newly shed medusa of Qbelia genigulaTa has 24 TenTacles, while ThaT of\nQ. gommisurablis has I6. BoTh may be available in The laboraTory. NeiTher has\ngonads developed aT This sTage.\nll|usTraTions of Obelia embryology in Hyman, GoeTTe, \n(June, July. Found primarily on Myassa shells)\nThe highly specialized colony grows in an encrusTing maT on snail shells, eTc.\nand is almosT exacTly like HydracTinia. BoTh have The Three Types oT individuals;\ngonozooids and dacTylozooids proTecTive polyps.)\nincluded here because of iTs sTarTling meTageneTic conTrasT To\nHydracTinia.\nMedusae of nearly perfecT and may produce several generaTions of\nnew medusa by asexual budding before indulging in gameTe producTion. See GoeTTe,\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Obelia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Leptothecata|Campanulariidae|Obelia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363465|2366699|2394668",
+          "taxon_id": "2394668",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327602",
+          "local_id": "18217",
+          "url": "http://eol.org/pages/18217",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Bougainvillia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3a8e6289-01fb-5198-bc46-412913a78f9c",
+          "name_string": "Bougainvillia",
+          "canonical_form": "Bougainvillia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Bougainvilliidae|Bougainvillia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366702|2394425",
+          "taxon_id": "2394425",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3a8e6289-01fb-5198-bc46-412913a78f9c",
+          "name_string": "Bougainvillia",
+          "canonical_form": "Bougainvillia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327524",
+          "local_id": "23410",
+          "url": "http://eol.org/pages/23410",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Q. gommisurablis"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=OHMqhGlFSaaJPFbUI1zDgw",
+  "input_url": null,
+  "file": "129_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.245999172,
+    "resolve_names_duration": 1.94062681,
+    "total_duration": 44.112969247
+  },
+  "agent": "",
+  "created": "2013-06-18T12:07:44-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Styela,'",
+      "scientificName": "Styela",
+      "offsetStart": 172,
+      "offsetEnd": 179,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Molgula",
+      "scientificName": "Molgula",
+      "offsetStart": 181,
+      "offsetEnd": 187,
+      "identifiedName": "Molgula"
+    },
+    {
+      "verbatim": "'Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 193,
+      "offsetEnd": 198,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Amsrouoixm constellatrm\nechloseeri",
+      "scientificName": "Amsrouoixm constellatrm echloseeri",
+      "offsetStart": 490,
+      "offsetEnd": 523,
+      "identifiedName": "Amsrouoixm constellatrm echloseeri"
+    },
+    {
+      "verbatim": "Perophors viridis",
+      "scientificName": "Perophors viridis",
+      "offsetStart": 526,
+      "offsetEnd": 542,
+      "identifiedName": "Perophors viridis"
+    },
+    {
+      "verbatim": "Amaroucium",
+      "scientificName": "Amaroucium",
+      "offsetStart": 2885,
+      "offsetEnd": 2894,
+      "identifiedName": "Amaroucium"
+    }
+  ],
+  "content": "  sqm\ngredmll transition to the neurula stage. sod, finally, the appearance of the definitive\ntadpole., \ne. Hetamog' hosie and development., Prepare cultures of developing\nStyela,' Molgula and 'Ciona and study st 1 dey intervalss The mall size of the larvae\nmakes observation of their internal orgenizstion. difficult, but many external changes\ncan be followede Older cultures which have been developing for a week or more will also\nbe available for etudys\nB., conounu. \nlemon. amzooucrxow\nAmsrouoixm constellatrm\nechloseeri.\nPerophors viridis \n1. ggro uciums This colonial ascidian is viviparous. The large tadpoles (ca. 1.5 to\n2 mm. in length) are easily obtained from ripe, freshly collected ooloniese \nTadpoles usually leave the parent colomf shortly after sunrise.. These undamaged\nand fully developed individuals are the best mterisl for the study of  sucmming and of\nmetamorphoei They collect at the top of the water on the side of the tank nearest the\nlights - \nIf colonies are kept in a shrouded aquarium\" the shedding can be postponed until a\nmore seasoneble hour. Swarms of active tedpoles usually appear within fifteen minutes\nof brineing ripe colonies out of the dark. About third of the tadpoles will emerge\nwithin half an hour, if illuminated first at nine c? clock in the morning; if the colony\nis kept dark until nrld-afternoon about three-quarters of than will emerge in half an\nhour. Nearly all of them will comence motemerphosis within an hour of being shed.\nas Tggle structure and behavior., Watch tadpoles, swarming in dish\nof sea waters what are the reactions to light and gravity? How. do they propel 13%\nselves? Place few tsdpoles on slide in a mill drop of ester and study their\nanatomy under the :microscopes (Grave '33, Scott, ?46)\nNot all structures can be seen in a living tsdpole., Note the thick test with\ncontained test-cells, the adhesive papillee, the atrial eiphon (near the tai1)9 and\nthe oral siphon (usually larger) and the sensory vesicle between the two siphonss \nThe ml). pigent cup with lens is light--perceiviw' organ, and there is a\nmall round black static organ- also wit sensory vesicles In the tail, note the\nmuscle cellsand notochordo -V \nbo getamoysis., Place a dozen or ee tedpoles in a drop of water on a $1 watch\nglass for study of metamorphosise in the course of the next hour the tadpolee have\nfirmly attached to they glass, add more see water to the disho After attachment (sometimes\nbefore there is time to attach) the tissues of the tail withdraw into the body, the test\nswells and metsmorphoeis is under way, within couple of hours, movements of the body\nmay be observed. The results of the extensive and rapid internal reorganization. that is\ngoing on can be observed best two days to e. seek later (Grave, Hake several timed\nsketches ofthe extemal aspects of metsmozphosiss \nc. gator eggees Observe and sketch metamorphosed Amaroucium individuals which\nhave been growing for four days or so after attachments They ere fastened to watch\nglasses which have been stored infraznes under waters Gently flush debris from them in\nthe ses-water tank, and avoid tipping off their cover of water., After making your\nrecords, return the specimens, still living in their watch glasses, to 'the frames from\nwhich they were taken., \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Molgula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a31a74e5-db77-5d08-9eb6-f8f2e9525009",
+          "name_string": "Molgula",
+          "canonical_form": "Molgula",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Molgulidae|Molgula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2363302|2373154",
+          "taxon_id": "2373154",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a31a74e5-db77-5d08-9eb6-f8f2e9525009",
+          "name_string": "Molgula",
+          "canonical_form": "Molgula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103905",
+          "local_id": "10806",
+          "url": "http://eol.org/pages/10806",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ciona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957",
+          "taxon_id": "2421957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628900",
+          "local_id": "43439",
+          "url": "http://eol.org/pages/43439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Amsrouoixm constellatrm echloseeri",
+      "results": [
+        {
+          "data_source_id": 8,
+          "data_source_title": "Interim Register of Marine and Nonmarine Genera",
+          "gni_uuid": "7989e3ce-6ea5-5aad-817e-60646656d90c",
+          "name_string": "Amaroucium constellatum",
+          "canonical_form": "Amaroucium constellatum",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Aplousobranchia|Polyclinidae|Aplidium|Aplidium constellatum",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "11|148|1057|11165|113610|1340870|11029248",
+          "taxon_id": "11250804",
+          "local_id": "11250804",
+          "url": "http://www.marine.csiro.au/mirrorsearch/ir_search.taxon_info?id=11250804",
+          "current_taxon_id": "11029248",
+          "current_name_string": "Aplidium constellatum (Verrill, 1871)",
+          "match_type": 5,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Perophors viridis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "bff5a216-bd42-5837-9107-1659b0c3c0e0",
+          "name_string": "Perophora viridis Verrill, 1871",
+          "canonical_form": "Perophora viridis",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Perophoridae|Perophora|Perophora viridis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2368560|2445157|5285599",
+          "taxon_id": "5285599",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "74cbc329-14ee-5059-af8d-1e283eaa324c",
+          "name_string": "Perophora viridis",
+          "canonical_form": "Perophora viridis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103965",
+          "local_id": "513390",
+          "url": "http://eol.org/pages/513390",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Amaroucium",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata|Ascidiacea|Enterogona|Aplousobranchia|Synoicidae|Amaroucium",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum|class|order|suborder|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712|7713|183770|32436|107396|107397",
+          "taxon_id": "107397",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "090c6925-9e21-500c-a393-1b7875193e0b",
+          "name_string": "Amaroucium",
+          "canonical_form": "Amaroucium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29104026",
+          "local_id": "2994850",
+          "url": "http://eol.org/pages/2994850",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    }
+  ]
+}

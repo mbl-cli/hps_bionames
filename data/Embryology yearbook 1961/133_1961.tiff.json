@@ -1,0 +1,184 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=5QB8nUD1Tpi25ODSXjQbSQ",
+  "input_url": null,
+  "file": "133_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.112069192,
+    "resolve_names_duration": 1.306456418,
+    "total_duration": 21.221590295
+  },
+  "agent": "",
+  "created": "2013-06-18T12:09:03-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Amarouclum constellatum",
+      "scientificName": "Amarouclum constellatum",
+      "offsetStart": 543,
+      "offsetEnd": 565,
+      "identifiedName": "Amarouclum constellatum"
+    },
+    {
+      "verbatim": "Amarouclum constellatum",
+      "scientificName": "Amarouclum constellatum",
+      "offsetStart": 971,
+      "offsetEnd": 993,
+      "identifiedName": "Amarouclum constellatum"
+    },
+    {
+      "verbatim": "(Styela",
+      "scientificName": "Styela",
+      "offsetStart": 1209,
+      "offsetEnd": 1215,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Styela.",
+      "scientificName": "Styela",
+      "offsetStart": 1628,
+      "offsetEnd": 1634,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Devo",
+      "scientificName": "Devo",
+      "offsetStart": 1636,
+      "offsetEnd": 1639,
+      "identifiedName": "Devo"
+    }
+  ],
+  "content": "Colwln, A. end\nBerrill, N.J.\nConklin, E.G.\nDalcq, A. and\nVanderbroek\nGrave, C.\nHervey, L.\nMillar, R.H.\nCrtolsni, G.\n\nScott, F.M.A\nTucker, e.H.\nVanderbroek, \n1956\n1905\n1957\n1920\n1927\n1955\n1955\n1945\n1946\n1942\n1937\nsg-,\nThe early development of ascidien eggs.\nBiol. Bull. 70: \nOrganization and cell lineage of the escldian\negg. J. Acad. Nat. Sci. (Philadelphia), 13\n(Qnd series): 1-121.\nOn the significance of the polar spot in ripe\nand in fertilized ascidlan eggs.\nBiol. Bull. 72: 311-318.\nThe origin, function and fate of the test-\nveslclee of Amarouclum constellatum. Anat.\nRec. 17: 350. 1\nThe history of the cytoplasmic inclusion of the\negg of Clone lntestinslis L. during ovogenesis\nend fertilization. Proc. Roy. Soc. Lond. \n101:\n155-162.\nClone. Liverpool Marine Biological Committee\nMemoirs XXV. Liverpool: The University Press\nof Liverpool. 123 pp.\nThe presumptive territory of the mesoderm ln\nthe ascidlen germ. Experientia ll: 445-446.\nThe developmental history of Amarouclum constellatum\n1. Early embryonic development. Biol. Bull.\nA 5 I \"fi 882   \nII. Organogenesis of the larval action system.\nBiolo Bullc   66?\"8oo A A\nThe histology of the gonads and development of\nthe egg envelopes of an ascidian (Styela\nplicate Lesueur). J. Morph. 70: 81-108.\nLes mouvements protoplasmique au cours de la\nfecondation de l'oeuf d'asc1d1e. Arch. Exp.\nZellforsch. 19: 41l~420.\nEXPERIMENTAL ANALYSIS OF DEVELOTMENT\nBerg. W.E. 1956\nW.E. N- .1960\nand Humphreys, \nChabry, L. 1887\nN.J. 1032\nCytochrome oxidase in anterior and posterior\nblastomeres of Clone Biol. Bull.\n\nElectron microscopy of four~cel1 stages of the\nascidians Clone and Styela.\nDevo Blolo 22 q'2\"'6Oo .\nContribution a 1'embryologie normals et\nterstologique des Ascidies cimoles. J. Anat.\net Physiol. 23: l67~3l9.\nMosaic development of eggs.\n1.8131-o Bulls 65:  \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Amarouclum constellatum",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7989e3ce-6ea5-5aad-817e-60646656d90c",
+          "name_string": "Amaroucium constellatum",
+          "canonical_form": "Amaroucium constellatum",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Polyclinidae|Aplidium|Aplidium constellatum",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2368563|2445172|5285804",
+          "taxon_id": "5287429",
+          "current_taxon_id": "5285804",
+          "current_name_string": "Aplidium constellatum (Verrill, 1871)",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "164e0ebb-1e91-58e2-af28-8ed650c0ffea",
+          "name_string": "Amaroucium constellatum Verrill, 1871",
+          "canonical_form": "Amaroucium constellatum",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_12024288",
+          "local_id": "513595",
+          "url": "http://eol.org/pages/513595/names/synonyms",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Devo",
+      "results": [
+        {
+          "data_source_id": 9,
+          "data_source_title": "WoRMS",
+          "gni_uuid": "976a7435-4c43-586c-b931-2be9bde100bb",
+          "name_string": "Devo",
+          "canonical_form": "Devo",
+          "classification_path": "Animalia|Arthropoda|Malacostraca|Amphipoda|Amaryllididae|Devo",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "gn:3uL60ncMV0CLLRfxOOBRdQ|gn:7mudPMOMXACvWyG7FSG59w|gn:mXcg2w6CXKKienyndA0Bvw|gn:uJk-pSe0WNWKLEqF7IXRTA|gn:iGct5eCTXA2g3krZUJPZkw|gn:eI2MYDN-Uryl-uOFggsfAg",
+          "taxon_id": "gn:eI2MYDN-Uryl-uOFggsfAg",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "976a7435-4c43-586c-b931-2be9bde100bb",
+          "name_string": "Devo",
+          "canonical_form": "Devo",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26343523",
+          "local_id": "4254131",
+          "url": "http://eol.org/pages/4254131",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=rcJqa1hzTTqclFnBFj5iQQ",
+  "input_url": null,
+  "file": "145_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.194540758,
+    "resolve_names_duration": 5.01535778,
+    "total_duration": 30.495910499
+  },
+  "agent": "",
+  "created": "2013-06-18T12:12:51-04:00",
+  "total": 19,
+  "names": [
+    {
+      "verbatim": "Pedjeeilipa echinafa",
+      "scientificName": "Pedjeeilipa echinafa",
+      "offsetStart": 50,
+      "offsetEnd": 69,
+      "identifiedName": "Pedjeeilipa echinafa"
+    },
+    {
+      "verbatim": "Eedigejiina eqhjnaig",
+      "scientificName": "Eedigejiina eqhjnaig",
+      "offsetStart": 134,
+      "offsetEnd": 153,
+      "identifiedName": "Eedigejiina eqhjnaig"
+    },
+    {
+      "verbatim": "BRACHIOPODA",
+      "scientificName": "Brachiopoda",
+      "offsetStart": 181,
+      "offsetEnd": 191,
+      "identifiedName": "Brachiopoda"
+    },
+    {
+      "verbatim": "Lingula.",
+      "scientificName": "Lingula",
+      "offsetStart": 311,
+      "offsetEnd": 318,
+      "identifiedName": "Lingula"
+    },
+    {
+      "verbatim": "Terebrafulina",
+      "scientificName": "Terebrafulina",
+      "offsetStart": 396,
+      "offsetEnd": 408,
+      "identifiedName": "Terebrafulina"
+    },
+    {
+      "verbatim": "Habiis, siruc",
+      "scientificName": "Habiis siruc",
+      "offsetStart": 674,
+      "offsetEnd": 686,
+      "identifiedName": "Habiis siruc"
+    },
+    {
+      "verbatim": "Spadeila rephaiopiera",
+      "scientificName": "Spadeila rephaiopiera",
+      "offsetStart": 712,
+      "offsetEnd": 732,
+      "identifiedName": "Spadeila rephaiopiera"
+    },
+    {
+      "verbatim": "Q",
+      "scientificName": "Rotifera",
+      "offsetStart": 735,
+      "offsetEnd": 735,
+      "identifiedName": "Rotifera"
+    },
+    {
+      "verbatim": "Zelina",
+      "scientificName": "Zelina",
+      "offsetStart": 1013,
+      "offsetEnd": 1018,
+      "identifiedName": "Zelina"
+    },
+    {
+      "verbatim": "NEMATODA",
+      "scientificName": "Nematoda",
+      "offsetStart": 1063,
+      "offsetEnd": 1070,
+      "identifiedName": "Nematoda"
+    },
+    {
+      "verbatim": "Ascaris.",
+      "scientificName": "Ascaris",
+      "offsetStart": 1109,
+      "offsetEnd": 1116,
+      "identifiedName": "Ascaris"
+    },
+    {
+      "verbatim": "Ascaris",
+      "scientificName": "Ascaris",
+      "offsetStart": 1182,
+      "offsetEnd": 1188,
+      "identifiedName": "Ascaris"
+    },
+    {
+      "verbatim": "Ascaris.",
+      "scientificName": "Ascaris",
+      "offsetStart": 1266,
+      "offsetEnd": 1273,
+      "identifiedName": "Ascaris"
+    },
+    {
+      "verbatim": "Mariini",
+      "scientificName": "Mariini",
+      "offsetStart": 1291,
+      "offsetEnd": 1297,
+      "identifiedName": "Mariini"
+    },
+    {
+      "verbatim": "Cucuiianus",
+      "scientificName": "Cucuiianus",
+      "offsetStart": 1343,
+      "offsetEnd": 1352,
+      "identifiedName": "Cucuiianus"
+    },
+    {
+      "verbatim": "NEMATOMORPHA",
+      "scientificName": "Nematomorpha",
+      "offsetStart": 1380,
+      "offsetEnd": 1391,
+      "identifiedName": "Nematomorpha"
+    },
+    {
+      "verbatim": "Paragordius.",
+      "scientificName": "Paragordius",
+      "offsetStart": 1456,
+      "offsetEnd": 1467,
+      "identifiedName": "Paragordius"
+    },
+    {
+      "verbatim": "Phila",
+      "scientificName": "Phila",
+      "offsetStart": 1491,
+      "offsetEnd": 1495,
+      "identifiedName": "Phila"
+    },
+    {
+      "verbatim": "Gordius",
+      "scientificName": "Gordius",
+      "offsetStart": 1561,
+      "offsetEnd": 1567,
+      "identifiedName": "Gordius"
+    }
+  ],
+  "content": "A \nLebedinsky. 1905. Die Embryonaienfwicklung der Pedjeeilipa echinafa, Biol.\ni\nHaischek. 1877. Embryonaleniwickiung und Knospung der Eedigejiina eqhjnaig.\nZeii. f. wiss. Zool. 22.\nBRACHIOPODA\nConklin, E. G. 1902. The embryology of a brachiopod Proc. Amer.\nPhilo. Soc. Q,\nBrooks, W. K. l878. The developmeni of Lingula. Chesapeake Zool. Lab. Resulis\nof Session.\nMorse, 1873. On The embryology of Terebrafulina. Mem. Bosfon Soc. Nafl. \nCHAETOGNATQA\nHeriwig, O. 1880. Die Chaeiognaihen. Jena ZeiT. ii.\nBufschii 1873. Zur En+wick1ungsgeschickTe der Sagiifa. Zeif. f. wiss. Zool. QQ.\nDoncasier, L. 1902. On The developmeni of Sagifia. Quarf. J. Micr. Sci. QQ.\nJohn, C. C. 1933. Habiis, siruc Ture and developmenf of Spadeila rephaiopiera.\nQ. J. M. S. \nROTIFERA\nNachfwey, R. 1925. Keimbahn, Organogenese, und Anaiomie von Asglanchna.\nZeii. 1. wiss. Zool. 126\nTannreuiher, G. 1920. Deveiopmeni of Asglanchna. J. Morph. QQ.\nJennings, H. S. 1896. The early deveiopmeni of Asgianchna. Bull. Mus. Comp.\nZooi. Harvard U. QQ\nZelina 1892 Siudien uber Raderiiere. Zeii. wiss. \nNEMATODA\nBoveri, T. 1899. Die Enfwicklung von Ascaris. Fesischrifi fur Kupffer, Jena.\nBoveri, T. 1910 Die Poienzen der Ascaris biasiomeren. fur Heriwig.\nJena.\nZur Sfrassen 1896. Embryonaieniwicklung von Ascaris. Roux' Archiv Q,\nMariini, E. |903 Uber Furchung und Gasfrulaiion bei Cucuiianus. Zeif. f. wiss.\nZoo1. 1i.\nNEMATOMORPHA\nMonigomery, T. 1904. Deve1opmenT and sTrucTure of The larva of Paragordius.\nProc. Acad. Na+. Sci. Phila. 56.\nMuhldorf, A. 1914. Beiirage fur En+wick1ungsgeschickTe der Gordius Larve.\nZeif. f. wiss. Zool. 11|\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Pedjeeilipa echinafa"
+    },
+    {
+      "supplied_name_string": "Eedigejiina eqhjnaig"
+    },
+    {
+      "supplied_name_string": "Brachiopoda",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6e629902-40dd-522e-8c53-75b82a2965b7",
+          "name_string": "Brachiopoda",
+          "canonical_form": "Brachiopoda",
+          "classification_path": "Animalia|Brachiopoda",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2363309",
+          "taxon_id": "2363309",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6e629902-40dd-522e-8c53-75b82a2965b7",
+          "name_string": "Brachiopoda",
+          "canonical_form": "Brachiopoda",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "38946815",
+          "local_id": "1498",
+          "url": "http://eol.org/pages/1498",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Lingula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dd058c30-0bc8-5aba-9fd7-942cbd66f97d",
+          "name_string": "Lingula",
+          "canonical_form": "Lingula",
+          "classification_path": "Animalia|Brachiopoda|Lingulata|Lingulida|Lingulidae|Lingula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363309|2363320|2363321|2363322|2452698",
+          "taxon_id": "2452698",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dd058c30-0bc8-5aba-9fd7-942cbd66f97d",
+          "name_string": "Lingula",
+          "canonical_form": "Lingula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20769179",
+          "local_id": "73305",
+          "url": "http://eol.org/pages/73305",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Terebrafulina",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Habiis siruc"
+    },
+    {
+      "supplied_name_string": "Spadeila rephaiopiera"
+    },
+    {
+      "supplied_name_string": "Rotifera",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "59806a46-8c45-5072-aa7b-0698d402a962",
+          "name_string": "Rotifera",
+          "canonical_form": "Rotifera",
+          "classification_path": "Animalia|Rotifera",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2366830",
+          "taxon_id": "2366830",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "59806a46-8c45-5072-aa7b-0698d402a962",
+          "name_string": "Rotifera",
+          "canonical_form": "Rotifera",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29004915",
+          "local_id": "6851",
+          "url": "http://eol.org/pages/6851",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Zelina",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Nematoda",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "f478c26e-aa6b-5ae9-b34a-e719b7739d64",
+          "name_string": "Nematoda",
+          "canonical_form": "Nematoda",
+          "classification_path": "Animalia|Nematoda",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2370385",
+          "taxon_id": "2370385",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f478c26e-aa6b-5ae9-b34a-e719b7739d64",
+          "name_string": "Nematoda",
+          "canonical_form": "Nematoda",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_12078781",
+          "local_id": "2715",
+          "url": "http://eol.org/pages/2715/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ascaris",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e328b367-afec-56a4-8e7a-1313579477b2",
+          "name_string": "Ascaris",
+          "canonical_form": "Ascaris",
+          "classification_path": "Animalia|Nemertea|Not assigned|Not assigned|Not assigned|Ascaris",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2370535|2372174|2372175|2372177|2534853",
+          "taxon_id": "2534853",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e328b367-afec-56a4-8e7a-1313579477b2",
+          "name_string": "Ascaris",
+          "canonical_form": "Ascaris",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20668938",
+          "local_id": "2857070",
+          "url": "http://eol.org/pages/2857070",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Mariini",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Cucuiianus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Nematomorpha",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "85fc6c2b-6b13-5eeb-8896-617e87f0e03a",
+          "name_string": "Nematomorpha",
+          "canonical_form": "Nematomorpha",
+          "classification_path": "Animalia|Nematomorpha",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2370528",
+          "taxon_id": "2370528",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "85fc6c2b-6b13-5eeb-8896-617e87f0e03a",
+          "name_string": "Nematomorpha",
+          "canonical_form": "Nematomorpha",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34423345",
+          "local_id": "1539",
+          "url": "http://eol.org/pages/1539",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Paragordius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "59f41d02-6942-53b0-b1c5-93e38ca1129e",
+          "name_string": "Paragordius",
+          "canonical_form": "Paragordius",
+          "classification_path": "Animalia|Nematomorpha|Not assigned|Gordioidea|Chordodidae|Paragordius",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2370528|2370529|2370530|2370531|2420921",
+          "taxon_id": "2420921",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "59f41d02-6942-53b0-b1c5-93e38ca1129e",
+          "name_string": "Paragordius",
+          "canonical_form": "Paragordius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29005392",
+          "local_id": "105949",
+          "url": "http://eol.org/pages/105949",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Phila",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "2f21aa7e-2115-52f8-89d5-db496c4d2e9d",
+          "name_string": "Phila",
+          "canonical_form": "Phila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97446735",
+          "local_id": "urn:lsid:ubio.org:namebank:4292909",
+          "global_id": "urn:lsid:ubio.org:namebank:4292909",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4292909",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gordius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e635cea2-8a71-56cd-905f-3c37c5e427a2",
+          "name_string": "Gordius",
+          "canonical_form": "Gordius",
+          "classification_path": "Animalia|Nemertea|Not assigned|Not assigned|Not assigned|Gordius",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2370535|2372174|2372175|2372177|2534859",
+          "taxon_id": "2534859",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e635cea2-8a71-56cd-905f-3c37c5e427a2",
+          "name_string": "Gordius",
+          "canonical_form": "Gordius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40421853",
+          "local_id": "22861690",
+          "url": "http://eol.org/pages/22861690",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

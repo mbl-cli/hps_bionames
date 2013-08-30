@@ -1,0 +1,200 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=4Wq5uoVmSsKlfoMCozu4fw",
+  "input_url": null,
+  "file": "105_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.14516964,
+    "resolve_names_duration": 1.11313288,
+    "total_duration": 27.379703973
+  },
+  "agent": "",
+  "created": "2013-06-18T11:27:17-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Clava",
+      "scientificName": "Clava",
+      "offsetStart": 619,
+      "offsetEnd": 623,
+      "identifiedName": "Clava"
+    },
+    {
+      "verbatim": "Squamata",
+      "scientificName": "Squamata",
+      "offsetStart": 625,
+      "offsetEnd": 632,
+      "identifiedName": "Squamata"
+    },
+    {
+      "verbatim": "(Tubularia)",
+      "scientificName": "Tubularia",
+      "offsetStart": 1485,
+      "offsetEnd": 1495,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Hydrectinia\nechinete",
+      "scientificName": "Hydrectinia echinete",
+      "offsetStart": 1566,
+      "offsetEnd": 1585,
+      "identifiedName": "Hydrectinia echinete"
+    }
+  ],
+  "content": "\n\nI\n\n1\n\n3\n5'\n\nBrooks, 1886\nFeyn, B. 1928\nseems, A . 1907\nHargitt, C. W. 1901\n1903\n1904\nHergim, car. 1919\nHyman, L. H. 1940\nKingsley, J. S. 1910\nMeyer, A. G. 1910\nNutting, G.C. 1901\nSumner, F.G. 1913\net al\nA. \n\"A1len, Carrie 1900\no.J. 1911.\nBenoit, P. 1925\nBerrill, 12. J. 1952\n.12-\nBIBLIOGRAPHY Foe oo;e1.ezrTEeAms\nMOAJOGRAPHS, mars, worms\nThe life history cf the A discussicn of the\norigin uf the medusa end the significance of metagenesis.\nMemuirs, c. Net. Hist., 359-430\nStuuieh uber Geschleeht und Geschlechtzellen bei Hydroiuen.\nB8m8IkUhg8H uber die Eustehung der Keimzellen und cie\nEntwinklung uer Gcnopheren bei Clava Squamata. Roux' Arch.,\n  2 5  \nVergleichende Entwicklungegeschichte Ger Geschleehte-\nindividuen Ger Hyeropolypen. Zeit. f. wise. Zuol., ?2;1-336.\nSynopsis of North American Invertebrates The Hydro-\nmeuusee. Ami Net., 301-315, 379~395, 575-595.\nXlh. The Ibid.. 22: 331-345.\nThe medusae of the Uocds Hole Region. Bull. Bur. Fish.,\ngg: 21h79\nGerm cells of Coelenterates. V1. General consiueraticne,\ndiscussion and conclusions. Jour. Morph., 22: 1-60.\nThe Ihvertebratee. 1. Protczoa through Ctencphora. McGrew~\nHill.\nA synupsie uf the fixed hyuroies of New England. Tufts\nCollege Studies, Q: 13~38.\nEfieuusae of the 1 ll. The 111. The\nCarnegie Inst. \nThe of the Hocus Hole Regicn. Bull. U. S. Fish\nCommission, 12: 325~386.\nA biological survey cf the waters of weeds Hule and vicinity.\nBull. Bur. Fish., 21:\nDESCRIPTIVE\nA contribution to the uevelc ment of Peryphe (Tubularia)\nBill]-1 Bulls,    \nThe genesis of the plasma structure in the egg of Hydrectinia\nechinete. Jour. Murph., gg: 189~251.\nL'ovogenese et les premiere stedee du develuppment chez le\nMyricthele et chez la Tubulerie. Arch. ue Zcol. Ex er.,\n?e:86-326.\nGrowth and Ferm in hydroius. V, cycle in\nTubularie. Jour. Murph., QQ: 583-601.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Clava",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "08ae1ab4-7e17-53b6-9334-ce4020b19555",
+          "name_string": "Clava",
+          "canonical_form": "Clava",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Hydractiniidae|Clava",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366629|2394457",
+          "taxon_id": "2394457",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "08ae1ab4-7e17-53b6-9334-ce4020b19555",
+          "name_string": "Clava",
+          "canonical_form": "Clava",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327655",
+          "local_id": "23444",
+          "url": "http://eol.org/pages/23444",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Squamata",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "29d51502-166c-5ad1-b94f-b4780390d383",
+          "name_string": "Squamata",
+          "canonical_form": "Squamata",
+          "classification_path": "Animalia|Chordata|Reptilia|Squamata",
+          "classification_path_ranks": "kingdom|phylum|class|order",
+          "classification_path_ids": "2362377|2362754|2362907|2363418",
+          "taxon_id": "2363418",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "29d51502-166c-5ad1-b94f-b4780390d383",
+          "name_string": "Squamata",
+          "canonical_form": "Squamata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37269794",
+          "local_id": "19709614",
+          "url": "http://eol.org/pages/19709614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydrectinia echinete",
+      "results": [
+        {
+          "data_source_id": 166,
+          "data_source_title": "nlbif",
+          "gni_uuid": "56dbb93f-8914-5184-8906-abc0ea5b8557",
+          "name_string": "Hydractina echinata",
+          "canonical_form": "Hydractina echinata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "132199116",
+          "url": "http://www.nlbif.nl/species_details.php?name=Hydractina+echinata",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": false
+    }
+  ]
+}

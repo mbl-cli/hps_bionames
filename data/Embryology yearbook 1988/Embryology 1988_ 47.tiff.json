@@ -1,0 +1,78 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=EGSPYESKSZuUlpLzxeHtNw",
+  "input_url": null,
+  "file": "Embryology 1988_ 47.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.194803394,
+    "resolve_names_duration": 0.739789334,
+    "total_duration": 21.371754814
+  },
+  "agent": "",
+  "created": "2013-06-18T13:20:11-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "C.\nelegans",
+      "scientificName": "C. elegans",
+      "offsetStart": 315,
+      "offsetEnd": 324,
+      "identifiedName": "C. elegans"
+    }
+  ],
+  "content": "Germ-line sex determination:\n1. Schedl, T. and Kimble, J. (1988) fog-2, a germline-specific\nsex determination gene required for hermaphrodite spermatogenesis\nin Q; elegans. Genetics, in the press.\n2. Barton, M.K. and Kimble, J. 1988 fog-1, a germline-specific\nsex determination gene required for spermatogenesis in C.\nelegans. (submitted).\nMolecular biology of sex determining genes:\n1. Rosenquist, T.A. and Kimble, J.E. 1988 Molecular cloning\nand transcript analysis of a sex-determination gene in \nelegans. Genes Dev. May.\nQ; elegans techniques\n1. Coulson, A.R., Sulston, J. Brenner, S. and Karn, J. 1986\nToward a physical map of the genome of the nematode Q; elegans.\nPNAS 83, 7821-7825.\n2. Fire, A. 1986 Integrative transformation of Q; e1egans EMBO\nJ. 5, 2673-2680.\n3. Eide, D. and Anderson, P. 1985 Transposition of in the\nnematode Q; elegans. Proc. Natl. Acad. Sci. USA 82, 1756-1760.\n4. Albertson, D.G. 1985 Mapping muscle protein genes by i? situ\nhybridization using biotin-labeled probes.\n3\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "C. elegans",
+      "results": [
+        {
+          "data_source_id": 8,
+          "data_source_title": "Interim Register of Marine and Nonmarine Genera",
+          "gni_uuid": "44175eb8-7b3c-5d2d-9e8e-2581ea81a6d0",
+          "name_string": "Uca elegans George & Jones, 1982",
+          "canonical_form": "Uca elegans",
+          "classification_path": "Animalia|Arthropoda|Malacostraca|Decapoda|Ocypodidae|Uca|Uca elegans",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "11|235|1190|10704|110386|1048533|11123623",
+          "taxon_id": "11123623",
+          "local_id": "11123623",
+          "url": "http://www.marine.csiro.au/mirrorsearch/ir_search.taxon_info?id=11123623",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f26f2dc1-17e2-5b7c-9e1a-d5ed42107077",
+          "name_string": "Uca (Australuca) elegans George & Jones, 1982",
+          "canonical_form": "Uca elegans",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30065548",
+          "local_id": "3118931",
+          "url": "http://eol.org/pages/3118931",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 5,
+      "in_curated_sources": true
+    }
+  ]
+}

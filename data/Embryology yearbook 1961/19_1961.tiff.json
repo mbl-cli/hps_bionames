@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=KHpnsXE6R7aKRiZ4MNwwsQ",
+  "input_url": null,
+  "file": "19_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.044580581,
+    "resolve_names_duration": 0.630988471,
+    "total_duration": 30.012059785
+  },
+  "agent": "",
+  "created": "2013-06-18T12:24:20-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Faqs\nxgkam",
+      "scientificName": "Faqs xgkam",
+      "offsetStart": 1,
+      "offsetEnd": 10,
+      "identifiedName": "Faqs xgkam"
+    }
+  ],
+  "content": ".Faqs\nxgkam mw'\\bm' \"gsm \n\nmeaqvexum  \n\n\n    heat %oe\\ \n5'     \nc.Q 3a.vQ\\ iofa     EURemdw{   \n    5  's v\\mmQbigm       \n          iifgyi\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Faqs xgkam"
+    }
+  ]
+}

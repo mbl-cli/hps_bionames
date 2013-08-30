@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=pbNCXEvCR1apNcH9ZVSjzQ",
+  "input_url": null,
+  "file": "37_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.13530787,
+    "resolve_names_duration": 1.274242877,
+    "total_duration": 27.342346167
+  },
+  "agent": "",
+  "created": "2013-06-18T12:29:46-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Couolosioms\nlilo",
+      "scientificName": "Couolosioms lilo",
+      "offsetStart": 537,
+      "offsetEnd": 552,
+      "identifiedName": "Couolosioms lilo"
+    }
+  ],
+  "content": " BEGLDGICAL \nWoods Hole, Mass?\nI,\nJohn`%? Sounders, Jr; July 259,196l\nCELL DEATH IN VERTEBRATES\n16 introduction\nog Glassificatioo of oell deaths\n3? Objectives of this report\nIlg Qovolopmental role of \"morphogenetio death\"\noo Distribution o? ooll dsathao\n1? Differential staining\n2? Prediotobility\n5? Association with regions of active morphogonesis\nBQ Cytology \nCo An analysis of the mechanical utility of ooll death\nl? Fusion of eternal rudimonts (Fell) \no2? Patterns of ooll.doath in the limb  - (Saunders Gasselin Saunde \ni g9 rag\n5? Couolosioms\nlilo Goatrol of cell \n?9 Tissue-onvironmonoal control\n1? Periphoral oontrol of control nervous dogenoration (Homburgor\nand Lovi@Eootaloini)\n2? Aploal riogo control of cell deaths in limb (Gassoling and Saundowse\n5? The sottiog of the \"death Gaaseling, Saunders)\nEQ Hormonal oo trol \n1? Thyromino {Kollros)\n26 Insulin (Z illing)\n3? Sox Hormone (wolffg Lutz=Ostertag)\n6? Gonotio control\nlo \"Dominan@ \n2? \"Short>>%oii\" and other mutants in mioa\n5? \"Wal%zormshokor\" \nQ?1ol.3.ongi.ng problems for the futureo\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Couolosioms lilo"
+    }
+  ]
+}

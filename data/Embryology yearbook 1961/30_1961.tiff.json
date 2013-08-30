@@ -1,0 +1,86 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ikr08TugScCNbtNWtKN03w",
+  "input_url": null,
+  "file": "30_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.077997823,
+    "resolve_names_duration": 1.286275188,
+    "total_duration": 26.191936971
+  },
+  "agent": "",
+  "created": "2013-06-18T12:28:10-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Psoumcchinua milinriso",
+      "scientificName": "Psoumcchinua milinriso",
+      "offsetStart": 75,
+      "offsetEnd": 96,
+      "identifiedName": "Psoumcchinua milinriso"
+    },
+    {
+      "verbatim": "Rana gigicnsc",
+      "scientificName": "Rana gigicnsc",
+      "offsetStart": 411,
+      "offsetEnd": 423,
+      "identifiedName": "Rana gigicnsc"
+    }
+  ],
+  "content": " .\n\n+4\nHultin, To (l95U)? Acid soluble nuclcoolcos in early\ndovclopmcni of Psoumcchinua milinriso YXPQ Hcso\n\nSchultz, Jo (l956)? The relation\nsome region to the nucleic\n21:307~328?\nSze, L.UT (l953)? Changes in tho\nacid in the of\n125x577-602?\nSo1omonf\"?3 (l957)? Increase of\nof the early\nActa 23:24~27? \nSolomon, Ba TIDSU). Nucleic acid\nand hen's cfgo Hiochc\nof the chromo~\nacids of \namount of dcsoxyribonuclcic\nRana gigicnsc Jo 20010\nJBA and cell number during\nchick Biocno Biophys\ncontent of early chick embryo\nR1ophys? Acta \nSu inc, Yo et al (l96O)? A modified microbioaosay method and\nits application to sea urchin oygs ann several other\nvnteriala? Uioch? Acta 4O;4l7~424@\nYoshida, Ea (l96O)? The dcsoxyribose nuclcic acid content in\nthe retinal nucleus of the\nCell R98o 192454'436c\nhaploid froq larva, Expo\nSrivwasachar, Da EEG Pabau (1959)? Proportionality between\nnuclear DNA content and Feulgen Cell\nKos., \nPo \nJuly, 1950\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Psoumcchinua milinriso"
+    },
+    {
+      "supplied_name_string": "Rana gigicnsc",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7eb901ed-5396-5509-996f-cf350d4ad097",
+          "name_string": "Rana",
+          "canonical_form": "Rana",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Ranidae|Rana",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370878|2525654",
+          "taxon_id": "2525654",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7eb901ed-5396-5509-996f-cf350d4ad097",
+          "name_string": "Rana",
+          "canonical_form": "Rana",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20625776",
+          "local_id": "15744",
+          "url": "http://eol.org/pages/15744",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

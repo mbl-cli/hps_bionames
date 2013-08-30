@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=lAhKZxJ6RhWtQFjSrwUpRQ",
+  "input_url": null,
+  "file": "110_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.051828708,
+    "resolve_names_duration": 0.806766258,
+    "total_duration": 26.651792689
+  },
+  "agent": "",
+  "created": "2013-06-18T11:29:31-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Agonanglum",
+      "scientificName": "Agonanglum",
+      "offsetStart": 115,
+      "offsetEnd": 124,
+      "identifiedName": "Agonanglum"
+    }
+  ],
+  "content": " ERATE ANATOMY\n5 \n\n\n\n\n\n,u \nif     \n,ff \ngf \n  r' \nhydr&nthMig!\n\n- if \nperlsarc \nIt dh .- 'iwbud\n&enioderm ;'Hws. \n/Agonanglum\n. iff5,1 oe;l;nteron (ga strovascu lar cav1ty}\n    i;\n'ki  \n\n  \nA- \nstolon -J5q \n  - \n. \n\n.Lf-1 bu \n\nmnvsa \n5   I`Eld1& 1 1\n\nff? \n  \n,f3:f9\"\" I f91i 5 ocellus (eyespot) \n\n\"Mr *mtg Cana\n\n  `-->>tentac1e (oralPlate 1\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Agonanglum"
+    }
+  ]
+}

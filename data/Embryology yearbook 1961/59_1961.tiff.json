@@ -1,0 +1,108 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=susdyKgJS0OIxBLO3MFmAw",
+  "input_url": null,
+  "file": "59_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.131386224,
+    "resolve_names_duration": 0.94114953,
+    "total_duration": 26.25427902
+  },
+  "agent": "",
+  "created": "2013-06-18T12:38:03-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Bipinnaria",
+      "scientificName": "Bipinnaria",
+      "offsetStart": 1856,
+      "offsetEnd": 1865,
+      "identifiedName": "Bipinnaria"
+    },
+    {
+      "verbatim": "Branchia",
+      "scientificName": "Branchia",
+      "offsetStart": 2184,
+      "offsetEnd": 2191,
+      "identifiedName": "Branchia"
+    }
+  ],
+  "content": "\nha acTer sTic of Echinoderm larvae: g??QQh?gg?\nsTomachi sTomach and igiggiigg, Observe in\nlaTeral view The band of The inTesTine. STudy ciliaTion in oral field and differ-\nenT parTs of The TracT.\nSTudy The coelomic vesicles from all sides. They are clearly visible aT\nThe lower end of The oesophagus near iTs enTrance inTo The sTomach. A subdivision\nof The vesicles is noT yeT clearly demarcaTed, buT The narrow Tube connecTing The\nlarger leTT coelomic vesicle wiTh The dorsal body wall, The pore canal, and iTs\nopening, Thegmadreboric po;g,can be readily seen. Loose cells are\nscaTTered in The body caviTy which is The persisTing blasTocoele. NoTe Thaf These\ncells are connecTed To one anoTher by TilamenTous pseudopodia.\nViTal sTaining wiTh neuTral red is helpful; buT sTudy unsTained specimens firsT,\nSTudy also sTained whole mounTs of These sTages.\nThe following sTages are rarely found in dredges of plankTon and difficulT To raise\nfrom eggs in The laboraTory. Prepared and sTained whole mounTs musT be used; if\navailable.\nI ix bonsai 21 \nConsulT figures in Gemmill, MacBride, and Agassiz. This larva is characTerized\nby a number of pairs of lobes or arms which grow ouT from The margin of The ecToderm\nand which carry The ciliary band along. They are noT supporTed by skeleTon. Pairs\nof arms follow each oTher in succession. Young sTages may noT have all arms de~\nveloped.\nArms. ldenTify unpaired median dorsal, paired ?nTero-dorsa;, gpsiegpfdorsal,\nposjero-lafgral, posTo;gL and preoral arms. See Gemmill, plaTe IS, fig. 7, and\nMacBride, p. 465.\njnTesTinalgTracT.\nCoelom. The coelomic vesicles have grown ouT inTo long Tubes and have fused in\nThe anTerior parT of The larva. No furTher subdivisions have yeT occurred.\nBranchiolaria and MeTamorQhosis:\nSTudy venTra| and laTeral views. ConsulT The excellenT figures in\nGemmill, plaTes I9 and 20.\nThe Bipinnaria arms are long, hollow Tubes.\nThe Three BrachjoLgrig grms (brachia) are shorT. They conTain diverTicula\nof The coelom. They are noT ciliaTed buf Their end discs difTerenTiaTe small\npapillae and can adhere To The subsTraTe.\nA sucker, The gland cells of which secreTe a sTicky subsTance, is formed\nbeTween The branchia. Branchia and sucker serve for aTTachmenT of The larva To\nThe subsTraTe in laTer sTages of meTamorphosis. (Gemmill, p. 250) NoTe The\nfollowing:\nlnTesTine\nCoelom, in difTerenT sTages of subdivision.\nDisk, or developing sTarfish, on leTT side.\nln laTe sTages of meTamorphosis, The anTerior parT of The larva in fronT of\nThe disk shrinks To form The sTalk which is aTTached To The subsTraTe by sucker and\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Bipinnaria",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "036ba09b-4f03-5a44-a43c-12d94f85e697",
+          "name_string": "Bipinnaria",
+          "canonical_form": "Bipinnaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "129098697",
+          "url": "http://www.organismnames.com/details.htm?lsid=3766739",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Branchia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "76c94941-29e6-574d-9b48-15b63c0a1007",
+          "name_string": "Branchia",
+          "canonical_form": "Branchia",
+          "classification_path": "Animalia|Arthropoda|Arachnida|Solifugae|Ammotrechidae|Branchia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362445|2372008|2372026|2514376",
+          "taxon_id": "2514376",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "76c94941-29e6-574d-9b48-15b63c0a1007",
+          "name_string": "Branchia",
+          "canonical_form": "Branchia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29023633",
+          "local_id": "110082",
+          "url": "http://eol.org/pages/110082",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    }
+  ]
+}

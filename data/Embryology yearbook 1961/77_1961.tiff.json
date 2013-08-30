@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=CcnUTdCLRmqDyJDLlEvEzw",
+  "input_url": null,
+  "file": "77_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.196324727,
+    "resolve_names_duration": 0.921824423,
+    "total_duration": 27.711564588
+  },
+  "agent": "",
+  "created": "2013-06-18T12:44:55-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "C. ?tgining",
+      "scientificName": "C. tgining",
+      "offsetStart": 430,
+      "offsetEnd": 440,
+      "identifiedName": "C. ?tgining"
+    }
+  ],
+  "content": ".7-\nsyringe bulb, ann fill the vial with 70% alcohol. Wash in 70% until the eggs\nare white. It is advisable to avoia washing toe long in 70%, since the stain\nis best when it does not penetrate the maoromeres. These latter should,\ntherefare, be left acid. Thus the eggs are removed from 70% immediately\nafter the last wash which removes no picric acid from them, hyerated in 50%, 35%\nand washed thoroughly in 2-3 changes of water.\nC. ?tgining: After washing with water, fill the vial with undiluted Mayer*s\nhaem-alum, and stain for 5-10 minutes. For the polar stages, 5~7 minutes is\nusually sufficient. After staining, wash thoroughly in water, dehyurate, and\nclear in xylol; Remove the xylol useu in clearing and replace it with a small\namount of thin damer.\nD. Mounting: Cover glasses must be supported. For this purpose it has been cone\nvenient to use payer squares the size of 7/8\" cover glasses. A hole is punched\nin the center of eaeh square with a paper punch. In mounting, the squares are\neleareu in xylol, and fixed to the eenters of the sliues by adding three or four\ndrops of thin oemar before the evaporation of the xylol. When the paper mounts\nhave dried the eggs are removed frum the vials in which they have been stored by\nthe use of a pipette urawn out to a long taper and having a small diameter at its\ntip. The eggs are allowed to settle toward the tip of the pipette, and one drop\nuf the egg-demar suspension is placed in the eenter depression of each paper\nmount. The damar is allowed to ary to the point of formation of a thin film in\noruer that the eggs may remain dispersed ann with the macromere quartette ao-\njaoent to the sliee when mounted. Apply thick namar to the e&ge of the pager\nmount, immerse a #0 cover glass in xylol ann apply it to the sliue over the paper\nmount .\nA. The Veliwer Larva of Crep;aulg \nStuey the tynioal H?ligg? larva of Qggnicata. Obtain material\nby breaking the animal from the substrate tu whioh it is attached. You will find\nthe yellowish eggs (enclosed in transparent capsules) attached to the substrate or\nin the shell of the mother. Tease the embryos out of the capsules., Gbtain swimming\nlarvae in different stages, particularly ole ones with the yolk resorbed. They\nare transparent ann show the inner organs. Consult Gogklin (1897) figs. 80-82 and\nthe text hooks of gaswell volume 1 (1928) fig. 657  u p. 734, or Egg?ride\nfigs. 263 ff. on pages 301 ff. or Kar chelt volume 2 (l936) pp 88l~89l, Study\ndorsal, ventral ann lateral views. Mouth and foot are an the ventral sine; the\nanus is on the right sine.\n. Ciliated velum\n. Head vesicle (oorsal)\n3. Eyes with lens (norsal)\nA. Feot stuny it in lateral view\n. Statooysts (ventral) at the sides of the foot\nCiliated mouth (ventral) above foot\nNote:\n1\n2\n5\n6.\n7\nOesophagus (uorsal), stomach ann liver. The uifferent parts of the\nintestine can be distinguishes only in oluer embryos uhish have\nresarbee the yolk.\ns. Anus (en right sine)\n9, External kidneys (lateral tu foot)\ni 10. Heart (sorsal). Observe the heart beat in older embryos\nll. Transparent shell.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "C. tgining"
+    }
+  ]
+}

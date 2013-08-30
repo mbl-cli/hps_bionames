@@ -1,0 +1,93 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=Q2vmTmbsS0m7mSpPlyiisg",
+  "input_url": null,
+  "file": "Embryology 1939_71M.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.141737926,
+    "resolve_names_duration": 0.730754303,
+    "total_duration": 21.479104033
+  },
+  "agent": "",
+  "created": "2013-06-19T15:32:46-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Q. \nlo",
+      "scientificName": "Q. lo",
+      "offsetStart": 106,
+      "offsetEnd": 111,
+      "identifiedName": "Q. lo"
+    },
+    {
+      "verbatim": "Crepidula",
+      "scientificName": "Crepidula",
+      "offsetStart": 236,
+      "offsetEnd": 244,
+      "identifiedName": "Crepidula"
+    },
+    {
+      "verbatim": "Crepidula",
+      "scientificName": "Crepidula",
+      "offsetStart": 1072,
+      "offsetEnd": 1080,
+      "identifiedName": "Crepidula"
+    }
+  ],
+  "content": " 5l\n\nle. Whitaker, D. M., l955, ibid lv J. Gen.\n  li. if/5   \nl5. Whitaker, D. M., l055, Interpretations. Q. \nlo, 497 -\nl6.XNilson, E. 5., l8Q2, Cell lineage of Wereis. Q. ?orpQ,, 5,\n561. \"5 5\nMaturation, Eertilization, and Gleavaae\nin Crepidula\nine details of maturation, fusion of germ nuclei, and cleavage\ncan best be studied from prepared slides. The eggs are not sectioned\nout are mounted vhole. A low power piece and nigh power objective\nare useful.\nMake a careful study of various stages in the two maturation\ndivisions (Slide A). ln tne same eggs find the sperm nucleus and\nnote its approach to the egg nucleus and fusion with tne latter.\nStudy the and 2nd cleavages, noting the direction of the\naxes of the mitotic figures in the latter stage.\nDetails of Use fomnation of the first tnree quartettes and tne\ncells derived from the and End quartettes can be found in Slide B.\nFind examples cell stages.\nln slides and find stages in the development of the gastrula.\nNote tne`olastopore, and the increase in the number of endoderm cells.\nWith a heavy knife, loosen a Crepidula shell from its attach~   \nment and find the egg capsules. Those that are small and light yellow\ncontain eggs in tne earlier stages of development; the larger, deep\nyellow or mud colored capsules contain older embryos and larvae.\nMethod of preparing slides\nl. Tease out eggs of the desired stage from the capsules. With\na pipette transfer tnem vitn as little water as possible to a vial\ncontaining Wayer's Piero-sulfuric solution. PDX for 50~l20minutes.\n2. 55 50 707 alcohol. Leave in the latter until the vellow\n9 \ncolor ceases to come out.\n5. 50, 55; alcohol, to water (5 min. each)\nStain in Conklin's modification of Delafield naematoxylin.\n5~l0 min.\n(Delafield diluted with 4~5 volumes of distilled water,\nto which drop of picro-sulfuric is added for each l0\ncc of diluted stain.)\n5. Wash in water; dehydrate for 5 min. in each alcohol; 10 min.\nin 951; 2 changes of l00y; xylol.\n6. Mount in thick balsam with supported cover glass.\n- \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Q. lo"
+    },
+    {
+      "supplied_name_string": "Crepidula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Neotaenioglossa|Calyptraeidae|Crepidula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370194|2370205|2410985",
+          "taxon_id": "2410985",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "83acd963-e1de-59ba-9a17-b0643a5621e4",
+          "name_string": "Crepidula",
+          "canonical_form": "Crepidula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44534464",
+          "local_id": "404808",
+          "url": "http://eol.org/pages/404808",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

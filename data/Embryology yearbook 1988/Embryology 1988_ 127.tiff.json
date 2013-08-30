@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=0umWFIrASpezpCjQSbXh8A",
+  "input_url": null,
+  "file": "Embryology 1988_ 127.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.126664533,
+    "resolve_names_duration": 0.576342302,
+    "total_duration": 20.644648307
+  },
+  "agent": "",
+  "created": "2013-06-18T13:08:08-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1115,
+      "offsetEnd": 1125,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "Looking at emb rjvos\nFigure 5. Wild-type embryos during extended germ band stages,\nStage 9: Stomodeal plareformation (4 30 min to 5 l0 min). the shallow depression on the ventral side\nindicates the site of the future stomodeum \nStage 10: Stomodeal invaginazion (5 10 min to 6 50 min). the arrow (-) indicates the posterior-most\nextent of the anterior midgut anlage.\nStage ll: 77zree-layered germ band (6 50 min to 9 note the distinct space between the embryo and\nthe vitelline membrane at the posterior pole (-).\nStage 12: Shortening of germ band (9 to l0 30 min).\nrunning parallel to the surface of the egg. Initially, the membrane advances slowly and\nreaches the base of the nuclei only after about 30 min. In the 10 min which follow,\nthe cells double their volume and the blastoderm cell layer becomes thick and clearly\ndemarcated from the yolk. The ventral cells complete cellularization earlier than the\ndorsal cells and the clear zone underlying the blastoderm at the ventral side disappears.\nThe lack of between the dorsal and ventral sides means that there is never\na uniform 'cellular blastoderm' stage in Drosophila.\n208\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

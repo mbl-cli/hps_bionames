@@ -1,0 +1,132 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=kbF06ffZTom2rTjXSAaTZA",
+  "input_url": null,
+  "file": "27_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.10091768,
+    "resolve_names_duration": 1.275818712,
+    "total_duration": 25.544312721
+  },
+  "agent": "",
+  "created": "2013-06-18T12:26:55-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Echinus",
+      "scientificName": "Echinus",
+      "offsetStart": 100,
+      "offsetEnd": 106,
+      "identifiedName": "Echinus"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 130,
+      "offsetEnd": 136,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "R. ?ipiens",
+      "scientificName": "R. ipiens",
+      "offsetStart": 506,
+      "offsetEnd": 515,
+      "identifiedName": "R. ?ipiens"
+    }
+  ],
+  "content": " A 00113281115 in various   1010 sperm\nSpecies Eg; \n1-1. \n1\nP?rac0utr0tus 16.6 0171 25.\n. ewo\n1200.\nEchinus 40006\nmicentrotus 20.\nArbacia 250? 1.0 25.\n  8.1 0.79 10.\nEchinarachnia 6966\nIlyarulelssu 428. 3.3 150\n22.8 0.52 71\nPargacaris 290 2.5 120\nnrosphua 600 500 (2)\nmicrograms DHA 10?\nEgg Spenm 6 Ratio\nHiorograms DNA 10\nChick 118 1.2 101107\n 62 yolk 7\n17960 white 0.6 60110\n0191106 0.024 6.0 41105  \n00.01\nnan. eemporaria 0.075 8.6 0.51105\n7.5\nR. p111yr111n1 0.065 11.0 6.011103\n11. 1 0. 26 615 4011103\nR. ?ipiens 0.065\n0.027\n0.96 560 22105\nM0 0. 052 5.6 11103\nm0110111 0.10 4.0 22110\n1711\nRCfur0nC0 I\nHoff-Jorgensen (1954)\nAgre11(1956)\n1010110956)\nmen (1956 9\nsue,-no 61. 11. (1960)\nElson and Chorgaff (1952)\n;;1z-61161; 6.01   (1955)\nSuduuth and unp1bl.)\nCollier 1960\nsua00t11 llild Grant unpubl.)\nHigon and Bovet 1955 \nSchulta   11-61-6.31161 1956)\nHoff-Jorgensen (1954)\nSalomon (1957)\nDurand( 1955)\nHoff-Jorgensen (1954)\nraimky and Ria (1949)\nHoff- 500560060 and zeutnen \nBrachet\n01-egg and Lortrup (1955)\nGreint (1958)\nSze (1953)\n  and 01012611 1959)\nLortmp (1955) 9\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Echinus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e3c73268-2893-51b5-8ff0-08b60a169d78",
+          "name_string": "Echinus",
+          "canonical_form": "Echinus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Echinidae|Echinus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362622|2414833",
+          "taxon_id": "2414833",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e3c73268-2893-51b5-8ff0-08b60a169d78",
+          "name_string": "Echinus",
+          "canonical_form": "Echinus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_11886240",
+          "local_id": "2509796",
+          "url": "http://eol.org/pages/2509796/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "R. ipiens"
+    }
+  ]
+}

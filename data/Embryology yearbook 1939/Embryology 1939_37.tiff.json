@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=HSiSNnmQTnyOFfWCJVQ4Mg",
+  "input_url": null,
+  "file": "Embryology 1939_37.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.060153806,
+    "total_duration": 19.265447215
+  },
+  "agent": "",
+  "created": "2013-06-19T15:25:44-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "\ntentacles and elongation into the sessile stage can be\neasily followed. The resemblance of the seyphula to a simple\npolyp is obvious.\nThe or stage lasts thruout the winter,\nand undergoes successive strobilization, an asexual reproduction\nby transverse fission into ephyrae. A number of these tiny ephyrae\n(larval jellyfishes) are liberated, and they gradually metamorphose\ninto the adult fenns.\n\n"
+}

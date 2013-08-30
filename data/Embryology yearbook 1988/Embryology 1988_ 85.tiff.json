@@ -1,0 +1,129 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=6rRH5KwYTny1Pzeh2xKBuA",
+  "input_url": null,
+  "file": "Embryology 1988_ 85.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.090107501,
+    "resolve_names_duration": 0.461622082,
+    "total_duration": 22.383163749
+  },
+  "agent": "",
+  "created": "2013-06-18T13:27:32-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 415,
+      "offsetEnd": 421,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 645,
+      "offsetEnd": 651,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus laevis",
+      "scientificName": "Xenopus laevis",
+      "offsetStart": 750,
+      "offsetEnd": 763,
+      "identifiedName": "Xenopus laevis"
+    }
+  ],
+  "content": "Maturation References - Page 2\nMasui, Y. (1985) Meiotic arrest in animal oocytes. In, Biology of Fertilization\nVol. 1, pp 189-219. ed. C. B. Metz and A. Monroy, Academic Press, Inc.\nPicard, A., Labbe, J-C, and Doree, M. (1988) The cell cycle can occur in\nstarfish oocytes and embryos without the production of transferable MPF.\nQgp. 129-135.\nStith, B. J. and Maller, J. L. (1987) Induction of meiotic maturation in\nXenopus oocytes by 12-O-Tetradecanoylphorbol 13-acetate. cell ?e?.\n169, 514-523.\nSwenson, K. I., Farrell, K. M. and Ruderman, J. V. (1986) The clam embryo\nprotein cyclin A induces entry into phase and the resumption of meiosis in\nXenopus oocytes. Cell ?7, 861-870\nTaylor, M. A. and Smith, L. D. (1987) Induction of maturation in small\nXenopus laevis oocytes. Qep. Biol. 121, 111-118.\nWasserman, W. J. and Smith, L. D. (1978) The cyclic behavior of a cytoplasmic\nfactor controlling nuclear membrane breakdown. J. Qell Biol. 78, R15-R22.\nreviews\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Xenopus laevis",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "22a6df90-1cc9-5462-a5d9-144a006cf030",
+          "name_string": "Xenopus laevis",
+          "canonical_form": "Xenopus laevis",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Xenopus|Xenopus laevis",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|8287|32523|8292|41666|8342|30319|8352|8360|8353|262014|8355",
+          "taxon_id": "8355",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "22a6df90-1cc9-5462-a5d9-144a006cf030",
+          "name_string": "Xenopus laevis",
+          "canonical_form": "Xenopus laevis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29126132",
+          "local_id": "1038993",
+          "url": "http://eol.org/pages/1038993",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    }
+  ]
+}

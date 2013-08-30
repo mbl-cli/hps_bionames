@@ -1,0 +1,129 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=MKNQnxzzSqWZ8DouMm9Zbg",
+  "input_url": null,
+  "file": "Embryology 1939_54.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.110802767,
+    "resolve_names_duration": 0.693944527,
+    "total_duration": 21.722245111
+  },
+  "agent": "",
+  "created": "2013-06-19T15:29:09-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Nereis.",
+      "scientificName": "Nereis",
+      "offsetStart": 82,
+      "offsetEnd": 88,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Hydroides",
+      "scientificName": "Hydroides",
+      "offsetStart": 1167,
+      "offsetEnd": 1175,
+      "identifiedName": "Hydroides"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1389,
+      "offsetEnd": 1394,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "\n2) The metamorphosis of the troohophoro into the segmented worm to\nbe studied in Nereis. Consult figs. in E. B. Wilson, '92, plate XX\nUse larvae two, three, five and seven days old; mount them in\nshreds of lens paper. Observe changes from the troohophore to the\nthree~segmented worm.\nNose; ll Three pairs of seti saos with bundles of seti protruding\np2 The digestive tract oonsisting of stomadaeum, mid intes-\n  sae .1413  \n5. Mandiblps may be seen in the stomodaeum in the oldest\nlarvae.\n4, Two or four oil globules in the mid intestine wall. (of\nthe younger What finally becomes of the oil\ndrops? .\n5. Several bands of eilia?\n6. spots in head vesicle. How many pairs? Do older\nand younger larvae have the same number?\n7.  Frontal antennae and tentaoular oirrhi on head vesicle.\n8. 'Anal oirrhi and anal flagellum at posterior end.\n9.\nThe young Nero\nis troehophore very soon goes into the\nthree segmented condition but no further segments are\nadded until about two weeks have elapsed (See Twanoff '28)\nWhat part of the adult worm does the troehophore represent\n10.\nAt what age do the three segments form? ls there a true\ntroehophore at any time?\n5) Gastrulation in Hydroides and transformation of the gastrula\ninto the'trochophore.dmlrepare your own cultures. Gastrulation\noccurs approximately 7~lO hours after fertilization. Consult figs.\nin Shearer and Hatsehek (186),\nGastrulation in Nereis is epibolie. Study embryos le and 50\nhrs. after fertilizatibn. \"Consult figs. in wilson \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydroides",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "094732ab-4c0b-5c5d-99f6-4db6b5031b53",
+          "name_string": "Hydroides",
+          "canonical_form": "Hydroides",
+          "classification_path": "Animalia|Annelida|Polychaeta|Sabellida|Serpulidae|Hydroides",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369634|2369636|2423051",
+          "taxon_id": "2423051",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "094732ab-4c0b-5c5d-99f6-4db6b5031b53",
+          "name_string": "Hydroides",
+          "canonical_form": "Hydroides",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20674349",
+          "local_id": "52350",
+          "url": "http://eol.org/pages/52350",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

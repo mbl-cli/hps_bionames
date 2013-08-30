@@ -1,0 +1,143 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=s2bzecGPSyC3ZnpwCKKX0w",
+  "input_url": null,
+  "file": "Embryology 1988_ 18.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.201329943,
+    "resolve_names_duration": 0.578735686,
+    "total_duration": 23.872904355
+  },
+  "agent": "",
+  "created": "2013-06-18T13:14:45-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "(TUNICATA)",
+      "scientificName": "Tunicata",
+      "offsetStart": 58,
+      "offsetEnd": 67,
+      "identifiedName": "Tunicata"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 69,
+      "offsetEnd": 74,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 102,
+      "offsetEnd": 107,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 702,
+      "offsetEnd": 707,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Styela",
+      "scientificName": "Styela",
+      "offsetStart": 907,
+      "offsetEnd": 912,
+      "identifiedName": "Styela"
+    }
+  ],
+  "content": "MBL imbryology Court\nSummer, 1953\nrw \n\ni.l\"\nPROTOCHORDATA\n(TUNICATA)\nStyela (formerly partita\nLIVING \nStyela is a simple ascidian with a hard tunic and small granular tubercles on and\nabout the papillae bearing the apertures. It is brownish or yellow in colorlength. Occasionally, the animals are found in groups although,\nas noted above, the form is not a colonial one. They are quite common around\nWoods Hole, Mass.\nBREEDING \njune to September, according to Berrill (1937).\nPROCURING AND HANDLING \nA. Care of Adults: The animals live well in the laboratory, if they are ade-\nquately supplied with sea water. High temperatures should be avoided., \nB. Procuring Gametes: Although it is hermaphroditic, Styela is ordinarily\nself-sterile. Eggs and sperm are shed between 4 and 7 P.M., and fertilization takes\nplace when the ripe gametes from two different individuals are mixed. The usual\nmethod of obtaining Styela eggs and embryos has been to mince the gonads from\na large number of individuals, in a dish of sea water. This liberates all stages in\nthe maturation of eggs and sperm, and usually at least a few eggs will be fertilized\n(whatever the time of day or night) and will begin normal development.\nRose (1939) has described a method of controlling natural spawning in the\nlaboratory; it works-well except for a few weeks in mid-summer, when the animals\nare spent. The adults are kept in the dark until eleven or twelve hours before\nfertilization is desired; then an artificial day is started, by turning on a 40-watt\nelectric light, placed about 18 inches from the animals. Eggs and sperm are dis-\ncharged in clouds at the desired time. The same batch of animals can be induced\nto shed a number of times on successive days.\nNORMAL DEVELOPMENT \nA. The nfertilised Ot'um.? The mature unfertilized egg is approximately 150\nmicrons in diameter, and has a tough membrane, the chorion, to which a few follicle\ncells adhere at the outer surface. Between the chorion and the egg surface, there\nare small, spherical inner follicle cells (\"nurse cells\"), which contain yellow\ngranules. The peripheral layer of the egg is clear and contains minute yellow\ngranules, and the central part of the egg consists of grey yolk platelets. The\ngerminal vesicle is large and clear, and is excentrically placed, near the animal\npole; it ruptures and maturation begins at about the time when the eggs are\ndischarged. The maturation spindle remains at the metaphase of the first division\nuntil the sperm enters.\n221\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Tunicata",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "93d3a101-f63b-5bf0-9fd6-730766de7e51",
+          "name_string": "Tunicata",
+          "canonical_form": "Tunicata",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712",
+          "taxon_id": "7712",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "93d3a101-f63b-5bf0-9fd6-730766de7e51",
+          "name_string": "Tunicata",
+          "canonical_form": "Tunicata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103803",
+          "local_id": "2773824",
+          "url": "http://eol.org/pages/2773824",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

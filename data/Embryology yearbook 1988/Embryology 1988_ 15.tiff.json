@@ -1,0 +1,175 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=mrGfTp0VS1GPfcxd5sTcOw",
+  "input_url": null,
+  "file": "Embryology 1988_ 15.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.153750303,
+    "resolve_names_duration": 0.577360139,
+    "total_duration": 23.902310504
+  },
+  "agent": "",
+  "created": "2013-06-18T13:12:52-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "(TUNICATA)",
+      "scientificName": "Tunicata",
+      "offsetStart": 194,
+      "offsetEnd": 203,
+      "identifiedName": "Tunicata"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 697,
+      "offsetEnd": 701,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Styela,",
+      "scientificName": "Styela",
+      "offsetStart": 1189,
+      "offsetEnd": 1195,
+      "identifiedName": "Styela"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 2618,
+      "offsetEnd": 2622,
+      "identifiedName": "Ciona"
+    }
+  ],
+  "content": "MBL Embryology Course\n?ummer, l988\nj R, Whittaker\nCostello, D.P. et al. (1957)\nMethods for Obtaining and Handling Marine Eggs and Embryos.\nMarine Biological Laboratory, Woods Hole\nPROTOCHORDATA\n(TUNICATA)\niona intestinalis\nLIVING \nThese large, solitary ascidians can sometimes be collected from the wharf piles\nat Oak Bluffs and Vineyard Haven, Mass., and from the salt water tanks on the\nroof of the Marine Biological Laboratory, at \\Voods Hole, when the tanks are\nemptied in September; they are not always obtainable. The animals are her-\nmaphroditic and, under some conditions at least, self-fertile (just, 1934a, 1934b).\nThey are oviparous.\nBREEDING SEASON \nAlmost any time of the year, since Ciona is sexually mature above a certain\nsize limit. Reproduction is seasonal only to the extent of the of the growth\ncycle (Berrill, 1937).\nPnocunmc AND HANDLING MATERIAL:\nA. Care of Adults: Mature adults will continue to produce normal eggs for\nseveral days in the laboratory, provided they are not crowded. Place only a few\ntogether in a large fingerbowl and insure a constant supply of fresh sea water.\nB. Procuring Gametes: The eggs are normally shed at daybreak, but Rose\n(1939), using Styela, has developed a method for postponing this until a more\nconvenient time. The adults are stored in a dark place, such as a desk drawer,\nuntil eggs are needed; shedding occurs almost immediately upon retum of the\nanimals to light.\nArtificial insemination in this species is highly successful, since the genital ducts\ncontain only ripe gametes. These may be obtained by slitting open the test and\npipetting the eggs and sperm from the oviduct and sperm duct, respectively. If\nnecessary, fine scissors can be used to puncture the ducts. The eggs remain viable\nfor 18 hours after removal. They should be passed through several changes of\nsea water before insemination, to free them of perivisceral Huid.\nC. Preparation of ultures: Naturally-spawned eggs should be collected with\na small-mouthed pipette and placed in lingerbowls of fresh sea water. The arti-\nFicially-obtained eggs should be inseminated with a sperm suspension sufficiently\nconcentrated to impart a faint milkiness to the sea water in which the eggs are\ncontained. Berrill (1937) routinely uses eggs and sperm from different individ-\nuals, which is a wise precaution even in this self-fertile species. After fertilization,\nthe essential requirements for normal development are the complete removal of\nexcess sperm and oviducal fluid, and, above all, the use of glassware chemically\nand organically clean, as Morgan (1945) has demonstrated.\nThe development of Ciona tends to become abnormal during the period of tail\nelongation; placing the cultures in a larger volume of water prevents this tendency\n211\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Tunicata",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "93d3a101-f63b-5bf0-9fd6-730766de7e51",
+          "name_string": "Tunicata",
+          "canonical_form": "Tunicata",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712",
+          "taxon_id": "7712",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "93d3a101-f63b-5bf0-9fd6-730766de7e51",
+          "name_string": "Tunicata",
+          "canonical_form": "Tunicata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103803",
+          "local_id": "2773824",
+          "url": "http://eol.org/pages/2773824",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ciona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957",
+          "taxon_id": "2421957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628900",
+          "local_id": "43439",
+          "url": "http://eol.org/pages/43439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Styela",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Styelidae|Styela",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2368574|2373138",
+          "taxon_id": "2373138",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "dadec177-bd6a-526f-828f-de554ed4868a",
+          "name_string": "Styela",
+          "canonical_form": "Styela",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37277996",
+          "local_id": "11016208",
+          "url": "http://eol.org/pages/11016208",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

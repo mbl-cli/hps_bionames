@@ -1,0 +1,191 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=br5Pt1oXSySR1QnKFaSrSg",
+  "input_url": null,
+  "file": "176_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.202134108,
+    "resolve_names_duration": 0.876440208,
+    "total_duration": 27.431919624
+  },
+  "agent": "",
+  "created": "2013-06-18T12:22:29-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Tubularia crocea",
+      "scientificName": "Tubularia crocea",
+      "offsetStart": 1583,
+      "offsetEnd": 1598,
+      "identifiedName": "Tubularia crocea"
+    },
+    {
+      "verbatim": "Tubularia",
+      "scientificName": "Tubularia",
+      "offsetStart": 1612,
+      "offsetEnd": 1620,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tubularia",
+      "scientificName": "Tubularia",
+      "offsetStart": 1752,
+      "offsetEnd": 1760,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Corymorpha",
+      "scientificName": "Corymorpha",
+      "offsetStart": 1984,
+      "offsetEnd": 1993,
+      "identifiedName": "Corymorpha"
+    },
+    {
+      "verbatim": "Tubularia",
+      "scientificName": "Tubularia",
+      "offsetStart": 2164,
+      "offsetEnd": 2172,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tubularia",
+      "scientificName": "Tubularia",
+      "offsetStart": 2682,
+      "offsetEnd": 2690,
+      "identifiedName": "Tubularia"
+    }
+  ],
+  "content": "\nRENAUD, FERNANDO ?Tupies on The reqeraTinqgcapaciTies of vagiggs\nQoelenTeraTes\niT is a well known phenomenon ThaT some coelenTeraTes show amazing\nregeneraTive powers, being able To reconsTiTuTe ouT of fragmenTary pieces. IT was\nThe purpose of This sTudy To observe some of The aspecTs of This regeneraTing\ncapaciTy.\nRegeneraTion from dissociaTed cells was firsT aTTempTed. Cell dissocia-\nTion was achieved by squeezing The animals Through bolTing cloTh inTo The medium,\nwhich was someTimes sea waTer and someTimes Cad'and MgT'free sea waTer. The besT\nmedium proved To be auToclaved sea waTer To which STrepTomycin had been added up\nTo |50/mi. Cell suspensions from HydracTynia zooids resulTed in The formaTion of\nvery loose fluffy, aggregaTes, which were never seen To fuse, and which remained\nundifferenTiaTed for days. No acTive cell movemenT was ever noTiced. Shaking The\nsuspension aT low speed did noT seem To improve The resulTs. Absence of calcium\nslowed down The process and no acTive cell movemenT was ever noTiced. Coenosarc\ncells gave The same above resulTs. AddiTion of sea waTer exTracTs of The whole\ncolony did noT make any difference. when The coenosarc cells were lsolaTed\nin inTacT masses, They rounded up inTo balls, which fused wiTh each oTher very\nnicely, if puT inTo conTacT. A perisarc could be observed afTer Three days, and\ngasTrozooids which sTarTed as a surface bud afTer 24 hours, compleTed formaTion\nin abouT a week. Cell masses from differenT colonies Took much longer To fuse\nThan cell masses from The same colony.\nCell suspensions of The coenosarc of Tubularia crocea and anoTher\nTubularia species resulTed in The same looseaggregaTe as in HydracTynia. AddiTion\nTo The medium of glucose up To l.5% and of a concenTraTed Tubularia exTracT made\nin sea waTer wiTh STrepTomycin did noT seem To improve The resulTs. lsolaTed\ncoenosarc inTacT cell masses rounded up in balls and a perisarc was noTed in a\nvariable Time, from a couple of hours To a few days.\nCorymorpha sTem cell suspensions did noT resulT in any Type of aggrega-\nTion.\nAnoTher feaTure TesTed was The effecT of grafTs of formed sTrucTures on\nregeneraTing sTems. GrafTs of Tubularia heads aT The proximal end aT The opTical\ndensiTy sTage or aT laTer sTages did noT resulT in any appreciable modificaTion.\nln HydracTynia, grafTs were made beTween The differenT zooids by means of very\nfine glass needles, wiTh The hope of seeing The effecT on head regeneraTion, buT\nThe head regressed even in normal hydranThs afTer isolaTion of The zooid. ln The\nabove grafTs The coelenTeron became conTinuous. A grafTed head aT The basal end\ndegeneraTed iTs TenTacles.\nGaps were creaTed in The coenosarc of Tubularia sTems by pressing wiTh\na needle and The effecT of TemperaTure on The raTe wiTh which The gap was closed\nwas observed. TemperaTures varied from room TemperaTure To No correlaTion\nwas observed perhaps due To variabiliTy in sTem diameTer, age, eTc.\nSCABIACH, GRETCHEN. 5TTempTs To dem9nsTraTe;immune rea9Tions ingCignaWinTe?1lgalis\nNo conclusive proof of capaciTy Tor an immune response has yeT been\ndemonsTraTed in organisms below The VerTebraTa. Due To The phylogeneTic affiniTy\nof The TunicaTes wiTh The verTebraTes, and To The facT ThaT Andrew (l96l) has\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Tubularia crocea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5b57cba7-31a7-5690-8726-b0bed9a411f5",
+          "name_string": "Tubularia crocea",
+          "canonical_form": "Tubularia crocea",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Tubulariidae|Ectopleura|Ectopleura crocea",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2368676|2472082|5379315",
+          "taxon_id": "5383465",
+          "current_taxon_id": "5379315",
+          "current_name_string": "Ectopleura crocea (Agassiz, 1862)",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5b57cba7-31a7-5690-8726-b0bed9a411f5",
+          "name_string": "Tubularia crocea",
+          "canonical_form": "Tubularia crocea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_9342000",
+          "local_id": "1015945",
+          "url": "http://eol.org/pages/1015945/names/synonyms",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Corymorpha",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "f85afdbf-0973-567e-9916-10c4071de287",
+          "name_string": "Corymorpha",
+          "canonical_form": "Corymorpha",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Corymorphidae|Corymorpha",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366669|2394408",
+          "taxon_id": "2394408",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f85afdbf-0973-567e-9916-10c4071de287",
+          "name_string": "Corymorpha",
+          "canonical_form": "Corymorpha",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327677",
+          "local_id": "23393",
+          "url": "http://eol.org/pages/23393",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

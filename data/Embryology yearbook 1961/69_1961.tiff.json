@@ -1,0 +1,111 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=6t9I4xSHQ1aaljUaJB5svw",
+  "input_url": null,
+  "file": "69_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.216681822,
+    "resolve_names_duration": 0.909615696,
+    "total_duration": 26.723336102
+  },
+  "agent": "",
+  "created": "2013-06-18T12:42:04-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Qponicus",
+      "scientificName": "Qponicus",
+      "offsetStart": 2255,
+      "offsetEnd": 2262,
+      "identifiedName": "Qponicus"
+    },
+    {
+      "verbatim": "Qphiocoma",
+      "scientificName": "Qphiocoma",
+      "offsetStart": 2738,
+      "offsetEnd": 2746,
+      "identifiedName": "Qphiocoma"
+    },
+    {
+      "verbatim": "E",
+      "scientificName": "Arbacia",
+      "offsetStart": 2788,
+      "offsetEnd": 2788,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2794,
+      "offsetEnd": 2800,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\nBibliography\nQenegal Works andEReyiew ArTiclesi\nChild, C. M. PaTTerns and Problems in DevelopmenT. Univ. of Chicago Press, l94l.\nDalcq, A. Form and CausaliTy in Early DevelopmenT. Univ. Press, Cambridge, i938\nGusTaTsson, T. Sea Urchin DevelopmenT in The LighT of Enzymic and MiTochondrial\nsTudies. J. E. E. M., l: 25l~255. |955\nHorsTadius, S. The mechanics of sea urchin developmenT sTudied by operaTive\nmeThods. Biol. Rev., l4: l32~l79, l959.\nHorsTadius, S. ExperimenTal researches on The developmenTal physiology of The sea\nurchin. Pub. Zool. Nap., 2l (Suppl): l3l. |949\nHorsTadius, S. Mechanics of sea urchin developmenT. L'Annec Biol., 26: page Bl,\n|950\nHulTin, T., STudies on The sTrucTural and meTabolic background of TerTilizaTion\nand developmenT. STockholm. The Wenner-Gren lnsTiT., l953.\nHulTin, T. MeTabolism and deTerminaTion. Arch.neerl.Zool., (suppl): 76-9l,l955\nLindahl, P. ConTribuTions of The physiology of form generaTion in The developmenT\nof The sea urchin. Q. Rev. Biol., l7: l942.\nMacBride, E. W., TexT Book of Embryology (ed. Heape), Vol. l, lnverTebraTa.\nMacmillan, l9l4.\nNeedham, J. BiochemisTry and Morphogenesis. Univ. Press, Cambridge. |942\nTyler, A. DevelopmenTal Processes and EnergeTics. Q. Rev. Biol., I7: |97-2l2,\n339-353, l942.\nWeiss, P. Principles of DevelopmenT. HolT. l939.\nArijclesggf 5becial lnTeresT\neTe>>\nAgassig, A. Embryology of The sTarfish. Mem.Mus.Comp.Zool. Harvard. vol. 5, l864,\n(l877) \nAgrell, l. A miToTic gradienT in The sea urchin embryo during gasTrulaTion. Ark.f\nZool., 6: 2l3-2l7, I954. \nBury, H. MeTamorphosis in Echinoderms, Q. J. Micr. S., 58, l895. \nFell, H. B. Echinoderm embryology and The origin of chordaTes. Biol. Rev. 23:8l, \nif\nChadwick, C., Echinoderm larvae. Liverpool Marine Biol. Comm. Mem, No. 22 l9l4.\nChild, C. M. lndicaTor gradienT paTTerns in oocyTes and early develowmenTal sTages\nof echnoderms: a re~examinaTion. Biol. Bull., lO4: l2-27. |953 1\nChild, C. M. Redox indicaTor paTTerns in relaTion To echinoderm exogasTrulaTion.l \nI. OxidaTion paTTerns. Biol. Bull., lO5: 62-79. l955. \nChild, C. M. Redox paTTerns in relaTion To Echinoderm ExogasTrulaTion. ll. Reduc-Q\nTion PaTTerns. Biol. Bull., lO6:2l-38. l9?4. \nDan, J. C. and K. Dan. Spawning HabiT of The Crinoid, ComanThu? 1Qponicus. Jap.\nJ. Zool., 9: 555-564. l94l. \nDan, J. C. and K. Dan. Early developmenT of ?gmgg1hus japonicug, Jap. J. Zool. 9:5\n565-574. l94l\nDan, K. Meiosis in The eggs of The crinoid, ComanThus jgpanisggs. AnnoT. Zool.\nJap., 25: 258-264. l952.\nGemmill, J. F. The developmenT and cerTain poinTs in The adulT sTrucTure of The\nsTarTish, Philos. Trans. Roy. Soc. Lond, l9l4\nGoTo, S. The meTamorphosis of Asjeriasggallida, J.Coll.Sci., imp. Univ. Tokyo.\nIO. i898\nGrave, C. Embryology of Qphiocoma gghigaTa. Mem. Biol. JHU. l900.\nHarvey, E. B. Arbacia. Coll. l4, i959\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Qponicus"
+    },
+    {
+      "supplied_name_string": "Qphiocoma",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

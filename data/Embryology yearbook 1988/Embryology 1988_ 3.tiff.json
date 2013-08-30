@@ -1,0 +1,132 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=fiahRcioQj2V7j7LXM2UhA",
+  "input_url": null,
+  "file": "Embryology 1988_ 3.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.098065146,
+    "resolve_names_duration": 1.538392803,
+    "total_duration": 23.772845029
+  },
+  "agent": "",
+  "created": "2013-06-18T13:16:54-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "Valeria",
+      "scientificName": "Valeria",
+      "offsetStart": 10,
+      "offsetEnd": 16,
+      "identifiedName": "Valeria"
+    },
+    {
+      "verbatim": "Biologia dello",
+      "scientificName": "Biologia dello",
+      "offsetStart": 30,
+      "offsetEnd": 43,
+      "identifiedName": "Biologia dello"
+    },
+    {
+      "verbatim": "Patricia",
+      "scientificName": "Patricia",
+      "offsetStart": 315,
+      "offsetEnd": 322,
+      "identifiedName": "Patricia"
+    }
+  ],
+  "content": "MATRANGA, Valeria\nIstituto di Biologia dello Sviluppo\ndel C.N.R.\nvia Archirafi 20\n90123 Palermo\nItaly\n039-91-6162632.\nMAYOR, Roberto A.\n(University of Chile)\nAbel Gonzalez 0349\nSantiage 14\nChile\n557890\nPECULIS, Brenda Ann\nDepartment of Biology\nJohns Hopkins University\nBaltimore, Mm 21218\n(301) 467-1414\nPESAVENTO, Patricia A.\nDepartment of Cell and Developmental\nBiology\nHarvard University\nCambridge, MA 02139\nRICHARDSON, Wendy L.\nDepartment of Cell Biology\nBaylor College of Medicine\nHouston, TX 77030\nSMITH, Susan M.\nDepartment of Biology\nRensselaer Polytechnic Institute\nTroy, NY 12180\n(518) 271-1831\nTANAKA Elly . 4\nAL\nSan Franciico, CA 94143 \n(415) 661-9212\nTILLINGHAST, Henry S.\nDepartment of Biology\nU.S. Air Force Academy\nColorado Springs, C0 80840\n(719) 574-0934\nWATSON, Kellie L. \nDevelop ental Biology Center\nDepartment of Developmental and\nCellular Biology\nUniversity of California\nIrvine, CA 92717\n(714) 548-3514\nWICKRAMASINGHE, Dineli M.\nTufts University\n136 Harrison Avenue\nBoston, MA 02111\n(617) 956-6692\nZAHNER, Joseph E.\nBiology Department\nJohns Hopkins University\nBaltimore, MD 21218\n(301) 338-8760\nInstructors:\nEric H. Davidson\nDivision of Biology 156-29 \nCalifornia Institute of Technology\nPasadena, CA 91125\n\nGary Freeman\nDepartment of Zoology\nUniversity of Texas at Austin\nAustin, TX 78712 \n(512) 471-7425\nJohn C. Gerhart\nDepartment of Molecular Biology\nUniversicy of California\nBerkeley, CA 94720\n(415) 642-6382\nJudith E. Kimble\nDept. of Biochemistry/\nLab. of Molecular Biology\nUniversity of Wisconsin\n1525 Linden Drive\nMadison, WI 53706\n(608) 262-6188\nMarc W. \nDepartment of Biochemistry\nUniversity of California\nSan Francisco, CA 94143\n(415) 476-2200\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Valeria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ead901d0-e879-5156-ab89-6c41dc088135",
+          "name_string": "Valeria",
+          "canonical_form": "Valeria",
+          "classification_path": "Animalia|Arthropoda|Insecta|Lepidoptera|Lepidoptera|Noctuidae|Valeria",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362873|2362923|2364644|2440046",
+          "taxon_id": "2440046",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ead901d0-e879-5156-ab89-6c41dc088135",
+          "name_string": "Valeria",
+          "canonical_form": "Valeria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30277120",
+          "local_id": "13267234",
+          "url": "http://eol.org/pages/13267234",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Biologia dello"
+    },
+    {
+      "supplied_name_string": "Patricia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "aadb5dc0-039a-5c89-bda8-8f8fb116b335",
+          "name_string": "Patricia",
+          "canonical_form": "Patricia",
+          "classification_path": "Animalia|Arthropoda|Insecta|Lepidoptera|Lepidoptera|Nymphalidae|Patricia",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362873|2362896|2364641|2382296",
+          "taxon_id": "2382296",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "aadb5dc0-039a-5c89-bda8-8f8fb116b335",
+          "name_string": "Patricia",
+          "canonical_form": "Patricia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29094224",
+          "local_id": "19014",
+          "url": "http://eol.org/pages/19014",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    }
+  ]
+}

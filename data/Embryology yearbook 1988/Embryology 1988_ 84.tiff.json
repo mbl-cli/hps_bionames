@@ -1,0 +1,136 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=C5XjqEWlQ5idcsX4YYW7AQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 84.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.18764429,
+    "resolve_names_duration": 0.47956253,
+    "total_duration": 23.088809632
+  },
+  "agent": "",
+  "created": "2013-06-18T13:27:24-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 105,
+      "offsetEnd": 111,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus laevis",
+      "scientificName": "Xenopus laevis",
+      "offsetStart": 493,
+      "offsetEnd": 506,
+      "identifiedName": "Xenopus laevis"
+    },
+    {
+      "verbatim": "Xenopus laevis",
+      "scientificName": "Xenopus laevis",
+      "offsetStart": 715,
+      "offsetEnd": 728,
+      "identifiedName": "Xenopus laevis"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1119,
+      "offsetEnd": 1125,
+      "identifiedName": "Xenopus"
+    }
+  ],
+  "content": "MATURATION REFERENCES\nBirchmeier, C., Broek, D. and Nigler, M. (1985) Ras proteins can induce meiosis\nin Xenopus oocytes. Cell 43, 615-621\nBerridge, M. J. (1986) 'Cell signalling through phospholipid metabolism. J,\nCell Sci. Suppl. 4, 135-153\nCicirelli, M. F. and Smith, L. 0. (1987) Do calcium and calmodulin trigger\nmaturation in amphibian oocytes? Qev. Biol. 121, 48-57\nCork, R. J., Cicirelli, M. F. and Robinson, K. R. (1987) A rise in cytosolic\ncalcium is not necessary for maturation of Xenopus laevis oocytes. \nQgv. Biol. 121, 41-47\nCyert, M. S. and M. W. (1988) Regulation of MPF activity ig vitro.\nCell ??, 185-195\n*Gerhart, J., Nu, M., Cyert, M. and M. (1985) M-phase promoting\n'k\nit\nfactors from eggs of Xenopus laevis. Cytobios 43, 335-347\nHayles, J. and Nurse,\nSuppl. 4, 155-170.\nP. (1986) Cell cycle regulation in yeast. J, Cell Sgi\nS. and Kanatani, H. (1981) Role of the germinal\nmaturation-promoting factor in starfish. Qey, Biol. 81,\nKishimoto, T., Hirai\nvesicle in producing\n177-181\nKorn, L. J., Siebel, C. N., McCormick, F. and Roth, R. A. (1987)\nRas p21 as a potential mediator of insulin action in Xenopus oocytes.\nScience 2?6, 840-843 \nLohka, M. J., Hayes M. K. and Maller, J. L. (1988) Purification of\nmaturation-promoting factor, an intracellular regulator of early mitotic\nevents. Proc. Natl, Acad. Sci USA 85, 3009-3013\nMaller, J. M. (1983) Interaction of steroids with the cyclic nucletide system\nin amphibian oocytes. In advances in Cyclic Nucleotide Research, P. Greengard\nand G. A. Robinson, eds. Raven Press, New York, Vol 15, pp 295-336\nMaller, J. M. (1985) Oocyte maturation in amphibions. In, Developmental\nBiology, a comprehensive Vol. I, Oogenesis. ed. L. N. Browder.\npp. 289-312. Plenum Press, New York\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Xenopus laevis",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "22a6df90-1cc9-5462-a5d9-144a006cf030",
+          "name_string": "Xenopus laevis",
+          "canonical_form": "Xenopus laevis",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Craniata|Vertebrata|Gnathostomata|Teleostomi|Euteleostomi|Sarcopterygii|Tetrapoda|Amphibia|Batrachia|Anura|Pipoidea|Pipidae|Xenopodinae|Xenopus|Xenopus|Xenopus laevis",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum||superclass|||||class|superorder|order|superfamily|family|subfamily|genus|subgenus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|89593|7742|7776|117570|117571|8287|32523|8292|41666|8342|30319|8352|8360|8353|262014|8355",
+          "taxon_id": "8355",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "22a6df90-1cc9-5462-a5d9-144a006cf030",
+          "name_string": "Xenopus laevis",
+          "canonical_form": "Xenopus laevis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29126132",
+          "local_id": "1038993",
+          "url": "http://eol.org/pages/1038993",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=BF4YhaSeQFCuUL5gh9Ywaw",
+  "input_url": null,
+  "file": "Embryology 1988_ 29.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.22423174,
+    "resolve_names_duration": 0.52498415,
+    "total_duration": 23.550119468
+  },
+  "agent": "",
+  "created": "2013-06-18T13:16:46-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Lytechinus variegatus",
+      "scientificName": "Lytechinus variegatus",
+      "offsetStart": 193,
+      "offsetEnd": 213,
+      "identifiedName": "Lytechinus variegatus"
+    },
+    {
+      "verbatim": "Strongylocentrotus purpuratus",
+      "scientificName": "Strongylocentrotus purpuratus",
+      "offsetStart": 450,
+      "offsetEnd": 478,
+      "identifiedName": "Strongylocentrotus purpuratus"
+    }
+  ],
+  "content": "Sea Urchin Egg Morphology \nShed eggs from good ripe females are generally ready for fertilization. Both\nmaturation divisions have occurred in the ovary and the polar bodies are generally lost.\nLytechinus variegatus is unusual. In this form, the polar bodies regularly remain\nattached to the egg surface. Egg suspensions from some females may contain immature\neggs. These are easily recognized by their large primary oocyte nuclei (germinal\nvesicle). Strongylocentrotus purpuratus eggs are approximately 80 microns in diameter.\nThey are surrounded by a jelly coat, made of large sulfated glycoproteins, which has the\nsame refractive index as water and therefore is invisible. With their jelly coats intact,\nthe eggs form a regular lattice work in a monolayer.\nInsemination\nBest results are obtained with good fresh eggs and sperm. Such material under\nproper conditions should give nearly 10096 fertilized eggs. Filter egg suspension through\nseveral layers of gauze or cheesecloth. Wash eggs at least once in MFSW just before\nfertilizing them by letting them settle and aspirating off the FSW, replacing it with fresh\nMFSW. \"Dry\" sperm should be diluted in FSW just before insemination. Sperm\nconcentration should be kept low to reduce chances of polyspermy. Excess sperm will\nalso contribute to contamination of cultures. Dilute about one of sperm in 20 ml\nMFSW and add to about 250 ml of egg suspension containing ~lO eggs (10 ml packed\neggs). Fertilized eggs, identified by their elevated fertilization membranes, should be\nwashed several times by repeated settling and aspiration, as above, to remove excess\nsperm.\nEmbryonic and Larval Cultures\nEmbryonic and larval stages should be maintained in FSW with regular changes.\nExcess sperm, immature eggs, egg fragments, and unfertilized eggs will support bacterial\ngrowth and subsequent ciliate contamination of cultures. In cases where immature or\nunfertilized material is present in quantity, healthy embryos can be separated by gently\ndecanting the culture into a partially immersed chamber whose bottom is formed by\nNitex screen of a mesh size small enough to retain the embryos but large enough to\npermit the eggs and egg fragments to pass through. Gentle agitation of the chamber will\nconcentrate the embryos without excessive damage. They can then be washed with sea\nWater.\nBacterial contamination can be more rigorously reduced in early embryonic\ncultures by the addition of penicillin (20 u/liter) and streptomycin (50 ug/liter)\nPenicillin/streptomycin stock 'solutions may be made up at l000X concentrates in MFSW\nand frpzen in small aliquots at Embryonic cultures should not exceed\n/liter FSW (l-296 by volume) and should be provided with a continuously stirring\nmechanism a motor-driven paddle working at -30-60 RPM). The stirring keeps the\nembryos from accumulating on the bottom or at the surface film and the culture\ndevelops more evenly. Large cultures should be provided with an air source an air\nstone or compressed air). As the embryos grow and begin to feed, cultures should be kept\nmore dilute and the MFSW (without antibiotics, which are detrimental to food sources)\nchanged more frequently. Larval rearing will not be addressed here.\nCollecting Embryos and Larvae from Cultures\nEggs and embryos can be collected by settling or gentle centrifugation. Once\nconcentrated, they should be immediately resuspended or prepared for experimental\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Lytechinus variegatus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "7a0c56fe-3a1b-597d-b9e0-9993b62385c9",
+          "name_string": "Lytechinus variegatus",
+          "canonical_form": "Lytechinus variegatus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Echinodermata|Eleutherozoa|Echinozoa|Echinoidea|Euechinoidea|Echinacea|Temnopleuroida|Toxopneustidae|Lytechinus|Lytechinus variegatus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum||superclass|class|subclass|superorder|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7586|133551|7624|7625|7638|7674|31184|31185|7652|7654",
+          "taxon_id": "7654",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7a0c56fe-3a1b-597d-b9e0-9993b62385c9",
+          "name_string": "Lytechinus variegatus",
+          "canonical_form": "Lytechinus variegatus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103350",
+          "local_id": "599644",
+          "url": "http://eol.org/pages/599644",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Strongylocentrotus purpuratus",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "53f53c09-6546-50a0-9b07-de0af452bf30",
+          "name_string": "Strongylocentrotus purpuratus",
+          "canonical_form": "Strongylocentrotus purpuratus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Echinodermata|Eleutherozoa|Echinozoa|Echinoidea|Euechinoidea|Echinacea|Echinoida|Strongylocentrotidae|Strongylocentrotus|Strongylocentrotus purpuratus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum||superclass|class|subclass|superorder|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7586|133551|7624|7625|7638|7674|7675|31181|7664|7668",
+          "taxon_id": "7668",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "53f53c09-6546-50a0-9b07-de0af452bf30",
+          "name_string": "Strongylocentrotus purpuratus",
+          "canonical_form": "Strongylocentrotus purpuratus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39146635",
+          "local_id": "598175",
+          "url": "http://eol.org/pages/598175",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

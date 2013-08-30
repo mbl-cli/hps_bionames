@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=nZ4r7sZkQROmLuKgu9hoyw",
+  "input_url": null,
+  "file": "Embryology 1988_ 37.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.061907192,
+    "total_duration": 21.664268493
+  },
+  "agent": "",
+  "created": "2013-06-18T13:18:21-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "3\nPurity may also be checked by measuring the level of cross-contamination with\ntissue-specific present in RNA extracted from each cell preparation (next lab).\nSolutions:\n1. Mniipore-filtered sea wafer (MFSW)\n2. Glycine-EDTAE* \n3. Calcium-magnesium-free sea water \n4. Sigma alkaline phosphatase reagent kit (85L-1)\naczyane-EDTA\n1 \n2 mM EDTA (pH 3.0)\n(1 liter)\n31 NaCl\n0.8 \n1.6 Na SO\nBring to pH 8.0\nReferences:  \nHarkey, M. A. and Whiteley, A. H. (1980). W. Roux Arch. 189, 111-122.\nMcClay, D. R. and Chambers, A. F. (1978). Dev. Biol. 63, 179-186.\nMcClay, D. R. and Marchese, R. B. (1979). Dev. Biol. 71, 289-296.\n\n"
+}

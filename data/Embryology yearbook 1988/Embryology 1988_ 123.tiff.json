@@ -1,0 +1,83 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=ctCFsVhnSfqAqUD1KXb2Xw",
+  "input_url": null,
+  "file": "Embryology 1988_ 123.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.133567492,
+    "resolve_names_duration": 0.766576508,
+    "total_duration": 23.99157736
+  },
+  "agent": "",
+  "created": "2013-06-18T13:07:42-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 2268,
+      "offsetEnd": 2277,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 2789,
+      "offsetEnd": 2798,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "crate \nLooking at embryos Q7 \n3.4 Videotaping living embryos\nEssentially the same procedures are used to mount embryos for videotaping as for photo-\nmicrographs. The video camera should have a high resolution 800 lines at the centre)\nand operate with low light intensities E.R.Newvicon Cameras, No. WV-1850\nfrom Panasonic). Unfortunately, the time lapse recorders which are commercially\navailable have relatively low resolution 300 lines at centre) and the play-back image\nis never as sharp as the original. A useful feature on any recorder is a 'date/time gen-\nerator' which records the time directly on the tape while the embryos are being filmed.\nThe time labels thus produced on each embryo are useful for bookkeeping, as well\nas in experiments where the duration of individual events must be determined. Other\nuseful features included in many tape decks g. Panasonic 6010 or 8050) are mech-\nanisms to freeze individual frames for detailed analysis. a single frame advance and\na search function which allows viewing the tape at the *fast forward` and `rewind` speeds.\n3 5 Klarsicht\nThe resolution of most post-blastoderm stages can be greatly improved by introducing\nthe klarsicht mutation into the stocks from which films are being made. klarsicht is\na maternal effect mutation on the third chromosome (3- 0. usslein-Volhard. unpub-\nlished) which has no effect on embryonic viability but enhances the contrast between\nyolk and cytoplasm in post-blastoderm stages. Although the mutation is not well under-\nstood, the phenotype seems to arise from the reduced number of lipid droplets which\nare incorporated into the basal side of blastoderm cells during cellularization (W ieschaus\nand Sweeton, unpublished observations, see also Figures 4, 6 and 8).\n4. EMBRYONIC STAGES AND MORPHOLOGICAL CRITERIA FOR IDENTIFY-\nING APPROXIMATE AGES OF LIVING EMBRYOS\nThe staging system outlined below is primarily useful for work with living embryos\nin stages after blastoderm formation (stages 6- 16). Approximate timings at room\ntemperature are given in the parentheses following the stage designation. The\nnumbering of the stages and the morphological criteria for their identification are the\nsame as those suggested by Campos-Ortega and Hartenstein (3) in their monograph\non Drosophila development. except that those authors add a stage 17 corresponding\nto the final differentiated embryo. The cleavage stages in our scheme stages -4)\nare intended to supplement the more detailed system (1 - 14) developed by Zalokar\nand Erk (4) as modified by Foe and Alberts (5) for early embryos.\nPhotographs of wild-type and klarsicht embryos at each stage are provided in Figures\n2-8. The individual stages are summarized in the schematic diagrams of Figure 9.\nNumerous descriptions of the general course of Drosophila development have been\npublished as well as more detailed studies of the early cleavage stages \n10- 16), gastrulation (16-20), neurulation (21) and subsequent morphogenesis (22,23).\n4.1 Stage 1: freshly laid egg (0 to 15 min)\nThe cytoplasm of the embryo is homogeneous.\n204\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

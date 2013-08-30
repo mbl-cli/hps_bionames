@@ -1,0 +1,54 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=hwMfBCE8StKvvIhro0c2QA",
+  "input_url": null,
+  "file": "Embryology 1988_ 143.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.128626307,
+    "resolve_names_duration": 0.510197582,
+    "total_duration": 24.405285201
+  },
+  "agent": "",
+  "created": "2013-06-18T13:11:30-04:00",
+  "total": 3,
+  "names": [
+    {
+      "verbatim": "BinI",
+      "scientificName": "BinI",
+      "offsetStart": 678,
+      "offsetEnd": 681,
+      "identifiedName": "BinI"
+    },
+    {
+      "verbatim": "BinI",
+      "scientificName": "BinI",
+      "offsetStart": 686,
+      "offsetEnd": 689,
+      "identifiedName": "BinI"
+    },
+    {
+      "verbatim": "BinI",
+      "scientificName": "BinI",
+      "offsetStart": 769,
+      "offsetEnd": 772,
+      "identifiedName": "BinI"
+    }
+  ],
+  "content": "Wed NOV 18 13:58:56 1987\nArgument Map in DNA Strand ssp-mGTCOb\nfrom the 'standard restriction' file.\nSequence too long or too many sites for condensed mapThaI, 3 HhaI, 4 ThaI, 12 Hphl, 21 Hphl, 29 37 Nsp752\n4I, 38 41 BbvI 43 47 NciI 48 Hp\n57 \n\n\n62 77 FokI, 78 82 NciI 106 HhaI, 1\n07 Thal, 108 HgaI, 112 \n\n\n150 153 168 RsaI, 171 DdeI, 177 Bsp1286\nHgiA1 \n\n\n181 183 NdeI, 208 229 235 BanI \nNarI 236 HhaI,\n\n\n245 254 256 Fspl, 257 HhaI, 276 PvuI, 277\nMboI, 286 Sau96I, 287 289 291 \n\n\n306 307 321 Fokl, 327 348 \n354 EcorII \n\n\n368 374 388 EaeI, 389 399 40\n0 405 Nsp7524I SphI, 406 411 PstI, 417 ACCI Hi\nncII 418 TaqI, 420 HinfI,\nba. \"gm, HI A X110 I bk..\n\n\n423 XbaI, 424 MaeI, 427 429 BinI 43\nBinI 444 MboI, 447 Ddel, 452 453 45\n4 TaqI, 456 HinfI, 459 XbaI, 460 MaeI, 464 465 BinI \nboI, 468 \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "BinI"
+    }
+  ]
+}

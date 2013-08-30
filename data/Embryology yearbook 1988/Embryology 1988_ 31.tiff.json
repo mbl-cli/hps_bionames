@@ -1,0 +1,238 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=a2f1MNPJQfehETt7AKxVBw",
+  "input_url": null,
+  "file": "Embryology 1988_ 31.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.13066435,
+    "resolve_names_duration": 0.642550912,
+    "total_duration": 21.452380881
+  },
+  "agent": "",
+  "created": "2013-06-18T13:17:07-04:00",
+  "total": 7,
+  "names": [
+    {
+      "verbatim": "Urochordata:",
+      "scientificName": "Urochordata",
+      "offsetStart": 241,
+      "offsetEnd": 252,
+      "identifiedName": "Urochordata"
+    },
+    {
+      "verbatim": "Tunicata.",
+      "scientificName": "Tunicata",
+      "offsetStart": 431,
+      "offsetEnd": 439,
+      "identifiedName": "Tunicata"
+    },
+    {
+      "verbatim": "Chordata:",
+      "scientificName": "Chordata",
+      "offsetStart": 580,
+      "offsetEnd": 588,
+      "identifiedName": "Chordata"
+    },
+    {
+      "verbatim": "Tunicata.",
+      "scientificName": "Tunicata",
+      "offsetStart": 590,
+      "offsetEnd": 598,
+      "identifiedName": "Tunicata"
+    },
+    {
+      "verbatim": "Tunicata.",
+      "scientificName": "Tunicata",
+      "offsetStart": 739,
+      "offsetEnd": 747,
+      "identifiedName": "Tunicata"
+    },
+    {
+      "verbatim": "Tunicata.",
+      "scientificName": "Tunicata",
+      "offsetStart": 824,
+      "offsetEnd": 832,
+      "identifiedName": "Tunicata"
+    },
+    {
+      "verbatim": "Ciona intestinalis",
+      "scientificName": "Ciona intestinalis",
+      "offsetStart": 1016,
+      "offsetEnd": 1033,
+      "identifiedName": "Ciona intestinalis"
+    }
+  ],
+  "content": "Lecture- Ascidian Development: A Model of Cell Lineage and Early Cell\nDetermination\nJ.R. Whittaker\nMBL Embryology Course\nSummer, 1988\n1. General References to the Older Literature of Ascidian Emebryology\nAbbott, D.P. and A.T. Newbury (1980) Urochordata: the tunicates. In: R.H.\nMorris, D.P. Abbott and E.C. Haderlie: Intertidal Invertebrates of California\nStanford: Stanford University Press, pp. 177-226.\nBerrill, N.J. (1950) The Tunicata. London: Ray Society, 354 pp.\nBerrill, N.J. (1955) The Origin of Vertebrates. London: Oxford University\nPress, 257 pp.\nBerrill, N.J. (1975) Chordata: Tunicata. In A.C. Giese and J.S. Pearse (eds):\nReproduction of Marine Invertebrates, Vol. 2. New York: Academic Press, pp.\n241-282.\nBrien, P. (1948) Tunicata. In P.-P. Grasse Traite de Zoologie, Vol. 11,\npp. 553-930.\nHirai, E. (1957) Tunicata. In M. Kume and K. Dan (eds): Invertebrate\nEmbryology. Translation 1968. Belgrade: NOLIT Publishing House, pp. 538-577.\nKatz, M.J. (1983) Comparative anatomy of the tunicate tadpole, Ciona\nintestinalis. Biol. Bull. 16421-27. \nPlough, H.H. (1978) Sea Squirts of the Atlantic Continental Shelf from Maine\nto Texas. Baltimore: Johns Hopkins Press, 118pp.\nReverberi, G. (1961) The embryology of ascidians. Adv. Morphogen. 1:55-101.\nReverberi, G. (1971) Ascidians. In G. Reverberi Experimental Embryology\nof Marine and Fresh-water Invertebrates. Amsterdam: North-Holland Publishing\nCo., pp. 507-550.\n2. Some Specific References to Cytoplasmic Determinants\nA .\nBates, W.R. and W.R. Jeffery (1987) Alkaline phosphatase expression in\nascidian egg fragments and andromerogons. Dev. Biol. 119: 382-389.\nConklin, E.G. (1905) The organization and cell lineage of the ascidian egg. \nAcad. Natl. Sci. (Philadelphia) 13:1-119.\nConklin, E.G. (1931) The development of centrifuged eggs of ascidians. J.\nExp. Zool. 60:1-120.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Urochordata",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "319ccb58-b01b-5755-bd7c-5f63d412a956",
+          "name_string": "Urochordata",
+          "canonical_form": "Urochordata",
+          "classification_path": "Animalia|Chordata|Tunicata",
+          "classification_path_ranks": "Kingdom|Division|Subdivision",
+          "classification_path_ids": "202423|158852|203347",
+          "taxon_id": "158853",
+          "current_taxon_id": "203347",
+          "current_name_string": "Tunicata Lamarck, 1816",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "319ccb58-b01b-5755-bd7c-5f63d412a956",
+          "name_string": "Urochordata",
+          "canonical_form": "Urochordata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5205103",
+          "local_id": "2773824",
+          "url": "http://eol.org/pages/2773824/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tunicata",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "93d3a101-f63b-5bf0-9fd6-730766de7e51",
+          "name_string": "Tunicata",
+          "canonical_form": "Tunicata",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712",
+          "taxon_id": "7712",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "93d3a101-f63b-5bf0-9fd6-730766de7e51",
+          "name_string": "Tunicata",
+          "canonical_form": "Tunicata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103803",
+          "local_id": "2773824",
+          "url": "http://eol.org/pages/2773824",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Chordata",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b5855fdb-85ac-5187-93cb-62cf1c3d518a",
+          "name_string": "Chordata",
+          "canonical_form": "Chordata",
+          "classification_path": "Animalia|Chordata",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2362754",
+          "taxon_id": "2362754",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b5855fdb-85ac-5187-93cb-62cf1c3d518a",
+          "name_string": "Chordata",
+          "canonical_form": "Chordata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37279987",
+          "local_id": "19719807",
+          "url": "http://eol.org/pages/19719807",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ciona intestinalis",
+      "results": [
+        {
+          "data_source_id": 2,
+          "data_source_title": "Wikispecies",
+          "gni_uuid": "e7bb654a-ba90-575a-85a6-cbe72a86805f",
+          "name_string": "Ciona intestinalis",
+          "canonical_form": "Ciona intestinalis",
+          "classification_path": "Animalia|Eumetazoa|Bilateria|Nephrozoa|Echinothrix|Branchiostoma capense|Thaliacea|Sorberacea|Plurellidae|Cionidae|Ciona intestinalis",
+          "classification_path_ranks": "||||||||||",
+          "classification_path_ids": "80|4404|192967|249913|4473|4474|112943|123974|123975|142523|142524",
+          "taxon_id": "142524",
+          "url": "http://species.wikimedia.org/wiki/Ciona_intestinalis",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e7bb654a-ba90-575a-85a6-cbe72a86805f",
+          "name_string": "Ciona intestinalis",
+          "canonical_form": "Ciona intestinalis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628901",
+          "local_id": "512629",
+          "url": "http://eol.org/pages/512629",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 20,
+      "in_curated_sources": true
+    }
+  ]
+}

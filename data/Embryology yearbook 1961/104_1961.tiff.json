@@ -1,0 +1,202 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=xbCfqnozT76x8zUhCvFtZQ",
+  "input_url": null,
+  "file": "104_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.136595987,
+    "resolve_names_duration": 1.42207689,
+    "total_duration": 28.640469748
+  },
+  "agent": "",
+  "created": "2013-06-18T13:02:50-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Aurelia",
+      "scientificName": "Aurelia",
+      "offsetStart": 686,
+      "offsetEnd": 692,
+      "identifiedName": "Aurelia"
+    },
+    {
+      "verbatim": "Ephyra",
+      "scientificName": "Ephyra",
+      "offsetStart": 1471,
+      "offsetEnd": 1476,
+      "identifiedName": "Ephyra"
+    },
+    {
+      "verbatim": "Gonangium",
+      "scientificName": "Gonangium",
+      "offsetStart": 1577,
+      "offsetEnd": 1585,
+      "identifiedName": "Gonangium"
+    },
+    {
+      "verbatim": "Hydrocaulus",
+      "scientificName": "Hydrocaulus",
+      "offsetStart": 2033,
+      "offsetEnd": 2043,
+      "identifiedName": "Hydrocaulus"
+    },
+    {
+      "verbatim": "Manubrium",
+      "scientificName": "Manubrium",
+      "offsetStart": 2194,
+      "offsetEnd": 2202,
+      "identifiedName": "Manubrium"
+    },
+    {
+      "verbatim": "Planula",
+      "scientificName": "Planula",
+      "offsetStart": 2412,
+      "offsetEnd": 2418,
+      "identifiedName": "Planula"
+    }
+  ],
+  "content": "\nli\n3\n\n,l\n\n\n\n\n\n\n\n\nI \nsTage can be easily followed. The resemblance of The To\na simple polyp is obvious. ATTachmenT plus The formaTion of\noccurs on The second day, as does The developmenT of an open\n8 TenTacles aT 4 days, l6 aT 2 weeks, 24 aT I monTh. SkeTch\nside view and in Top view.\nThe (or sTage lasTs ThroughouT\nanimals increase in size and undergo asexual reproducTion by\n2 To 4 TenTacles\nmouTh. There are\nThe in\nThe winTer. The\nTransverse fission\n(\"sTrobilizaTion\") and by oTher meThods (Percival, The Tiny ephyrae\n(larval jelly fishes) are liberaTed and gradually Transform inTo The adulT Torm\nover a period of many monThs.\nAside from The accompanying illusTraTions you may Tind Aurelia life\nhisTory illusTraTed in The TexTs of MacBride, 'l4; KorschelT, '36; and Hyman, \nGLOSSARY\nAcrasPedoTe - lacking a velum. \na shorT, sTalkless pelyp.\nAcTinula - A TenTacu|aTe larva resembling\nBlasTosTyle - A reduced gonozooid; a club~shaped projecTion bearing The gonophores\non iTs sides.\nCircular canal Same as ring canal. ParT\na circling The margin of The umbrella and connecTiong wiTh The radial\ncanals.\nCoelenTeron - GasTrovascular caviTy of a polyp.\nCoeloblasTula - A hollowblasTula . Synonymous wiTh convenTional use of \"blasTula\".\nCoenosarc - The living Tissue of The hydrocaulus or sTolen \nDacTylozooid Polyp specialized for proTecTion and bearing a baTTery of endia-\nblasTs (nemaTocysT - conTaining cells).\nDiploblasTic Having Two body layers, ecToderm and endoderm.\nEphyra - Free-swimming, immaTure medusa sTage of budded Trom \nof medusoid gasTrovascular sysTem en-\nToma.\nGonangium - The gonoTheca plus iTs enclosed blasTosType wiTh gonophores if presenT\nGonophore - A medusa bud (PerTains To buds of boTh compleTe and reduced medusae)\nGonosome-CollecTive Term reTerring To The ToTal assemblage of sexual parTs of a\nPolyp-\nGonoTheca - The perisarc sTrucTure surrounding The gonangia in CalypToblasTs.\nGonozooid - Polyp specialized for reproducTion\nHydranTh - ElongaTed polyp sTrucTure wiTh Terminal mouTh and bearing TenTacles.\nHydrocaulus The \"sTem\" of a polyp.\nHydrorhiza - The sTolen or aTTachmenT region of a polyp.\nHydroTheca - The perisarc surrounding The hydranTh in CalypToblasTs.\nManubrium - ElongaTed disTal parT of body of hydranTh, or of corresponding\nmedusa region.\nMeTagenesis - AlTernaTion beTween polyp and medusoid generaTions.\nPerisarc - ChiTinous, secreTed exoskeleTon of cerTain polyps.\nPlanula - CiliaTed, elongaTed, aTenTaculaTe larva of Cnidarians.\nProboscis The manubrium\nRadial canal - ParT of medusoid gasTrovascular sysTem connecTing gasTrocoel of\nmedusa wiTh circular canal\n- Polypoid larva of \nSpadix- CenTral core of gonophore or sporosac on which sex cells develop.\nSporosac - Highly reduced gonophore.\nTrophozooid - Polyp specialized Tor feeding\nVelum A \"shelf\" exTending cenTripeTally Trom jusT above margin of medusa bell.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Aurelia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "05ac3998-238b-5b98-b8c1-31985b13f307",
+          "name_string": "Aurelia",
+          "canonical_form": "Aurelia",
+          "classification_path": "Animalia|Cnidaria|Scyphozoa|Semaeostomeae|Ulmaridae|Aurelia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363461|2363484|2368678|2394749",
+          "taxon_id": "2394749",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "05ac3998-238b-5b98-b8c1-31985b13f307",
+          "name_string": "Aurelia",
+          "canonical_form": "Aurelia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628135",
+          "local_id": "23740",
+          "url": "http://eol.org/pages/23740",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ephyra",
+      "results": [
+        {
+          "data_source_id": 7,
+          "data_source_title": "Union 4",
+          "gni_uuid": "9159e1ba-62ba-5c07-a157-94733b596bed",
+          "name_string": "Ephyra",
+          "canonical_form": "Ephyra",
+          "classification_path": "|Cellular life|Eukaryota|Opisthokonts|Choanoflagellates and animals|Animalia|Epitheliates|Bilateria|Ecdysozoa|Legged ecdysozoa|Arthropoda|Hexapods|Insecta|Pterygota|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Eulepidoptera|Macroheterocera|Geometroidea|Geometridae|Ephyra",
+          "classification_path_ranks": "|above family|above family|above family|above family|unranked|above family|above family|above family|above family|above family|above family|above family|above family|above family||||||above family|family|genus",
+          "classification_path_ids": "2822864|2823207|2828118|2843765|2843766|2843767|2843768|17974913|2910040|2910041|2910042|2913524|2913525|2922935|3011222|20432451|20432460|20432464|20432467|20432500|3015227|3015228|3016278",
+          "taxon_id": "3016278",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "9159e1ba-62ba-5c07-a157-94733b596bed",
+          "name_string": "Ephyra",
+          "canonical_form": "Ephyra",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35445106",
+          "local_id": "4262530",
+          "url": "http://eol.org/pages/4262530",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 7,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gonangium",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Hydrocaulus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Manubrium"
+    },
+    {
+      "supplied_name_string": "Planula",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "1f84fe66-bbcd-5729-83ce-5f48e7771443",
+          "name_string": "Planula",
+          "canonical_form": "Planula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97453328",
+          "local_id": "urn:lsid:ubio.org:namebank:4299741",
+          "global_id": "urn:lsid:ubio.org:namebank:4299741",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4299741",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    }
+  ]
+}

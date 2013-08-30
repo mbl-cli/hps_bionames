@@ -1,0 +1,224 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=xRwnoHnGTLqGOc0SzBe86g",
+  "input_url": null,
+  "file": "Embryology 1939_5.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.065899827,
+    "resolve_names_duration": 0.550626744,
+    "total_duration": 17.870961038
+  },
+  "agent": "",
+  "created": "2013-06-19T15:28:28-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Coelenterata",
+      "scientificName": "Coelenterata",
+      "offsetStart": 125,
+      "offsetEnd": 136,
+      "identifiedName": "Coelenterata"
+    },
+    {
+      "verbatim": "Annelida",
+      "scientificName": "Annelida",
+      "offsetStart": 250,
+      "offsetEnd": 257,
+      "identifiedName": "Annelida"
+    },
+    {
+      "verbatim": "Mollusca",
+      "scientificName": "Mollusca",
+      "offsetStart": 259,
+      "offsetEnd": 266,
+      "identifiedName": "Mollusca"
+    },
+    {
+      "verbatim": "Crustacea",
+      "scientificName": "Crustacea",
+      "offsetStart": 286,
+      "offsetEnd": 294,
+      "identifiedName": "Crustacea"
+    },
+    {
+      "verbatim": "Coelenterata",
+      "scientificName": "Coelenterata",
+      "offsetStart": 298,
+      "offsetEnd": 309,
+      "identifiedName": "Coelenterata"
+    }
+  ],
+  "content": "June\nFull Moon July\nNew Moon\nEMBHYOLOGY COURSE\nSchedule for 1959\nTue\nWed\nThu\nFri\nSat\nSun\nMon\nTue\nWed\nFish\n\n(Fish traps)\nFTSE\nCoelenterata\nSquid\nSquid Spermato-\nphore in A. M.\nEehinodermata P.M.\n\n(half holiday)\nPicnic\nFerfflazation\nCell Lineage\nll ll\nAnnelida Mollusca\nI?55l1da Mollueca\nCrustacea\n0\nCoelenterata\nTowing\nUoelenterata\nTun%cata\nGoodrich\n\n\nII\nBallard\nHamburger\nHamburger\nSohotte\nCostello\nHamburger\nCostello\nBallard\nStaff\nBal%ard\n\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Coelenterata",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "d6af9e20-f200-5c24-b873-cf22d4a94c44",
+          "name_string": "Coelenterata",
+          "canonical_form": "Coelenterata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5164737",
+          "local_id": "69",
+          "url": "http://eol.org/pages/69/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "d6af9e20-f200-5c24-b873-cf22d4a94c44",
+          "name_string": "Coelenterata",
+          "canonical_form": "Coelenterata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5164737",
+          "local_id": "69",
+          "url": "http://eol.org/pages/69/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Annelida",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "d231efa8-876a-5feb-8b9c-d2884cd86bc7",
+          "name_string": "Annelida",
+          "canonical_form": "Annelida",
+          "classification_path": "Animalia|Annelida",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2369613",
+          "taxon_id": "2369613",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "d231efa8-876a-5feb-8b9c-d2884cd86bc7",
+          "name_string": "Annelida",
+          "canonical_form": "Annelida",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39139806",
+          "local_id": "36",
+          "url": "http://eol.org/pages/36",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Mollusca",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "85d45ea9-bfb0-523a-9717-94de71abbb08",
+          "name_string": "Mollusca",
+          "canonical_form": "Mollusca",
+          "classification_path": "Animalia|Mollusca",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2362382",
+          "taxon_id": "2362382",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "85d45ea9-bfb0-523a-9717-94de71abbb08",
+          "name_string": "Mollusca",
+          "canonical_form": "Mollusca",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "36496225",
+          "local_id": "2195",
+          "url": "http://eol.org/pages/2195",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 22,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Crustacea",
+      "results": [
+        {
+          "data_source_id": 2,
+          "data_source_title": "Wikispecies",
+          "gni_uuid": "30842bab-e383-5d8e-8ce5-66a7e9251aeb",
+          "name_string": "Crustacea",
+          "canonical_form": "Crustacea",
+          "classification_path": "Animalia|Eumetazoa|Bilateria|Nephrozoa|Protostomia|Ecdysozoa|Panarthropoda|Artiopoda|Crustacea",
+          "classification_path_ranks": "||||||||",
+          "classification_path_ids": "80|4404|192967|249913|99137|148590|249529|425|99662",
+          "taxon_id": "99662",
+          "url": "http://species.wikimedia.org/wiki/Crustacea",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "30842bab-e383-5d8e-8ce5-66a7e9251aeb",
+          "name_string": "Crustacea",
+          "canonical_form": "Crustacea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29025333",
+          "local_id": "2598871",
+          "url": "http://eol.org/pages/2598871",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

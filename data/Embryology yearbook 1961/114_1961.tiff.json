@@ -1,0 +1,1309 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=CuiZMmv7SVqko9iUxT4seA",
+  "input_url": null,
+  "file": "114_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.208520661,
+    "resolve_names_duration": 8.686405019,
+    "total_duration": 32.906278654
+  },
+  "agent": "",
+  "created": "2013-06-18T11:32:20-04:00",
+  "total": 35,
+  "names": [
+    {
+      "verbatim": "Ophiuroidea",
+      "scientificName": "Ophiuroidea",
+      "offsetStart": 12,
+      "offsetEnd": 22,
+      "identifiedName": "Ophiuroidea"
+    },
+    {
+      "verbatim": "Ophiurae",
+      "scientificName": "Ophiurae",
+      "offsetStart": 30,
+      "offsetEnd": 37,
+      "identifiedName": "Ophiurae"
+    },
+    {
+      "verbatim": "Ophioderma",
+      "scientificName": "Ophioderma",
+      "offsetStart": 39,
+      "offsetEnd": 48,
+      "identifiedName": "Ophioderma"
+    },
+    {
+      "verbatim": "Echiuroidea",
+      "scientificName": "Echiuroidea",
+      "offsetStart": 56,
+      "offsetEnd": 66,
+      "identifiedName": "Echiuroidea"
+    },
+    {
+      "verbatim": "Aulodenia",
+      "scientificName": "Aulodenia",
+      "offsetStart": 74,
+      "offsetEnd": 82,
+      "identifiedName": "Aulodenia"
+    },
+    {
+      "verbatim": "Diadema",
+      "scientificName": "Diadema",
+      "offsetStart": 84,
+      "offsetEnd": 90,
+      "identifiedName": "Diadema"
+    },
+    {
+      "verbatim": "Siiroponfa\nbrevispina",
+      "scientificName": "Siiroponfa brevispina",
+      "offsetStart": 108,
+      "offsetEnd": 128,
+      "identifiedName": "Siiroponfa brevispina"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 146,
+      "offsetEnd": 152,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Lyiechinus",
+      "scientificName": "Lyiechinus",
+      "offsetStart": 190,
+      "offsetEnd": 199,
+      "identifiedName": "Lyiechinus"
+    },
+    {
+      "verbatim": "Eehinus esoulenius",
+      "scientificName": "Eehinus esoulenius",
+      "offsetStart": 273,
+      "offsetEnd": 290,
+      "identifiedName": "Eehinus esoulenius"
+    },
+    {
+      "verbatim": "Psammechinus miliaris",
+      "scientificName": "Psammechinus miliaris",
+      "offsetStart": 315,
+      "offsetEnd": 335,
+      "identifiedName": "Psammechinus miliaris"
+    },
+    {
+      "verbatim": "Psammechinus",
+      "scientificName": "Psammechinus",
+      "offsetStart": 360,
+      "offsetEnd": 371,
+      "identifiedName": "Psammechinus"
+    },
+    {
+      "verbatim": "Paraceniroius livinus",
+      "scientificName": "Paraceniroius livinus",
+      "offsetStart": 400,
+      "offsetEnd": 420,
+      "identifiedName": "Paraceniroius livinus"
+    },
+    {
+      "verbatim": "Sfrongylocenirofus droebachiensis",
+      "scientificName": "Sfrongylocenirofus droebachiensis",
+      "offsetStart": 440,
+      "offsetEnd": 472,
+      "identifiedName": "Sfrongylocenirofus droebachiensis"
+    },
+    {
+      "verbatim": "Sirongylocenlroius purpuraius",
+      "scientificName": "Sirongylocenlroius purpuraius",
+      "offsetStart": 486,
+      "offsetEnd": 514,
+      "identifiedName": "Sirongylocenlroius purpuraius"
+    },
+    {
+      "verbatim": "Slrongylocenfrofus franciscanus",
+      "scientificName": "Slrongylocenfrofus franciscanus",
+      "offsetStart": 530,
+      "offsetEnd": 560,
+      "identifiedName": "Slrongylocenfrofus franciscanus"
+    },
+    {
+      "verbatim": "Sirongylocenfroius pulcherrimus",
+      "scientificName": "Sirongylocenfroius pulcherrimus",
+      "offsetStart": 577,
+      "offsetEnd": 607,
+      "identifiedName": "Sirongylocenfroius pulcherrimus"
+    },
+    {
+      "verbatim": "Sphaerechinus granularis",
+      "scientificName": "Sphaerechinus granularis",
+      "offsetStart": 617,
+      "offsetEnd": 640,
+      "identifiedName": "Sphaerechinus granularis"
+    },
+    {
+      "verbatim": "Clypeasiroidea",
+      "scientificName": "Clypeasiroidea",
+      "offsetStart": 657,
+      "offsetEnd": 670,
+      "identifiedName": "Clypeasiroidea"
+    },
+    {
+      "verbatim": "Echinarachnius parma",
+      "scientificName": "Echinarachnius parma",
+      "offsetStart": 691,
+      "offsetEnd": 710,
+      "identifiedName": "Echinarachnius parma"
+    },
+    {
+      "verbatim": "Clypeasfer japonicum",
+      "scientificName": "Clypeasfer japonicum",
+      "offsetStart": 732,
+      "offsetEnd": 751,
+      "identifiedName": "Clypeasfer japonicum"
+    },
+    {
+      "verbatim": "Clypeasler rosaceus (wesi",
+      "scientificName": "Clypeasler rosaceus (wesi",
+      "offsetStart": 763,
+      "offsetEnd": 787,
+      "identifiedName": "Clypeasler rosaceus (wesi"
+    },
+    {
+      "verbatim": "Spaiangoidea",
+      "scientificName": "Spaiangoidea",
+      "offsetStart": 838,
+      "offsetEnd": 849,
+      "identifiedName": "Spaiangoidea"
+    },
+    {
+      "verbatim": "Echinocardium",
+      "scientificName": "Echinocardium",
+      "offsetStart": 854,
+      "offsetEnd": 866,
+      "identifiedName": "Echinocardium"
+    },
+    {
+      "verbatim": "Brissopsis lyrifera",
+      "scientificName": "Brissopsis lyrifera",
+      "offsetStart": 903,
+      "offsetEnd": 921,
+      "identifiedName": "Brissopsis lyrifera"
+    },
+    {
+      "verbatim": "Holoihuroidea",
+      "scientificName": "Holoihuroidea",
+      "offsetStart": 943,
+      "offsetEnd": 955,
+      "identifiedName": "Holoihuroidea"
+    },
+    {
+      "verbatim": "Thyone briareus",
+      "scientificName": "Thyone briareus",
+      "offsetStart": 977,
+      "offsetEnd": 991,
+      "identifiedName": "Thyone briareus"
+    },
+    {
+      "verbatim": "Saccoglossus kowalevskii",
+      "scientificName": "Saccoglossus kowalevskii",
+      "offsetStart": 1063,
+      "offsetEnd": 1086,
+      "identifiedName": "Saccoglossus kowalevskii"
+    },
+    {
+      "verbatim": "Discoglossus",
+      "scientificName": "Discoglossus",
+      "offsetStart": 1104,
+      "offsetEnd": 1115,
+      "identifiedName": "Discoglossus"
+    },
+    {
+      "verbatim": "Ciona",
+      "scientificName": "Ciona",
+      "offsetStart": 1126,
+      "offsetEnd": 1130,
+      "identifiedName": "Ciona"
+    },
+    {
+      "verbatim": "Molgula",
+      "scientificName": "Molgula",
+      "offsetStart": 1145,
+      "offsetEnd": 1151,
+      "identifiedName": "Molgula"
+    },
+    {
+      "verbatim": "Cephalochordala",
+      "scientificName": "Cephalochordala",
+      "offsetStart": 1166,
+      "offsetEnd": 1180,
+      "identifiedName": "Cephalochordala"
+    },
+    {
+      "verbatim": "Amphioxus",
+      "scientificName": "Amphioxus",
+      "offsetStart": 1182,
+      "offsetEnd": 1190,
+      "identifiedName": "Amphioxus"
+    },
+    {
+      "verbatim": "Fundulus",
+      "scientificName": "Fundulus",
+      "offsetStart": 1253,
+      "offsetEnd": 1260,
+      "identifiedName": "Fundulus"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1303,
+      "offsetEnd": 1309,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "..2..\nClass Ophiuroidea\nOrder Ophiurae\nOphioderma\nClass Echiuroidea\nOrder Aulodenia\nDiadema (Bermuda)\nOrder Siiroponfa\nbrevispina (Woods Hole)\nit\nArbacia iixula (Naples)\nOrder Camarodonla\nA Lyiechinus (So. A+lanTic, California)\nToxopneusies (Bermuda)\nTripneusies (Bermuda)\nEehinus esoulenius (Briiain, Scandinavia)\nPsammechinus miliaris (Briiain, Scandinavia)\nPsammechinus microTuberculaTus (Naples)\nParaceniroius livinus (Naples, Roscoif)\nSfrongylocenirofus droebachiensis (Maine, Sca\nSirongylocenlroius purpuraius California)\ni\nSlrongylocenfrofus franciscanus (California)\n7 Sirongylocenfroius pulcherrimus (Japan)\nSphaerechinus granularis (Naples)\nOrder Clypeasiroidea - The sand dollars\nEchinarachnius parma (Cape Cod To Maine)\nClypeasfer japonicum (Japan)\n6 Clypeasler rosaceus (wesi Indies)\n i Dendrasier exenlrious (Pacific)\nOrder Spaiangoidea\nll Echinocardium cordalum (Scandinavia, MediTerr\nli Brissopsis lyrifera (Scandinavia)\nClass Holoihuroidea\nOrder Dendrochirofa\nThyone briareus (Woods Hole)\n\n\n\ni\nPhylum Chordalay\nHemichordaia\n1 Class EnTeropneusTa\nSaccoglossus kowalevskii (Woods Hole)\ny, Discoglossus\nTunicaia\nCiona (Woods Hole)\nMolgula (Woods Hole)\nCephalochordala\nAmphioxus (Japan, Scandinavia, Bermuda)\ni Verlebrala\nClass Osieichlhes\nFundulus heieroclifus (Woods Hole)\ni\nff\ni\n,if\n\nil Arbacia punclulaia (Cape Cod, Florida, Wes? Indies)\nndinavia)\n. elsewhere)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ophiuroidea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "26383d5a-f518-590e-af34-44afe34da95a",
+          "name_string": "Ophiuroidea",
+          "canonical_form": "Ophiuroidea",
+          "classification_path": "Animalia|Echinodermata|Ophiuroidea",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2362508|2363627",
+          "taxon_id": "2363627",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "26383d5a-f518-590e-af34-44afe34da95a",
+          "name_string": "Ophiuroidea",
+          "canonical_form": "Ophiuroidea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103079",
+          "local_id": "2036",
+          "url": "http://eol.org/pages/2036",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ophiurae",
+      "results": [
+        {
+          "data_source_id": 159,
+          "data_source_title": "CU*STAR",
+          "gni_uuid": "642726ea-16b2-5c78-935a-2cc7aebdaf2b",
+          "name_string": "Ophiurae",
+          "canonical_form": "Ophiurae",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "106162976",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 5,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Ophioderma",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "d64fc0e4-fbea-5b91-b4b5-1b7a0a816958",
+          "name_string": "Ophioderma",
+          "canonical_form": "Ophioderma",
+          "classification_path": "Animalia|Echinodermata|Ophiuroidea|Ophiurida|Ophiodermatidae|Ophioderma",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2363627|2363628|2369053|2382526",
+          "taxon_id": "2382526",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "d64fc0e4-fbea-5b91-b4b5-1b7a0a816958",
+          "name_string": "Ophioderma",
+          "canonical_form": "Ophioderma",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27900086",
+          "local_id": "57490",
+          "url": "http://eol.org/pages/57490",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Echiuroidea",
+      "results": [
+        {
+          "data_source_id": 2,
+          "data_source_title": "Wikispecies",
+          "gni_uuid": "0be36fe8-0ff6-522a-837c-39d94c7d36dd",
+          "name_string": "Echiuroidea",
+          "canonical_form": "Echiuroidea",
+          "classification_path": "Animalia|Ochetostoma|Echiuroidea",
+          "classification_path_ranks": "||",
+          "classification_path_ids": "80|16600|109608",
+          "taxon_id": "109608",
+          "url": "http://species.wikimedia.org/wiki/Echiuroidea",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0be36fe8-0ff6-522a-837c-39d94c7d36dd",
+          "name_string": "Echiuroidea",
+          "canonical_form": "Echiuroidea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20658829",
+          "local_id": "2768423",
+          "url": "http://eol.org/pages/2768423",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 7,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Aulodenia"
+    },
+    {
+      "supplied_name_string": "Diadema",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "57438c46-33b6-5be1-8e2b-0aff843cfc23",
+          "name_string": "Diadema",
+          "canonical_form": "Diadema",
+          "classification_path": "Fungi|Ascomycota|Dothideomycetes|Pleosporales|Diademaceae|Diadema",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2365755|2365760|2365761|2366141|2372386|2544534",
+          "taxon_id": "2544534",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "57438c46-33b6-5be1-8e2b-0aff843cfc23",
+          "name_string": "Diadema",
+          "canonical_form": "Diadema",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30194137",
+          "local_id": "22481",
+          "url": "http://eol.org/pages/22481",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Siiroponfa brevispina"
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Lyiechinus",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Eehinus esoulenius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "1131b176-03bf-5918-9fa0-5a47b71bf322",
+          "name_string": "Echinus esculentus",
+          "canonical_form": "Echinus esculentus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Echinidae|Echinus|Echinus esculentus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362622|2414833|6847021",
+          "taxon_id": "6847021",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Psammechinus miliaris",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "1f2d6feb-f859-55ab-97c4-b47152465d64",
+          "name_string": "Psammechinus miliaris",
+          "canonical_form": "Psammechinus miliaris",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Echinidae|Psammechinus|Psammechinus miliaris",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362622|2493651|6847025",
+          "taxon_id": "6847025",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "1f2d6feb-f859-55ab-97c4-b47152465d64",
+          "name_string": "Psammechinus miliaris",
+          "canonical_form": "Psammechinus miliaris",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39146582",
+          "local_id": "599663",
+          "url": "http://eol.org/pages/599663",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Psammechinus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "8181cc0b-3730-5793-8857-5cccefbf0753",
+          "name_string": "Psammechinus",
+          "canonical_form": "Psammechinus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Echinidae|Psammechinus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362622|2493651",
+          "taxon_id": "2493651",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8181cc0b-3730-5793-8857-5cccefbf0753",
+          "name_string": "Psammechinus",
+          "canonical_form": "Psammechinus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27908571",
+          "local_id": "73314",
+          "url": "http://eol.org/pages/73314",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Paraceniroius livinus",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "33112fce-465b-5fa5-b9c3-16f7f51b5d7b",
+          "name_string": "Paracentrolus lividus",
+          "canonical_form": "Paracentrolus lividus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "128843909",
+          "url": "http://www.organismnames.com/details.htm?lsid=3511911",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Sfrongylocenirofus droebachiensis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ad1c2ad3-931e-57c0-b9d3-72bf35d6c93e",
+          "name_string": "Strongylocentrotus droebachiensis (O. F. Müller, 1776)",
+          "canonical_form": "Strongylocentrotus droebachiensis",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Strongylocentrotidae|Strongylocentrotus|Strongylocentrotus droebachiensis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362619|2442206|6847032",
+          "taxon_id": "6847032",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ac492dd9-228d-5de3-a34f-046cdae12868",
+          "name_string": "Strongylocentrotus droebachiensis (Muller, 1776)",
+          "canonical_form": "Strongylocentrotus droebachiensis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5205012",
+          "local_id": "599668",
+          "url": "http://eol.org/pages/599668/names/synonyms",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Sirongylocenlroius purpuraius",
+      "results": [
+        {
+          "data_source_id": 9,
+          "data_source_title": "WoRMS",
+          "gni_uuid": "301b6d79-d202-5dc6-8341-1e638653757b",
+          "name_string": "Strongylocentrotus purpureus (von Martens, 1886)",
+          "canonical_form": "Strongylocentrotus purpureus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Camarodonta|Echinometridae|Heliocidaris|Heliocidaris crassispina",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "gn:3uL60ncMV0CLLRfxOOBRdQ|gn:TC2Z3V_zVqm6YLRQM1mcQQ|gn:92f8JympVbq5ah_gkK1YiQ|gn:eYxgBoY9VWGuJceClR1Znw|gn:74yDvIRlW-yFiF28Q7kuSg|gn:swzV_FVWWDaHwnivAvBnLw|513312",
+          "taxon_id": "'513312'",
+          "url": "http://www.marinespecies.org/echinoidea/aphia.php?p=taxdetails&id=513312",
+          "current_taxon_id": "513312",
+          "current_name_string": "Heliocidaris crassispina (A. Agassiz, 1863)",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Slrongylocenfrofus franciscanus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "c0e1c3b5-7d55-52ce-b066-575e3d7382d7",
+          "name_string": "Strongylocentrotus franciscanus (A. Agassiz, 1863)",
+          "canonical_form": "Strongylocentrotus franciscanus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Echinoida|Strongylocentrotidae|Strongylocentrotus|Strongylocentrotus franciscanus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362618|2362619|2442206|6847033",
+          "taxon_id": "6847033",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "006c5d75-af01-51ea-8568-876c02f6f76a",
+          "name_string": "Strongylocentrotus franciscanus (Agassiz, 1863)",
+          "canonical_form": "Strongylocentrotus franciscanus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5205003",
+          "local_id": "599671",
+          "url": "http://eol.org/pages/599671/names/synonyms",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Sirongylocenfroius pulcherrimus",
+      "results": [
+        {
+          "data_source_id": 9,
+          "data_source_title": "WoRMS",
+          "gni_uuid": "a16f9ed4-341b-53d9-9810-04d9fe44fde2",
+          "name_string": "Strongylocentrotus pulcherrimus (A. Agassiz, 1863)",
+          "canonical_form": "Strongylocentrotus pulcherrimus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Camarodonta|Strongylocentrotidae|Hemicentrotus|Hemicentrotus pulcherrimus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "gn:3uL60ncMV0CLLRfxOOBRdQ|gn:TC2Z3V_zVqm6YLRQM1mcQQ|gn:92f8JympVbq5ah_gkK1YiQ|gn:eYxgBoY9VWGuJceClR1Znw|gn:C7ViMJ_JUT6C79GmMCe6qg|gn:WCCZQkXaUNiLhfAR7QgBwA|513318",
+          "taxon_id": "'513318'",
+          "url": "http://www.marinespecies.org/echinoidea/aphia.php?p=taxdetails&id=513318",
+          "current_taxon_id": "513318",
+          "current_name_string": "Hemicentrotus pulcherrimus (A. Agassiz, 1863)",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Sphaerechinus granularis",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "8326b1f5-ba8f-5fc9-838d-cc3479e833a1",
+          "name_string": "Sphaerechinus granularis",
+          "canonical_form": "Sphaerechinus granularis",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Echinodermata|Eleutherozoa|Echinozoa|Echinoidea|Euechinoidea|Echinacea|Temnopleuroida|Toxopneustidae|Sphaerechinus|Sphaerechinus granularis",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum||superclass|class|subclass|superorder|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7586|133551|7624|7625|7638|7674|31184|31185|39235|39374",
+          "taxon_id": "39374",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8326b1f5-ba8f-5fc9-838d-cc3479e833a1",
+          "name_string": "Sphaerechinus granularis",
+          "canonical_form": "Sphaerechinus granularis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39146694",
+          "local_id": "582187",
+          "url": "http://eol.org/pages/582187",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Clypeasiroidea",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Echinarachnius parma",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "a047cb5c-ff13-5d35-84ab-6531e02ac4d0",
+          "name_string": "Echinarachnius parma",
+          "canonical_form": "Echinarachnius parma",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Echinodermata|Eleutherozoa|Echinozoa|Echinoidea|Euechinoidea|Gnathostomata|Clypeasteroida|Echinarachniidae|Echinarachnius|Echinarachnius parma",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum||superclass|class|subclass|superorder|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7586|133551|7624|7625|7638|35060|31186|869208|869202|869203",
+          "taxon_id": "869203",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a047cb5c-ff13-5d35-84ab-6531e02ac4d0",
+          "name_string": "Echinarachnius parma",
+          "canonical_form": "Echinarachnius parma",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20629592",
+          "local_id": "598165",
+          "url": "http://eol.org/pages/598165",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Clypeasfer japonicum",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "762039ad-1c6e-50ff-ba27-3daae686b0e2",
+          "name_string": "Clypeaster japonicus",
+          "canonical_form": "Clypeaster japonicus",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Echinodermata|Eleutherozoa|Echinozoa|Echinoidea|Euechinoidea|Gnathostomata|Clypeasteroida|Clypeasteridae|Clypeaster|Clypeaster japonicus",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum||superclass|class|subclass|superorder|order|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7586|133551|7624|7625|7638|35060|31186|35061|7643|7644",
+          "taxon_id": "7644",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Clypeasler rosaceus (wesi",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "0c0e289d-392a-5c1e-aa1b-7fb4d4f5177f",
+          "name_string": "Clypeaster rosaceus (Linnaeus, 1758)",
+          "canonical_form": "Clypeaster rosaceus",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Clypeasteroida|Clypeasteridae|Clypeaster|Clypeaster rosaceus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362627|2362632|2493657|6847047",
+          "taxon_id": "6847047",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b3025c66-6a7a-56b1-be0e-60a9e100dcdf",
+          "name_string": "Clypeaster rosaceus",
+          "canonical_form": "Clypeaster rosaceus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103466",
+          "local_id": "597567",
+          "url": "http://eol.org/pages/597567",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Spaiangoidea",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Echinocardium",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3e955894-3e2b-517e-9c3e-61898b3fa426",
+          "name_string": "Echinocardium",
+          "canonical_form": "Echinocardium",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Spatangoida|Loveniidae|Echinocardium",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362591|2362600|2490520",
+          "taxon_id": "2490520",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3e955894-3e2b-517e-9c3e-61898b3fa426",
+          "name_string": "Echinocardium",
+          "canonical_form": "Echinocardium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20669521",
+          "local_id": "73045",
+          "url": "http://eol.org/pages/73045",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Brissopsis lyrifera",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4f1a5da4-0a31-55a1-9879-42aa1d9e9e9b",
+          "name_string": "Brissopsis lyrifera",
+          "canonical_form": "Brissopsis lyrifera",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Spatangoida|Brissidae|Brissopsis|Brissopsis lyrifera",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362591|2362605|2490516|6847086",
+          "taxon_id": "6847086",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4f1a5da4-0a31-55a1-9879-42aa1d9e9e9b",
+          "name_string": "Brissopsis lyrifera",
+          "canonical_form": "Brissopsis lyrifera",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103528",
+          "local_id": "598146",
+          "url": "http://eol.org/pages/598146",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Holoihuroidea",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Thyone briareus",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b5a931ee-9298-57d4-bf04-4f3370bf675a",
+          "name_string": "Thyone briareus",
+          "canonical_form": "Thyone briareus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5205100",
+          "local_id": "597393",
+          "url": "http://eol.org/pages/597393/names/synonyms",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b5a931ee-9298-57d4-bf04-4f3370bf675a",
+          "name_string": "Thyone briareus",
+          "canonical_form": "Thyone briareus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5205100",
+          "local_id": "597393",
+          "url": "http://eol.org/pages/597393/names/synonyms",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Saccoglossus kowalevskii",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "54ee5279-5e90-5775-821c-0251e40ab702",
+          "name_string": "Saccoglossus kowalevskii",
+          "canonical_form": "Saccoglossus kowalevskii",
+          "classification_path": "Animalia|Hemichordata|Enteropneusta|Harrimaniidae|Saccoglossus|Saccoglossus kowalevskii",
+          "classification_path_ranks": "Kingdom|Division|Class|Family|Genus|Species",
+          "classification_path_ids": "202423|158616|158617|158618|158624|158626",
+          "taxon_id": "158626",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "54ee5279-5e90-5775-821c-0251e40ab702",
+          "name_string": "Saccoglossus kowalevskii",
+          "canonical_form": "Saccoglossus kowalevskii",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29150860",
+          "local_id": "510589",
+          "url": "http://eol.org/pages/510589",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Discoglossus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a7424306-e4ef-572f-b7cc-8a780f4d0b5f",
+          "name_string": "Discoglossus",
+          "canonical_form": "Discoglossus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Alytidae|Discoglossus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370919|2529938",
+          "taxon_id": "2529938",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a7424306-e4ef-572f-b7cc-8a780f4d0b5f",
+          "name_string": "Discoglossus",
+          "canonical_form": "Discoglossus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20625404",
+          "local_id": "42663",
+          "url": "http://eol.org/pages/42663",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ciona",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Enterogona|Cionidae|Ciona",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363306|2363374|2421957",
+          "taxon_id": "2421957",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "51fef3fb-c1ea-5694-b3ed-26b9b7e454a5",
+          "name_string": "Ciona",
+          "canonical_form": "Ciona",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20628900",
+          "local_id": "43439",
+          "url": "http://eol.org/pages/43439",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Molgula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a31a74e5-db77-5d08-9eb6-f8f2e9525009",
+          "name_string": "Molgula",
+          "canonical_form": "Molgula",
+          "classification_path": "Animalia|Chordata|Ascidiacea|Pleurogona|Molgulidae|Molgula",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2363300|2363301|2363302|2373154",
+          "taxon_id": "2373154",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a31a74e5-db77-5d08-9eb6-f8f2e9525009",
+          "name_string": "Molgula",
+          "canonical_form": "Molgula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103905",
+          "local_id": "10806",
+          "url": "http://eol.org/pages/10806",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cephalochordala",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Amphioxus",
+      "results": [
+        {
+          "data_source_id": 11,
+          "data_source_title": "GBIF Taxonomic Backbone",
+          "gni_uuid": "a75107e6-203c-5b94-8cc5-d00dd00a4e30",
+          "name_string": "Amphioxus",
+          "canonical_form": "Amphioxus",
+          "classification_path": "Animalia|Chordata|Cephalochordata|Branchiostomidae|Amphioxus",
+          "classification_path_ranks": "kingdom|phylum|class|family|genus",
+          "classification_path_ids": "1|44|357|2016|2473323",
+          "taxon_id": "2473323",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "00b8bcc5-5da4-5521-9116-b721fc515cf8",
+          "name_string": "Amphioxus Yarrell 1836",
+          "canonical_form": "Amphioxus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_12024203",
+          "local_id": "65177",
+          "url": "http://eol.org/pages/65177/names/synonyms",
+          "match_type": 2,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 8,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Fundulus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "Animalia|Chordata|Actinopterygii|Cyprinodontiformes|Fundulidae|Fundulus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2365430|2369356|2369363|2396458",
+          "taxon_id": "2396458",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "849efb3e-564d-5bed-b388-d2abd1e89de0",
+          "name_string": "Fundulus",
+          "canonical_form": "Fundulus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "37305680",
+          "local_id": "207614",
+          "url": "http://eol.org/pages/207614",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

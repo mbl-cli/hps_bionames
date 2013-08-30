@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=TVHaP00pQ62FnUwioIR7uA",
+  "input_url": null,
+  "file": "Embryology 1988_ 122.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.086855623,
+    "resolve_names_duration": 0.594088779,
+    "total_duration": 23.745080651
+  },
+  "agent": "",
+  "created": "2013-06-18T13:07:35-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 12,
+      "offsetEnd": 21,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "Staining of Drosophila whole mount embryos for -\n. .V.\nmodified from that developed by Hiromi)\nCollect embryos of the appropriate age from plates\n2.) Place embryos in mesh baskets in H20 in staining plates\n3.) Transfer basket to bleach to dechorionate 1-3 minutes.\nCheck with stereomicroscope to be sure chorion removed.\n4.) Transfer basket to H20 to wash off bleach.\n5.) Fix embryos in heptane with fixative (25% glutaraldehyde\nin 50mM cacodylate buffer at pH 7.3). Fix in basket in\nstaining dish for 15 minutes. Embryos should turn\nyellow.\n6.) Prepare 35mm plastic petri dish with double stick Scotch\ntape on the bottom. Add sufficient PBS to cover half the\ntaped surface. Transfer embryos from basket onto tape.\nFinish filling petri dish with PBS.\n7.) Remove vitelline surrounding embryos with\ntungsten needle.\n8.) Transfer devitellinized embryos by pipette into eppendorf\ntube.\n9.) Rinse with pH 7.2\n10.) Remove liquid. Incubate with staining solution\nXgal/Fe/NaP2 or overnight at room temperature or at\n37 C. (Staining solution 30 ul Xgal/1.2 mlFe/ \n11.) Remove staining solution rinse quickly in 100% ETOH,\nvorteg.\n12.) Store embryos in PBS\n13.) Mount embryos in glycerin, using spacers made fron\nbroken cover slips if you wish to rotate the embryos\nduring viewing.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

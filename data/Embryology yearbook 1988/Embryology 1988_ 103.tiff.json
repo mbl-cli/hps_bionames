@@ -1,0 +1,153 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=WjhVBqwTRTazu9zxsysN9A",
+  "input_url": null,
+  "file": "Embryology 1988_ 103.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.110732073,
+    "resolve_names_duration": 0.686672417,
+    "total_duration": 23.51325764
+  },
+  "agent": "",
+  "created": "2013-06-18T13:04:18-04:00",
+  "total": 12,
+  "names": [
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 67,
+      "offsetEnd": 76,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 183,
+      "offsetEnd": 192,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 348,
+      "offsetEnd": 357,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 622,
+      "offsetEnd": 631,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 729,
+      "offsetEnd": 738,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 846,
+      "offsetEnd": 855,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1015,
+      "offsetEnd": 1025,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1318,
+      "offsetEnd": 1328,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1467,
+      "offsetEnd": 1476,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1541,
+      "offsetEnd": 1550,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 1781,
+      "offsetEnd": 1790,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Drosophila.",
+      "scientificName": "Drosophila",
+      "offsetStart": 1941,
+      "offsetEnd": 1951,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "Anterior-Posterior and Dorsal-Ventral Axis Page 2\nEstablishment in Drosophila\nFrohnhofer, H., Lehmann, R., Nusslein-Volhard, C. (1986)\nManipulating the anteroposterior pattern of the Drosophila embryo.\nJ. Embryol. exp. Morph. 169-179\nDegelmann,\nA., Hardy, P., Perrimon, N., Mahowald, A. (1986)\nDevelopmental analysis of the torso-like phenotype in Drosophila\nproduced by a maternal-effect locus.\nDev. Biol.\n115, 479-489\nBerleth, T., Burri, M., Thoma, G., Bopp, D., Richstein, S.\nFrigero, G., Noll, M., Nusslein-Volhard, C. (1988)\nThe role of localization of bicoid RNA in organizing the anterior\npattern of\nEMBO J. Z,\nthe Drosophila embryo.\n1749-1756\nCarroll, S., Winslow, G., Schupbach, T., Scott, M. (1986)\nMaternal control of Drosophila segmentation gene expression.\nNature 323, 278-280\nMlodzik, M.\n(1987) The\ngenes that\nGenes Dev.\nMacdonald,\nDrosophila\nNature 324\nDeMontrion, C., Hiromi, Y., Krause, H., Gehring, W.\ninfluence on the blastoderm fate map of maternal-effect\naffect the antero-posterior pattern in Drosophila.\n603-614 7\nP., Struhl, G. (1986) A molecular gradient in early\nembryos and its role in specifying the body pattern.\n537-545\nLehmann, R., Nusslein-Volhard, C. (1986) Abdominal segmentation,\npole cell formation and embryonic polarity require the localized\nactivity of oskar, a maternal gene in Drosophila.\nCell 47, 141-152\nLehmann, R., Nusslein-Volhard, C. (1987) Involvement of the pumilio\ngene in the transport of an abdominal signal in the Drosophila\nembryo.\nNature 329, 167-170\nTautz, D. (1988) Regulation of the Drosophila segmentation gene\nhunchback.by two maternal morphogenetic centres.\nNature 332, 281-284\nStrecker, T., Merriam, J., Lengyel, J. (1988) Graded requirement\nfor the zygotic terminal gene, tailless, in the brain and tail\nregion of the Drosophila embryo.\nDev. 1Q2, 721-734\nSchupbach,\nT., Wieschaus, E. (1986) Germline autonomy of maternal-\neffect mutations altering the embryonic body pattern of Drosophila.\nDev. Biol.\n113, 443-448\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    }
+  ]
+}

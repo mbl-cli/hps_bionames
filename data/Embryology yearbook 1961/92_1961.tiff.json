@@ -1,0 +1,295 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=0zVYCUM1SuWjI8rMTm9yYQ",
+  "input_url": null,
+  "file": "92_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.27865648,
+    "resolve_names_duration": 2.278461638,
+    "total_duration": 25.837559835
+  },
+  "agent": "",
+  "created": "2013-06-18T12:50:37-04:00",
+  "total": 10,
+  "names": [
+    {
+      "verbatim": "Sabellaria",
+      "scientificName": "Sabellaria",
+      "offsetStart": 392,
+      "offsetEnd": 401,
+      "identifiedName": "Sabellaria"
+    },
+    {
+      "verbatim": "Nereis.",
+      "scientificName": "Nereis",
+      "offsetStart": 545,
+      "offsetEnd": 551,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Aplysia.",
+      "scientificName": "Aplysia",
+      "offsetStart": 983,
+      "offsetEnd": 990,
+      "identifiedName": "Aplysia"
+    },
+    {
+      "verbatim": "Aglysia limacina",
+      "scientificName": "Aglysia limacina",
+      "offsetStart": 1074,
+      "offsetEnd": 1089,
+      "identifiedName": "Aglysia limacina"
+    },
+    {
+      "verbatim": "Proloplasma",
+      "scientificName": "Proloplasma",
+      "offsetStart": 1353,
+      "offsetEnd": 1363,
+      "identifiedName": "Proloplasma"
+    },
+    {
+      "verbatim": "Nereis",
+      "scientificName": "Nereis",
+      "offsetStart": 1498,
+      "offsetEnd": 1503,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Proloplasma",
+      "scientificName": "Proloplasma",
+      "offsetStart": 1517,
+      "offsetEnd": 1527,
+      "identifiedName": "Proloplasma"
+    },
+    {
+      "verbatim": "Sabellaria)",
+      "scientificName": "Sabellaria",
+      "offsetStart": 1664,
+      "offsetEnd": 1674,
+      "identifiedName": "Sabellaria"
+    },
+    {
+      "verbatim": "Chaelogierus",
+      "scientificName": "Chaelogierus",
+      "offsetStart": 1756,
+      "offsetEnd": 1767,
+      "identifiedName": "Chaelogierus"
+    },
+    {
+      "verbatim": "Denlalium",
+      "scientificName": "Denlalium",
+      "offsetStart": 2018,
+      "offsetEnd": 2026,
+      "identifiedName": "Denlalium"
+    }
+  ],
+  "content": "I-'f\nRaven, C.P.\nsi.eL>>\nRedfield, A.C.\nE. M. Brighl\nReverberi,G.\nM. Pilolii\nRies, E.\nRies, E.\nRies, E. \nM. Gersch\n\nSchleip, W.\nSpek, J.\nSpek, J.\nSpek, J.\nTyler, A.\nWalerman, A.\nWhi+aker, D.\nMorgan\nWilson, E. B.\nWilson, E.B.\nWilson, E.B.\n|950\n|92|\n|940\n|957\n|938\n|936\nl9l4\n|925\n|950\n|935\n|934\n|930\n|934\n|930\n|903\n|904\n|904\n\nCylological and cylochemical invesligalions on The develop-\nmenl of Sabellaria alveolaia. Kon. Med. Ak. wel., Verh. Afd.\nNa+ xLvil?l \nThe physiological changes produced by radium rays and\nullra-violel lighi in The egg of Nereis. J. Physiol. \nRicherche sella disiribuzione delle ossidasi perossidasi\nlungo il \"cell lineage\" di vova a mosaica. Pubbl. Slaz.\nZool. Naroli \nDie Verieiluhg von Vifamin C, Glulaihione, Benzidin~peroxy-\ndase, Phenolase, und \nwahrend der fruhen Embryonal-eniwicklung verschiedener\nwirbelloser Tiere. Pubbl. Slaz. Zool. Napoli l6:363.\nHislochemische Unlersuchungen aber fruhembryonale sonderung~\nsprozesse in zenlrifugierien Eiern von Aplysia. Biodynamica\n?Q=l \nDie Zelldilferenzierung und Zellspezialisierung wahbend der\nvon Aglysia limacina. Puhbl. Slaz.\nZool. Napoli 223\nDie Enlwicklung Zenlrifugierier Eier von Qlegsine sexocu-\nlala. Verh. Deulsch. Zool. Ges. XIV.\nDie Furchung dispermer Denlalium-Eier. Arch. f. EnTw.lMech.\nlO6.\nzusiandsenaerungar der bei eefrucniung und\nEniwicklung des Nereis~Eis. Proloplasma 2i?7O\nThe of The proloplasm of egg cells during\nearly developmeni. Collecling Ne? \nUber die bipolar Differenzierung die Eizellen von Nereis\nlimbala und Proloplasma Zi;394\nExperimenfal produclion of double embryos in annelids and\nmolluscs. J. Exp. Zool. ?1;547\n(PreferTiliza+ion and ferlilizalion in Sabellaria) Biol.\nBull. @1547 and \nThe cleavage of polar and aniipolar halves of The egg of\nChaelogierus. Biol. Bull. ??;l45\nExperimenls on cleavage and localizalion in The nemerline\negg. Arch f. Eniw. L?;4ll\nExperimenlal sludies OD germihal localizafien. l. The\ngerm~regions in #he egg of Qenlaligm, 2. Experiments on\nThe cleavage mosaic in Paiellawand Denlalium. J. Exp. Zool.l\nMosaic developmenl in The annelid egg. Science \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Sabellaria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "262e211d-4248-53af-a6a9-0f1021772a36",
+          "name_string": "Sabellaria",
+          "canonical_form": "Sabellaria",
+          "classification_path": "Animalia|Annelida|Polychaeta|Sabellida|Sabellariidae|Sabellaria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369634|2369637|2377653",
+          "taxon_id": "2377653",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "262e211d-4248-53af-a6a9-0f1021772a36",
+          "name_string": "Sabellaria",
+          "canonical_form": "Sabellaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "24732217",
+          "local_id": "52302",
+          "url": "http://eol.org/pages/52302",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Aplysia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cbafcfc1-eb24-5918-94e8-c4e7b50c8b79",
+          "name_string": "Aplysia",
+          "canonical_form": "Aplysia",
+          "classification_path": "Animalia|Mollusca|Gastropoda|Anaspidea|Aplysiidae|Aplysia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2362383|2370086|2370088|2453438",
+          "taxon_id": "2453438",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cbafcfc1-eb24-5918-94e8-c4e7b50c8b79",
+          "name_string": "Aplysia",
+          "canonical_form": "Aplysia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627933",
+          "local_id": "52673",
+          "url": "http://eol.org/pages/52673",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Aglysia limacina",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "ba04e2cb-5bf1-5237-a1b1-972f57b8140a",
+          "name_string": "Aplysia limacina",
+          "canonical_form": "Aplysia limacina",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Lophotrochozoa|Mollusca|Gastropoda|Heterobranchia|Euthyneura|Euopisthobranchia|Aplysiomorpha|Aplysioidea|Aplysiidae|Aplysia|Aplysia limacina",
+          "classification_path_ranks": "|superkingdom||kingdom||||||phylum|class|||||superfamily|family|genus|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206795|6447|6448|216305|216307|6496|6497|216318|6498|6499|6502",
+          "taxon_id": "6502",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ba04e2cb-5bf1-5237-a1b1-972f57b8140a",
+          "name_string": "Aplysia limacina",
+          "canonical_form": "Aplysia limacina",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29013303",
+          "local_id": "4790791",
+          "url": "http://eol.org/pages/4790791",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 5,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Proloplasma",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Chaelogierus"
+    },
+    {
+      "supplied_name_string": "Denlalium",
+      "results": [
+        {
+          "data_source_id": 168,
+          "data_source_title": "Index to Organism Names",
+          "gni_uuid": "f181b1d1-6a01-5867-b8a6-80ebaf724d38",
+          "name_string": "Denlalium",
+          "canonical_form": "Denlalium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "128782073",
+          "url": "http://www.organismnames.com/details.htm?lsid=3449861",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": false
+    }
+  ]
+}

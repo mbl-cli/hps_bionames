@@ -1,0 +1,132 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=AGC37RjURMOrfYGunCfupw",
+  "input_url": null,
+  "file": "Embryology 1988_ 134.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.161276494,
+    "resolve_names_duration": 0.64376484,
+    "total_duration": 23.032092296
+  },
+  "agent": "",
+  "created": "2013-06-18T13:09:46-04:00",
+  "total": 9,
+  "names": [
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 153,
+      "offsetEnd": 159,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 293,
+      "offsetEnd": 299,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 487,
+      "offsetEnd": 493,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 608,
+      "offsetEnd": 614,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 765,
+      "offsetEnd": 771,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 926,
+      "offsetEnd": 932,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1017,
+      "offsetEnd": 1023,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus.",
+      "scientificName": "Xenopus",
+      "offsetStart": 1230,
+      "offsetEnd": 1237,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 1385,
+      "offsetEnd": 1391,
+      "identifiedName": "Xenopus"
+    }
+  ],
+  "content": "References Doug Melton July 21, 1988\nHarvey, R. P. and Melton, D. A. (1988). Microinjection of \nXhox-1A homeobox disrupts somite formation in developing Xenopus\nembryos. Cell 53, 687-697. .\nHarvey, R. P., Tabin, C. J.,and Melton, D. A. (1986). Embryonic expression\nand nuclear localization of Xenopus homeobox (Xhox) gene products. EMBO\nJ. 5, 1237-1244.\nRebagliati, M. R., Weeks, D. L., Harvey, R. P., and Melton, D. A. (1985).\nIdentification and cloning of localized maternal RNAs from Xenopus\neggs. Cell 42, 769-777.\nWeeks, D. L. and Melton, D. A. (1987). A maternal localized to the\nvegetal hemisphere in Xenopus eggs codes for a growth factor related\nto TGF-B. Cell 51, 861-867.\nWeeks, D. L. and Melton, D. A. (1987). A maternal localized to the\nanimal pole of Xenopus eggs encodes a subunit of mitochondrial ATPase.\nPNAS 84, 2798-2802.\nMelton, D. A. (1987). Translocation of a centralized maternal to\nthe vegetal pole of Xenopus oocytes. Nature 328, 80-82.\nKintner, C. R. and Melton, D. A. (1987). Expression of Xenopus N-CAM RNA\nin ectoderm is an early response to neural induction. Dev. 99,311-325.\nRuiz i Altabaf A-f Perry-O'Keefe, H., and Melton, D. A. (1987). Xfin: an\nembryonic gene encoding a multifingered protein in Xenopus. EMBO J.\n6, 3065-3070.\nKrieg, P. A. and Melton, D. A. (1987) An enhancer responsible for\nactivating transcription at the midblastula transition in Xenopus\ndevelopment. PNAS 84, 2331-2335.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

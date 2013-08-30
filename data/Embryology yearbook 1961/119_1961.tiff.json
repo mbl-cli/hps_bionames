@@ -1,0 +1,175 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=CqwRgPj8TjqdK0Xu6XzI8Q",
+  "input_url": null,
+  "file": "119_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.209819083,
+    "resolve_names_duration": 0.924616018,
+    "total_duration": 26.581202463
+  },
+  "agent": "",
+  "created": "2013-06-18T11:35:26-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Nereis;",
+      "scientificName": "Nereis",
+      "offsetStart": 1266,
+      "offsetEnd": 1272,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Spisula",
+      "scientificName": "Spisula",
+      "offsetStart": 2838,
+      "offsetEnd": 2844,
+      "identifiedName": "Spisula"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 3246,
+      "offsetEnd": 3252,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 3453,
+      "offsetEnd": 3459,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\neccenTrically locaTed is a large (3l microns) germinal vesicle nucleus conTaining\nThe large amphibucleolus (True nucleolus and nucleolinus) and The chromosomes,\nwhich are aTTached To The inside of The nuclear membrane excepT for The nuclolus\nchromosome.\nThe cyToplasm is only moderaTely granular and conTains abouT ll%\ncenTrifugeable faT parTicles. STraTiTicaTion by cenTrifugal force Takes several\nminuTes aT graviTy in The air~Turbine cenTrifuge. The corTex of The\negg is Thicker Than ThaT of The sea urchin and conTains large corTical granules\nwhich do noT\nenTrance and\nis applied.\nis besT seen\nbuT which is\nirregular in\nbreak down aT ferTilizaTion excepT for a few aT The poinT of sperm\nwhich cannoT be Torn from The corTex when forces of 200,000 graviTy\nThe egg is surrounded by a jelly layer abouT 2 microns Thick, which\nwhen eggs are crowded TogeTher as an invisible barrier beTween Them,\nalso sTainable wiTh Janus Green. RecenTly shed eggs are invariably\nouTline. They soon become spherical on sTanding in sea waTer.\nFerTilizaTion deTails are difficulT To see in This species. Look for changes in\nThe sperm's acrosomal region on conTacT wiTh eggs. Sperm peneTraTion is someTimes\nseen on The Top or side of an egg. The sperm enTers much more rapidly Than in\nNereis; iT probably is inside wiThin 2~3 minuTes. WaTch The egg surface for an\nindenTaTion of The cyToplasm which someTimes occurs on TerTilizaTion.\nThe ease wiTh which deTails of early developmenT are seen in This species makes\nup for The diTficulTies in observing deTails of ferTilizaTion. wiThin 6-7 minuTes\naTTer inseminaTion, The nucleus begins To change; The TransparenT True nuoleolus\ndisappears, leaving The nucleolinus alone in The nucleus. Then This disappears\nin The living eQ9. alThough in fixed preparafions iT can be seen ThaT iT remains\ninTacT unTi|\naTTer The nucleus breaks down, The nucleolinus conTribuTes some\nsTaining subsTance, probably a polysaccharide To The spindle of The TirsT meioTic\ndivision (Allen l952). The TirsT meioTic meTaphase lasTs from I3-26 minuTes\naTTer inseminaTion. The TirsT polar body appears in 29 minuTes, and iTs posiTion\nesTablishes The animal pole of The egg. The animal pole flaTTens, Then rounds up\naT 35 minuTes. The second polar body appears aT 59 minuTes afTer TerTilizaTion.\nThere Then Tollows a brief flaTTening period before The male pronucleus becomes\nvisible aT 50 minuTes and The appearance of The female pronucleus from The animal\npole follows wiThin 2-3 minuTes. The Two nuclei swell almosT simulTaneously To\na diameTer of ll-I2 microns before They merge and break down, giving rise To a\nclear area in The cenTer of The cell. Cleavage is unequal, wiTh The polar bodies\nlying aT The animal pole in The furrow. (Times are for developmenT aT 2l?C.\n\nArTif;cial acTivaTlon\nIf Time allows, arTificially acTivaTe some Spisula eggs wiTh 4% isoTonic in\nsea waTer, poTassium free sea waTer (sodium sTimulaTion) or wiTh an ulTravio|eT\nlamp. WaTch The immediaTe reacTion of The eggs To The sTimulaTion. WhaT does\nTheir change in shape indicaTe? How far do These eggs develop?\nPUNCTULATA\nThe eggs of various sea urchins have been possibly The mosT-used classical egg\nmaTerial Tor embryological and physiological sTudies. The egg oT Arbacia is raTher\ndifferenT from The eggs of mosT oTher sea urchins in being smaller and conTaining\nred echinochrom granules. IT is inTeresTing To noTe (see classiTicaTion earlier)\nThaT Hyman has classified Arbacia in a difTerenT order from The oTher sea urchins\nso ofTen sTudied.\nln The early years aT Woods Hole, invesTigaTors placed a heavy drain on The supply\nof urchins; wheTher This was The reason Tor a depleTion in Their supply is noT known\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Spisula",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6154bc52-c653-5bd3-878d-347c80947761",
+          "name_string": "Spisula",
+          "canonical_form": "Spisula",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Veneroida|Veneroida|Mactridae|Spisula",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2369911|2369975|2370006|2370007|2419156",
+          "taxon_id": "2419156",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6154bc52-c653-5bd3-878d-347c80947761",
+          "name_string": "Spisula",
+          "canonical_form": "Spisula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20679194",
+          "local_id": "57515",
+          "url": "http://eol.org/pages/57515",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

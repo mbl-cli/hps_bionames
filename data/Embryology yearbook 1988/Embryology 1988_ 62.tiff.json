@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=RQMmxqzZTumGGXAFzNznQg",
+  "input_url": null,
+  "file": "Embryology 1988_ 62.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.138303782,
+    "resolve_names_duration": 0.669682959,
+    "total_duration": 22.148606499
+  },
+  "agent": "",
+  "created": "2013-06-18T13:23:21-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "A. eds",
+      "scientificName": "A. eds",
+      "offsetStart": 1657,
+      "offsetEnd": 1662,
+      "identifiedName": "A. eds"
+    }
+  ],
+  "content": "THIERY Jean-Paul Course in Embryology July 2-3, 1988\nREFERENCE LIST \nEMBRYOLOGY\nAn introduction to EMBRYOLOGY (1981) Balinsky Saunders\nCollege Publishing may be there is a newer edition.\nThe Neural Crest Nicole Le Douarin (1982). Cambridge\nUniversity Press\nADHESION MOLECULES\nThe Cell in Contact \"Adhesions and Junctions as\nMorphogenetic Determinants\" Edelman G.M. and Thiery,\n.P. Editors (1985). John Wiley and Sons, New York.\nA new book should appear in the fall title \"Morphoregulatory\nMolecules\".\nEdelman, G.M. (1986). Cell adhesion and the molecular\nprocesses of morphogenesis. Ann. Rev. Cell Biol. 2: 81-1 16.\nEdelman, G.M. (1988). Biochemistry, \"Morphoregulatory\nMolecules\"\nEdelman, G.M. (1987). CAMS and Igs: Cell adhesion and the\nevolutionary origins of immunity. Immunological Reviews,\n100: 1 1-45.\nHynes, RO. 1986). Fibronectins. Scientific American, 254:\n32-41.\nHynes, R.O. 1987). integrins: A family of cell surface\nreceptors. Cell 48: 549-554.\nHynes, R.O. 1985). Molecular biology of fibronectin. Ann.\nRev. Cell Biol. 1: 67-90.\nHemler, M.E. (1988). Adhesive protein receptors on\nhematopoietic cells. Immunolog today, 9: 109-1 13.\nObara, M., Kang, M.S., Yamada, K.M. (1988). Site directed\nmutagenesis of the cell binding domain of human\nfibronectin: Separable, synergistic sites mediated Adhesive\nFunction. Cell: 53: 649-657.\nIMMUNOLOGY\nLe Douarin, Dieterlen-Lievre, F., and Oliver, P.D.\n(1984). Ontogeny of primary organs and \nstem cells. Amer. J. Anat. 170: 261-299.\nLe Douarin, N.M., Jotereau, F.V., Houssaint, E., and Thiery,\n.P. (1984). Primary organ ontogeny in birds. In\n\"Chimeras in Developmental Biology\". Le Douarin, .M. and\nMcLaren, A. eds. Academic Press. London, pp. 179-216.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "A. eds"
+    }
+  ]
+}

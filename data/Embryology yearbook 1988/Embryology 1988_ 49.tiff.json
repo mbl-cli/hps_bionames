@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=aLvshsgFSdaBG2JGTLrqsw",
+  "input_url": null,
+  "file": "Embryology 1988_ 49.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.176701538,
+    "resolve_names_duration": 0.597525899,
+    "total_duration": 24.947216561
+  },
+  "agent": "",
+  "created": "2013-06-18T13:20:27-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Ilyanassa",
+      "scientificName": "Ilyanassa",
+      "offsetStart": 2815,
+      "offsetEnd": 2823,
+      "identifiedName": "Ilyanassa"
+    }
+  ],
+  "content": "  CMJ   \nllyanassa laboratory          \nExamine the capsule collection for a capsule of suitable stage (the capsules have\nbeen collected by removing them from the agquarium wall with a razor blade.). lf a\ncapsule is suitable, roll the capsule around on a paper towel with a needle to free it\nof adherent jelly, debris and water. Transfer it to sterile sea water in a small petri\ndish. A steel dissecting needle and a pair of fine scissors or a single edge razor blade\nwill be needed for opening the capsule. Using the low power of the dissecting microscope,\nhold one end of the capsule against the dish with the needle and remove the other end\nwith the scissors or razor blade. The eggs will be held in the capsule by The\njelly is soluble in sea water and will ultimately dissolve. The capsule should be allowed\nto sit for l0-15 minutes to allow the jelly to partially dissolve; the eggs can then be\nexpelled from the capsule by gently pressing it with a steel needle. Transfer the\nliberated eggs with a mouth pipette to a clean dish with sterile sea water.\nNormal Development: The fertilized uncleaved Tlyanassa egg is about l65 pm in diameter.\nlt is fertilized prior to laying. Shortly after the capsule is laid the first polar body\nis given off. As it is forming,the first polar lobe appears. This lobe is inconspicuous;\nthe only indication of its presence is a slight elongation along the animal-vegetal axis of\nthe egg, which gives the egg a top-like appearance. About 30 minutes (at 24 C.) after\nfirst polar lobe formation, second polar body formation takes place. A second polar lobe\nbegins to develop about 20 minutes prior to second polar body formation and continues to\nenlarge for some time after the second polar body is formed. The second polar lobe is\nvery broad and is more constricted from the rest of the cytoplasm than the first polar\nlobe. The third polar lobe begins to develop about 80 minutes after the second polar body.\nlt takes about 50 minutes from the beginning of third polar lobe formation to the trefoil\nstage when the polar lobe is maximagly constricted. This stage coincides with the end of\nthe first cleavage. This stage lasts for several minutes; then a short yolk-free stalk\ncan be seen connecting the lobe to one of the blastomeres. The stalk broadens as the\ncontents of the lobe flow into one blastomere. The resulting blastomeres are unequal in\nsize. The smaller blastomere is denominated AB, while the larger blastomere, CD}contains\nthe contents of the polar lobe. The fourth and final polar lobe appears in the vegetal\nregion of the CD cell as it undergoes its next division. The fourth polar lobe is the\nsame size as the third polar lobe. After the second cleavage is completed there are three\nsmall cells: and C, and a large cell, D, which contains the lobe substance.\nThe Ilyanassa embryo develops into a veligger larva. The veliger larva has a pigmented\noesophagus, stomach, and intestine. The velum bears large cilia and has a pigmented rim.\nShell, operculum, foot, eyes, otocyst and heart are easily seen by 5-6 days of development\n(see figure)\nExperiments: llyanassa embryos that are raised outside of the shell are subject to\nbacterial infections. This leads to embryonic death. In order to avoid infection it is\nnecessary to transfer embryos through several changes of sterile sea water to dilute out\nthe bacteria before manipulating them.\nl) Removal of the polar lobe: To remove the polar lobe at the trefoil stage, wait\nuntil the lobe is connected by only a slender thread of cytoplasm and is itself almost\nsperical. Then press across the lobe connection as indicated in the diagrams.MOr;a1ity is\nlower if the glass knife does not cut\n5557 through the lobqbonnections immediately.\nInstead press across the connection, then\nrelease the pressure and repeat after a half\nminute or so. By passing from egg to egg\na number may be thus conditioned. Then go\n- ft *back over the series and cut the lobe off\nwith a firm stroke. Polar lobe removals\n,gt \"iQ Taq are easier in low calcium sea water (9 parts\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Ilyanassa",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "2c7980c7-bc35-507b-9b71-cc0bf90b7065",
+          "name_string": "Ilyanassa",
+          "canonical_form": "Ilyanassa",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Lophotrochozoa|Mollusca|Gastropoda|Caenogastropoda|Hypsogastropoda|Neogastropoda|Buccinoidea|Nassariidae|Ilyanassa",
+          "classification_path_ranks": "|superkingdom||kingdom||||||phylum|class|||infraorder|superfamily|family|genus",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206795|6447|6448|69555|216293|6479|216303|6483|34581",
+          "taxon_id": "34581",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "2c7980c7-bc35-507b-9b71-cc0bf90b7065",
+          "name_string": "Ilyanassa",
+          "canonical_form": "Ilyanassa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29011199",
+          "local_id": "4836677",
+          "url": "http://eol.org/pages/4836677",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    }
+  ]
+}

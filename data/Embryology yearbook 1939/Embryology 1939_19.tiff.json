@@ -1,0 +1,122 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=OdfEaST7TZG73kKf2roI8Q",
+  "input_url": null,
+  "file": "Embryology 1939_19.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.317948893,
+    "resolve_names_duration": 0.702516471,
+    "total_duration": 24.851810607
+  },
+  "agent": "",
+  "created": "2013-06-19T15:24:00-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Echinarachnius",
+      "scientificName": "Echinarachnius",
+      "offsetStart": 2838,
+      "offsetEnd": 2851,
+      "identifiedName": "Echinarachnius"
+    },
+    {
+      "verbatim": "Arbacia?",
+      "scientificName": "Arbacia",
+      "offsetStart": 2857,
+      "offsetEnd": 2864,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\ngonads. The sex glands of`the male are grayish white; those of the\nfemale are maroon-red. After rinsing out the contents of the cavity\nwith fresh sea-water, place the males upside down in a watch \nto allow the sperm to run out through the genital pore. This is\n*dry* sperm. Pick the ovaries out of the shell and place in a finger\nbowl full of sea-water. After approximately five minutes strain\nthrough cheese cloth and then wash the gametes as described above\nfor the starfish. The gametes are now ready to use in your observa-\ntions. All should be prepared fresh unless otherwise indicated.\nl. of the gametes. e. Q. Q.\nThe Ovum: Mount freshly shed eggs in a little sea~water and\nobserve the appearance of the egg. Are all the eggs of the same\nsize? Are they all in the same stage of development? Cad you see\nthe nucleus? Does the protoplasm of which the egg is composed\nappear homogeneous in all regions? Are there any cytoplasmic inclu>>\nsions? Can you see any pigment within the eggs? ls there more than\none hind? Is there any evidence of differentiated structure within\nthe cytoplasm? Do you see any polar bodies? How many? Do you see\nany evidence of jelly around the egg? New mount some eggs in a\nsmall amount of sea-water containing a heavy suspension of india ink.\nWhat structures are new visible that you did not see before? Look\nat a number of eggs and see if you can find the micropyle. This\nmay be seen as a conical depression in the jelly surrounding some\nof the eggs. ls the jelly coat always the same thickness? Make\ndrawings to illustrate the points observed and compare the different\neggs studied. Do mature eggs of the different forms differ in size?\nThe sperm: Place a very small amount of the dry sperm in a drop\nof sea-water on a slide. A sufficient number will be carried on the\nend of a pair of forceps dipped in the ?dry' sperm preparation, Try\nto observe the form of the sperm and their motility. For the latter'\ndetermination use sea-water with india ink suspension. A demonstra-\ntion of spemn under dark field illumination will be made.\n2. Nahiration of the ovum. Q. Q. Q.\nWhen shed under normal conditions, the eggs of all three of the\nanimals studied are ready for fertilization. When removed from the\novaries in the laboratory some of the ova are not mature. Examine\neggs from each of the forms. Those of the starfish are best for the\nstudy of the maturation process. Place some eggs from a freshly pre-\npared culture on a slide and note the condition of the nucleus in\nseveral. Select oocytes with.germinal vesicle intact and observe\nthem over a period of from one and one~half hours to two hours, Re~\ncord the changes observed by means of sketches. he sure the illumina\ntion employed is correct in order that you may trace the formation\nof the polar bodies, .Do you find any immature eggs in cultures from\nEchinarachnius and Arbacia? Sketch. When the eggs are mature they\nmay be fertilized.\n5. Fertilization. Q. Q.\nIn order to avoid pathological polyspermy in the eggs studied\na dilute sperm suspension should be used in making the inseminations.\nThis may be assured by the following method. Add one drop of *dry*\nsperm to 25 cc. of sea~water. To a mass of eggs in approximately\n50 occ. of sea-water. add 6 to 7 drops of this suspension. \"his con~\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Echinarachnius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6f5c1914-3a92-50c3-8cc3-9a0bc0d2e39f",
+          "name_string": "Echinarachnius",
+          "canonical_form": "Echinarachnius",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Clypeasteroida|Echinarachniidae|Echinarachnius",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362627|2362630|2493660",
+          "taxon_id": "2493660",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6f5c1914-3a92-50c3-8cc3-9a0bc0d2e39f",
+          "name_string": "Echinarachnius",
+          "canonical_form": "Echinarachnius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20629591",
+          "local_id": "73062",
+          "url": "http://eol.org/pages/73062",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

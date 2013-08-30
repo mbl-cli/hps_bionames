@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=T2aKhxFpRm6qg0HKB9yOSQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 153.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.10530545,
+    "total_duration": 22.385501133
+  },
+  "agent": "",
+  "created": "2013-06-18T13:13:21-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "3\npipette, and the eggs fertilized with a few drops of the 10 ml sperm\nsuspension. The eggs are placed on ice for 5 min, scored for fertilization\nand the water changed with fresh Fertilized eggs are\ncultured at Embryos detach from the dish as they hatch at the blastula\nstage. From the pluteus stage, culture is carried out in polycarbonate,\n\"Nalgene\" erlenmeyers in in a water-filled, shaking incubator\n(Model G76, New Brunswick Scientific) set at speed 3.8. Embryos are\ntransferred and fed as shown in Table 1 up to metamorphosis (5 weeks\npostinjection).\n\n\n"
+}

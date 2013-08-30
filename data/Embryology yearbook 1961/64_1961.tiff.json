@@ -1,0 +1,138 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=BFcL869ETmiSeviqE0JLxw",
+  "input_url": null,
+  "file": "64_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.260688577,
+    "resolve_names_duration": 0.455437133,
+    "total_duration": 29.340306143
+  },
+  "agent": "",
+  "created": "2013-06-18T12:40:32-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 932,
+      "offsetEnd": 938,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1854,
+      "offsetEnd": 1860,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2105,
+      "offsetEnd": 2111,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Medium",
+      "scientificName": "Medium",
+      "offsetStart": 2441,
+      "offsetEnd": 2446,
+      "identifiedName": "Medium"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2606,
+      "offsetEnd": 2612,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2735,
+      "offsetEnd": 2741,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "\nDan, K. and T. Ono. CyToembryo1ogica1 sTudies of sea urchins. 1. The means of fix-\naTion of The muTual posiTions among The b1asTomeres of sea urchin larvae.\nBiol. Bull., 102: 58-73.\nDan, 11. B1asTu1a sTage. lbid., 102, 74-89. 1952\nDriesch, H. EnTwicklungemechanische STudien. 1. Der WerTh der beiden ersTer\nFurchungszellen in der EchinodermenTwick1ung. ExperimenTe11 Erzeugung von\nTheil und Doppelbildungen, T. Wise. Zool., 53: 160-184. 1891.\nElson, D. STudies on The nucleic acids of sea urchins during embryonic develop-\nmenT, and of animal cell fracTions. A. STudies of The nucleic acids of The sea\nurchin during embryonic developmenT. B. ComposiTion of The penTose nucleic\nac ids oi animal nuclei and cyTop1asmic cell fracTions. C. The DNA conTenT of\nsea urchin gameTes. Diss (Publ. #5l87) Col. Univ. 1952 (available on microfilm)\nFry, H. J. STudies of The miToTic figure. V. The Time schedule of miToTic changes\nin developing Arbacia eggs. Biol. Bull., 70: 89-99. 1936.\nGusTaTsson, and 1. Hasselberg. Alkaline phosphaTase ac TiviTy in sea urchin\neggs. ECR, 1: 371. 1950\nGusTafsson, T. and 1. Hasselberg. STudies on enzymes of The developing sea\nurchin egg. ECR, 2:642. 1951.\nGusTaTsson, T. and M-B. Hje1Te. Amino acids in sea urchin deve1opmenT. Ark. Kemi.\n2. 1950.\nGusTafsson, T. and M-B Hje1Te. Amino acid meTabolism in The developing sea urchin\nCR,\negg. 2: 474. 1951\nGusTaTsson, T., M-B. HjeITe and 1. Hasselberg. GrowTh-promoTing facTors in\ndeveloping sea urchin egg. EGR, 3: 275. 1952.\nGusTaTsson, T. and P. Lenicque. STudies in miTochonaria of The developing sea\nurchin egg. Loca1izaTion of miTochondrial procursors To proTein \nECR. 3: 251. 1952.\nHarding, C. V., D. Harding and P. Perlmann. AnTigens in sea urchin hybrid\nembryos. EGR. 6: 202-210. 1954.\nHarding, C. V. and L. J. Thomas. U1Tra-vio1eT induced delay in cleavage of cenTri-\nfuged Arbacia eggs. J.C. C.P., 35, 1950.\nHarvey, E. B. A new meThod of producing Twins, Trip1eTs and quadrupleTs in\nArbQciagQuncTu1aTa, and Their deve1opmenT. Biol. Bull., 78:202216. 1940\nHaywood, C. The cleavage Times of TerTi1ized eggs of The sea urchin, Arbacia\nguncTu1aTa, aT high pressures of niTrogen, helium and niTrous oxide. J. C.C.P.,\n41: 335-343. 1953\nHerbsT, C. WeiTeres unTersuchungenes uber die morphologische Wirkung der\nLiThiumsalze u. ihre TheoreTische BedeuTung. zool. Neapol., 11:\n136, 1893.\nHerbsT, C. Uber das Auseinandergehen von Furschungs und Gewebezzelen in kalkfrein\nMedium. Arch. T. EnTwick1., 9: 424-463. 1900.\nHoadley, L. The relaTion beTween The posiTion of The female pronucleus and The\npolar bodies in The unferTi1ized egg of Arbacia guncTu1aTa. Biol. Bull. 67:\n220-222. 1934.\nHoberman, MeTz and J. Graf (incorporaTion of deuTerium inTo unferT. and ferT.\nArbacia eggs.) J. Gen. Physiol. 35:639. 1952\nHorsTadius, S. Transp1anTaTion experimenTs To e1ucidaTe inTeracTions beTween and\nregulaTions wiThin The gradienT sysTems of The developing sea urchin egg.\nJ.E.Z. 113: 245. 1950.\nHorsTadius, S. 1nducTion and inhibiTion of reducTion gradienTs by The micromeres\nin The sea urchin egg. J.E.Z., 120: 421-436.1952. \nHorsTadius, S. The eTiecT of 1iThium ions on cenTriTuged eggs of ParacenTroTus\nlividus. Publ. STaz/ Zool. Nap., 24: 46-61. |953\nHorsTadius, S. influence of imp1anTed micromeres on reducTion gradienTs and\nmiTochondrial disTribuTion in developing sea urchin eggs. J.E.E.M., 1: 257-\n259. 1953\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Medium",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "4bd27f52-b1ac-562c-8111-d0642a43a9ef",
+          "name_string": "Medium",
+          "canonical_form": "Medium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97886505",
+          "local_id": "urn:lsid:ubio.org:namebank:4904049",
+          "global_id": "urn:lsid:ubio.org:namebank:4904049",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4904049",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    }
+  ]
+}

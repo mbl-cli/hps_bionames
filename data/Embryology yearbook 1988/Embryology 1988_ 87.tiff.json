@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=kxnlzq8HQmu6FEoaRaVjrQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 87.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.176524128,
+    "total_duration": 23.766199864
+  },
+  "agent": "",
+  "created": "2013-06-18T13:28:24-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "[500 uM ATP,\n[100 uM GTP,\n[10 mM]\n[1 unit/ul]\n[100 ug/ml]\nResuspend DNA in 5 ul H20.\nAdd 10 ul 5X Transcription Buffer\n10 ul 5X Nucleotides\n5 ul 10X (Cap)\n5 ul 100mM DTT\n60 units RNasin\n5 ug BSA\nalpha 32units SP6 RNA Polymerase\nIncubate 2 hrs.\n\n2mM \n40 deg. C.\nAfter reaction add 7ul RQ1 DNase 1 to\ndigest DNA template. Incubate 20 min. 37 deg. C.\nExtract reaction with equal volume\nphenol/chloroform and 1X chloroform. Bring final\naqueous vol. to 0.3M ph 5.2, and add 2.5 vol.\nto precipitate. (note: it generally takes a\nhigher Concentration of to precipitate\nRNA than it does DNA). Precipitate for a couple of\nhours at -20 deg. C.\nSpin RNA 20 min. in microfuge. Pipet off and\ndiscard as radioactive waste (note: some will\nprecipitate with the RNA, and some will remain in\nsolution in Rinse the tube with 1 ml 70%\nand discard as radioactive waste. Dry tube.\nPour the storage buffer off NICK column (prepacked\nG-50 size exclusion column). Suspend column behind\nprotective shield and fill to the top with 0.3M\nNa0Ac pH 5.2. Allow column to empty completely then\nrepeat. Allow columnn to drain almost to\ncompletion, then cap the top to stop flow.\nResuspend RNA in 80 ul H20. Allow NICK column to\ndrain completely. Add RNA to column and let it\nenter, collecting effluent in disposable tube. Add\nexactly 400 ul of Na0Ac to column and let run\nthrough (note: no radioactivity should have yet\neluted from column). Again add exactly 400 ul of\nNa0Ac and collect eluent in clean, labelled 1.5 ml\nmicrocentrifuge tube. This fraction contains the\nall the unincorporated nucleotides will remain\nin column. Add 1 ml of to Precipitate. Store\nat -20 deg. C.\n\n"
+}

@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=TURxCTd8QlyfXynaaU6SNA",
+  "input_url": null,
+  "file": "Embryology 1988_ 144.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.174246277,
+    "total_duration": 21.678968574
+  },
+  "agent": "",
+  "created": "2013-06-18T13:11:39-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": " \nQuantitation of CAT Enzyme Activity in Injected Sea Urchin Embryos\nCollect embryos into an Eppendorf tube at the desired developmental stage,\nusing a drawn-out Pasteur pipette. Also collect tubes of about the same\nnumber of uninjected embryos to be used both as uninjected controls and to\nbe added to bacterial CAT enzyme standards (usually about five different\namounts of CAT enzyme are included per experiment to obtain a standard\ncurve).\nSpin in microfuge 5 min at room temperature.\nAspirate off the sea water. At this point. the embryo  pellets may be\nstored at for later use.\nRemove the tubes from and put on ice. Resuspend the injected-embryo\npellets and control pellets in 100 ul of 250 mM Tris (ph 7.8). Resuspend\nthe embryos that are to be added to the bacterial standards in 50 ul of\n250 mM Tris. Vortex each tube. Freeze-thaw (dry ice-ethanol then \neach embryo suspension 3X to lyse the cells.\nBriefly spin the contents to the bottoms of the tubes.\nAdd the 100 ul of injected and uninjected control embryo lysates to glass\ntubes (10 75 mm) containing:\nso ul 250 mM Tris (pu 7.8)\n29 ul H20\n1 ul 14C-chloramphenicol\nAdd 50 ul of uninjected embryo lysates to each of five glass tubes\ncontaining:\nknown amount (from 0.5 - 8 10'3 U) of bacterial\nCAT enzyme in 250 mM Tris (pH 7.8)\n29 ul H20\n1 ul 14C-chloramphenicol\n250 mM Tris (pH 7.8) to bring final vol acetyl to each tube. Cover with parafilm. Incubate\nfor 2 at \nAdd 1 ml of ethyl acetate (use glass pipette) to each tube. Vortex well.\nBriefly spin to separate the phases. Transfer the top organic phase (Be\ncareful not to remove any of the bottom aqueous phase.) to clean glass\ntubes.\nCover with parafilm. Poke holes in the paraffin with a needle and dry the\nsamples in a Savant speed-vac concentrator (takes ~20 min).\nTake up the dried samples (one at a time) in 20 ul of ethyl acetate and\ndot onto a TLC plate about 1\" from the bottom.\nChromatograph for about 1-1.5 hr in containing chlorqgormzmethanol\nees\n\n"
+}

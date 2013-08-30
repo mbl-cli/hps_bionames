@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=g6aXDJZiT8mCOMUxi8yFiA",
+  "input_url": null,
+  "file": "Embryology 1988_ 128.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.119028421,
+    "total_duration": 19.974151013
+  },
+  "agent": "",
+  "created": "2013-06-18T13:08:16-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "ll side\n-most\nand\nand\nlowv.\nearly\nthe\nears.\niever\nE. and Volhurd\nFigure 6. klarsicht embryos during extended germ band stages.\nStage 9: Stomodeal plate formation (4 30 min to 5 10 min).\nStage l0t Stomodeal imagination (5 10 min to 6 50 min).\nStage ll; germ band (6 50 min to 9 \nStage 12: Shortening of germ band (9.h to 10 30 min).\n4.6 Stage 6: early gastrulation, ventral furrow formation (3 15 min to 3 35 min)\nGastrulation begins as soon as the cells on the ventral side of the embryo have com-\npleted cellularization. A ventral furrow forms as a longitudinal cleft along the ventral\nmidline of embryo between 20 and 80% egg length. The cells immediately anterior\nand posterior to the furrow become thin. A posterior plate forms carrying pole cells\ntowards the dorsal side of the embryo. The cephalic furrow becomes apparent as an\noblique lateral infolding at two-thirds egg length. The dorsal cell layer is initially very\nthick and columnar at this stage. As the pole cells shift dorsally, the anterior and posterior\ndorsal folds begin to form.\n209\n\n"
+}

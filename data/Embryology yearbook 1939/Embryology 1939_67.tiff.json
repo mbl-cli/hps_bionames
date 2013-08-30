@@ -1,0 +1,83 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=RhNSEAq1QPGZvJ5c1ZB5yg",
+  "input_url": null,
+  "file": "Embryology 1939_67.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.250055988,
+    "resolve_names_duration": 0.805167156,
+    "total_duration": 24.082005178
+  },
+  "agent": "",
+  "created": "2013-06-19T15:31:31-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Nereis,",
+      "scientificName": "Nereis",
+      "offsetStart": 926,
+      "offsetEnd": 932,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Nereis:",
+      "scientificName": "Nereis",
+      "offsetStart": 1206,
+      "offsetEnd": 1212,
+      "identifiedName": "Nereis"
+    }
+  ],
+  "content": "- -WY   \n1959\nFERTILIZATION\nUse only the pipettes at the stock dishes to obtain gametes.\nOarelessness will result in contaminating the stock of unfertilized\neggs with spermatozoa. Use the ordinary low power of the compound\nmicroscope (approx. diameters magnification lOx piece\nand lOx objective) for observation and study. This permits maine\ntaining the\neggs in a considerable volume of water in a Syracuse\ndish so that concentration of the sea water by evaporation is not\nrapid. The\nphenomena can be readily seen with this magnification,\nwhich affords excellent definition. Higher power will be useful\nif it is desired to observe spennatozoa in detail under a coverslip.\nCare must always be taken to avoid inseminating heavily. Too many\nspermatozoa\ncause polyspermy which results in abnormal cleavage and\ndevelopment. Polyspermic eggs of some forms develop more rapidly\nthan normally fertilized eggs. The polyspermic eggs of Nereis, how-\never, usually fail to cleave.\nIt will aid observation and study to sketch the egg before\nfertilization and at stages during and after fertilization. Other-\nwise some of the changes may be overlooked because of failure to\nobserve or remember the preceding conditions.\nNereis:\nObtain\na few unfertilized eggs in sea water in a Syracuse dish.\nThey are approximately l4O microns in diameter as seen from above.\nObserve the\nlarge immature nucleus (germinal vesicle), and the oil\ndroplets and yolk particles in the cytoplasm surrounding the nucleus\nNote also the cortex of the egg.\nAfter becoming familiar with the unfertilized egg, inseminate\nby adding a drop of freshly prepared sperm suspension, Stir the\neggs by a circular movement of the dish at once and observe changes.\nAt 210 G. the following schedule applies to 507 of a population of\neggs (time after fertilization). polar body, 45 minutes; 2nd\npolar body,\n60 minutes; cleavage, 95 minutes (Bib. ref. l5).\nThe Laboratory will probably be warmer than 210 G. so that develop-\nment will proceed more rapidly. There are many changes in the egg\nto observe before the first polar body forms. The time schedule\nin the descriptive text below will hold approximately if the air\ntemperature\nof die laboratory is about 24 C.\nIf possible, arrange to observe two or more eggs which are\ntouching immediately after fertilization. 2-5 minutes after fer~\ntilization they will begin to be pushed apart by transparent jelly\nsecreted by theeggs. By EO minutes, the zone of jelly around each\negg will be as wide as the egg diameter. The margin of the jelly\ncan often be made out by observing supernumerary spermatozoa and\nother particles at the edge of the jelly. 5 or 6 minutes after\nfertilization the fertilization membrane will be noticeable. lt\nelevates only At 7 or 8 minutes, the entrance cone begins\nto form. Find an egg slowing a profile view of the entrance cone\nand the sperm mrich is to enter. From 8 to l2 minutes or longer,\nthe sperm is clearly visible outside the vitelline (fertilization)\nmembrane at\nof the next\nat\nobscure \nthe tip of the conspicuous entrance cone. ln the course\n8 or lO minutes, the vitelline membrane comes to indent\nits contact with the entrance cone. This tends to\nsperm from view to some extent, and at about EO minutes\nAu JI\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=kBz3teFwQOuqeu8xtZbyFA",
+  "input_url": null,
+  "file": "Embryology 1988_ 40.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.145300511,
+    "resolve_names_duration": 1.276530135,
+    "total_duration": 23.912186472
+  },
+  "agent": "",
+  "created": "2013-06-18T13:18:48-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 337,
+      "offsetEnd": 359,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila",
+      "scientificName": "Drosophila",
+      "offsetStart": 499,
+      "offsetEnd": 508,
+      "identifiedName": "Drosophila"
+    },
+    {
+      "verbatim": "Margaritis",
+      "scientificName": "Margaritis",
+      "offsetStart": 573,
+      "offsetEnd": 582,
+      "identifiedName": "Margaritis"
+    },
+    {
+      "verbatim": "Drosophila melanogaster",
+      "scientificName": "Drosophila melanogaster",
+      "offsetStart": 682,
+      "offsetEnd": 704,
+      "identifiedName": "Drosophila melanogaster"
+    },
+    {
+      "verbatim": "Drosophila,",
+      "scientificName": "Drosophila",
+      "offsetStart": 1068,
+      "offsetEnd": 1078,
+      "identifiedName": "Drosophila"
+    }
+  ],
+  "content": "164. Moschonas, N.K., G. Thireos and F.C. Kafatos (1988).\nEvolution of chorion structural genes and regulatory mechanisms\nin two wild silkmoths: A preliminary analysis. J. Mol. Evol.\n21, 187-193.\nIn Press or Submitted\n165. Delidakis, C. and F.C. Kafatos (1987). Deletion\nanalysis of cis~acting elements for chorion gene amplification in\nDrosophila melanogaster. Cold Spring Harbor Symposia, Cold\nSpring Harbor Laboratory, press).\n166. Brown, N.H. and F.C. Kafatos (1988). Functional \nlibraries from Drosophila embryos. J. Mol. Biol. (In press).\n167. Komitopoulou, K., L.H. Margaritis and F.C. Kafatos\n(1988). Structural and biochemical studies on four sex-linked\nchorion mutants of Drosophila melanogaster. Dev. Genetics (In\npress).\n168. Mazur, G.D., J.C. Regier and F.C. Kafatos (1988).\nMorphogenesis of silkmoth chorion: Sequential modification of an\nearly helicoidal framework through expansion and densification.\nDevel. Biol. (submitted).\n169. Martinez-Cruzado, J-C., C. Swimmer, M.G. Fenerjian and\nF.C. Kafatos (1988). Evolution of the autosomal chorion locus in\nDrosophila, I: General organization of the locus and sequence\ncomparisons of genes and sig in evolutionarily distant\nspecies. Genetics (In press).\n16\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Drosophila melanogaster",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Protostomia|Ecdysozoa|Panarthropoda|Arthropoda|Mandibulata|Pancrustacea|Hexapoda|Insecta|Dicondylia|Pterygota|Neoptera|Endopterygota|Diptera|Brachycera|Muscomorpha|Eremoneura|Cyclorrhapha|Schizophora|Acalyptratae|Ephydroidea|Drosophilidae|Drosophilinae|Drosophilini|Drosophilina|Drosophiliti|Drosophila|Sophophora|||Drosophila melanogaster",
+          "classification_path_ranks": "|superkingdom||kingdom|||||||phylum|||superclass|class|||subclass|infraclass|order|suborder|infraorder|||||superfamily|family|subfamily|tribe|subtribe||genus|subgenus|species group|species subgroup|species",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33317|1206794|88770|6656|197563|197562|6960|50557|85512|7496|33340|33392|7147|7203|43733|480118|480117|43738|43741|43746|7214|43845|46877|46879|186285|7215|32341|32346|32351|7227",
+          "taxon_id": "7227",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "1bc2f359-47e4-5da6-a748-74676b7c8c5d",
+          "name_string": "Drosophila melanogaster",
+          "canonical_form": "Drosophila melanogaster",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39022287",
+          "local_id": "733739",
+          "url": "http://eol.org/pages/733739",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 22,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Drosophila",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "Animalia|Arthropoda|Insecta|Diptera|Lauxaniidae|Drosophila",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362652|2362709|2458126",
+          "taxon_id": "2458126",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b87b7ecc-4836-5619-8b2f-b083e4830c82",
+          "name_string": "Drosophila",
+          "canonical_form": "Drosophila",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39583584",
+          "local_id": "22023421",
+          "url": "http://eol.org/pages/22023421",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Margaritis"
+    }
+  ]
+}

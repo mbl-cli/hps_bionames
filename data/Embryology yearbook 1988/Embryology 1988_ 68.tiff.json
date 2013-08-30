@@ -1,0 +1,97 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=qRfvV2k9QJCpB5qmUhBeqw",
+  "input_url": null,
+  "file": "Embryology 1988_ 68.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.134978339,
+    "resolve_names_duration": 0.499396152,
+    "total_duration": 23.658694082
+  },
+  "agent": "",
+  "created": "2013-06-18T13:24:03-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 74,
+      "offsetEnd": 80,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 293,
+      "offsetEnd": 299,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 760,
+      "offsetEnd": 766,
+      "identifiedName": "Xenopus"
+    },
+    {
+      "verbatim": "Xenopus",
+      "scientificName": "Xenopus",
+      "offsetStart": 855,
+      "offsetEnd": 861,
+      "identifiedName": "Xenopus"
+    }
+  ],
+  "content": " ai tLJfe,,fL\nEmbryology Course Outline \nJune 28 Dissect testes\nFertilize Xenopus eggs\nWatch sperm entry points and early stages\nVital stain eggs\ninject lineage tracer\nMake eyebrow knives and hairloops\nMake buffers and gel stocks\nJune 29 Observe vital stain and late cleavage stages\nFertilize Xenopus eggs\nRotate eggs and vital stain\nUV eggs and rescue\nLithium treat embryos\nJune 30 isolate RNA from UV, Lithium embryos and set up Lithium \nJuly\nJuly\nJuly\nJuly\nMake RNA from chicken embryos and set up overnight spin\nMake sp6 transcripts and run Urea gel\nSYMPOSIUM\nScore Lithium and UV embryos\nCollect chicken RNA and reprecipitate\nDetermine chicken RNA concentration\nTranscribe actin and vimentin probes\nAnneal vimentin probe to chicken RNA and\nactin probe to Xenopus RNA. Leave overnight\ndigestion on annealed RNAs\nRun gels on digested product\nFertilize Xenopus eggs \nPractice vitelline removal and animal cap dissection\nHoliday or time to catch up or repeat experiments\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Xenopus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "Animalia|Chordata|Amphibia|Anura|Pipidae|Xenopus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362754|2370861|2370871|2370881|2530105",
+          "taxon_id": "2530105",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e48f7dab-05f1-5e7f-a5e6-c9496f4a4c2d",
+          "name_string": "Xenopus",
+          "canonical_form": "Xenopus",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "33539270",
+          "local_id": "67039",
+          "url": "http://eol.org/pages/67039",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

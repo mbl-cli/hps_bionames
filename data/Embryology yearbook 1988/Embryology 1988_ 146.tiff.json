@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=g2hQX0DIQJ2b4FQ6RhE93g",
+  "input_url": null,
+  "file": "Embryology 1988_ 146.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.185853936,
+    "total_duration": 24.235111279
+  },
+  "agent": "",
+  "created": "2013-06-18T13:11:53-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "Embryology 1988 1\nGel Retardation Assay\nThis assay was developed by Fried and Cruthers 9, 6505 (1981)] and\nGarner and Revsin 9, 3047 (l98l)] for analyzing protein-DNA interactions\nby separating protein-DNA complexes from free DNA by polyacrylamide gel\nelectrophoresis.\nLow crosslinking horizontal polyacrylamide gels are poured and allowed to\npolymerize. Protein, at an appropriate concentration, is added to an\nincubation buffer containing a labeled DNA fragment as well as competitor DNA.\nAfter a brief incubation at room temperature the samples are rapidly mixed with\nsample buffer and immediately loaded on a running gel.\nThe gel retardation assay is a simple and sensitive method for determining\ninteractions between protein and DNA. Unlike footprinting techniques that rely\non the loss of a signal to determine prOtein-DNA interactions (negative assay),\nthe gel retardation assay yields a positive signal; the appearace of a DNA\nfragment with an altered mobility. Therefore, effects that are undetectable in\na negative assay are easily visualized by the gel retardation assay. An\nunexpected property of the gel assay is its ability to \"freeze\" equilibria\nallowing detection and physical separation of alternative conformational states\nof complexes that rapidly equilibrate in solution.\nA major disadvantage of the gel retardation assay is that it does not give\na direct readout of the DNA nucleotides that the protein is recognizing. For\nthis type of information, a higher resolution technique such as \nfootprinting or methylation interference is invaluable. Fourtunately, these\napplication can often be coupled with the retardation assay with considerable\nadvantage.\nOur demonstration will attempt to illustrate the ease and power of the gel\nretardation assay as well as some of the common technical pitfalls and\nmisinterpretations of the results.\n1) Pour gel; let it polymerize for 1 hour. (see page 2)\nAfter gel polymerizes remove comb and rinse wells with water.\nProtein:DNA binding reaction (20 ul reaction)\n2) In an 1.5 ml eppendorf tube add;\na) 17 pl of binding buffer\nb) 1 pl of 32P DNA fragment(s) to be tested (~l0`11M) (~2000 cpm)\nc) pl of lmg/ml poly dl/dC (competitor DNA)\nd) pl of protein of purified protein)\n3) Incubate at room temp for 5 minutes. Add of sample buffer.\n4) Load onto a running gel and electrophorese for hr at 250 volts in\nO.5X TBE.\n5) Dry gel under vacuum at for 30 minutes.\n6) Dried gels are autoradiographed for several hours to visualize\nthe DNA bands. \n\n"
+}

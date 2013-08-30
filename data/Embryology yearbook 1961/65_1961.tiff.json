@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=elVTZsKNSamc730Bg6dpLw",
+  "input_url": null,
+  "file": "65_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.154857405,
+    "resolve_names_duration": 1.475711914,
+    "total_duration": 30.612052735
+  },
+  "agent": "",
+  "created": "2013-06-18T12:40:41-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Echingrachniu? parma",
+      "scientificName": "Echingrachniu parma",
+      "offsetStart": 1928,
+      "offsetEnd": 1947,
+      "identifiedName": "Echingrachniu? parma"
+    }
+  ],
+  "content": ".-4-\nHorsTadius, S. Some experimenTs on sea urchin eggs wiTh DNA from sea urchin\nsperm. J.E.E. M., l: 26|-262. |953 \nHorsTadius, S. VegeTalizaTion of The sea urchin egg by diniTrophenol and animal-\nizaTion by and Ticin. J.E.E.M., l: 327-348. |953 \nHorsTadius, S., J. Lorch and J. Danielli. DifferenTiaTion of The sea urchin egg\nfollowing reduc Tion of The inTerior cyToplasm in relaTion To The corTex.\nECR. |950\nHulTin, T. On The oxygen Takeup of ParacenTroTus egg homogenaTes afTer The\naddiTion of Ca. ECR, I: |59-|68. |950\nHulTin, T. On The acid formaTion, breakdown of cyToplasmic inclusions and in-\ncreased viscosiTy in ParacenTroTus egg homogenaTes afTer The addiTion of\ncalcium. ECR, l: 272-282. |950\nHu|Tin, T. (Labelled glycine incorporaTion lnTo microsomes and miTochondria.)\nECR, 376. |950\nHu|Tin, T. The proTein meTabo|ism of sea urchin eggs during early developmenT\nsTudies by means of 5 labelled ammonia. son. l; 599. |950\nHu|Tin, T. The incorporaTion of labelled glycine and alanine inTo proTeins of de-\nveloping sea urchin eggs. ECR, 3:494. |952 \nThe amino acid meTabolism of sea urchin embryos sTudied by means of -labelled\nammonium chloride and alanine. Ark. Zoo., 5, Nr. 50, 543-552. |955\nHu|Tin. T- Of DL-alanine inTo proTein TracTions of sea urchin\nembryos. Ark. Zool., 5, Nr. 52, 599-564. |953\nHulTin, T. |ncorporaTion of labelled carbonaTe and aceTaTe inTo sea urchin\nembryos. Ark. Zool., 6, Nr. l5, |95-200. |953\nHu|Tin, T., S. Lindvall and K. GasTaTsson. On The occurrence of picolinic acid\nbeTaine in sea urchin embryos. Ark. Zool, 6, Nr. 45, 477-480. |953\nHulTin, T. and G. Wessel. lncorporaTion of 014- labelled C02 lnTo The proTeins of\ndeveloping sea urchin eggs. ECR, 3: 6l3-6|5. |952\nJusT, E. E. The re|aTion of The TirsT cleavage plane To The enTrance poinT of The\nsperm. Biol. Bull., 22: 239. l9|2 \nJusT, E. E. STudies oT cell division. l. The eTfecT of di|uTe sea waTer on The\nferTilized egg of Echingrachniu? parma during The cleavage cycle. Amer. J.\nPhysiol., 6l: 505-5l5. |922\nKavanau, L. J. MeTabolism of Tree amino acids, pepTides and proTeins in early sea\nurchin deve|opmenT. J.E.Z., l22: 285-337. |953\nKriszaT, G. and J. (lodaceTamide and p-chloromercuri-benzoaTe inhibiT\ncleavage in sea urchin egg. ECR, 3:500. |952\nLallier, R. Recherches sur le probleme de la deTerminaTion chez les Echinodermes.\nExper. 8: 27|. l95|\nLenicque, P., S. HorsTadius and T. 6usTaTsson. Change of disTribuTion of miTochon-\niria in animal halves of sea urchin eggs by The acTion oi micromeres. ECR.\n400-403. |953\nLindah P., B. Swedmark and J. Lundin. Some new observaTions on The animaliza-\nTion of The unTerTilized sea urchin egg. ECR, 2: 46. l95l\nLindahl, P. On a normally occurring reducTion division in somaTic cells of The\nsea urchin embryo. ECR, 5: 4l6-4l9. |953\nLindahli P. and Kiessberg. (|solaTion of micromeres in counTer-currenT cenTrifuge.\nExper., 6:425. |950\nLindahi, P. and Kiessling. (AccumulaTion of inorganic pyrophosphaTes afTer \nArk. Kemi., l95|\nLindvail, S. and A. Carsjo. 0n proTein fracTions and inorganic ions in sea urchin\neggs, ferTi|ized and unTerTi|lzed. ECR, 2:49l-498. |95l \nLison, L. and J. PasTel|s. (DNA measuremenTs during sea urchin deve|opmenT.)\nArch. Biol., 62: l. l95| \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Echingrachniu parma",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "afc3e3f7-c85e-50f1-83f7-1f037806f316",
+          "name_string": "Echinarachnius parma (Lamarck, 1816)",
+          "canonical_form": "Echinarachnius parma",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Clypeasteroida|Echinarachniidae|Echinarachnius|Echinarachnius parma",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2362508|2362536|2362627|2362630|2493660|6847054",
+          "taxon_id": "6847054",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "afc3e3f7-c85e-50f1-83f7-1f037806f316",
+          "name_string": "Echinarachnius parma (Lamarck, 1816)",
+          "canonical_form": "Echinarachnius parma",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34284736",
+          "local_id": "598165",
+          "url": "http://eol.org/pages/598165",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=4OBJ8mTGR4Wi1CRgmEgreg",
+  "input_url": null,
+  "file": "146_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.085219391,
+    "resolve_names_duration": 2.010376078,
+    "total_duration": 24.091605598
+  },
+  "agent": "",
+  "created": "2013-06-18T12:12:59-04:00",
+  "total": 5,
+  "names": [
+    {
+      "verbatim": "PRIAPULIDA",
+      "scientificName": "Priapulida",
+      "offsetStart": 82,
+      "offsetEnd": 91,
+      "identifiedName": "Priapulida"
+    },
+    {
+      "verbatim": "Prsagulus",
+      "scientificName": "Prsagulus",
+      "offsetStart": 128,
+      "offsetEnd": 136,
+      "identifiedName": "Prsagulus"
+    },
+    {
+      "verbatim": "ACANTHOCEPHALA",
+      "scientificName": "Acanthocephala",
+      "offsetStart": 222,
+      "offsetEnd": 235,
+      "identifiedName": "Acanthocephala"
+    },
+    {
+      "verbatim": "Cerabrafulus lacfeus",
+      "scientificName": "Cerabrafulus lacfeus",
+      "offsetStart": 354,
+      "offsetEnd": 373,
+      "identifiedName": "Cerabrafulus lacfeus"
+    },
+    {
+      "verbatim": "ENTOPROCTA",
+      "scientificName": "Entoprocta",
+      "offsetStart": 577,
+      "offsetEnd": 586,
+      "identifiedName": "Entoprocta"
+    }
+  ],
+  "content": "\nBeauchamp, de |930 Le deve|oppemenT des GasTroTr|ches Bull. Soc. Zool.\nFrance 54\nPRIAPULIDA\nLang |939 Uber due Enfwacklung von Prsagulus Kungl Fysiogr. Sallskapef.\nLund Forn 9\nHEMMEFSTGU 0 Benfrage fur von Zool. Ahz. QL.\nACANTHOCEPHALA\nMeyer, A |928 Dae Furchung, efc des Zool. Jahrb. Abf. Ana?\nEMERTINES\nWalson, 1900 The haha? and early developmenf of Cerabrafulus lacfeus.\nQuarT Sc: \nRoux' Arch I6\nYaTsu |904 Experamenfs on The developmenf of egg fragmenTs in Cerebra+uIus.\nll\nZeleny, |904 Experumenfs on The locaiazafson of developmenfal facfors in\nThe Nemerfune egg Exp i\nENTOPROCTA\nProuho |892 ConTr|buT1on a |'hasTo|re des Bryozoaares Arch. Zool. Exp. LQ,\nSeelngerc |906 Uber due Larven und der Polyzoen.\nZool 4\nHarmer, 1887 Sur |'embryogen|e des Bryozasres Ec+oprocTes. Arch. Zool.\nEx 5\n..3Wilson, E. B. 1903. Experiments on cleavage and localizaiion in The NemerTine egg.\n.\nc,eiTl \n'in \np. \n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Priapulida",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "9530c0ac-c181-59c6-bdbf-5d179bfaf049",
+          "name_string": "Priapulida",
+          "canonical_form": "Priapulida",
+          "classification_path": "Animalia|Priapulida",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2363334",
+          "taxon_id": "2363334",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "9530c0ac-c181-59c6-bdbf-5d179bfaf049",
+          "name_string": "Priapulida",
+          "canonical_form": "Priapulida",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_12078762",
+          "local_id": "1533",
+          "url": "http://eol.org/pages/1533/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Prsagulus"
+    },
+    {
+      "supplied_name_string": "Acanthocephala",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "0fcc739e-24ab-548e-bd84-79fea1a11e33",
+          "name_string": "Acanthocephala",
+          "canonical_form": "Acanthocephala",
+          "classification_path": "Animalia|Arthropoda|Insecta|Hemiptera|Hemiptera|Coreidae|Acanthocephala",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362726|2367282|2367348|2410805",
+          "taxon_id": "2410805",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "0fcc739e-24ab-548e-bd84-79fea1a11e33",
+          "name_string": "Acanthocephala",
+          "canonical_form": "Acanthocephala",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_11966390",
+          "local_id": "2",
+          "url": "http://eol.org/pages/2/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 21,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Cerabrafulus lacfeus",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e34db6be-fdca-5fd1-83a2-7e0c9bfddd4e",
+          "name_string": "Cerebratulus lacteus (Leidy, 1851)",
+          "canonical_form": "Cerebratulus lacteus",
+          "classification_path": "Animalia|Nemertea|Anopla|Not assigned|Cerebratulidae|Cerebratulus|Cerebratulus lacteus",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2370535|2370546|2370547|2371800|2433649|7915329",
+          "taxon_id": "7915329",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Entoprocta",
+      "results": [
+        {
+          "data_source_id": 2,
+          "data_source_title": "Wikispecies",
+          "gni_uuid": "ce0d5d47-f069-56bf-b9fc-21eaffacbb10",
+          "name_string": "Entoprocta",
+          "canonical_form": "Entoprocta",
+          "classification_path": "Animalia|Entoprocta",
+          "classification_path_ranks": "|",
+          "classification_path_ids": "80|99170",
+          "taxon_id": "99170",
+          "url": "http://species.wikimedia.org/wiki/Entoprocta",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ce0d5d47-f069-56bf-b9fc-21eaffacbb10",
+          "name_string": "Entoprocta",
+          "canonical_form": "Entoprocta",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29018181",
+          "local_id": "2167",
+          "url": "http://eol.org/pages/2167",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

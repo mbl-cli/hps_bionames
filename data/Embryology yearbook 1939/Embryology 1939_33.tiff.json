@@ -1,0 +1,175 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=gwhWxcPiTt2hzFEn9tnPRA",
+  "input_url": null,
+  "file": "Embryology 1939_33.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.204222511,
+    "resolve_names_duration": 0.744152208,
+    "total_duration": 22.853246806
+  },
+  "agent": "",
+  "created": "2013-06-19T15:25:07-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Pennaria",
+      "scientificName": "Pennaria",
+      "offsetStart": 524,
+      "offsetEnd": 531,
+      "identifiedName": "Pennaria"
+    },
+    {
+      "verbatim": "Obelia,",
+      "scientificName": "Obelia",
+      "offsetStart": 1387,
+      "offsetEnd": 1393,
+      "identifiedName": "Obelia"
+    },
+    {
+      "verbatim": "Campanularia.",
+      "scientificName": "Campanularia",
+      "offsetStart": 1688,
+      "offsetEnd": 1700,
+      "identifiedName": "Campanularia"
+    },
+    {
+      "verbatim": "Obelia",
+      "scientificName": "Obelia",
+      "offsetStart": 1768,
+      "offsetEnd": 1773,
+      "identifiedName": "Obelia"
+    }
+  ],
+  "content": "-4-\nWhen mature, these medusae start to twitch, and those which\nare males emit puffs of whitish sperm, and those which are females\neject with greater travail the three to six opaque pink eggs. This\ndischarge of gametes starts early in the evening in the middle of\nthe summer, and continues through midnight. fhe medusae may dis-\ncharge either before or after they break loose from the colony,\nand thereafter they swim feebly about, shrivel rapidly and die in a\nfew hours. The eggs reach the planula stage in one day.\nMature Pennaria colonies festooned with shedding medusae pro-\nvide an astonishing and beautiful spectacle that the student should\ncertainly see. 'Demonstration will be made at the proper season\n(usually mid-July).\nTease apart male and female gonophores and examine the eggs\nand spent.\nPut stems from ripe male and female colonies together in a\nfingerbowl at 5~4 having carefully rinsed them to protect\nagainst contamination, and leave them overnight.T Next day, remove\nthe stems and look for free~swimming medusae as evidence of shedding.\nlf they are found, look for developing eggs. The eggs are very\nsimple and ameboid, with no apparent membranes. Follow their develop-\nment as far as possible. If the water is changed at least once a\nday, the culture should yield stages in the very simple metamorphosis\nof the planula. (Hargitt, G. T. l900, l909).\nQonothyrea.\nLs in Obelia, the medusae develop within the gonangium. When\nmature they remain attached to the end of the blastostyle, outside\nthe gonangium for several days. Within the bell of the medusa the\neggs are fertilized and develop to the planula stage. Then they are\nset free and the medusa drops off. (Uulfert \nCampanularia. (June, July)\nlt is not safe to try to distinguish this genus from Obelia\nby the anatomy of the feeding individuals. Even the gonosomes are\nsimilar in appearance in the two genera, each consisting of a\ntransparent gonangium with blastostyle extending from base to tip\nand gonophores budding from it.\nThe striking difference is that in Cmnpanularia the medusae\nare not set free, nor do they even attain any characteristic medusa\nform, so far as can be seen in life. Each gonophore on the blastostyle\nof a female colcny contains a very large, irregularly shaped egg\nwhich is fertilized, cleaves, a morula, gastrulates by delamina-\ntion and reaches the free-swimming planula stage in situ. Then the\nplanula is released from the gonangium.\nSelect a gonosome showing eggs in the basal gonophores. Mount\nit on a slide and study with various magnifications under the\nmicroscope.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Pennaria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Pennariidae|Pennaria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2363486|2488405",
+          "taxon_id": "2488405",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ea1deff1-9ad0-533f-b225-de7e7b1b0c7a",
+          "name_string": "Pennaria",
+          "canonical_form": "Pennaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26328107",
+          "local_id": "100988",
+          "url": "http://eol.org/pages/100988",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Obelia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Leptothecata|Campanulariidae|Obelia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363465|2366699|2394668",
+          "taxon_id": "2394668",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327602",
+          "local_id": "18217",
+          "url": "http://eol.org/pages/18217",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Campanularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5f0cb974-421f-5535-b9b8-d3b77b010c22",
+          "name_string": "Campanularia",
+          "canonical_form": "Campanularia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Leptothecata|Campanulariidae|Campanularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363465|2366699|2381260",
+          "taxon_id": "2381260",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5f0cb974-421f-5535-b9b8-d3b77b010c22",
+          "name_string": "Campanularia",
+          "canonical_form": "Campanularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327578",
+          "local_id": "18219",
+          "url": "http://eol.org/pages/18219",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

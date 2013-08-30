@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=hpru80qeSsCyYhkztI2Xcw",
+  "input_url": null,
+  "file": "Embryology 1988_ 76.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.047425837,
+    "total_duration": 23.661141918
+  },
+  "agent": "",
+  "created": "2013-06-18T13:25:42-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "\n\n\nYi\n0\nill?\n3? \nEi i'\n\nll?\nYi\n\n5552*\n\n\n\n1|\n\n\n\n43\n1,1 ogy.\nad 11774;\nYUM\n  \n \n\n?35\n  \n79.1 \n \njam\nJAJU\n4 wuapwuyo\n$Feeigasam \nE3 5\n:zu*ilk 8.51ggecrw I I 5 5 L-1\n%f5??32-sowgaia  5 ws. \n2 - \n5? 9,328 give. I\n  3\n\n"
+}

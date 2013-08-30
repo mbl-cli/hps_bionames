@@ -1,0 +1,463 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=C9WKznr5Qx2ykOO1FqPnjQ",
+  "input_url": null,
+  "file": "86_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.147437746,
+    "resolve_names_duration": 1.885277162,
+    "total_duration": 28.340737705
+  },
+  "agent": "",
+  "created": "2013-06-18T12:48:47-04:00",
+  "total": 10,
+  "names": [
+    {
+      "verbatim": "Arenicola",
+      "scientificName": "Arenicola",
+      "offsetStart": 548,
+      "offsetEnd": 556,
+      "identifiedName": "Arenicola"
+    },
+    {
+      "verbatim": "Unionidae.",
+      "scientificName": "Unionidae",
+      "offsetStart": 732,
+      "offsetEnd": 741,
+      "identifiedName": "Unionidae"
+    },
+    {
+      "verbatim": "Dreissensia polymorpha",
+      "scientificName": "Dreissensia polymorpha",
+      "offsetStart": 944,
+      "offsetEnd": 965,
+      "identifiedName": "Dreissensia polymorpha"
+    },
+    {
+      "verbatim": "Urechis.",
+      "scientificName": "Urechis",
+      "offsetStart": 1029,
+      "offsetEnd": 1036,
+      "identifiedName": "Urechis"
+    },
+    {
+      "verbatim": "Ureghis caugo",
+      "scientificName": "Ureghis caugo",
+      "offsetStart": 1087,
+      "offsetEnd": 1099,
+      "identifiedName": "Ureghis caugo"
+    },
+    {
+      "verbatim": "Podarke obscura",
+      "scientificName": "Podarke obscura",
+      "offsetStart": 1151,
+      "offsetEnd": 1165,
+      "identifiedName": "Podarke obscura"
+    },
+    {
+      "verbatim": "Clepsine.",
+      "scientificName": "Clepsine",
+      "offsetStart": 1234,
+      "offsetEnd": 1242,
+      "identifiedName": "Clepsine"
+    },
+    {
+      "verbatim": "Nereis.",
+      "scientificName": "Nereis",
+      "offsetStart": 1415,
+      "offsetEnd": 1421,
+      "identifiedName": "Nereis"
+    },
+    {
+      "verbatim": "Polygordius",
+      "scientificName": "Polygordius",
+      "offsetStart": 1655,
+      "offsetEnd": 1665,
+      "identifiedName": "Polygordius"
+    },
+    {
+      "verbatim": "Trochophora",
+      "scientificName": "Trochophora",
+      "offsetStart": 1788,
+      "offsetEnd": 1798,
+      "identifiedName": "Trochophora"
+    }
+  ],
+  "content": "\nAddiTiona| references for specific organisms may be found in CosTe||o, D.,\neT al, |957. MeThods for obTaining and handling marine eggs and embryos.\nGeneral References on Cell-Lineage:\nHuxley and DeBeer\nMacBride, E. W.\nMorgan, T. H.\n|934 E|emenTs of Experimenfal Embryology. Cambridge Univ. Pr.\nl9l4 TexTbook of Embryology. Vol. I, MacMillan, London\n|934 Embryology and geneTics. Columbia Univ. Press, New York\nRichards, A. l95| 0uT|ine of ComparaTive Embryology. Wiley Sons, N. Y.\nSpecial References on \nChild, C. M. |900 The early developmenf of Arenicola and Sfernaspis. Roux.\nArch. f. Enfwick., Bd. 9, S. 587-723.\nHeaTh, H. |899 The deve|opmenT of |schnochiTon. G. Fischer, Jana pp |-90\nLillie, F. R. |895 The embryology of The Unionidae. J. Morph. \n|899 AdapTaTion in cleavage. Biol. Lec. Woods Hole, |898 pp43-67\nMead, A. D. |897 Early deve|opmenT of marine annelids. J. Morph. |3:227-326\nMeisenheimer, J. |90| EnTwick|ungsgeschichTe von Dreissensia polymorpha, Pall\nNewby, W. W. |932 The early morphology of The echiuroid Urechis. Biol. Bull.\n\n|940 The embryology of The Euiuroid Ureghis caugo. Mem. Amer.\nTreadwell, A. L. |90| The cyfology of Podarke obscura Verrill. J. Morph |7:399-486\nWhiTman, C. O. |878\nThe embryology of Clepsine. Q. Jour. Micr. Sci. \nWierzejski, Anfone |905 Embryologie von ZeiT. f. wiss. Zool.\nWilson, E. B. |892\nWilson, E. B. |898\nWolTereck, R. |905\n83: 505-706\nThe cell lineage of Nereis. J. Morph., \nConsiderafions on cell-lineage and ancesTra| reminiscence,\nbased on a re-examinaTion of some poinTs in The early\ndevelopmenf of Annelids and Poiyclads. Ann. N. Y. Acad.\nSci. Li; l-27\nBeifrage zur prakTischen analyse der Polygordius EnTwick-\nlung nach dem \"Nordsee\" und dem \"MiTTe|mecTypus\". Der\nfur beide Typen gleichverlaufend \nvom Ei bis gum jungsTen Trochophora STadium. Roux. Arch.\nT. EnTwick|., 377-403.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arenicola",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "84d6cfa9-9a80-5287-b2f8-6952019bd10c",
+          "name_string": "Arenicola",
+          "canonical_form": "Arenicola",
+          "classification_path": "Animalia|Annelida|Polychaeta|Not assigned|Arenicolidae|Arenicola",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369670|2372229|2413253",
+          "taxon_id": "2413253",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "84d6cfa9-9a80-5287-b2f8-6952019bd10c",
+          "name_string": "Arenicola",
+          "canonical_form": "Arenicola",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "27908479",
+          "local_id": "52394",
+          "url": "http://eol.org/pages/52394",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Unionidae",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "ec7c2669-f017-5bd5-90bb-edf34008a8d5",
+          "name_string": "Unionidae",
+          "canonical_form": "Unionidae",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Unionoida|Unionidae",
+          "classification_path_ranks": "kingdom|phylum|class|order|family",
+          "classification_path_ids": "2362377|2362382|2369911|2369972|2369974",
+          "taxon_id": "2369974",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "ec7c2669-f017-5bd5-90bb-edf34008a8d5",
+          "name_string": "Unionidae",
+          "canonical_form": "Unionidae",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627507",
+          "local_id": "2274",
+          "url": "http://eol.org/pages/2274",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Dreissensia polymorpha",
+      "results": [
+        {
+          "data_source_id": 164,
+          "data_source_title": "BioLib.cz",
+          "gni_uuid": "5c721b2e-bf46-58c0-8d55-c6d8ef5faba3",
+          "name_string": "Dreissensia polymorpha",
+          "canonical_form": "Dreissensia polymorpha",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "141732254",
+          "url": "http://www.biolib.cz/en/taxon/id3034/",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 2,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Urechis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "122b0e00-3626-546d-8827-3b87b183cd28",
+          "name_string": "Urechis",
+          "canonical_form": "Urechis",
+          "classification_path": "Animalia|Echiura|Not assigned|Not assigned|Urechidae|Urechis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2368575|2368576|2368577|2368581|2445070",
+          "taxon_id": "2445070",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "122b0e00-3626-546d-8827-3b87b183cd28",
+          "name_string": "Urechis",
+          "canonical_form": "Urechis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20783822",
+          "local_id": "64943",
+          "url": "http://eol.org/pages/64943",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ureghis caugo",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "bbc5de4d-d29e-5721-8f12-1e970224437a",
+          "name_string": "Urechis caupo Fisher, W.K. & G.E. MacGinitie, 1928",
+          "canonical_form": "Urechis caupo",
+          "classification_path": "Animalia|Echiura|Not assigned|Not assigned|Urechidae|Urechis|Urechis caupo",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2368575|2368576|2368577|2368581|2445070|5284480",
+          "taxon_id": "5284480",
+          "match_type": 3,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 1,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Podarke obscura",
+      "results": [
+        {
+          "data_source_id": 3,
+          "data_source_title": "ITIS",
+          "gni_uuid": "59f3df8e-122c-5fe4-9f6d-e684ca4b1f77",
+          "name_string": "Podarke obscura",
+          "canonical_form": "Podarke obscura",
+          "classification_path": "Animalia|Annelida|Polychaeta|Palpata|Aciculata|Phyllodocida|Hesionidae|Podarke|Podarke obscura",
+          "classification_path_ranks": "Kingdom|Division|Class|Subclass|Order|Suborder|Family|Genus|Species",
+          "classification_path_ids": "202423|64357|64358|555667|555670|555674|65467|65514|65517",
+          "taxon_id": "65517",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "59f3df8e-122c-5fe4-9f6d-e684ca4b1f77",
+          "name_string": "Podarke obscura",
+          "canonical_form": "Podarke obscura",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34397194",
+          "local_id": "454057",
+          "url": "http://eol.org/pages/454057",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Clepsine",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "c469d3df-ce05-5c62-9cde-d7f07660e319",
+          "name_string": "Clepsine",
+          "canonical_form": "Clepsine",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "32518314",
+          "local_id": "15508429",
+          "url": "http://eol.org/pages/15508429",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "c469d3df-ce05-5c62-9cde-d7f07660e319",
+          "name_string": "Clepsine",
+          "canonical_form": "Clepsine",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "32518314",
+          "local_id": "15508429",
+          "url": "http://eol.org/pages/15508429",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 6,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Nereis",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "Animalia|Annelida|Polychaeta|Phyllodocida|Nereididae|Nereis",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369640|2369654|2380965",
+          "taxon_id": "2380965",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3c51cdb6-8b79-559a-b4c4-7a5aa72c416f",
+          "name_string": "Nereis",
+          "canonical_form": "Nereis",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20673694",
+          "local_id": "50748",
+          "url": "http://eol.org/pages/50748",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Polygordius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cd68c025-ad53-50f1-8936-e6f6412d4fb4",
+          "name_string": "Polygordius",
+          "canonical_form": "Polygordius",
+          "classification_path": "Animalia|Annelida|Polychaeta|Not assigned|Polygordiidae|Polygordius",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2369613|2369614|2369670|2369680|2513732",
+          "taxon_id": "2513732",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cd68c025-ad53-50f1-8936-e6f6412d4fb4",
+          "name_string": "Polygordius",
+          "canonical_form": "Polygordius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29101231",
+          "local_id": "71623",
+          "url": "http://eol.org/pages/71623",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 12,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Trochophora",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7329c568-4842-5b8e-8273-b67b4dc898ed",
+          "name_string": "Trochophora",
+          "canonical_form": "Trochophora",
+          "classification_path": "Fungi|Ascomycota|Not assigned|Not assigned|Not assigned|Trochophora",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2365755|2365760|2366071|2366072|2366073|2392742",
+          "taxon_id": "2392742",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "7329c568-4842-5b8e-8273-b67b4dc898ed",
+          "name_string": "Trochophora",
+          "canonical_form": "Trochophora",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "44735291",
+          "local_id": "25133692",
+          "url": "http://eol.org/pages/25133692",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 11,
+      "in_curated_sources": true
+    }
+  ]
+}

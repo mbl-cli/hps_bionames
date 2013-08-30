@@ -1,0 +1,828 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=neLLhDZEQ6i30CossKYDiw",
+  "input_url": null,
+  "file": "149_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.067100892,
+    "resolve_names_duration": 2.651633436,
+    "total_duration": 32.089426657
+  },
+  "agent": "",
+  "created": "2013-06-18T12:14:06-04:00",
+  "total": 19,
+  "names": [
+    {
+      "verbatim": "PORIFERA COELENTERATA",
+      "scientificName": "Porifera coelenterata",
+      "offsetStart": 237,
+      "offsetEnd": 257,
+      "identifiedName": "Porifera coelenterata"
+    },
+    {
+      "verbatim": "Hydrozoa",
+      "scientificName": "Hydrozoa",
+      "offsetStart": 259,
+      "offsetEnd": 266,
+      "identifiedName": "Hydrozoa"
+    },
+    {
+      "verbatim": "PLATYHELMINTHES",
+      "scientificName": "Platyhelminthes",
+      "offsetStart": 288,
+      "offsetEnd": 302,
+      "identifiedName": "Platyhelminthes"
+    },
+    {
+      "verbatim": "NEMERTEA",
+      "scientificName": "Nemertea",
+      "offsetStart": 316,
+      "offsetEnd": 323,
+      "identifiedName": "Nemertea"
+    },
+    {
+      "verbatim": "ANNELIDA",
+      "scientificName": "Annelida",
+      "offsetStart": 348,
+      "offsetEnd": 355,
+      "identifiedName": "Annelida"
+    },
+    {
+      "verbatim": "CRUSTACEA",
+      "scientificName": "Crustacea",
+      "offsetStart": 387,
+      "offsetEnd": 395,
+      "identifiedName": "Crustacea"
+    },
+    {
+      "verbatim": "ECHINODERMA",
+      "scientificName": "Echinoderma",
+      "offsetStart": 397,
+      "offsetEnd": 407,
+      "identifiedName": "Echinoderma"
+    },
+    {
+      "verbatim": "Asteroidea",
+      "scientificName": "Asteroidea",
+      "offsetStart": 409,
+      "offsetEnd": 418,
+      "identifiedName": "Asteroidea"
+    },
+    {
+      "verbatim": "Holothuroidea",
+      "scientificName": "Holothuroidea",
+      "offsetStart": 433,
+      "offsetEnd": 445,
+      "identifiedName": "Holothuroidea"
+    },
+    {
+      "verbatim": "Crinoidea",
+      "scientificName": "Crinoidea",
+      "offsetStart": 447,
+      "offsetEnd": 455,
+      "identifiedName": "Crinoidea"
+    },
+    {
+      "verbatim": "Enteropneusta",
+      "scientificName": "Enteropneusta",
+      "offsetStart": 468,
+      "offsetEnd": 480,
+      "identifiedName": "Enteropneusta"
+    },
+    {
+      "verbatim": "TUNICATA",
+      "scientificName": "Tunicata",
+      "offsetStart": 482,
+      "offsetEnd": 489,
+      "identifiedName": "Tunicata"
+    },
+    {
+      "verbatim": "PLANULA,",
+      "scientificName": "Planula",
+      "offsetStart": 523,
+      "offsetEnd": 530,
+      "identifiedName": "Planula"
+    },
+    {
+      "verbatim": "PLANULA PLANULA",
+      "scientificName": "Planula planula",
+      "offsetStart": 541,
+      "offsetEnd": 555,
+      "identifiedName": "Planula planula"
+    },
+    {
+      "verbatim": "EPHYRA",
+      "scientificName": "Ephyra",
+      "offsetStart": 558,
+      "offsetEnd": 563,
+      "identifiedName": "Ephyra"
+    },
+    {
+      "verbatim": "PILIDIUM",
+      "scientificName": "Pilidium",
+      "offsetStart": 571,
+      "offsetEnd": 578,
+      "identifiedName": "Pilidium"
+    },
+    {
+      "verbatim": "BIPINNARIA  PLUTEUS",
+      "scientificName": "Bipinnaria pluteus",
+      "offsetStart": 627,
+      "offsetEnd": 645,
+      "identifiedName": "Bipinnaria pluteus"
+    },
+    {
+      "verbatim": "VITELLARIA",
+      "scientificName": "Vitellaria",
+      "offsetStart": 648,
+      "offsetEnd": 657,
+      "identifiedName": "Vitellaria"
+    },
+    {
+      "verbatim": "VITELLARIA",
+      "scientificName": "Vitellaria",
+      "offsetStart": 671,
+      "offsetEnd": 680,
+      "identifiedName": "Vitellaria"
+    }
+  ],
+  "content": "Tggenomig summaxy\n-3-\nBelow is a table uf the names uf major larval forms ana their taxonumic pesitlens\nBrief desefiptiens ef these larvae fellew, to serve in identificetiun and study\nMAJOR\nLARVAL meg\nTaxonumiu categories\n ll 'O?i 1lill\nPORIFERA\nCOELENTERATA Hydrozoa\nAotinuzoa\nSuyphozoa\nPLATYHELMINTHES Turbellari&\nNEMERTEA\nENDOPROCTA\nECTOPROGTA\n\nANNELIDA\nMULLUSCA (except Gephalopoda)\nCRUSTACEA\nECHINODERMA Asteroidea\n Echinoidee\n\nHolothuroidea\nCrinoidea\nHEMICHORDA Enteropneusta\nTUNICATA \nLarval type\n 1l \nAMPHIBLASTULA\nPLANULA, AGTINULA\nPLANULA\nPLANULA, EPHYRA\nLARVA\nPILIDIUM\n\n\n\nTaoozaomoxm\n\nMUPLIUS, HEEAIJAUPLIUS,\nzomx, \nBIPINNARIA\n\nPLUTEUS, VITELLARIA\nmmIcUL1m1A, VITELLARIA\n\n\nTADPULE\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Porifera coelenterata",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "99981e2d-6c30-54b3-9230-5416603c5a58",
+          "name_string": "Porifera",
+          "canonical_form": "Porifera",
+          "classification_path": "Animalia|Porifera",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2364202",
+          "taxon_id": "2364202",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "99981e2d-6c30-54b3-9230-5416603c5a58",
+          "name_string": "Porifera",
+          "canonical_form": "Porifera",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20625082",
+          "local_id": "3142",
+          "url": "http://eol.org/pages/3142",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Hydrozoa",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2363435|2363454",
+          "taxon_id": "2363454",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992508",
+          "local_id": "1795",
+          "url": "http://eol.org/pages/1795",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Platyhelminthes",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "810a2c3a-6707-5218-901c-396d323f3c6e",
+          "name_string": "Platyhelminthes",
+          "canonical_form": "Platyhelminthes",
+          "classification_path": "Animalia|Platyhelminthes",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2364008",
+          "taxon_id": "2364008",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "810a2c3a-6707-5218-901c-396d323f3c6e",
+          "name_string": "Platyhelminthes",
+          "canonical_form": "Platyhelminthes",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "40913808",
+          "local_id": "11143253",
+          "url": "http://eol.org/pages/11143253",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Nemertea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "67efac95-811a-5ff6-9697-0f103f3790be",
+          "name_string": "Nemertea",
+          "canonical_form": "Nemertea",
+          "classification_path": "Animalia|Nemertea",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2370535",
+          "taxon_id": "2370535",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "67efac95-811a-5ff6-9697-0f103f3790be",
+          "name_string": "Nemertea",
+          "canonical_form": "Nemertea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "38931384",
+          "local_id": "2855",
+          "url": "http://eol.org/pages/2855",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Annelida",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "d231efa8-876a-5feb-8b9c-d2884cd86bc7",
+          "name_string": "Annelida",
+          "canonical_form": "Annelida",
+          "classification_path": "Animalia|Annelida",
+          "classification_path_ranks": "kingdom|phylum",
+          "classification_path_ids": "2362377|2369613",
+          "taxon_id": "2369613",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "d231efa8-876a-5feb-8b9c-d2884cd86bc7",
+          "name_string": "Annelida",
+          "canonical_form": "Annelida",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39139806",
+          "local_id": "36",
+          "url": "http://eol.org/pages/36",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Crustacea",
+      "results": [
+        {
+          "data_source_id": 2,
+          "data_source_title": "Wikispecies",
+          "gni_uuid": "30842bab-e383-5d8e-8ce5-66a7e9251aeb",
+          "name_string": "Crustacea",
+          "canonical_form": "Crustacea",
+          "classification_path": "Animalia|Eumetazoa|Bilateria|Nephrozoa|Protostomia|Ecdysozoa|Panarthropoda|Artiopoda|Crustacea",
+          "classification_path_ranks": "||||||||",
+          "classification_path_ids": "80|4404|192967|249913|99137|148590|249529|425|99662",
+          "taxon_id": "99662",
+          "url": "http://species.wikimedia.org/wiki/Crustacea",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "30842bab-e383-5d8e-8ce5-66a7e9251aeb",
+          "name_string": "Crustacea",
+          "canonical_form": "Crustacea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29025333",
+          "local_id": "2598871",
+          "url": "http://eol.org/pages/2598871",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Echinoderma",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3eeb4db7-0dcd-5728-a5cc-48366567006c",
+          "name_string": "Echinoderma",
+          "canonical_form": "Echinoderma",
+          "classification_path": "Animalia|Arthropoda|Insecta|Coleoptera|Coleoptera|Curculionidae|Echinoderma",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362602|2362836|2365690|2460907",
+          "taxon_id": "2460907",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3eeb4db7-0dcd-5728-a5cc-48366567006c",
+          "name_string": "Echinoderma",
+          "canonical_form": "Echinoderma",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30194593",
+          "local_id": "6726297",
+          "url": "http://eol.org/pages/6726297",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Asteroidea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "eb26d2c9-4c56-50ee-9637-476d4857c8e3",
+          "name_string": "Asteroidea",
+          "canonical_form": "Asteroidea",
+          "classification_path": "Animalia|Echinodermata|Asteroidea",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2362508|2362716",
+          "taxon_id": "2362716",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "eb26d2c9-4c56-50ee-9637-476d4857c8e3",
+          "name_string": "Asteroidea",
+          "canonical_form": "Asteroidea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39145240",
+          "local_id": "1927",
+          "url": "http://eol.org/pages/1927",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Holothuroidea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "a79a9c5d-fa14-546b-860e-fec9dfc5136c",
+          "name_string": "Holothuroidea",
+          "canonical_form": "Holothuroidea",
+          "classification_path": "Animalia|Echinodermata|Holothuroidea",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2362508|2362512",
+          "taxon_id": "2362512",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a79a9c5d-fa14-546b-860e-fec9dfc5136c",
+          "name_string": "Holothuroidea",
+          "canonical_form": "Holothuroidea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39146987",
+          "local_id": "2012",
+          "url": "http://eol.org/pages/2012",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Crinoidea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "813583ad-c364-5c15-b01a-43eaa1446fee",
+          "name_string": "Crinoidea",
+          "canonical_form": "Crinoidea",
+          "classification_path": "Animalia|Echinodermata|Crinoidea",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2362508|2362642",
+          "taxon_id": "2362642",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "813583ad-c364-5c15-b01a-43eaa1446fee",
+          "name_string": "Crinoidea",
+          "canonical_form": "Crinoidea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39145057",
+          "local_id": "1960",
+          "url": "http://eol.org/pages/1960",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Enteropneusta",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "3b6a8d5f-1cba-5617-9ce7-be9bacfbf1b6",
+          "name_string": "Enteropneusta",
+          "canonical_form": "Enteropneusta",
+          "classification_path": "Animalia|Hemichordata|Enteropneusta",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2368582|2368587",
+          "taxon_id": "2368587",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3b6a8d5f-1cba-5617-9ce7-be9bacfbf1b6",
+          "name_string": "Enteropneusta",
+          "canonical_form": "Enteropneusta",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "39205671",
+          "local_id": "8859",
+          "url": "http://eol.org/pages/8859",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tunicata",
+      "results": [
+        {
+          "data_source_id": 4,
+          "data_source_title": "NCBI",
+          "gni_uuid": "93d3a101-f63b-5bf0-9fd6-730766de7e51",
+          "name_string": "Tunicata",
+          "canonical_form": "Tunicata",
+          "classification_path": "|Eukaryota|Opisthokonta|Metazoa|Eumetazoa|Bilateria|Coelomata|Deuterostomia|Chordata|Tunicata",
+          "classification_path_ranks": "|superkingdom||kingdom|||||phylum|subphylum",
+          "classification_path_ids": "131567|2759|33154|33208|6072|33213|33316|33511|7711|7712",
+          "taxon_id": "7712",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "93d3a101-f63b-5bf0-9fd6-730766de7e51",
+          "name_string": "Tunicata",
+          "canonical_form": "Tunicata",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "29103803",
+          "local_id": "2773824",
+          "url": "http://eol.org/pages/2773824",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 9,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Planula",
+      "results": [
+        {
+          "data_source_id": 169,
+          "data_source_title": "uBio NameBank",
+          "gni_uuid": "1f84fe66-bbcd-5729-83ce-5f48e7771443",
+          "name_string": "Planula",
+          "canonical_form": "Planula",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "97453328",
+          "local_id": "urn:lsid:ubio.org:namebank:4299741",
+          "global_id": "urn:lsid:ubio.org:namebank:4299741",
+          "url": "http://www.ubio.org/browser/details.php?namebankID=4299741",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Planula planula",
+      "results": [
+        {
+          "data_source_id": 8,
+          "data_source_title": "Interim Register of Marine and Nonmarine Genera",
+          "gni_uuid": "0df41914-93c5-5a26-af6e-08fee2230038",
+          "name_string": "Planula Dalyell, 1835",
+          "canonical_form": "Planula",
+          "classification_path": "Animalia|Planula",
+          "classification_path_ranks": "kingdom|genus",
+          "classification_path_ids": "11|1398867",
+          "taxon_id": "1398867",
+          "local_id": "1398867",
+          "url": "http://www.marine.csiro.au/mirrorsearch/ir_search.taxon_info?id=1398867",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Ephyra",
+      "results": [
+        {
+          "data_source_id": 7,
+          "data_source_title": "Union 4",
+          "gni_uuid": "9159e1ba-62ba-5c07-a157-94733b596bed",
+          "name_string": "Ephyra",
+          "canonical_form": "Ephyra",
+          "classification_path": "|Cellular life|Eukaryota|Opisthokonts|Choanoflagellates and animals|Animalia|Epitheliates|Bilateria|Ecdysozoa|Legged ecdysozoa|Arthropoda|Hexapods|Insecta|Pterygota|Lepidoptera|Glossata|Neolepidoptera|Heteroneura|Eulepidoptera|Macroheterocera|Geometroidea|Geometridae|Ephyra",
+          "classification_path_ranks": "|above family|above family|above family|above family|unranked|above family|above family|above family|above family|above family|above family|above family|above family|above family||||||above family|family|genus",
+          "classification_path_ids": "2822864|2823207|2828118|2843765|2843766|2843767|2843768|17974913|2910040|2910041|2910042|2913524|2913525|2922935|3011222|20432451|20432460|20432464|20432467|20432500|3015227|3015228|3016278",
+          "taxon_id": "3016278",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "9159e1ba-62ba-5c07-a157-94733b596bed",
+          "name_string": "Ephyra",
+          "canonical_form": "Ephyra",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35445106",
+          "local_id": "4262530",
+          "url": "http://eol.org/pages/4262530",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 7,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Pilidium",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "90c47fcb-71c9-56ee-8bea-22210347e4fe",
+          "name_string": "Pilidium",
+          "canonical_form": "Pilidium",
+          "classification_path": "Fungi|Ascomycota|Leotiomycetes|Helotiales|Not assigned|Pilidium",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2365755|2365760|2365790|2365791|2366076|2490177",
+          "taxon_id": "2490177",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "90c47fcb-71c9-56ee-8bea-22210347e4fe",
+          "name_string": "Pilidium",
+          "canonical_form": "Pilidium",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28961688",
+          "local_id": "19004",
+          "url": "http://eol.org/pages/19004",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Bipinnaria pluteus",
+      "results": [
+        {
+          "data_source_id": 8,
+          "data_source_title": "Interim Register of Marine and Nonmarine Genera",
+          "gni_uuid": "330f7b98-c4cc-5276-b2b3-963b7deeb0fb",
+          "name_string": "Bipinnaria Sars, 1835",
+          "canonical_form": "Bipinnaria",
+          "classification_path": "Animalia|Echinodermata|Bipinnaria",
+          "classification_path_ranks": "kingdom|phylum|genus",
+          "classification_path_ids": "11|158|1403548",
+          "taxon_id": "1403548",
+          "local_id": "1403548",
+          "url": "http://www.marine.csiro.au/mirrorsearch/ir_search.taxon_info?id=1403548",
+          "match_type": 6,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 4,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Vitellaria",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "da12065e-efdb-5e6e-9fa1-855931e82d22",
+          "name_string": "Vitellaria",
+          "canonical_form": "Vitellaria",
+          "classification_path": "Plantae|Magnoliophyta|Magnoliopsida|Ericales|Sapotaceae|Vitellaria",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2362540|2362541|2367980|2367981|2500033",
+          "taxon_id": "2500033",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "a8e0c33d-e8cd-5c89-b7b7-5a799e65fd22",
+          "name_string": "Vitellaria Gaertner f.",
+          "canonical_form": "Vitellaria",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "36433240",
+          "local_id": "44476",
+          "url": "http://eol.org/pages/44476",
+          "match_type": 2,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    }
+  ]
+}

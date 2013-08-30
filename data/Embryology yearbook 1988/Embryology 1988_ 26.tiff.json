@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=lFKezq72SwmT6sFs08rmgw",
+  "input_url": null,
+  "file": "Embryology 1988_ 26.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.158768288,
+    "total_duration": 21.477106183
+  },
+  "agent": "",
+  "created": "2013-06-18T13:16:24-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "MBL Embryology Course\nSummer 1988\nJ.R. Whittaker\nA SIM LE SINGLE STEP HISTOCHEMICAL \nthe Karnovsky and Roots (1964) technique\nFixatives:\n(A) for ascidian embryos WITH chorions, cold 80% ethanol\n(Durante, 1956) for 3 min only\n(B) for ascidian embryos WITHOUT chorions, cold half-\nstrength Karnovsky (1965) fixative (which contains 1.5% each of\nformaldehyde and glutaraldehyde) for 10 min; wash (SOC) in\ncacodylate washing solution (Karnovsky, 1965) for 10 min\n(C3 an alternative fixative for embryos WITHOUT chorions, cold\n(5 C) 5% fresh 25% formaldehyde in filtered sea water (1 ml:4 ml\nfor 15 min\nSolutions: \n1. 0.1 sodium hydrogen maleate buffer, pH 6.0\n0.2 Na maleate\n(9.8 maleic ml)\n0.2 \n(4.0 ml)\nApproximately 500 ml 0.2 Na maleate plus 270 ml 0.2 \nadjusted under pH meter to pH 6.0\n2. 0.1 sodium citrate (7.35 g/250 ml)\n3. 30 mM CUSOAOSHZO (1.88 g/250 ml)\n4. 5 mM ferricyanide (400 mg/250 ml)\n4\nIncubation\nmedium: \nComponents have to be added in the following order with swirling\nin between each addition, otherwise a precipitate will form\n20 mg iodide\n26 ml maleate buffer\n2 ml citrate\n4 ml copper sulfate\n4 ml distilled water (including inhibitors, if any)\n4 ml ferricyanide\nProcedure:\nIncubation is 2-4 hr at (or at room temperature). Sometimes\nhalf an hour is sufficient; other materials may require a longer\nincubation time\n\n"
+}

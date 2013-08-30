@@ -1,0 +1,349 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=8nCdw3tpTpSfAJItZexgRw",
+  "input_url": null,
+  "file": "Embryology 1939_40B.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": false,
+  "execution_time": {
+    "find_names_duration": 0.120626423,
+    "resolve_names_duration": 0.939299407,
+    "total_duration": 23.192711415
+  },
+  "agent": "",
+  "created": "2013-06-19T15:26:42-04:00",
+  "total": 10,
+  "names": [
+    {
+      "verbatim": "Hydrozoa.",
+      "scientificName": "Hydrozoa",
+      "offsetStart": 386,
+      "offsetEnd": 394,
+      "identifiedName": "Hydrozoa"
+    },
+    {
+      "verbatim": "Corymorpha",
+      "scientificName": "Corymorpha",
+      "offsetStart": 578,
+      "offsetEnd": 587,
+      "identifiedName": "Corymorpha"
+    },
+    {
+      "verbatim": "Corymorpha palma",
+      "scientificName": "Corymorpha palma",
+      "offsetStart": 723,
+      "offsetEnd": 738,
+      "identifiedName": "Corymorpha palma"
+    },
+    {
+      "verbatim": "Corymorpha.",
+      "scientificName": "Corymorpha",
+      "offsetStart": 838,
+      "offsetEnd": 848,
+      "identifiedName": "Corymorpha"
+    },
+    {
+      "verbatim": "Corymorpha",
+      "scientificName": "Corymorpha",
+      "offsetStart": 955,
+      "offsetEnd": 964,
+      "identifiedName": "Corymorpha"
+    },
+    {
+      "verbatim": "Corymorpha",
+      "scientificName": "Corymorpha",
+      "offsetStart": 1093,
+      "offsetEnd": 1102,
+      "identifiedName": "Corymorpha"
+    },
+    {
+      "verbatim": "Biologia",
+      "scientificName": "Biologia",
+      "offsetStart": 1170,
+      "offsetEnd": 1177,
+      "identifiedName": "Biologia"
+    },
+    {
+      "verbatim": "Obelia).",
+      "scientificName": "Obelia",
+      "offsetStart": 1484,
+      "offsetEnd": 1491,
+      "identifiedName": "Obelia"
+    },
+    {
+      "verbatim": "Tubularia.",
+      "scientificName": "Tubularia",
+      "offsetStart": 1549,
+      "offsetEnd": 1558,
+      "identifiedName": "Tubularia"
+    },
+    {
+      "verbatim": "Tubularia crocea",
+      "scientificName": "Tubularia crocea",
+      "offsetStart": 2128,
+      "offsetEnd": 2143,
+      "identifiedName": "Tubularia crocea"
+    }
+  ],
+  "content": "chile, c.\nChild, C.\nChild, G.\nChild, c.\nUhild, C.\nPhild, C.\n 1111, \n\nBibliography\nM. 1907. Arch. f. Entwm. vol. 24. IV. Hegi nal and polar\ndifferences in the time of \nV. Hegulati in short pieces. pp. 295-516. VI. The sig-\nnificance of certain modifications of regulation; polarity\nand form regulation in general. pp. 517-548.\nM. 1925. Biol. Bull. 48 pp. 176-199. The axial Gradients\nin Hydrozoa. V11. Modifications of development thru dif-\nferential susceptibility.\nM. 1927. Jour. Exp. Zool. vol. 47 pp. 545-585 and vol. 48\npp. 197-221. Modification of polarity and symmetry in\nCorymorpha palms by means of inhibiting conditions and\ndifferential exposure.\nM. 1928. Axial development in aggregates of dissociated\ncells from Corymorpha palma. Physiol. Zool. vol. 1, pp.\n\nM. 1929. Lateral grafts and incisions as organizers in\nthe hydroid Corymorpha. Physiol. Zocl. vol. 2, pp. 542-574\nM. 1952. Determination of new axes by lateral grafts and\nincisions in Corymorpha in relation to the radient and\ndominance.. Physiol. Zool., vol. 5.\nM. and L. H. Hyman. 1926. Studies on the axial gradients\nin Corymorpha palms. 1. Respiratory, electric and recon-\nstitutional gradients. Biologia Generalis, vol. 2, pp.\nGilchrist, F. G. 1957. The hydroid polyp corymorpha palma as ges-\ntalt and as history. Am. Nat. vol. 71.\nLund, E. J. 1921, 1925, 1924. Jour. Exp. Zcol. vol. 54 pp. 471-495,\nvol. 57, pp. 69-87 anf vol. 59 p. 557. Experimental\ncontrol of organic polarity by the electric current.\n(in Obelia).\nMorgan, T. H. 1905. Some factors in the regeneration of Tubularia.\nLrchiv. fHr Entwicklungsmechanik Ba. 16, S, 125-154.\nMutz, E. 1950. Arch. f. Entw. d. Org. 121 pp. 210-271. Transplant-\nationsversuche an Hydra mit besonderer der\nlnduktion, Regionalitat and Polaritat.\nRand, H. W., J. F. Bovard and D. E. Minnich. 1926, kroc. Nat. Load.\nWilson, \nZwillingr\nSci. vol. 12 pp. 565-570. Localization of formative\nagencies in Hydra.\nV. 1911. Jour. Exp. Zool. ll pp. 280-558. On the behavior\nof the dissociated cells in hydroids, blcyonaria and Lsteri\nE. 1959. Biol. Bull. 76, pp. 90-105. The effect of removal\nof perisarc on regeneration in Tubularia crocea. \ncl\n\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Hydrozoa",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa",
+          "classification_path_ranks": "kingdom|phylum|class",
+          "classification_path_ids": "2362377|2363435|2363454",
+          "taxon_id": "2363454",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "cb877a84-d6d5-5116-bf5e-07a4b7d8bdd5",
+          "name_string": "Hydrozoa",
+          "canonical_form": "Hydrozoa",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "28992508",
+          "local_id": "1795",
+          "url": "http://eol.org/pages/1795",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 17,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Corymorpha",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "f85afdbf-0973-567e-9916-10c4071de287",
+          "name_string": "Corymorpha",
+          "canonical_form": "Corymorpha",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Corymorphidae|Corymorpha",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2366669|2394408",
+          "taxon_id": "2394408",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "f85afdbf-0973-567e-9916-10c4071de287",
+          "name_string": "Corymorpha",
+          "canonical_form": "Corymorpha",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327677",
+          "local_id": "23393",
+          "url": "http://eol.org/pages/23393",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Corymorpha palma",
+      "results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3813896e-258d-5566-a40a-700b765a0d1e",
+          "name_string": "Corymorpha palma",
+          "canonical_form": "Corymorpha palma",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35391447",
+          "local_id": "1006547",
+          "url": "http://eol.org/pages/1006547",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "3813896e-258d-5566-a40a-700b765a0d1e",
+          "name_string": "Corymorpha palma",
+          "canonical_form": "Corymorpha palma",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "35391447",
+          "local_id": "1006547",
+          "url": "http://eol.org/pages/1006547",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 13,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Biologia",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Obelia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Leptothecata|Campanulariidae|Obelia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2363435|2363454|2363465|2366699|2394668",
+          "taxon_id": "2394668",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "20bd12c9-47fa-5f2e-b490-30f2b515ea8e",
+          "name_string": "Obelia",
+          "canonical_form": "Obelia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "26327602",
+          "local_id": "18217",
+          "url": "http://eol.org/pages/18217",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Tubularia crocea",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "5b57cba7-31a7-5690-8726-b0bed9a411f5",
+          "name_string": "Tubularia crocea",
+          "canonical_form": "Tubularia crocea",
+          "classification_path": "Animalia|Cnidaria|Hydrozoa|Anthoathecata|Tubulariidae|Ectopleura|Ectopleura crocea",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus|species",
+          "classification_path_ids": "2362377|2363435|2363454|2363455|2368676|2472082|5379315",
+          "taxon_id": "5383465",
+          "current_taxon_id": "5379315",
+          "current_name_string": "Ectopleura crocea (Agassiz, 1862)",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "5b57cba7-31a7-5690-8726-b0bed9a411f5",
+          "name_string": "Tubularia crocea",
+          "canonical_form": "Tubularia crocea",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_9342000",
+          "local_id": "1015945",
+          "url": "http://eol.org/pages/1015945/names/synonyms",
+          "match_type": 1,
+          "prescore": "3|0|0",
+          "score": 0.988
+        }
+      ],
+      "data_sources_number": 14,
+      "in_curated_sources": true
+    }
+  ]
+}

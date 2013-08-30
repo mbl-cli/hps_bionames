@@ -1,0 +1,175 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=MXfa0JSSTrquy10CrAo5PA",
+  "input_url": null,
+  "file": "Embryology 1939_64.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.103269752,
+    "resolve_names_duration": 1.234299654,
+    "total_duration": 22.830222558
+  },
+  "agent": "",
+  "created": "2013-06-19T15:31:07-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Cumingia.",
+      "scientificName": "Cumingia",
+      "offsetStart": 49,
+      "offsetEnd": 57,
+      "identifiedName": "Cumingia"
+    },
+    {
+      "verbatim": "Cumingia",
+      "scientificName": "Cumingia",
+      "offsetStart": 1273,
+      "offsetEnd": 1280,
+      "identifiedName": "Cumingia"
+    },
+    {
+      "verbatim": "Gilia.",
+      "scientificName": "Gilia",
+      "offsetStart": 1692,
+      "offsetEnd": 1697,
+      "identifiedName": "Gilia"
+    },
+    {
+      "verbatim": "None",
+      "scientificName": "None",
+      "offsetStart": 1740,
+      "offsetEnd": 1743,
+      "identifiedName": "None"
+    }
+  ],
+  "content": " .-\n(P els Cvrods)\n3) Study the Veliger larva of Cumingia. Study larvae 2, 5\nor 4 days old, mount them with a few shreds of lens paper to entangle\nthem. It will be necessary to find more or less quiet individuals\nwith velum extended. Contracted individuals will not do.\nThose which are expanding and contracting the velum are\nbest for study since this moves the digestive tract. Use the low\npower first and after a good specimen is found turn on the high power\nMake out the following:\nl. The general shape of the body with straight hinge line and\nsemicircular shell.\n2. The ciliated velum and apical tuft.\n5. The digestive tract consisting of oesophagus, stomach and\nintestine. Is the lavier coiled or straight?\n4. Position of mouth in reference to the velum.= also position\nof anus.\n5. Ciliation of the digestive tract. How much of it is\nciliated? What is the mode of feeding?) Add Chinese ink to the water\n6. The primary body cavity is a rather large space seen above\nand below the digestive tract. It is not a true coelom but perhaps\na persistent cleavage cavity.\n7, Extending from the hinge line to the velum are several\nstrands of muscle fibres. Are they contractile?\nThe velum is constantly being retracted between the shell valves.\n4) Study the TrochophQre stage of Cumingia (12-17 hrs. afte\nfertilization) and its transformation into the Veliger larva. (l2~\n24 hrs. after fertilization).\nThe trochophore is of short duration, (less than ten\nhours.) It is best studied l2 to l7 hrs, after insemination. Mount\nsome trochoyhores in a light suspension of india ink, and entangle\nthem in shreds of lens paper.\nl. that is the exact shape in side and polar views?\n2. Position of the band of Gilia. (prototroeh)?\n5. epieal tuft present?\n4. None of the internal organs can be seen because they are\nobscured by yolk. A digestive tube is developing however.\n5. Is th; yolk equally distributed or is one end lighter? Draw\nside and polar views in outline, showing eiliatien.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Cumingia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "32f9a1db-2ee0-5298-96d1-0b5ad4650247",
+          "name_string": "Cumingia",
+          "canonical_form": "Cumingia",
+          "classification_path": "Animalia|Mollusca|Bivalvia|Veneroida|Veneroida|Semelidae|Cumingia",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2369911|2369975|2369994|2370017|2451720",
+          "taxon_id": "2451720",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "32f9a1db-2ee0-5298-96d1-0b5ad4650247",
+          "name_string": "Cumingia",
+          "canonical_form": "Cumingia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30285945",
+          "local_id": "62762",
+          "url": "http://eol.org/pages/62762",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 16,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Gilia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "7f4b3379-bb82-53d3-88f5-499b3f4aafea",
+          "name_string": "Gilia",
+          "canonical_form": "Gilia",
+          "classification_path": "Plantae|Magnoliophyta|Magnoliopsida|Solanales|Polemoniaceae|Gilia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2362540|2362541|2367962|2371129|2416519",
+          "taxon_id": "2416519",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "255cdc76-3190-5c21-83c4-44f921998b7b",
+          "name_string": "Gilia Pugh and Pagès, 1995",
+          "canonical_form": "Gilia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "30246592",
+          "local_id": "24189",
+          "url": "http://eol.org/pages/24189",
+          "match_type": 2,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 19,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "None",
+      "results": [
+        {
+          "data_source_id": 7,
+          "data_source_title": "Union 4",
+          "gni_uuid": "8cf8696e-6ca6-5ec7-b441-e04a37ea751c",
+          "name_string": "None",
+          "canonical_form": "None",
+          "classification_path": "|Cellular life|Eukaryota|Opisthokonts|Choanoflagellates and animals|Animalia|Epitheliates|Bilateria|Ecdysozoa|Legged ecdysozoa|Arthropoda|Trilobita|Trilobites of uncertain affinities|Naraoiidae|None",
+          "classification_path_ranks": "|above family|above family|above family|above family|unranked|above family|above family|above family|above family|above family|above family|above family|family|genus",
+          "classification_path_ids": "2822864|2823207|2828118|2843765|2843766|2843767|2843768|17974913|2910040|2910041|2910042|3087979|3091755|3092341|3092342",
+          "taxon_id": "3092342",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "8cf8696e-6ca6-5ec7-b441-e04a37ea751c",
+          "name_string": "None",
+          "canonical_form": "None",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "s_5019978",
+          "local_id": "2913255",
+          "url": "http://eol.org/pages/2913255/names/synonyms",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 3,
+      "in_curated_sources": false
+    }
+  ]
+}

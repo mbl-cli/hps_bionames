@@ -1,0 +1,24 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=GyXO0EevTgSGWoKHDnHwEw",
+  "input_url": null,
+  "file": "Embryology 1988_ 119.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.161434552,
+    "total_duration": 24.200599433
+  },
+  "agent": "",
+  "created": "2013-06-18T13:06:39-04:00",
+  "total": 0,
+  "names": [
+
+  ],
+  "content": "w' youareanallsingthe\nBicaudal mothers 43.03 males.\nCollect embryos as blastoderms, early gastrula (~3hrs after\neggs laid.)\n(Things to think about: Are only the anterior \n-stripes affected by the mutant? Can the domain in which\nis expressed along the anterior axis be shifted\nanteriorly and if so how much? How are the patterns on\nthe dorsal and ventral sides of the embryo different and\nwhat might this mean?\nBicaudal mothers 152 males.\nCollect embryos as early and late gastrula (3-5 after\neggs laid)\n(Things to think about: Is staining really specific for\nanterior and poster midgut derivatives? Does the new\nposterior midgut at the anterior end of bicaudal embryos\ndevelop -galactosidase at the same time as one at the\nposterior end? In cases where the penetrance of\nBicaudal is variable, do you still see posterior midgut\nstaining at the anterior end, even if the final pattern\nof the embryo does not show any sign of a polarity\nreversal?)\nBicaudal mothers 89,05 males.\nCollect embryos as late embryos (lO-14 after eggs laid)\n(Things to think about: Do gonads form at the anterior\nend of a bicaudal embryo even though no pole cells are\nformed at that end? The mesodermal component of the\ngonad is thought to be derived from the 5th abdominal\nsegment. Do bicaudal embryos which only have more\nposterior segemnts make any gonad at all?).\ntudor mothers 43.03 males.\nCollect embryos as blastoderms, early gastrula\n(Things to think about: Is the entire domain in which\nis expressed affected, are some stripes expanded and\nothers compressed? How are the patterns on the dorsal\nand ventral sides of the embryo different and what might\nthis mean?\n\n"
+}

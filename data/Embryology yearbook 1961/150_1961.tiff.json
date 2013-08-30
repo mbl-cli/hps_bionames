@@ -1,0 +1,76 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=wpm4mjIEQf2kW95Byr4A3Q",
+  "input_url": null,
+  "file": "150_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.087652689,
+    "resolve_names_duration": 0.53466781,
+    "total_duration": 24.615062432
+  },
+  "agent": "",
+  "created": "2013-06-18T12:14:20-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "Tubularia)",
+      "scientificName": "Tubularia",
+      "offsetStart": 1373,
+      "offsetEnd": 1382,
+      "identifiedName": "Tubularia"
+    }
+  ],
+  "content": "\n\nAMPHIBLASTULA\nThis larva is characteristic of all poriferan fanilies. The early larva is\na sphere of cells, composes anteriorly of small columnar, flagellated loco-\nmotor cells and posteriorly ef large, granular cells. In later stages the\nlarva flattens cut, the large pesterier cells proliferate rapidly and pro-\ngressively envelep the small anterior cells. The process is reminiscent of\nepibolic gastrulatien. In the final conditien, the flagellateu cells form\nan inner lining layer in the gastrula-like larva (which for this reason is often\ncalled \"pseudcgastrula\").\n\n  \nv. - .f \n-l 5 qt\n\n,aff The free~swimming larva stays in surface waters fer abeut a day, then descends\nand attaches to a substratum at the anterior pole. The flagellated cells de>>\nvelop collars and became choanocytes. All other adult cell types sifferentiate\nfrom the cuter granular cells, some ef which migrate inward and settle among\nthe chcanecytes. After several days an osculum breaks through opposite the\narea of attachment, and lateral canals differentiate slowly.\nThe Amphiblastula is probably not an ancestral forerunner of the true\ngastrula of higher invertebrates; rather, parallel evolution is innicated.\nLARVQE\nPLAHULA\nThis is the basis larval type of all ccelenterates, even though, in several\ncases, the plannla phase is abridged and aces not represent a free-swimming\nphase Hvara, Tubularia)\nThe free-swimming planula is a 2-layered cvuid, with an ectederm of ciliated,\ncolumnar cells. The enncaerm, selie in Hyarozoa, hollow in must Actinczue and\ndevelopes from the single-layerd blastula either by delaminaticn or\nby multi polar ingression.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Tubularia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "Plantae|Bacillariophyta|Not assigned|Not assigned|Not assigned|Tubularia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362539|2365035|2365036|2365037|2365038|2476258",
+          "taxon_id": "2476258",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "e8a71a65-c1aa-5d75-8f2a-dacd39108068",
+          "name_string": "Tubularia",
+          "canonical_form": "Tubularia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34692062",
+          "local_id": "91248",
+          "url": "http://eol.org/pages/91248",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 18,
+      "in_curated_sources": true
+    }
+  ]
+}

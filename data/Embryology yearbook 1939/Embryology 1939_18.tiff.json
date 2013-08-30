@@ -1,0 +1,147 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=4rnCMLy4S82zHi2YYMiI2Q",
+  "input_url": null,
+  "file": "Embryology 1939_18.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.228115366,
+    "resolve_names_duration": 1.029742572,
+    "total_duration": 26.471686806
+  },
+  "agent": "",
+  "created": "2013-06-19T15:21:14-04:00",
+  "total": 4,
+  "names": [
+    {
+      "verbatim": "Rchinarachnius",
+      "scientificName": "Rchinarachnius",
+      "offsetStart": 155,
+      "offsetEnd": 168,
+      "identifiedName": "Rchinarachnius"
+    },
+    {
+      "verbatim": "(Arbacia).",
+      "scientificName": "Arbacia",
+      "offsetStart": 194,
+      "offsetEnd": 203,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Echinarachnius",
+      "scientificName": "Echinarachnius",
+      "offsetStart": 1346,
+      "offsetEnd": 1359,
+      "identifiedName": "Echinarachnius"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1365,
+      "offsetEnd": 1371,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": " \n\nThe study of the typical development of echinoderms will in-\nclude observations on the following forms: A) the starfish\n(Asterlas), B) the sand dollar (Rchinarachnius), and C) the sea\nurchin (Arbacia). The following points will be considered:\nl. Morphology of the gametes.\n2. Maturation of the ovum.\n5. Fertilization\n4. Cleavage of the zygote.\n5. Gastrulation.\n6. Organogeny and metamorphosis.\nThis will be followed by several experimental studies.. A par~\ntial list of experiments suggested will be found below.\nln order that material of different stages be available at\nall times, the instructor in charge will place stock cultures of'\ndifferent ages on the tables. Please he careful to avoid con-\ntaminating tmsse. This may be avoided by using only the pipette\nfound in each dish for securing material from that culture.\nlt is essential that material be conserved. This is especially\ntrue in the case of the starfish. Ripe individuals have gonads in\neach of the rays. One of the arms may, therefore, be removed and\nthe gametes which issue from the gonad may be made to serve a large\nnumber of students. When one arm is removed from an animal, that\nanimal should be placed in a special container in order that,\nshould it be a male; the sperm shall not infect females opened in\nthe same way. The same care in conservation should be used with\nEchinarachnius and Arbacia as well.\nEchinoderms are diocious, i.e. the sexes are separate. It is\nimpossible, however, to distinguish the male from the female by\nsuperficial examination. It is necessary to open animals until\nripe individuals of each sex are found. This should be done in the\nfollowing ways. A) starfish: Wash the animal and all instruments\nand hands in fresh tap~water to Kill any adhering spermatozoa. Now\nrinse well in running sea-water from the tap. One of the\narms should now be removed. With forceps remove the gonad which\nlies free in the cavity of the ray and place in a dish.without\nsea~water. The gonads of the males are white; those of the female\nare orange-yellow. The gametes will flow from the isolated gonad.\nFemale gonads should be placed immediately in a finger bowl con~\ntaining sea~water. The male gonads should be left in a watch \nin order that the sperm may be obtained 'dry'. When eggs cease to\nflow from the female gonad, the fleshy part should be removed and\nthe ova washed several times in the following way. Add a considerable\namount of sea-water to the eggs and allow thenato settle. Now pour\noff the water and add a fresh supply. This does not remove very\nsmall fragments of the ovary but it does serve to eliminate a great\ndeal of the body fluid mrids may chance to be present. E(Echinarach-\nnius: Wash the animals as described above. Cut across the animal\nwith a heavy pair of scissors. The gonads will be exposed. Place\nthe males inya clean dry dish in order that 'dry' sperm will be\navailable. Wash the eggs extruded from.the ovaries (which are\npurple in color) as described above for the starfish. sea~urchin:\nAfter washing the animals, puncture the soft tissue at the peristome\nwith a sharp pair of scissors and out around the equator exposing the\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Rchinarachnius",
+      "results": [
+        null
+      ],
+      "preferred_results": [
+
+      ],
+      "data_sources_number": 0,
+      "in_curated_sources": false
+    },
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Echinarachnius",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "6f5c1914-3a92-50c3-8cc3-9a0bc0d2e39f",
+          "name_string": "Echinarachnius",
+          "canonical_form": "Echinarachnius",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Clypeasteroida|Echinarachniidae|Echinarachnius",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362627|2362630|2493660",
+          "taxon_id": "2493660",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "6f5c1914-3a92-50c3-8cc3-9a0bc0d2e39f",
+          "name_string": "Echinarachnius",
+          "canonical_form": "Echinarachnius",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20629591",
+          "local_id": "73062",
+          "url": "http://eol.org/pages/73062",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

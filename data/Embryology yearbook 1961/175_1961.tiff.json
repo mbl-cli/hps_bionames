@@ -1,0 +1,83 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=D1gwwwpdQtK8l3gwAMAWuQ",
+  "input_url": null,
+  "file": "175_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.246214851,
+    "resolve_names_duration": 0.698660807,
+    "total_duration": 25.987389593
+  },
+  "agent": "",
+  "created": "2013-06-18T12:21:38-04:00",
+  "total": 2,
+  "names": [
+    {
+      "verbatim": "Loligo",
+      "scientificName": "Loligo",
+      "offsetStart": 1190,
+      "offsetEnd": 1195,
+      "identifiedName": "Loligo"
+    },
+    {
+      "verbatim": "Loligo",
+      "scientificName": "Loligo",
+      "offsetStart": 1216,
+      "offsetEnd": 1221,
+      "identifiedName": "Loligo"
+    }
+  ],
+  "content": " \n\n\nln,\nglycolyTic paThway. Since diTferenT reduced pyridine nucleoTides are formed in. f\nThe Two paThways, These Two alTernaTives presumably play diTTerenT roles in The\neconomy oT The cell. ln This seT of experimenTs an aTTempT was made To deTermine\nThe eTTecT of animalizing and vegeTalizing agenTs on The glucose meTabolism of The\nembryos of The sea urchin, Arbac;g puncTulaTa, Two meThods of aTTack were proposed.\nThe TirsT was To deTermine The raTio of labelled carbon dioxide evolved from\nglucose-l-C14 and glucose-U-C'4 aT various Times of developmenT under diTTerenT\nexperimenTal condiTions. The second was To Try To deTermine changes in signiTicanT\nenzymes under various animalizing and vegeTalizing condiTions. Due To various\ndiTTiculTies nov%esulTs were obTained, buT homogenaTes of normal embryos and embryos\nvegeTalized by liThium chloride and diniTrophenol were made.\nA second school of ThoughT claims ThaT These various agenTs cause\nsTrucTural changes in proTeins. For example, animalizing agenTs lower The resisTance\nboTh ig vivo and ig viTro.\nNeiTher of These Two hypoTheses exclude each oTher and boTh may be working\nTo cause The same eTTecT.\nMICAL marking exQerimenTsion Loligo gealii\nThe ovum of Loligo gealii jusT prior To cleavage is asymmeTrical in ouT-\nline. The general shape is one of an oblong, noT unlike The appearance of a hen's\negg, wiTh one end more poinTed Than The oTher. On roTaTing The squid ovum abouT\niTs longiTudinal axis iT is seen ThaT aT one aspecT There is an inequaliTy of The\nyolk maTeriai Through The longiTudinal axis. One side exhibiTs a broad convex\naouTline and The oTher a more TlaTTened ouTline. WaTase, in l89l, sTaTed ThaT The\nmore convex side of The egg corresponds To The anTerior and The TlaTTened side\ncorresponds To The posTerior half of The organism. Thus The egg prior To The firsT\ncleavage already has The biIaTeral symmeTry of The adulT, wiTh The anTerior,\nposTerior, righT and lefT sides mapped ouT.\nThis hypoThesis was To be TesTed by The means of viTal sTaining. washed,\ndry coverslips were dipped inTo a 2% soIuTion of agar and allowed To dry. They were\nThen sTained wiTh a l% soluTion of eiTher Nile blue sulTaTe or neuTral red and\nagain allowed To dry. The coverslips were Then repeaTedly washed To remove all\nexcess dye.\nThe chorion of The uncleaved squid ovum is closely enough applied To The\ncyToplasm To sTain successfully Through The chorion, leaving a raTher disTincT\nouTline of The dye area on The cyToplasm. A small piece of uoverslip wiTh all buT\na very small area of agar and dye removed was Then posiTioned over The 999, which\nwas lodged in a depression in a paraffin layered Syracuse dish. The sTaining was\nallowed To proceed for approximaTely Ten minuTes, aT which Time The coverslip was\nremoved and The egg was repeaTedly washed wiTh fresh sTerile sea waTer in order To\nremove all Traces of excess dye. All eggs were sTained on The leTT side, according\nTo WaTase, and allowed To develop for 4-5 days. No conclusions can be drawn due\nTo The small number of experimenTs.\nViTal sTaining, using a similar meThod, was performed To deTermine The\nfaTe map of The Eggs were dechorionaTed aT The sTage where\nThe blasToderm had proceeded over one~halT The ovum. No conclusions were reached.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Loligo",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "b4c5a691-9ab2-55fb-919e-b64cfec92d7b",
+          "name_string": "Loligo",
+          "canonical_form": "Loligo",
+          "classification_path": "Animalia|Mollusca|Cephalopoda|Teuthida|Loliginidae|Loligo",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362382|2370028|2370052|2370067|2431307",
+          "taxon_id": "2431307",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "b4c5a691-9ab2-55fb-919e-b64cfec92d7b",
+          "name_string": "Loligo",
+          "canonical_form": "Loligo",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20630784",
+          "local_id": "38585",
+          "url": "http://eol.org/pages/38585",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    }
+  ]
+}

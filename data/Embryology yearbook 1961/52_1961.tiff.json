@@ -1,0 +1,150 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=s8euvNK4TDaC1T5ikS18dQ",
+  "input_url": null,
+  "file": "52_1961.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.40943052,
+    "resolve_names_duration": 0.438726943,
+    "total_duration": 24.545907351
+  },
+  "agent": "",
+  "created": "2013-06-18T12:35:23-04:00",
+  "total": 6,
+  "names": [
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 28,
+      "offsetEnd": 34,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 1740,
+      "offsetEnd": 1746,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2301,
+      "offsetEnd": 2307,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Laris)",
+      "scientificName": "Laris",
+      "offsetStart": 2895,
+      "offsetEnd": 2900,
+      "identifiedName": "Laris"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 2944,
+      "offsetEnd": 2950,
+      "identifiedName": "Arbacia"
+    },
+    {
+      "verbatim": "Arbacia",
+      "scientificName": "Arbacia",
+      "offsetStart": 3003,
+      "offsetEnd": 3009,
+      "identifiedName": "Arbacia"
+    }
+  ],
+  "content": "..2..\nSgegmaTozoa\nUndiluTed Arbacia seminal fluid conTains approx. 2 l0\\O spermaTozoa/ml.\nOne drop oT This \"dry sperm\" in I0 ml. of sea waTer brings The concenTraTion down\nby a TacTor oT 200 To l0?m|. Two drops oi This sTock sperm suspension in l0 ml.\nof sea wager conTaining eggs diluTes The sperm concenTraTion by anoTher TacTor of\nl00 To I0 sperm/ml. This sperm densiTy is adequaTe Tor TerTilizing small numbers\nof eggs. Three Times This much gives abouT The mgximum raTe of TerTilizaTion\nwiThouT polyspermy. DensiTies beTween l07 and I0 sperm/ml. resulT in varying\npercenTages of polyspermy. UndiluTed sperm will keep in a reTrigeraTor for aT leasT\nTwo days; diluTion, however, rapidly desTroys Their TerTilizing power. ConsequenTly,\na new sTock sperm suspension should be made up Tor each inseminaTion.\nObserve some living spermaTozoa under oil immersion. The acrosome, nucleus\nand middle piece are roughly 0.3, l.0 and l.0 microns in lengTh respecTively. The\nTail is abouT 45 microns long and 0.l micron wide; iTs axial TilamenT proTrudes\na shorT disTance beyond The end of The sheaTh. SkeTch a spermaTozoan and describe\niTs movemenT. Place side by side on a slide a drop oT sTock sperm suspension and\na drop of \"egg waTer\" (supernaTanT from eggs which have sTood Tor an hour or more).\nPlace a cover-glass over The Two drops so ThaT They mix aT The middle of The cover\nglass. NoTe The aggluTinaTion; do The spermaTozoa sTick TogeTher by Their heads or\nTails? Can you deTecT any changes in The sperm acrosome?\nAdd one ml. of l08/ml sTock sperm suspension To A.9 ml. sea waTer, B. 9 ml.\negg waTer. Observe aT l0 minuTe inTervals. WhaT eTTecT does egg waTer have on The\nsperm besides aggluTinaTion? will These sperm acTivaTe eggs?\ngva -\nArbacia puncTulaTa eggs compleTe boTh meioTic divisions while in The ovary;\npresumably The divisions Themselves musT be rapid, for very seldom are eggs ob-\nserved wiTh maTuraTion spindles or polar bodies. Unripe gonads oTTen do exhibiT\nlarge numbers of eggs in The germinal vesicle sTage. These will oTTen respond To\ninseminaTion by forming hyaline blisTers aT The poinTs of sperm enTrance. AT This\nsTage, The mecahnisms for membrane elevaTion and for prevenTing polyspermy have noT\ndeveloped. No developmenT resulTs from inseminaTion aT This sTage.\nThe maTure Arbacia egg has a TransparenT jelly layer ThaT swells To abouT\n30 microns in diameTer. MosT of The jelly can be removed if desired by swirling\nThe eggs for seconds in sea waTer pH 4.5. Longer TreaTmenT removes The jelly\nenTirely, buT may injure The eggs. BeneaTh The jelly layer is The viTelline membrane\nlT is Too Thin To see on The egg surface, buT is visible as iT e\\evaTes from The\nsurface aT ferTilizaTion. BeneaTh The viTelline membrane is The corTex, conTaining\ncharacTerisTic granules from 0.5 To 0.8 microns in diameTer. The corTex is appar-\nenTly an exTra~cellular layer (ParparT and Laris) and in The sea urchins Psammechi-\nnus and Arbacia can be removed in sTrips (Allen). The cyToplasm of Arbacia con-\nTains oil spherules, miTochondria, yolk granules and The larger red\nechinochrome granules. (As HarTmann (l939) and Taylor (l939) showed, The red\nechinochrome is a subsTiTuTed naphThoquinone relaTed To The viTamins.) The\nformed cyToplasmic componenTs and The corTical granules are besT seen in cenTriTuged\neggs. The polariTy of The egg can be deTermined only by marking The posiTion of\nThe micropyle or Tunnel wiTh Janus green or chinese ink. The polar bodies, which\nwere exTruded aT The animal pole have by This Time been losT in The medium. The\nposiTion of The nucleus probably marks The animal Pole only in very unripe eggs\n(see Hoadley, l934)\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "Arbacia",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "Animalia|Echinodermata|Echinoidea|Arbacioida|Arbaciidae|Arbacia",
+          "classification_path_ranks": "kingdom|phylum|class|order|family|genus",
+          "classification_path_ids": "2362377|2362508|2362536|2362640|2362641|2493372",
+          "taxon_id": "2493372",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "4e8ceb70-a75e-5a64-b94b-4770e62bc8ff",
+          "name_string": "Arbacia",
+          "canonical_form": "Arbacia",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "20627978",
+          "local_id": "73069",
+          "url": "http://eol.org/pages/73069",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 15,
+      "in_curated_sources": true
+    },
+    {
+      "supplied_name_string": "Laris",
+      "results": [
+        {
+          "data_source_id": 1,
+          "data_source_title": "Catalogue of Life",
+          "gni_uuid": "c19146b7-7ccb-523b-b80d-8bbc728f4b1e",
+          "name_string": "Laris",
+          "canonical_form": "Laris",
+          "classification_path": "Animalia|Arthropoda|Insecta|Lepidoptera|Lepidoptera|Gelechiidae|Laris",
+          "classification_path_ranks": "kingdom|phylum|class|order|order|family|genus",
+          "classification_path_ids": "2362377|2362444|2362601|2362873|2362928|2369741|2478915",
+          "taxon_id": "2478915",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "preferred_results": [
+        {
+          "data_source_id": 12,
+          "data_source_title": "EOL",
+          "gni_uuid": "c19146b7-7ccb-523b-b80d-8bbc728f4b1e",
+          "name_string": "Laris",
+          "canonical_form": "Laris",
+          "classification_path": "",
+          "classification_path_ranks": "",
+          "classification_path_ids": "",
+          "taxon_id": "34096117",
+          "local_id": "93883",
+          "url": "http://eol.org/pages/93883",
+          "match_type": 1,
+          "prescore": "1|0|0",
+          "score": 0.75
+        }
+      ],
+      "data_sources_number": 10,
+      "in_curated_sources": true
+    }
+  ]
+}

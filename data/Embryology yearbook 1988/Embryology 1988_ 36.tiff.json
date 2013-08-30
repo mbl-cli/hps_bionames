@@ -1,0 +1,40 @@
+{
+  "token_url": "http://gnrd.globalnames.org/name_finder.json?token=FyhOVGp0RcCalx8pCOxLTQ",
+  "input_url": null,
+  "file": "Embryology 1988_ 36.tiff",
+  "status": 200,
+  "engines": [
+    "TaxonFinder",
+    "NetiNeti"
+  ],
+  "unique": false,
+  "verbatim": true,
+  "english": true,
+  "execution_time": {
+    "find_names_duration": 0.140327749,
+    "resolve_names_duration": 0.793565294,
+    "total_duration": 24.290335664
+  },
+  "agent": "",
+  "created": "2013-06-18T13:18:14-04:00",
+  "total": 1,
+  "names": [
+    {
+      "verbatim": "S.\npurpuratus",
+      "scientificName": "S. purpuratus",
+      "offsetStart": 786,
+      "offsetEnd": 798,
+      "identifiedName": "S. purpuratus"
+    }
+  ],
+  "content": "Alternate Steps 8 and 9:\n(Alternate). Filter the plutei suspension through Nitex-Z8 um.\nSave the filtrate that contains ectoderm cells. Collect the retentate which\ncontains the bags into MFSW. Sediment and wash the bag fraction until it is free of\ncontaminating ectoderm cells as described in Step 8 above. NOTE: This step\nresults in a purer bag fraction than Step 8 above that is easier to rid of\ncontaminating ectoderm cells, however, several bags are lost by sticking to the\nNitex.\n(Alternate). Sediment the ectoderm cells out of the filtrate (which should be free\nof bags) by centrifuging as described in Step 9 above and resuspend the cells in\nMFSW.\nPurification of Endoderm Cell Suspensions from Bag Fractions\nNOTE: The details for this procedure have not yet been worked out for S.\npurpuratus.\nBriefly (try l-2 min and 3-li min to determine optimal time), incubate purified bags\non ice in glycine-EDTA.\nSediment the bags as in Step 8 above, resuspend in and triturate as in\nStep 7. A\nFilter the suspension through Nitex-28 um. The filtrate should contain a mixture of\nmesoderm and remaining ectoderm cells. Discard.\nResuspend the retentate (intact endoderm) in glycine-EDTA and incubate aliquots\nfor 3, Ll, 8 minutes (to determine the optimal incubation time) on ice.\nSediment, resuspend in and triturate for a third time. Endoderm cells\nshould separate from each other and from the skeleton to give a suspension of\nendoderm cells.\nTest for Purity of Isolation\nTo assess the purity of the dissociations, the preparations may be examined for\nalkaline phosphatase activity. Endoderm cells have high levels of alkaline phosphatase\nactivity, and in situ histochemical staining for enzymatic activity is selective for these\ncells Intact embryos, bags, and purified ectoderm cells and endoderm cells should be\ntested.\nPlace cells or embryos in a shallow depression slide in several drops of MFSW.\nAdd several drops of 0.2596 naphthol-AS-MX phosphate (PH 8.6) to the suspension.\nAdd l-2 grains of the diazonium salt, fast blue RR. Naphthol AS-MX formed at\nsites of alkaline phosphatase activity produces an insoluble azo pigment. Optimum\nalkaline phosphatase activity should be observed in about 5 min.\nBased on the percent positive cells (frequency of dye deposits) observed\n(microscopically) in each, determine the purity of the ectoderm and endoderm\npreparations.\n\n",
+  "data_sources": [
+
+  ],
+  "context": null,
+  "resolved_names": [
+    {
+      "supplied_name_string": "S. purpuratus"
+    }
+  ]
+}
