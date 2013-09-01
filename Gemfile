@@ -11,6 +11,7 @@ gem 'mysql2', '~> 0.3'
 gem 'compass', '~> 0.12'
 gem 'sass', '~> 3.2'
 gem 'zen-grids', '~> 1.4'
+gem 'tag_along', git: 'https://github.com/GlobalNamesArchitecture/tag_along.git'
 
 group :development do
   gem 'debugger', '~> 1.6'

@@ -125,4 +125,8 @@ pre {
   overflow: auto;
   word-wrap: normal;
   white-space: pre;
+  span.nametag {
+    color: #0a0;
+    font-weight: bold;
+  }
 }

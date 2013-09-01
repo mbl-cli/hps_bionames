@@ -14,7 +14,8 @@
         %a{ class: current, href: "/pages?book_id=%s&page_id=%s&tab=1" % data  } Image
       %li 
         - current = @current_tab == '2' ? 'current' : ''
-        %a{ class: current,  href: "/pages?book_id=%s&page_id=%s&tab=2" % data } Names (#{ @current_page.names.size })
+        %a{ class: current,  
+          href: "/pages?book_id=%s&page_id=%s&tab=2" % data } Names (#{ @current_page.names.size })
   #page_data
     - if @current_tab == '1'
       %img{ src: "/images/scans/book_%s/%s" % [@book.id, URI.encode(@current_page.img_name)] }
@@ -23,5 +24,6 @@
       = names.join(', ')
 
       %pre
-        = @current_page.content
+        = @tagged_text
+
 

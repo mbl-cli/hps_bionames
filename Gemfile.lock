@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/GlobalNamesArchitecture/tag_along.git
+  revision: 2110b89981e76e1d5c55b3efd53d64f43c6b0e6e
+  specs:
+    tag_along (0.6.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -132,6 +138,7 @@ DEPENDENCIES
   sass (~> 3.2)
   sinatra (~> 1.4)
   sinatra-activerecord (~> 1.2)
+  tag_along!
   unicorn (~> 4.6)
   webmock (~> 1.13)
   zen-grids (~> 1.4)

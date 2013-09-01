@@ -3,6 +3,7 @@ require 'bundler/setup'
 require 'haml'
 require 'zen-grids'
 require 'active_record'
+require 'tag_along'
 require 'logger'
 
 
