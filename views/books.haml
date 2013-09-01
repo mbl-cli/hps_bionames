@@ -1,0 +1,4 @@
+- @books.each do |book|
+  %h3= book.title
+  %a{ href: "pages?book_id=%s" % book.id }
+    Pages (#{ book.pages.count }), Names (#{ book.names.count })

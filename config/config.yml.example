@@ -1,0 +1,19 @@
+session_secret: o_O
+development:
+  adapter: mysql2
+  host: localhost
+  username: root
+  password:
+  database: embryology
+test:
+  adapter: mysql2
+  host: localhost
+  username: root
+  password:
+  database: embryology
+production:
+  adapter: mysql2
+  host: localhost
+  username: root
+  password:
+  database: embryology

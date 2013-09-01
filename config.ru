@@ -12,4 +12,4 @@ end
 
 use ActiveRecord::ConnectionAdapters::ConnectionManagement
 
-run HpsBio
+run HpsBioApp

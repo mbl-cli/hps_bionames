@@ -1,0 +1,128 @@
+@import "zen";
+$zen-column-count: 14;
+$zen-gutter-width: 10px;
+
+@mixin brd($radius){
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ddd;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}
+
+@mixin size-params {
+  // max-width: 1200px;
+  width: 95%;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+html, button, input, select, textarea {                                          
+  font-family: "Open sans", 
+               "Helvetica Neue", 
+               "HelveticaNeue", 
+               Helvetica, 
+               Arial, 
+               sans-serif;
+  font-weight: 400; /* normal */                                                 
+  color: #333;                                                                   
+  font-smooth:always;                                                            
+  -webkit-font-smoothing: antialiased;                                           
+  font-smoothing: antialiased;                                                   
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+
+.container {
+  @include zen-grid-container;
+  @include brd(15px);
+  @include size-params;
+  background-color: #ddd;
+  // background-image: url(/images/dspace.png);
+  // background-repeat: no-repeat;
+}
+
+#title {
+  a { 
+    text-decoration: none;
+    color: #000;
+  }
+}
+
+#sidebar {
+  @include zen-clear;
+  @include zen-grid-item(1,1);
+  min-width: 100px;
+  padding: 0;
+  list-style-type: none;
+  ul {
+    padding: 0.5em;
+    li {
+      display: block;
+      margin-bottom: 0.5em;
+    }
+  }
+  a { 
+    text-decoration: none;
+    color: #333; 
+  }
+}
+
+#content {
+  @include zen-grid-item(13, 2);
+  @include brd(8px);
+  // width: 75%;
+  padding: 0.5em;
+  background-color: #fff;
+}
+
+#footer {
+  @include zen-clear;
+  @include brd(8px);
+  @include size-params;
+  background-color: #ddd;
+  color: #333;
+  a { 
+    text-decoration: none;
+    color: #ddd;
+  }
+    
+}
+
+#pages {
+  @include zen-clear;
+  @include zen-grid-item(1,1);
+}
+
+#page_content {
+  @include zen-grid-item(13,2);
+  #page_tabs {
+    li {
+      margin: 10px;
+      display: inline;
+      a { 
+        text-decoration: none;
+        color: #bbb;
+      }
+      .current {
+        color: #333; 
+      }
+    }
+  }
+  #page_data {
+  }
+}
+
+
+  
+
+body {
+  // background: url(/images/ru_reverse.png) no-repeat bottom right, url(/images/pattern.png);
+  // height: 10000px;
+}
+
+
+pre {
+  overflow: auto;
+  word-wrap: normal;
+  white-space: pre;
+}
