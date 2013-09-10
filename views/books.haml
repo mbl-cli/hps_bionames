@@ -2,3 +2,6 @@
   %h3= book.title
   %a{ href: "pages?book_id=%s" % book.id }
     Pages (#{ book.pages.count }), Names (#{ book.names.count })
+
+  %h3 Top 5 names by occurance
+  %p= book.names[0..5].map { |n| "%s (%s)" % [n.name, n.num] }.join(', ')

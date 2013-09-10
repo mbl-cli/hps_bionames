@@ -3,7 +3,7 @@ class Book < ActiveRecord::Base
 
   def names
     @names ||= CanonicalForm.find_by_sql("
-      select distinct cf.* 
+      select cf.*, count(*) as num
       from canonical_forms cf 
         join resolved_name_strings rns 
           on rns.canonical_form_id = cf.id 
@@ -11,13 +11,13 @@ class Book < ActiveRecord::Base
           on ns.id = rns.name_string_id 
         join pages_name_strings pns 
           on pns.name_string_id = ns.id 
-        join pages pg 
-          on pg.id = pns.page_id 
-        join books b 
-          on b.id = pg.book_id 
-      where book_id = %s 
-      order by cf.name" % self.id)
+        join pages pg
+          on pg.id = pns.page_id
+      where pg.book_id = %s
+      group by cf.id
+      order by num desc" % self.id)
   end
+
 end
 
 class NameString < ActiveRecord::Base
@@ -67,6 +67,29 @@ end
 class PagesNameString < ActiveRecord::Base
   belongs_to :page
   belongs_to :name_string
+
+  def self.names(page_id)
+    res = {}
+    db_res = self.connection.select("
+      select pns.id, pns.pos_start, pns.pos_end, rns.id as resolved_id, ep.url 
+      from pages_name_strings pns 
+      join resolved_name_strings rns 
+        on pns.name_string_id = rns.name_string_id 
+      left outer join eol_pages ep 
+        on ep.resolved_name_string_id = rns.id 
+      where page_id = %s" % page_id.to_i)
+    db_res.each do |r|
+      next if (res[r['id']] && res[r['id']][:url])
+      if res[r['id']] && r['url']
+        res[r['id']][:url] = r['url']
+      else
+        res[r['id']] = { pos_start: r['pos_start'],
+                         pos_end: r['pos_end'],
+                         url: r['url'] }
+      end
+    end
+    res.values
+  end
 end
 
 class ResolvedNameString < ActiveRecord::Base
